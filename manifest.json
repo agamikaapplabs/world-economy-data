@@ -1,7 +1,7 @@
 {
   "schema_version": "5.0",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-20T00:22:32.603240+05:30",
+  "published_at": "2026-10-20T00:31:35.315897+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
@@ -9,7 +9,7 @@
     },
     "macro": {
       "path": "current/macro.json",
-      "sha256": "0f5d611a2e63792fde61a5ffdd96c658de2609402d9f12af77884817a83c1df8"
+      "sha256": "ec10f787cf63be16f895ab6d1424bb34202660e24d53dfacfbd8d20443163d95"
     },
     "resources": {
       "path": "current/resources.json",
@@ -23,18 +23,18 @@
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "87a5216a0d3d4d4dd209eb11bcc07112e58ad32cc984e35bf403ab4c69953fa2"
+      "sha256": "dd19e2aace7b64fdc6d59131a5979661a1f4379f69923a3eac4a9c1846e0d983"
     },
     "sources": {
       "path": "metadata/sources.json",
-      "sha256": "1e907a8851f6d93f9cdcb4bf8c771066c45696bcb808f946c8ca909d4a2ce496"
+      "sha256": "a4995345ac1ee3fa210499555bc5c93dee9864c612b35a29ba140a21378b1bcc"
     }
   },
   "latest_report": {
     "path": "reports/2026/10/20.json",
-    "sha256": "a59ae5a68c328e7818454e1369dcfd69c6a827e1b4bbaffe94a79e75622805fb"
+    "sha256": "4759916d2ba94cf995204ad768d849ad76a7f690e5f01fc461faf3c3a15278a7"
   },
-  "series_count": 32,
+  "series_count": 424,
   "client_contract": {
     "current_is_materialized_view": true,
     "history_is_append_only_with_vintages": true,
