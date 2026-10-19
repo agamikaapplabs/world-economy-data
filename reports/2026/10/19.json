@@ -1,7 +1,7 @@
 {
   "schema_version": "5.0",
   "report_date": "2026-10-19",
-  "as_of": "2026-10-19T19:27:43.967972+05:30",
+  "as_of": "2026-10-19T22:36:10.225672+05:30",
   "series_latest": {
     "market.gold.close": {
       "period": "2026-10-16",

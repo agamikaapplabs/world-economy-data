@@ -1,7 +1,7 @@
 {
   "schema_version": "5.0",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-19T19:27:43.967972+05:30",
+  "published_at": "2026-10-19T22:36:10.225672+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
@@ -23,7 +23,7 @@
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "8ce0309911c532a718d2a5f0aaac9eee3ede6a05ec299c245fba7a4fa5ba020b"
+      "sha256": "434eced6cc73945a6db7802b31be9a23b7a1ffa92786ce9a127b39f8d6f66318"
     },
     "sources": {
       "path": "metadata/sources.json",
@@ -32,7 +32,7 @@
   },
   "latest_report": {
     "path": "reports/2026/10/19.json",
-    "sha256": "3fcadefaaed3fe4b97415785823b324947c9a8850912cd2f0da5b4f37ed32de1"
+    "sha256": "d34028ceda1584cd071cbcd3e58622582ff3c34778a4e2e3716b608a0b01b289"
   },
   "series_count": 32,
   "client_contract": {

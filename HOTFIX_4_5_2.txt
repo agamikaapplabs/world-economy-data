@@ -1,4 +1,0 @@
-V4.5.2 adds stateful macro fetching.
-Default: retry only failed/stale/unavailable World Bank indicators.
-Override: FULL_REFRESH.bat or python fetch_macro.py --force-all.
-Single indicator: python fetch_macro.py --force inflation.

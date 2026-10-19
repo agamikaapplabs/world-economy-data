@@ -1,1 +1,0 @@
-V4.5.4 retains historical observations, updates markets incrementally, and makes history tiles clickable in web/mobile.
