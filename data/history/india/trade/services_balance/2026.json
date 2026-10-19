@@ -1,0 +1,39 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.trade.services_balance",
+  "metadata": {
+    "name": "Services trade balance",
+    "unit": "US$ bn",
+    "frequency": "monthly",
+    "domain": "india",
+    "country": "IND",
+    "source": "Ministry of Commerce & Industry / PIB",
+    "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48"
+  },
+  "observations": [
+    {
+      "period": "Aug 2026",
+      "value": 17.45,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jul 2026",
+      "value": 16.95,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

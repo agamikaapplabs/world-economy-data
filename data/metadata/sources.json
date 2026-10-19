@@ -1,0 +1,65 @@
+{
+  "schema_version": "5.0",
+  "sources": [
+    {
+      "source_id": "frankfurter",
+      "name": "Frankfurter",
+      "url": "https://frankfurter.dev/",
+      "series_count": 5
+    },
+    {
+      "source_id": "indian-railways-pib",
+      "name": "Indian Railways / PIB",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322673&lang=2&reg=48",
+      "series_count": 1
+    },
+    {
+      "source_id": "ministry-of-commerce-industry-pib",
+      "name": "Ministry of Commerce & Industry / PIB",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "series_count": 9
+    },
+    {
+      "source_id": "nhb-residex",
+      "name": "NHB RESIDEX",
+      "url": "https://residex.nhbonline.org.in/",
+      "series_count": 1
+    },
+    {
+      "source_id": "npci-netc",
+      "name": "NPCI NETC",
+      "url": "https://www.npci.org.in/product/netc/product-statistics",
+      "series_count": 2
+    },
+    {
+      "source_id": "npci-upi",
+      "name": "NPCI UPI",
+      "url": "https://www.npci.org.in/product/upi/product-statistics",
+      "series_count": 2
+    },
+    {
+      "source_id": "plfs-mospi-pib",
+      "name": "PLFS / MoSPI / PIB",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+      "series_count": 1
+    },
+    {
+      "source_id": "press-information-bureau-gst-council",
+      "name": "Press Information Bureau / GST Council",
+      "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48",
+      "series_count": 1
+    },
+    {
+      "source_id": "siam",
+      "name": "SIAM",
+      "url": "https://www.siam.in/press-release.aspx",
+      "series_count": 2
+    },
+    {
+      "source_id": "yahoo-finance-chart",
+      "name": "Yahoo Finance chart",
+      "url": "https://finance.yahoo.com/quote/GC=F",
+      "series_count": 8
+    }
+  ]
+}

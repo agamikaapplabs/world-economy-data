@@ -1,0 +1,2 @@
+V4.5.1 fixes repeated World Bank read timeouts in fetch_macro.py.
+See README.md for the new multi-indicator + cache/fallback strategy.

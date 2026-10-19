@@ -1,0 +1,88 @@
+{
+  "schema_version": "5.0",
+  "generated_at": null,
+  "layers": {
+    "energy": {
+      "commodities": [
+        "Crude oil",
+        "LPG / propane",
+        "Natural gas / LNG",
+        "Coal",
+        "Electricity"
+      ],
+      "metrics": [
+        "production",
+        "consumption",
+        "imports",
+        "exports",
+        "net imports",
+        "import dependency",
+        "reserves"
+      ],
+      "status": "Physical balance connectors staged; missing source data is not inferred from prices."
+    },
+    "agriculture": {
+      "commodities": [
+        "Wheat",
+        "Rice",
+        "Corn",
+        "Soybeans",
+        "Sugar",
+        "Cotton",
+        "Vegetable oils"
+      ],
+      "metrics": [
+        "production",
+        "consumption",
+        "imports",
+        "exports",
+        "ending stocks",
+        "stocks-to-use"
+      ],
+      "status": "FAOSTAT / USDA integration staged."
+    },
+    "dairy": {
+      "commodities": [
+        "Milk",
+        "Butter",
+        "Cheese",
+        "SMP",
+        "WMP"
+      ],
+      "metrics": [
+        "production",
+        "consumption",
+        "imports",
+        "exports"
+      ],
+      "status": "FAOSTAT / USDA integration staged."
+    },
+    "metals": {
+      "commodities": [
+        "Gold",
+        "Copper",
+        "Iron ore",
+        "Aluminium",
+        "Nickel",
+        "Lithium",
+        "Cobalt",
+        "Rare earths"
+      ],
+      "metrics": [
+        "production",
+        "imports",
+        "exports",
+        "reserves where comparable"
+      ],
+      "status": "Market prices are shown separately from physical balances."
+    },
+    "shipping": {
+      "metrics": [
+        "container port traffic",
+        "freight benchmarks",
+        "port throughput"
+      ],
+      "status": "World Bank container traffic included where available; richer freight feeds staged."
+    }
+  }
+}

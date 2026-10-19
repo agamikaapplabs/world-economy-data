@@ -1,0 +1,63 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.fastag.volume",
+  "metadata": {
+    "name": "FASTag transaction volume",
+    "unit": "million",
+    "frequency": "monthly",
+    "domain": "india",
+    "country": "IND",
+    "source": "NPCI NETC",
+    "source_url": "https://www.npci.org.in/product/netc/product-statistics"
+  },
+  "observations": [
+    {
+      "period": "Apr 2026",
+      "value": 358.08,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jul 2026",
+      "value": 347.35,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jun 2026",
+      "value": 361.76,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "May 2026",
+      "value": 375.23,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.fastag.value",
+  "metadata": {
+    "name": "FASTag toll value",
+    "unit": "₹ crore",
+    "frequency": "monthly",
+    "domain": "india",
+    "country": "IND",
+    "source": "NPCI NETC",
+    "source_url": "https://www.npci.org.in/product/netc/product-statistics"
+  },
+  "observations": [
+    {
+      "period": "Apr 2026",
+      "value": 7024.61,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jul 2026",
+      "value": 7142.99,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jun 2026",
+      "value": 7214.76,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "May 2026",
+      "value": 7308.07,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

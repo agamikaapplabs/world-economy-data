@@ -1,0 +1,27 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.rail.freight_mt",
+  "metadata": {
+    "name": "Rail freight",
+    "unit": "million tonnes",
+    "frequency": "monthly",
+    "domain": "india",
+    "country": "IND",
+    "source": "Indian Railways / PIB",
+    "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322673&lang=2&reg=48"
+  },
+  "observations": [
+    {
+      "period": "Sep 2026",
+      "value": 135.35,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "indian-railways-pib",
+      "source": "Indian Railways / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322673&lang=2&reg=48",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

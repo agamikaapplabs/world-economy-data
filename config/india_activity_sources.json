@@ -1,0 +1,12 @@
+{
+  "npci_fastag": "https://www.npci.org.in/product/netc/product-statistics",
+  "npci_upi": "https://www.npci.org.in/product/upi/product-statistics",
+  "siam_press_releases": "https://www.siam.in/press-release.aspx",
+  "nhb_residex": "https://residex.nhbonline.org.in/",
+  "commerce_latest": "https://www.commerce.gov.in/ministryofcommerce/node/891",
+  "gst_pib_snapshot": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48",
+  "rail_pib_snapshot": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322673&lang=2&reg=48",
+  "plfs_pib_snapshot": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+  "iip_pib_snapshot": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2315957&lang=2&reg=48",
+  "cea_power": "https://cea.nic.in/power-supply/?lang=en"
+}

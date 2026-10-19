@@ -1,0 +1,39 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.housing.hpi",
+  "metadata": {
+    "name": "NHB 50-city housing price index",
+    "unit": "index",
+    "frequency": "quarterly",
+    "domain": "india",
+    "country": "IND",
+    "source": "NHB RESIDEX",
+    "source_url": "https://residex.nhbonline.org.in/"
+  },
+  "observations": [
+    {
+      "period": "Jun 2026",
+      "value": 107.16,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "nhb-residex",
+      "source": "NHB RESIDEX",
+      "source_url": "https://residex.nhbonline.org.in/",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Mar 2026",
+      "value": 104.39,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "nhb-residex",
+      "source": "NHB RESIDEX",
+      "source_url": "https://residex.nhbonline.org.in/",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

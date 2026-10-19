@@ -1,0 +1,405 @@
+{
+  "schema_version": "5.0",
+  "generated_at": "2026-10-19T19:27:43.967972+05:30",
+  "series_count": 32,
+  "series": {
+    "india.auto.commercial_vehicles": {
+      "name": "Commercial vehicle sales",
+      "unit": "units",
+      "frequency": "quarterly",
+      "domain": "india",
+      "country": "IND",
+      "source": "SIAM",
+      "source_url": "https://www.siam.in/pressrelease-details.aspx?mpgid=53&pgidtrail=50&pid=622",
+      "history_files": [
+        "history/india/auto/commercial_vehicles/2026.json"
+      ]
+    },
+    "india.auto.passenger_vehicles": {
+      "name": "Passenger vehicle sales",
+      "unit": "units",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "SIAM",
+      "source_url": "https://www.siam.in/press-release.aspx",
+      "history_files": [
+        "history/india/auto/passenger_vehicles/2026.json"
+      ]
+    },
+    "india.fastag.value": {
+      "name": "FASTag toll value",
+      "unit": "₹ crore",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "history_files": [
+        "history/india/fastag/value/2026.json"
+      ]
+    },
+    "india.fastag.volume": {
+      "name": "FASTag transaction volume",
+      "unit": "million",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "NPCI NETC",
+      "source_url": "https://www.npci.org.in/product/netc/product-statistics",
+      "history_files": [
+        "history/india/fastag/volume/2026.json"
+      ]
+    },
+    "india.gst.gross": {
+      "name": "GST collections",
+      "unit": "₹ lakh crore",
+      "frequency": "cumulative FY",
+      "domain": "india",
+      "country": "IND",
+      "source": "Press Information Bureau / GST Council",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48",
+      "history_files": [
+        "history/india/gst/gross/2026.json"
+      ]
+    },
+    "india.housing.hpi": {
+      "name": "NHB 50-city housing price index",
+      "unit": "index",
+      "frequency": "quarterly",
+      "domain": "india",
+      "country": "IND",
+      "source": "NHB RESIDEX",
+      "source_url": "https://residex.nhbonline.org.in/",
+      "history_files": [
+        "history/india/housing/hpi/2025.json",
+        "history/india/housing/hpi/2026.json"
+      ]
+    },
+    "india.labour.unemployment": {
+      "name": "Unemployment rate",
+      "unit": "%",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "PLFS / MoSPI / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+      "history_files": [
+        "history/india/labour/unemployment/2026.json"
+      ]
+    },
+    "india.rail.freight_mt": {
+      "name": "Rail freight",
+      "unit": "million tonnes",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Indian Railways / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322673&lang=2&reg=48",
+      "history_files": [
+        "history/india/rail/freight_mt/2026.json"
+      ]
+    },
+    "india.trade.merchandise_balance": {
+      "name": "Merchandise trade balance",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/merchandise_balance/2026.json"
+      ]
+    },
+    "india.trade.merchandise_exports": {
+      "name": "Merchandise exports",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/merchandise_exports/2026.json"
+      ]
+    },
+    "india.trade.merchandise_imports": {
+      "name": "Merchandise imports",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/merchandise_imports/2026.json"
+      ]
+    },
+    "india.trade.services_balance": {
+      "name": "Services trade balance",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/services_balance/2026.json"
+      ]
+    },
+    "india.trade.services_exports": {
+      "name": "Services exports",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/services_exports/2026.json"
+      ]
+    },
+    "india.trade.services_imports": {
+      "name": "Services imports",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/services_imports/2026.json"
+      ]
+    },
+    "india.trade.total_balance": {
+      "name": "Total trade balance",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/total_balance/2026.json"
+      ]
+    },
+    "india.trade.total_exports": {
+      "name": "Total exports",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/total_exports/2026.json"
+      ]
+    },
+    "india.trade.total_imports": {
+      "name": "Total imports",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "Ministry of Commerce & Industry / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
+      "history_files": [
+        "history/india/trade/total_imports/2026.json"
+      ]
+    },
+    "india.upi.value": {
+      "name": "UPI transaction value",
+      "unit": "₹ crore",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "history_files": [
+        "history/india/upi/value/2026.json"
+      ]
+    },
+    "india.upi.volume": {
+      "name": "UPI transaction volume",
+      "unit": "million",
+      "frequency": "monthly",
+      "domain": "india",
+      "country": "IND",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "history_files": [
+        "history/india/upi/volume/2026.json"
+      ]
+    },
+    "market.ftse100.close": {
+      "name": "FTSE 100",
+      "unit": "index",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^FTSE",
+      "history_files": [
+        "history/market/ftse100/close/2025.json",
+        "history/market/ftse100/close/2026.json"
+      ]
+    },
+    "market.gold.close": {
+      "name": "Gold",
+      "unit": "USD/troy oz",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/GC=F",
+      "history_files": [
+        "history/market/gold/close/2025.json",
+        "history/market/gold/close/2026.json"
+      ]
+    },
+    "market.hangseng.close": {
+      "name": "Hang Seng",
+      "unit": "index",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^HSI",
+      "history_files": [
+        "history/market/hangseng/close/2025.json",
+        "history/market/hangseng/close/2026.json"
+      ]
+    },
+    "market.nasdaq.close": {
+      "name": "NASDAQ Composite",
+      "unit": "index",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^IXIC",
+      "history_files": [
+        "history/market/nasdaq/close/2025.json",
+        "history/market/nasdaq/close/2026.json"
+      ]
+    },
+    "market.nifty50.close": {
+      "name": "NIFTY 50",
+      "unit": "index",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^NSEI",
+      "history_files": [
+        "history/market/nifty50/close/2025.json",
+        "history/market/nifty50/close/2026.json"
+      ]
+    },
+    "market.nikkei.close": {
+      "name": "Nikkei 225",
+      "unit": "index",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^N225",
+      "history_files": [
+        "history/market/nikkei/close/2025.json",
+        "history/market/nikkei/close/2026.json"
+      ]
+    },
+    "market.silver.close": {
+      "name": "Silver",
+      "unit": "USD/troy oz",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SI=F",
+      "history_files": [
+        "history/market/silver/close/2025.json",
+        "history/market/silver/close/2026.json"
+      ]
+    },
+    "market.sp500.close": {
+      "name": "S&P 500",
+      "unit": "index",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^GSPC",
+      "history_files": [
+        "history/market/sp500/close/2025.json",
+        "history/market/sp500/close/2026.json"
+      ]
+    },
+    "market.usd_cny.close": {
+      "name": "USD/CNY",
+      "unit": "CNY per USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "history_files": [
+        "history/market/usd_cny/close/2025.json",
+        "history/market/usd_cny/close/2026.json"
+      ]
+    },
+    "market.usd_eur.close": {
+      "name": "USD/EUR",
+      "unit": "EUR per USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "history_files": [
+        "history/market/usd_eur/close/2025.json",
+        "history/market/usd_eur/close/2026.json"
+      ]
+    },
+    "market.usd_gbp.close": {
+      "name": "USD/GBP",
+      "unit": "GBP per USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "history_files": [
+        "history/market/usd_gbp/close/2025.json",
+        "history/market/usd_gbp/close/2026.json"
+      ]
+    },
+    "market.usd_inr.close": {
+      "name": "USD/INR",
+      "unit": "INR per USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "history_files": [
+        "history/market/usd_inr/close/2025.json",
+        "history/market/usd_inr/close/2026.json"
+      ]
+    },
+    "market.usd_jpy.close": {
+      "name": "USD/JPY",
+      "unit": "JPY per USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "history_files": [
+        "history/market/usd_jpy/close/2025.json",
+        "history/market/usd_jpy/close/2026.json"
+      ]
+    }
+  }
+}

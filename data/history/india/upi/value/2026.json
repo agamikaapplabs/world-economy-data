@@ -1,0 +1,87 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.upi.value",
+  "metadata": {
+    "name": "UPI transaction value",
+    "unit": "₹ crore",
+    "frequency": "monthly",
+    "domain": "india",
+    "country": "IND",
+    "source": "NPCI UPI",
+    "source_url": "https://www.npci.org.in/product/upi/product-statistics"
+  },
+  "observations": [
+    {
+      "period": "Apr 2026",
+      "value": 2902988.05,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Aug 2026",
+      "value": 2982355.95,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jul 2026",
+      "value": 2987880.49,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jun 2026",
+      "value": 2892138.67,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "May 2026",
+      "value": 2990424.21,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Sep 2026",
+      "value": 2937396.67,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}
