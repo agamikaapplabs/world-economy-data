@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.chn.exports_gdp",
+  "metadata": {
+    "name": "China · Exports / GDP",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "CHN",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS",
+    "indicator_code": "NE.EXP.GNFS.ZS"
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 18.770519802938,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

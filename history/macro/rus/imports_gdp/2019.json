@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.rus.imports_gdp",
+  "metadata": {
+    "name": "Russia · Imports / GDP",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "RUS",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NE.IMP.GNFS.ZS",
+    "indicator_code": "NE.IMP.GNFS.ZS"
+  },
+  "observations": [
+    {
+      "period": "2019",
+      "value": 20.7953229819275,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NE.IMP.GNFS.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "schema_version": "5.0",
+  "report_date": "2026-10-20",
+  "as_of": "2026-10-20T00:22:32.603240+05:30",
+  "series_latest": {
+    "market.gold.close": {
+      "period": "2026-10-16",
+      "value": 4181.100098,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "yahoo-finance-chart"
+    },
+    "market.silver.close": {
+      "period": "2026-10-16",
+      "value": 57.305,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "yahoo-finance-chart"
+    },
+    "market.sp500.close": {
+      "period": "2026-10-16",
+      "value": 7659.439941,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "yahoo-finance-chart"
+    },
+    "market.nasdaq.close": {
+      "period": "2026-10-16",
+      "value": 26140.029297,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "yahoo-finance-chart"
+    },
+    "market.nifty50.close": {
+      "period": "2026-10-16",
+      "value": 23146.150391,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "yahoo-finance-chart"
+    },
+    "market.ftse100.close": {
+      "period": "2026-10-16",
+      "value": 10881.900391,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "yahoo-finance-chart"
+    },
+    "market.nikkei.close": {
+      "period": "2026-10-16",
+      "value": 65324.289062,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "yahoo-finance-chart"
+    },
+    "market.hangseng.close": {
+      "period": "2026-10-16",
+      "value": 24186.830078,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "yahoo-finance-chart"
+    },
+    "market.usd_inr.close": {
+      "period": "2026-10-18",
+      "value": 94.93,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "frankfurter"
+    },
+    "market.usd_eur.close": {
+      "period": "2026-10-18",
+      "value": 0.89041,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "frankfurter"
+    },
+    "market.usd_gbp.close": {
+      "period": "2026-10-18",
+      "value": 0.75204,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "frankfurter"
+    },
+    "market.usd_jpy.close": {
+      "period": "2026-10-18",
+      "value": 158.07,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "frankfurter"
+    },
+    "market.usd_cny.close": {
+      "period": "2026-10-18",
+      "value": 6.6833,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "frankfurter"
+    },
+    "india.gst.gross": {
+      "period": "Apr–Sep 2026",
+      "value": 12.46,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "press-information-bureau-gst-council"
+    },
+    "india.rail.freight_mt": {
+      "period": "Sep 2026",
+      "value": 135.35,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "indian-railways-pib"
+    },
+    "india.auto.passenger_vehicles": {
+      "period": "Sep 2026",
+      "value": 454574.0,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "siam"
+    },
+    "india.auto.commercial_vehicles": {
+      "period": "Jul–Sep 2026",
+      "value": 309063.0,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "siam"
+    },
+    "india.fastag.value": {
+      "period": "May 2026",
+      "value": 7308.07,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc"
+    },
+    "india.housing.hpi": {
+      "period": "Sep 2025",
+      "value": 100.78,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "nhb-residex"
+    },
+    "india.trade.merchandise_balance": {
+      "period": "Jul 2026",
+      "value": -31.98,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    },
+    "india.labour.unemployment": {
+      "period": "Sep 2026",
+      "value": 55.5,
+      "collected_at": "2026-10-20T00:22:32.603240+05:30",
+      "source_id": "plfs-mospi-pib"
+    },
+    "india.fastag.volume": {
+      "period": "May 2026",
+      "value": 375.23,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-netc"
+    },
+    "india.upi.value": {
+      "period": "Sep 2026",
+      "value": 2937396.67,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi"
+    },
+    "india.upi.volume": {
+      "period": "Sep 2026",
+      "value": 24068.38,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi"
+    },
+    "india.trade.merchandise_exports": {
+      "period": "Jul 2026",
+      "value": 44.24,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    },
+    "india.trade.merchandise_imports": {
+      "period": "Jul 2026",
+      "value": 76.22,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    },
+    "india.trade.services_exports": {
+      "period": "Jul 2026",
+      "value": 35.89,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    },
+    "india.trade.services_imports": {
+      "period": "Jul 2026",
+      "value": 18.94,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    },
+    "india.trade.services_balance": {
+      "period": "Jul 2026",
+      "value": 16.95,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    },
+    "india.trade.total_exports": {
+      "period": "Jul 2026",
+      "value": 80.14,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    },
+    "india.trade.total_imports": {
+      "period": "Jul 2026",
+      "value": 95.16,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    },
+    "india.trade.total_balance": {
+      "period": "Jul 2026",
+      "value": -15.03,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "ministry-of-commerce-industry-pib"
+    }
+  },
+  "india_diagnostics": [
+    {
+      "id": "domestic_momentum",
+      "title": "Domestic activity",
+      "state": "positive",
+      "summary": "GST, rail freight and vehicle demand are all showing positive momentum in the latest public releases.",
+      "evidence": [
+        "GST Apr–Sep +11.6% YoY",
+        "Rail freight Sep +6.14% YoY",
+        "Passenger vehicles Q2 +30.7% YoY"
+      ]
+    },
+    {
+      "id": "external_pressure",
+      "title": "External balance",
+      "state": "pressure",
+      "summary": "The August monthly total trade deficit improved from July, but the April–August cumulative deficit is wider than a year earlier.",
+      "evidence": [
+        "Aug total trade balance -US$9.41bn",
+        "Apr–Aug total balance -US$60.38bn vs -US$43.94bn prior year",
+        "Apr–Aug merchandise deficit -US$147.09bn"
+      ]
+    },
+    {
+      "id": "housing_prices",
+      "title": "Housing prices",
+      "state": "warm",
+      "summary": "The NHB 50-city composite housing price index is roughly 7% above June 2025.",
+      "evidence": [
+        "Composite HPI 107.16 in Jun 2026 vs 100.17 in Jun 2025"
+      ]
+    },
+    {
+      "id": "labour",
+      "title": "Labour market",
+      "state": "stable",
+      "summary": "Overall unemployment was 5.0% in September while labour-force participation strengthened modestly.",
+      "evidence": [
+        "UR 5.0%",
+        "LFPR 55.5%",
+        "WPR 52.7%"
+      ]
+    }
+  ],
+  "market_status": {
+    "successful": 13,
+    "failed": 0
+  },
+  "note": "As-known snapshot. Canonical history preserves revisions/vintages."
+}

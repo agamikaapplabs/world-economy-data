@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.bra.gdp_usd",
+  "metadata": {
+    "name": "Brazil · Nominal GDP",
+    "unit": "USD",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "BRA",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+    "indicator_code": "NY.GDP.MKTP.CD"
+  },
+  "observations": [
+    {
+      "period": "2020",
+      "value": 1476107231310.49,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

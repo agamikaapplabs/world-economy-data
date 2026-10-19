@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.tur.exports_usd",
+  "metadata": {
+    "name": "Turkey · Exports of goods & services",
+    "unit": "USD",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "TUR",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.CD",
+    "indicator_code": "NE.EXP.GNFS.CD"
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 250128750717.116,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NE.EXP.GNFS.CD",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

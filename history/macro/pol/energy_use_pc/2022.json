@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.pol.energy_use_pc",
+  "metadata": {
+    "name": "Poland · Energy use per capita",
+    "unit": "kg oil eq",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "POL",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE",
+    "indicator_code": "EG.USE.PCAP.KG.OE"
+  },
+  "observations": [
+    {
+      "period": "2022",
+      "value": 2798.39953349416,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

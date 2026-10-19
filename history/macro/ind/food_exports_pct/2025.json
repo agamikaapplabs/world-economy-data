@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.ind.food_exports_pct",
+  "metadata": {
+    "name": "India · Food exports / merchandise exports",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "IND",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/TX.VAL.FOOD.ZS.UN",
+    "indicator_code": "TX.VAL.FOOD.ZS.UN"
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": 11.8598316808562,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/TX.VAL.FOOD.ZS.UN",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

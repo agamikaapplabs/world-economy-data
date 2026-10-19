@@ -1,7 +1,7 @@
 {
   "schema_version": "5.0",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-19T22:36:10.225672+05:30",
+  "published_at": "2026-10-20T00:22:32.603240+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
@@ -17,13 +17,13 @@
     },
     "india_activity": {
       "path": "current/india_activity.json",
-      "sha256": "a9b206e27a995bec45f12f9ac55388a552621576af0d4aa0be47994cb85d5bff"
+      "sha256": "a910eae5b2c0cad26c14c83fc114960e27aab2a2b0dc4ab89210bdcdeabf6240"
     }
   },
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "434eced6cc73945a6db7802b31be9a23b7a1ffa92786ce9a127b39f8d6f66318"
+      "sha256": "87a5216a0d3d4d4dd209eb11bcc07112e58ad32cc984e35bf403ab4c69953fa2"
     },
     "sources": {
       "path": "metadata/sources.json",
@@ -31,8 +31,8 @@
     }
   },
   "latest_report": {
-    "path": "reports/2026/10/19.json",
-    "sha256": "d34028ceda1584cd071cbcd3e58622582ff3c34778a4e2e3716b608a0b01b289"
+    "path": "reports/2026/10/20.json",
+    "sha256": "a59ae5a68c328e7818454e1369dcfd69c6a827e1b4bbaffe94a79e75622805fb"
   },
   "series_count": 32,
   "client_contract": {

@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.fra.reserves_usd",
+  "metadata": {
+    "name": "France · Total reserves incl. gold",
+    "unit": "USD",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "FRA",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/FI.RES.TOTL.CD",
+    "indicator_code": "FI.RES.TOTL.CD"
+  },
+  "observations": [
+    {
+      "period": "2020",
+      "value": 224236417867.711,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/FI.RES.TOTL.CD",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

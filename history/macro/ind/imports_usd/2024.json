@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.ind.imports_usd",
+  "metadata": {
+    "name": "India · Imports of goods & services",
+    "unit": "USD",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "IND",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NE.IMP.GNFS.CD",
+    "indicator_code": "NE.IMP.GNFS.CD"
+  },
+  "observations": [
+    {
+      "period": "2024",
+      "value": 897055898132.0,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NE.IMP.GNFS.CD",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

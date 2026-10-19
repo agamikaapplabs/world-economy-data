@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.deu.energy_use_pc",
+  "metadata": {
+    "name": "Germany · Energy use per capita",
+    "unit": "kg oil eq",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "DEU",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE",
+    "indicator_code": "EG.USE.PCAP.KG.OE"
+  },
+  "observations": [
+    {
+      "period": "2024",
+      "value": 2874.38339733752,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/EG.USE.PCAP.KG.OE",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

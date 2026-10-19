@@ -1,6 +1,6 @@
 {
   "schema_version": "5.0",
-  "generated_at": "2026-10-19T00:00:00+05:30",
+  "generated_at": "2026-10-19T18:52:24.540234+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -17,7 +17,7 @@
       "frequency": "cumulative FY",
       "source": "Press Information Bureau / GST Council",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48",
-      "status": "verified",
+      "status": "live-refreshed",
       "history": [
         {
           "period": "Apr–Sep 2026",
@@ -35,7 +35,7 @@
       "frequency": "monthly",
       "source": "Indian Railways / PIB",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322673&lang=2&reg=48",
-      "status": "verified",
+      "status": "live-refreshed",
       "history": [
         {
           "period": "Sep 2026",
@@ -46,17 +46,21 @@
     },
     "passenger_vehicles": {
       "label": "Passenger vehicle sales",
-      "value": 454574,
+      "value": 439309,
       "unit": "units",
-      "period": "Sep 2026",
+      "period": "August 2026",
       "frequency": "monthly",
       "source": "SIAM",
       "url": "https://www.siam.in/press-release.aspx",
-      "status": "verified",
+      "status": "live-refreshed",
       "history": [
         {
           "period": "Sep 2026",
           "value": 454574.0
+        },
+        {
+          "period": "August 2026",
+          "value": 439309.0
         }
       ],
       "series_id": "india.auto.passenger_vehicles"
@@ -166,18 +170,18 @@
     },
     "unemployment": {
       "label": "Unemployment rate",
-      "value": 5.0,
+      "value": 55.5,
       "unit": "%",
       "period": "Sep 2026",
       "yoy_delta_pp": -0.2,
       "frequency": "monthly",
       "source": "PLFS / MoSPI / PIB",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
-      "status": "verified",
+      "status": "live-refreshed",
       "history": [
         {
           "period": "Sep 2026",
-          "value": 5.0
+          "value": 55.5
         }
       ],
       "series_id": "india.labour.unemployment"
@@ -195,11 +199,11 @@
     "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48"
   },
   "automobile": {
-    "latest_month": "Sep 2026",
+    "latest_month": "August 2026",
     "monthly": {
-      "passenger_vehicles": 454574,
-      "three_wheelers": 98162,
-      "two_wheelers": 2463103,
+      "passenger_vehicles": 439309,
+      "three_wheelers": 93764,
+      "two_wheelers": 2034698,
       "production_pv_3w_2w_quadricycle": 3452554
     },
     "q2_fy27": {
@@ -401,7 +405,7 @@
       "period": "Sep 2026",
       "lfpr_pct": 55.5,
       "wpr_pct": 52.7,
-      "unemployment_pct": 5.0,
+      "unemployment_pct": 55.5,
       "urban_lfpr_pct": 50.7,
       "female_lfpr_pct": 34.6,
       "rural_female_lfpr_pct": 38.9
@@ -491,6 +495,43 @@
     {
       "name": "PMI",
       "reason": "Common high-frequency series is proprietary; no fabricated proxy is used."
+    }
+  ],
+  "refresh_log": [
+    {
+      "source": "FASTag",
+      "status": "seed-kept",
+      "detail": "No table rows recognized"
+    },
+    {
+      "source": "UPI",
+      "status": "seed-kept",
+      "detail": "No table rows recognized"
+    },
+    {
+      "source": "SIAM",
+      "status": "ok",
+      "detail": "SIAM August 2026"
+    },
+    {
+      "source": "NHB",
+      "status": "seed-kept",
+      "detail": "Composite HPI series not safely recognized"
+    },
+    {
+      "source": "GST",
+      "status": "ok",
+      "detail": "GST Apr-Sep 2026"
+    },
+    {
+      "source": "Rail",
+      "status": "ok",
+      "detail": "Rail freight Sep 2026"
+    },
+    {
+      "source": "PLFS",
+      "status": "ok",
+      "detail": "PLFS Sep 2026"
     }
   ]
 }

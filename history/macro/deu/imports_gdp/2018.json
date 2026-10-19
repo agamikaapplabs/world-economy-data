@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.deu.imports_gdp",
+  "metadata": {
+    "name": "Germany · Imports / GDP",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "DEU",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NE.IMP.GNFS.ZS",
+    "indicator_code": "NE.IMP.GNFS.ZS"
+  },
+  "observations": [
+    {
+      "period": "2018",
+      "value": 36.6283346388937,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NE.IMP.GNFS.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

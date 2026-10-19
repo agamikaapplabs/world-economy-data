@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.gbr.energy_imports_pct",
+  "metadata": {
+    "name": "United Kingdom · Net energy imports / energy use",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "GBR",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/EG.IMP.CONS.ZS",
+    "indicator_code": "EG.IMP.CONS.ZS"
+  },
+  "observations": [
+    {
+      "period": "2022",
+      "value": 38.8639641875447,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/EG.IMP.CONS.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

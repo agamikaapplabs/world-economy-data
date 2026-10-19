@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.chn.gdp_per_capita",
+  "metadata": {
+    "name": "China · GDP per capita",
+    "unit": "USD",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "CHN",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD",
+    "indicator_code": "NY.GDP.PCAP.CD"
+  },
+  "observations": [
+    {
+      "period": "2022",
+      "value": 12970.6056414327,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NY.GDP.PCAP.CD",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

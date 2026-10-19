@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.ind.agriculture_gdp",
+  "metadata": {
+    "name": "India · Agriculture / GDP",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "IND",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NV.AGR.TOTL.ZS",
+    "indicator_code": "NV.AGR.TOTL.ZS"
+  },
+  "observations": [
+    {
+      "period": "2022",
+      "value": 18.2106659929942,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NV.AGR.TOTL.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.deu.gdp_usd",
+  "metadata": {
+    "name": "Germany · Nominal GDP",
+    "unit": "USD",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "DEU",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+    "indicator_code": "NY.GDP.MKTP.CD"
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": 5050922925047.05,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/NY.GDP.MKTP.CD",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

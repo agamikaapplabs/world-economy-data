@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.che.import_cover",
+  "metadata": {
+    "name": "Switzerland · Reserves in months of imports",
+    "unit": "months",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "CHE",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/FI.RES.TOTL.MO",
+    "indicator_code": "FI.RES.TOTL.MO"
+  },
+  "observations": [
+    {
+      "period": "2020",
+      "value": 21.3472405398934,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/FI.RES.TOTL.MO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.jpn.electricity_pc",
+  "metadata": {
+    "name": "Japan · Electricity consumption per capita",
+    "unit": "kWh",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "JPN",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC",
+    "indicator_code": "EG.USE.ELEC.KH.PC"
+  },
+  "observations": [
+    {
+      "period": "2021",
+      "value": 7960.91914589275,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/EG.USE.ELEC.KH.PC",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

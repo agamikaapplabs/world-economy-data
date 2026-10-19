@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.0",
+  "series_id": "macro.ind.unemployment",
+  "metadata": {
+    "name": "India · Unemployment",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "IND",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS",
+    "indicator_code": "SL.UEM.TOTL.ZS"
+  },
+  "observations": [
+    {
+      "period": "2023",
+      "value": 4.172,
+      "released_at": null,
+      "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}
