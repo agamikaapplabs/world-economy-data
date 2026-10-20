@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.jpn.reserves_usd",
   "metadata": {
     "name": "Japan · Total reserves incl. gold",

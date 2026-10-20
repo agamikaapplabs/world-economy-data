@@ -1,0 +1,89 @@
+{
+  "schema_version": "5.4",
+  "series_id": "india.now.not_employed_pct",
+  "metadata": {
+    "name": "Not employed, age 15+",
+    "unit": "%",
+    "frequency": "monthly",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "PLFS / MoSPI",
+    "source_url": "https://www.mospi.gov.in/themes/product/69--",
+    "metric_type": "percent",
+    "stale_after_days": 45
+  },
+  "observations": [
+    {
+      "period": "Apr 2026",
+      "value": 47.8,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:04.102757+05:30",
+      "source_id": "plfs-mospi",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "verified-derived",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "May 2026",
+      "value": 48.6,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:04.102757+05:30",
+      "source_id": "plfs-mospi",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "verified-derived",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jun 2026",
+      "value": 48.6,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:04.102757+05:30",
+      "source_id": "plfs-mospi",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "verified-derived",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jul 2026",
+      "value": 47.5,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:04.102757+05:30",
+      "source_id": "plfs-mospi",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "verified-derived",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Aug 2026",
+      "value": 47.2,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:04.102757+05:30",
+      "source_id": "plfs-mospi",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "verified-derived",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Sep 2026",
+      "value": 47.3,
+      "released_at": "2026-10-15",
+      "collected_at": "2026-10-20T14:08:04.102757+05:30",
+      "source_id": "plfs-mospi",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "verified-derived",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

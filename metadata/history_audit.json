@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
-  "series_count": 484,
-  "gap_count": 115,
+  "series_count": 485,
+  "gap_count": 112,
   "rows": [
     {
       "series_id": "india.auto.commercial_vehicles",
@@ -61,10 +61,10 @@
       "series_id": "india.labour.unemployment",
       "domain": "india",
       "frequency": "monthly",
-      "points": 1,
+      "points": 6,
       "minimum": 4,
       "target": 12,
-      "status": "GAP"
+      "status": "MIN"
     },
     {
       "series_id": "india.now.cpi_inflation",
@@ -97,10 +97,19 @@
       "series_id": "india.now.fx_reserves_usd_bn",
       "domain": "india_now",
       "frequency": "weekly",
-      "points": 2,
+      "points": 16,
       "minimum": 12,
       "target": 52,
-      "status": "GAP"
+      "status": "MIN"
+    },
+    {
+      "series_id": "india.now.not_employed_pct",
+      "domain": "india_now",
+      "frequency": "monthly",
+      "points": 6,
+      "minimum": 6,
+      "target": 12,
+      "status": "MIN"
     },
     {
       "series_id": "india.now.real_gdp_growth",
@@ -133,10 +142,10 @@
       "series_id": "india.now.unemployment",
       "domain": "india_now",
       "frequency": "monthly",
-      "points": 1,
+      "points": 6,
       "minimum": 6,
       "target": 12,
-      "status": "GAP"
+      "status": "MIN"
     },
     {
       "series_id": "india.rail.freight_mt",
@@ -3787,7 +3796,7 @@
       "series_id": "market.airbus.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1281,
+      "points": 1282,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3823,7 +3832,7 @@
       "series_id": "market.asml.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1281,
+      "points": 1282,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3832,7 +3841,7 @@
       "series_id": "market.bae.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1262,
+      "points": 1263,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3904,7 +3913,7 @@
       "series_id": "market.ftse100.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1261,
+      "points": 1262,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3985,7 +3994,7 @@
       "series_id": "market.leonardo.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1271,
+      "points": 1272,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4129,7 +4138,7 @@
       "series_id": "market.rheinmetall.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1275,
+      "points": 1276,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4147,7 +4156,7 @@
       "series_id": "market.sap.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1275,
+      "points": 1276,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4165,7 +4174,7 @@
       "series_id": "market.schneider.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1281,
+      "points": 1282,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4174,7 +4183,7 @@
       "series_id": "market.shell.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1262,
+      "points": 1263,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4183,7 +4192,7 @@
       "series_id": "market.siemens_eu.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1275,
+      "points": 1276,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4192,7 +4201,7 @@
       "series_id": "market.siemens_heavy.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1275,
+      "points": 1276,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4237,7 +4246,7 @@
       "series_id": "market.thales.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1281,
+      "points": 1282,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4336,7 +4345,7 @@
       "series_id": "market.vix.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1257,
+      "points": 1258,
       "minimum": 60,
       "target": 250,
       "status": "OK"

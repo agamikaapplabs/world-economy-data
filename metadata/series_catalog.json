@@ -1,7 +1,7 @@
 {
-  "schema_version": "5.0",
-  "generated_at": "2026-10-20T12:45:33.871605+05:30",
-  "series_count": 484,
+  "schema_version": "5.4",
+  "generated_at": "2026-10-20T16:42:17.097327+05:30",
+  "series_count": 485,
   "series": {
     "india.auto.commercial_vehicles": {
       "name": "Commercial vehicle sales",
@@ -77,7 +77,7 @@
       ]
     },
     "india.labour.unemployment": {
-      "name": "Unemployment rate",
+      "name": "Looking for work, unemployed",
       "unit": "%",
       "frequency": "monthly",
       "domain": "india",
@@ -146,6 +146,20 @@
         "history/india/now/fx_reserves_usd_bn/2026.json"
       ]
     },
+    "india.now.not_employed_pct": {
+      "name": "Not employed, age 15+",
+      "unit": "%",
+      "frequency": "monthly",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "metric_type": "percent",
+      "stale_after_days": 45,
+      "history_files": [
+        "history/india/now/not_employed_pct/2026.json"
+      ]
+    },
     "india.now.real_gdp_growth": {
       "name": "Real GDP growth",
       "unit": "%",
@@ -190,7 +204,7 @@
       ]
     },
     "india.now.unemployment": {
-      "name": "Unemployment rate",
+      "name": "Looking for work, unemployed",
       "unit": "%",
       "frequency": "monthly",
       "domain": "india_now",

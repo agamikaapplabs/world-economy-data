@@ -1,8 +1,8 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "india.labour.unemployment",
   "metadata": {
-    "name": "Unemployment rate",
+    "name": "Looking for work, unemployed",
     "unit": "%",
     "frequency": "monthly",
     "domain": "india",
@@ -11,6 +11,66 @@
     "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48"
   },
   "observations": [
+    {
+      "period": "Apr 2026",
+      "value": 5.2,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:40.850112+05:30",
+      "source_id": "plfs-mospi-pib",
+      "source": "PLFS / MoSPI / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "May 2026",
+      "value": 5.5,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:40.850112+05:30",
+      "source_id": "plfs-mospi-pib",
+      "source": "PLFS / MoSPI / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jun 2026",
+      "value": 5.5,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:40.850112+05:30",
+      "source_id": "plfs-mospi-pib",
+      "source": "PLFS / MoSPI / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Jul 2026",
+      "value": 5.1,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:40.850112+05:30",
+      "source_id": "plfs-mospi-pib",
+      "source": "PLFS / MoSPI / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Aug 2026",
+      "value": 5.0,
+      "released_at": null,
+      "collected_at": "2026-10-20T14:08:40.850112+05:30",
+      "source_id": "plfs-mospi-pib",
+      "source": "PLFS / MoSPI / PIB",
+      "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
     {
       "period": "Sep 2026",
       "value": 5.0,
@@ -27,7 +87,7 @@
       "period": "Sep 2026",
       "value": 55.5,
       "released_at": null,
-      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "collected_at": "2026-10-20T16:42:17.097327+05:30",
       "source_id": "plfs-mospi-pib",
       "source": "PLFS / MoSPI / PIB",
       "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",

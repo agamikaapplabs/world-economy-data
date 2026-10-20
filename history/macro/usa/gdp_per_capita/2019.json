@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.usa.gdp_per_capita",
   "metadata": {
     "name": "United States · GDP per capita",

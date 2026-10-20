@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.deu.energy_use_pc",
   "metadata": {
     "name": "Germany · Energy use per capita",

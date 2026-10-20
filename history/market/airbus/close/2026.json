@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "market.airbus.close",
   "metadata": {
     "name": "Airbus",
@@ -2452,6 +2452,18 @@
       "value": 194.339996,
       "released_at": "2026-10-19",
       "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-20",
+      "value": 192.199997,
+      "released_at": "2026-10-20",
+      "collected_at": "2026-10-20T16:42:17.097327+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/AIR.PA",

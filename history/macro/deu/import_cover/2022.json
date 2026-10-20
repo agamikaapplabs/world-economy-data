@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.deu.import_cover",
   "metadata": {
     "name": "Germany · Reserves in months of imports",

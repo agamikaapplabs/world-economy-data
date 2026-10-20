@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.bra.electricity_pc",
   "metadata": {
     "name": "Brazil · Electricity consumption per capita",

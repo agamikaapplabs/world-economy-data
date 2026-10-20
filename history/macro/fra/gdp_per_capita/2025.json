@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.fra.gdp_per_capita",
   "metadata": {
     "name": "France · GDP per capita",

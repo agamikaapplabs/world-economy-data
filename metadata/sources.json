@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "sources": [
     {
       "source_id": "department-of-commerce",
@@ -59,7 +59,7 @@
       "source_id": "plfs-mospi",
       "name": "PLFS / MoSPI",
       "url": "https://www.mospi.gov.in/themes/product/69--",
-      "series_count": 1
+      "series_count": 2
     },
     {
       "source_id": "plfs-mospi-pib",

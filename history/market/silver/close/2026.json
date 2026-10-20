@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "market.silver.close",
   "metadata": {
     "name": "Silver",
@@ -2403,7 +2403,7 @@
       "period": "2026-10-16",
       "value": 56.994999,
       "released_at": "2026-10-16",
-      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "collected_at": "2026-10-20T16:42:17.097327+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",
@@ -2415,7 +2415,7 @@
       "period": "2026-10-19",
       "value": 56.973999,
       "released_at": "2026-10-19",
-      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "collected_at": "2026-10-20T16:42:17.097327+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",
@@ -2425,9 +2425,9 @@
     },
     {
       "period": "2026-10-20",
-      "value": 57.724998,
+      "value": 57.240002,
       "released_at": "2026-10-20",
-      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "collected_at": "2026-10-20T16:42:17.097327+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",

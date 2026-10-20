@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.che.exports_gdp",
   "metadata": {
     "name": "Switzerland · Exports / GDP",

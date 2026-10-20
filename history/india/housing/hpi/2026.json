@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "india.housing.hpi",
   "metadata": {
     "name": "NHB 50-city housing price index",

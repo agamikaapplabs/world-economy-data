@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "india.trade.merchandise_imports",
   "metadata": {
     "name": "Merchandise imports",

@@ -1,6 +1,6 @@
 {
-  "schema_version": "5.0",
-  "generated_at": "2026-10-20T07:15:33.744225+00:00",
+  "schema_version": "5.4",
+  "generated_at": "2026-10-20T11:12:16.586267+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -169,7 +169,7 @@
       "series_id": "india.trade.merchandise_balance"
     },
     "unemployment": {
-      "label": "Unemployment rate",
+      "label": "Looking for work, unemployed",
       "value": 55.5,
       "unit": "%",
       "period": "Sep 2026",
@@ -180,8 +180,28 @@
       "status": "live-refreshed",
       "history": [
         {
+          "period": "Apr 2026",
+          "value": 5.2
+        },
+        {
+          "period": "May 2026",
+          "value": 5.5
+        },
+        {
+          "period": "Jun 2026",
+          "value": 5.5
+        },
+        {
+          "period": "Jul 2026",
+          "value": 5.1
+        },
+        {
+          "period": "Aug 2026",
+          "value": 5.0
+        },
+        {
           "period": "Sep 2026",
-          "value": 55.5
+          "value": 5.0
         }
       ],
       "series_id": "india.labour.unemployment"
@@ -411,7 +431,45 @@
       "rural_female_lfpr_pct": 38.9
     },
     "source": "PLFS / MoSPI / PIB",
-    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48"
+    "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
+    "history": [
+      {
+        "period": "Apr 2026",
+        "unemployment_pct": 5.2,
+        "wpr_pct": 52.2,
+        "not_employed_pct": 47.8
+      },
+      {
+        "period": "May 2026",
+        "unemployment_pct": 5.5,
+        "wpr_pct": 51.4,
+        "not_employed_pct": 48.6
+      },
+      {
+        "period": "Jun 2026",
+        "unemployment_pct": 5.5,
+        "wpr_pct": 51.4,
+        "not_employed_pct": 48.6
+      },
+      {
+        "period": "Jul 2026",
+        "unemployment_pct": 5.1,
+        "wpr_pct": 52.5,
+        "not_employed_pct": 47.5
+      },
+      {
+        "period": "Aug 2026",
+        "unemployment_pct": 5.0,
+        "wpr_pct": 52.8,
+        "not_employed_pct": 47.2
+      },
+      {
+        "period": "Sep 2026",
+        "unemployment_pct": 5.0,
+        "wpr_pct": 52.7,
+        "not_employed_pct": 47.3
+      }
+    ]
   },
   "industry": {
     "latest_release_period": "Aug 2026",
@@ -545,7 +603,7 @@
       "series_id": "india.now.cpi_inflation"
     },
     "unemployment": {
-      "label": "Unemployment rate",
+      "label": "Looking for work, unemployed",
       "value": 55.5,
       "unit": "%",
       "metric_type": "percent",
@@ -556,11 +614,31 @@
       "source": "PLFS / MoSPI",
       "url": "https://www.mospi.gov.in/themes/product/69--",
       "status": "live-refreshed",
-      "note": "All-India unemployment rate, current weekly status, age 15+.",
+      "note": "Share of the labour force age 15+ that is unemployed under PLFS Current Weekly Status; this is not the share of the total population without a job.",
       "history": [
         {
+          "period": "Apr 2026",
+          "value": 5.2
+        },
+        {
+          "period": "May 2026",
+          "value": 5.5
+        },
+        {
+          "period": "Jun 2026",
+          "value": 5.5
+        },
+        {
+          "period": "Jul 2026",
+          "value": 5.1
+        },
+        {
+          "period": "Aug 2026",
+          "value": 5.0
+        },
+        {
           "period": "Sep 2026",
-          "value": 55.5
+          "value": 5.0
         }
       ],
       "series_id": "india.now.unemployment"
@@ -579,6 +657,46 @@
       "status": "verified",
       "note": "Official reserve position; weekly series. Amount includes foreign currency assets, gold, SDRs and reserve tranche position.",
       "history": [
+        {
+          "period": "Week ended 24 Jul 2026",
+          "value": 682.354
+        },
+        {
+          "period": "Week ended 31 Jul 2026",
+          "value": 692.866
+        },
+        {
+          "period": "Week ended 7 Aug 2026",
+          "value": 707.002
+        },
+        {
+          "period": "Week ended 14 Aug 2026",
+          "value": 716.907
+        },
+        {
+          "period": "Week ended 21 Aug 2026",
+          "value": 729.328
+        },
+        {
+          "period": "Week ended 28 Aug 2026",
+          "value": 740.803
+        },
+        {
+          "period": "Week ended 4 Sep 2026",
+          "value": 785.706
+        },
+        {
+          "period": "Week ended 11 Sep 2026",
+          "value": 780.782
+        },
+        {
+          "period": "Week ended 18 Sep 2026",
+          "value": 765.901
+        },
+        {
+          "period": "Week ended 25 Sep 2026",
+          "value": 747.557
+        },
         {
           "period": "Week ended 2 Oct 2026",
           "value": 734.606
@@ -689,6 +807,47 @@
         }
       ],
       "series_id": "india.now.crude_import_dependence"
+    },
+    "not_employed": {
+      "label": "Not employed, age 15+",
+      "value": 47.3,
+      "unit": "%",
+      "metric_type": "percent",
+      "period": "Sep 2026",
+      "frequency": "monthly",
+      "released_at": "2026-10-15",
+      "stale_after_days": 45,
+      "source": "PLFS / MoSPI",
+      "url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "verified-derived",
+      "note": "Share of population age 15+ not employed, derived as 100 minus Worker Population Ratio (WPR). Includes students, homemakers, retirees and others not seeking work as well as unemployed people.",
+      "series_id": "india.now.not_employed_pct",
+      "history": [
+        {
+          "period": "Apr 2026",
+          "value": 47.8
+        },
+        {
+          "period": "May 2026",
+          "value": 48.6
+        },
+        {
+          "period": "Jun 2026",
+          "value": 48.6
+        },
+        {
+          "period": "Jul 2026",
+          "value": 47.5
+        },
+        {
+          "period": "Aug 2026",
+          "value": 47.2
+        },
+        {
+          "period": "Sep 2026",
+          "value": 47.3
+        }
+      ]
     }
   },
   "refresh_log": [

@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.gbr.trade_balance",
   "metadata": {
     "name": "United Kingdom · External balance goods & services / GDP",

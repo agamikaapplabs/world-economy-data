@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.0",
+  "schema_version": "5.4",
   "series_id": "macro.sau.energy_imports_pct",
   "metadata": {
     "name": "Saudi Arabia · Net energy imports / energy use",
