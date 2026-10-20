@@ -1,0 +1,41 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.now.fx_reserves_usd_bn",
+  "metadata": {
+    "name": "FX reserves",
+    "unit": "US$ bn",
+    "frequency": "weekly",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "Reserve Bank of India · Weekly Statistical Supplement",
+    "source_url": "https://data.rbi.org.in/",
+    "metric_type": "usd_billion",
+    "stale_after_days": 15
+  },
+  "observations": [
+    {
+      "period": "Week ended 2 Oct 2026",
+      "value": 734.606,
+      "released_at": null,
+      "collected_at": "2026-10-20T11:00:34.392452+05:30",
+      "source_id": "reserve-bank-of-india-weekly-statistical-supplement",
+      "source": "Reserve Bank of India · Weekly Statistical Supplement",
+      "source_url": "https://data.rbi.org.in/",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Week ended 9 Oct 2026",
+      "value": 726.027,
+      "released_at": "2026-10-16",
+      "collected_at": "2026-10-20T11:00:34.392452+05:30",
+      "source_id": "reserve-bank-of-india-weekly-statistical-supplement",
+      "source": "Reserve Bank of India · Weekly Statistical Supplement",
+      "source_url": "https://data.rbi.org.in/",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

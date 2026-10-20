@@ -36,6 +36,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-02",
+      "value": 0.74388,
+      "released_at": "2026-01-02",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-03",
       "value": 0.74254,
       "released_at": "2026-01-03",
@@ -72,6 +84,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-05",
+      "value": 0.74383,
+      "released_at": "2026-01-05",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-06",
       "value": 0.7397,
       "released_at": "2026-01-06",
@@ -82,6 +106,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-01-06",
+      "value": 0.73998,
+      "released_at": "2026-01-06",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-01-07",
@@ -96,6 +132,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-07",
+      "value": 0.74153,
+      "released_at": "2026-01-07",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-08",
       "value": 0.74286,
       "released_at": "2026-01-08",
@@ -108,6 +156,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-08",
+      "value": 0.74407,
+      "released_at": "2026-01-08",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-09",
       "value": 0.74384,
       "released_at": "2026-01-09",
@@ -118,6 +178,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-01-09",
+      "value": 0.74532,
+      "released_at": "2026-01-09",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-01-10",
@@ -156,6 +228,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-12",
+      "value": 0.74187,
+      "released_at": "2026-01-12",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-13",
       "value": 0.74253,
       "released_at": "2026-01-13",
@@ -166,6 +250,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-01-13",
+      "value": 0.74309,
+      "released_at": "2026-01-13",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-01-14",
@@ -180,6 +276,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-14",
+      "value": 0.74397,
+      "released_at": "2026-01-14",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-15",
       "value": 0.74426,
       "released_at": "2026-01-15",
@@ -192,6 +300,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-15",
+      "value": 0.74621,
+      "released_at": "2026-01-15",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-16",
       "value": 0.74576,
       "released_at": "2026-01-16",
@@ -202,6 +322,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-01-16",
+      "value": 0.74632,
+      "released_at": "2026-01-16",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-01-17",
@@ -240,6 +372,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-19",
+      "value": 0.74551,
+      "released_at": "2026-01-19",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-20",
       "value": 0.7436,
       "released_at": "2026-01-20",
@@ -250,6 +394,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-01-20",
+      "value": 0.74369,
+      "released_at": "2026-01-20",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-01-21",
@@ -264,6 +420,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-21",
+      "value": 0.74487,
+      "released_at": "2026-01-21",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-22",
       "value": 0.74458,
       "released_at": "2026-01-22",
@@ -276,6 +444,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-22",
+      "value": 0.74509,
+      "released_at": "2026-01-22",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-23",
       "value": 0.741,
       "released_at": "2026-01-23",
@@ -286,6 +466,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-01-23",
+      "value": 0.73931,
+      "released_at": "2026-01-23",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-01-24",
@@ -324,6 +516,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-26",
+      "value": 0.73293,
+      "released_at": "2026-01-26",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-27",
       "value": 0.73052,
       "released_at": "2026-01-27",
@@ -334,6 +538,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-01-27",
+      "value": 0.72789,
+      "released_at": "2026-01-27",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-01-28",
@@ -348,6 +564,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-28",
+      "value": 0.72532,
+      "released_at": "2026-01-28",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-29",
       "value": 0.72409,
       "released_at": "2026-01-29",
@@ -360,6 +588,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-01-29",
+      "value": 0.72376,
+      "released_at": "2026-01-29",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-01-30",
       "value": 0.72607,
       "released_at": "2026-01-30",
@@ -370,6 +610,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-01-30",
+      "value": 0.72674,
+      "released_at": "2026-01-30",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-01-31",
@@ -408,6 +660,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-02",
+      "value": 0.73125,
+      "released_at": "2026-02-02",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-03",
       "value": 0.73048,
       "released_at": "2026-02-03",
@@ -418,6 +682,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-02-03",
+      "value": 0.7307,
+      "released_at": "2026-02-03",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-02-04",
@@ -432,6 +708,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-04",
+      "value": 0.72893,
+      "released_at": "2026-02-04",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-05",
       "value": 0.73321,
       "released_at": "2026-02-05",
@@ -444,6 +732,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-05",
+      "value": 0.73665,
+      "released_at": "2026-02-05",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-06",
       "value": 0.73558,
       "released_at": "2026-02-06",
@@ -454,6 +754,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-02-06",
+      "value": 0.73588,
+      "released_at": "2026-02-06",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-02-07",
@@ -492,6 +804,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-09",
+      "value": 0.73204,
+      "released_at": "2026-02-09",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-10",
       "value": 0.73211,
       "released_at": "2026-02-10",
@@ -502,6 +826,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-02-10",
+      "value": 0.73104,
+      "released_at": "2026-02-10",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-02-11",
@@ -516,6 +852,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-11",
+      "value": 0.73101,
+      "released_at": "2026-02-11",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-12",
       "value": 0.73233,
       "released_at": "2026-02-12",
@@ -528,6 +876,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-12",
+      "value": 0.73362,
+      "released_at": "2026-02-12",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-13",
       "value": 0.73382,
       "released_at": "2026-02-13",
@@ -538,6 +898,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-02-13",
+      "value": 0.73478,
+      "released_at": "2026-02-13",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-02-14",
@@ -576,6 +948,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-16",
+      "value": 0.73302,
+      "released_at": "2026-02-16",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-17",
       "value": 0.73504,
       "released_at": "2026-02-17",
@@ -586,6 +970,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-02-17",
+      "value": 0.73846,
+      "released_at": "2026-02-17",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-02-18",
@@ -600,6 +996,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-18",
+      "value": 0.73651,
+      "released_at": "2026-02-18",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-19",
       "value": 0.73978,
       "released_at": "2026-02-19",
@@ -612,6 +1020,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-19",
+      "value": 0.74347,
+      "released_at": "2026-02-19",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-20",
       "value": 0.74138,
       "released_at": "2026-02-20",
@@ -622,6 +1042,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-02-20",
+      "value": 0.74174,
+      "released_at": "2026-02-20",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-02-21",
@@ -660,6 +1092,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-23",
+      "value": 0.74117,
+      "released_at": "2026-02-23",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-24",
       "value": 0.74086,
       "released_at": "2026-02-24",
@@ -670,6 +1114,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-02-24",
+      "value": 0.74136,
+      "released_at": "2026-02-24",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-02-25",
@@ -684,6 +1140,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-25",
+      "value": 0.73948,
+      "released_at": "2026-02-25",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-26",
       "value": 0.73852,
       "released_at": "2026-02-26",
@@ -696,6 +1164,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-02-26",
+      "value": 0.73802,
+      "released_at": "2026-02-26",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-02-27",
       "value": 0.74064,
       "released_at": "2026-02-27",
@@ -706,6 +1186,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-02-27",
+      "value": 0.74231,
+      "released_at": "2026-02-27",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-02-28",
@@ -744,6 +1236,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-02",
+      "value": 0.74705,
+      "released_at": "2026-03-02",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-03",
       "value": 0.74796,
       "released_at": "2026-03-03",
@@ -754,6 +1258,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-03",
+      "value": 0.75108,
+      "released_at": "2026-03-03",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-03-04",
@@ -768,6 +1284,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-04",
+      "value": 0.74727,
+      "released_at": "2026-03-04",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-05",
       "value": 0.74837,
       "released_at": "2026-03-05",
@@ -780,6 +1308,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-05",
+      "value": 0.74841,
+      "released_at": "2026-03-05",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-06",
       "value": 0.74845,
       "released_at": "2026-03-06",
@@ -790,6 +1330,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-06",
+      "value": 0.74987,
+      "released_at": "2026-03-06",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-03-07",
@@ -828,6 +1380,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-09",
+      "value": 0.74885,
+      "released_at": "2026-03-09",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-10",
       "value": 0.74444,
       "released_at": "2026-03-10",
@@ -838,6 +1402,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-10",
+      "value": 0.74345,
+      "released_at": "2026-03-10",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-03-11",
@@ -852,6 +1428,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-11",
+      "value": 0.74573,
+      "released_at": "2026-03-11",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-12",
       "value": 0.74598,
       "released_at": "2026-03-12",
@@ -864,6 +1452,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-12",
+      "value": 0.74689,
+      "released_at": "2026-03-12",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-13",
       "value": 0.75001,
       "released_at": "2026-03-13",
@@ -874,6 +1474,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-13",
+      "value": 0.75377,
+      "released_at": "2026-03-13",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-03-14",
@@ -912,6 +1524,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-16",
+      "value": 0.75281,
+      "released_at": "2026-03-16",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-17",
       "value": 0.75059,
       "released_at": "2026-03-17",
@@ -922,6 +1546,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-17",
+      "value": 0.74954,
+      "released_at": "2026-03-17",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-03-18",
@@ -936,6 +1572,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-18",
+      "value": 0.75124,
+      "released_at": "2026-03-18",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-19",
       "value": 0.75085,
       "released_at": "2026-03-19",
@@ -948,6 +1596,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-19",
+      "value": 0.75192,
+      "released_at": "2026-03-19",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-20",
       "value": 0.74895,
       "released_at": "2026-03-20",
@@ -958,6 +1618,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-20",
+      "value": 0.74806,
+      "released_at": "2026-03-20",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-03-21",
@@ -996,6 +1668,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-23",
+      "value": 0.74526,
+      "released_at": "2026-03-23",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-24",
       "value": 0.74623,
       "released_at": "2026-03-24",
@@ -1006,6 +1690,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-24",
+      "value": 0.74785,
+      "released_at": "2026-03-24",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-03-25",
@@ -1020,6 +1716,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-25",
+      "value": 0.7467,
+      "released_at": "2026-03-25",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-26",
       "value": 0.7477,
       "released_at": "2026-03-26",
@@ -1032,6 +1740,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-26",
+      "value": 0.74976,
+      "released_at": "2026-03-26",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-27",
       "value": 0.74977,
       "released_at": "2026-03-27",
@@ -1042,6 +1762,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-27",
+      "value": 0.75297,
+      "released_at": "2026-03-27",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-03-28",
@@ -1080,6 +1812,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-03-30",
+      "value": 0.75586,
+      "released_at": "2026-03-30",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-03-31",
       "value": 0.75564,
       "released_at": "2026-03-31",
@@ -1090,6 +1834,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-03-31",
+      "value": 0.7552,
+      "released_at": "2026-03-31",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-01",
@@ -1104,6 +1860,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-01",
+      "value": 0.75065,
+      "released_at": "2026-04-01",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-02",
       "value": 0.75356,
       "released_at": "2026-04-02",
@@ -1114,6 +1882,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-02",
+      "value": 0.75708,
+      "released_at": "2026-04-02",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-03",
@@ -1176,6 +1956,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-07",
+      "value": 0.75502,
+      "released_at": "2026-04-07",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-08",
       "value": 0.74771,
       "released_at": "2026-04-08",
@@ -1186,6 +1978,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-08",
+      "value": 0.74229,
+      "released_at": "2026-04-08",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-09",
@@ -1200,6 +2004,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-09",
+      "value": 0.745,
+      "released_at": "2026-04-09",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-10",
       "value": 0.74436,
       "released_at": "2026-04-10",
@@ -1210,6 +2026,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-10",
+      "value": 0.74379,
+      "released_at": "2026-04-10",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-11",
@@ -1248,6 +2076,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-13",
+      "value": 0.7451,
+      "released_at": "2026-04-13",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-14",
       "value": 0.74005,
       "released_at": "2026-04-14",
@@ -1258,6 +2098,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-14",
+      "value": 0.73699,
+      "released_at": "2026-04-14",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-15",
@@ -1272,6 +2124,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-15",
+      "value": 0.73799,
+      "released_at": "2026-04-15",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-16",
       "value": 0.7377,
       "released_at": "2026-04-16",
@@ -1284,6 +2148,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-16",
+      "value": 0.73836,
+      "released_at": "2026-04-16",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-17",
       "value": 0.73893,
       "released_at": "2026-04-17",
@@ -1294,6 +2170,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-17",
+      "value": 0.7389,
+      "released_at": "2026-04-17",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-18",
@@ -1332,6 +2220,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-20",
+      "value": 0.74018,
+      "released_at": "2026-04-20",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-21",
       "value": 0.73966,
       "released_at": "2026-04-21",
@@ -1342,6 +2242,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-21",
+      "value": 0.73965,
+      "released_at": "2026-04-21",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-22",
@@ -1356,6 +2268,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-22",
+      "value": 0.74067,
+      "released_at": "2026-04-22",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-23",
       "value": 0.74019,
       "released_at": "2026-04-23",
@@ -1368,6 +2292,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-23",
+      "value": 0.74034,
+      "released_at": "2026-04-23",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-24",
       "value": 0.7411,
       "released_at": "2026-04-24",
@@ -1378,6 +2314,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-24",
+      "value": 0.74115,
+      "released_at": "2026-04-24",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-25",
@@ -1416,6 +2364,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-27",
+      "value": 0.73691,
+      "released_at": "2026-04-27",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-28",
       "value": 0.73971,
       "released_at": "2026-04-28",
@@ -1426,6 +2386,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-28",
+      "value": 0.74242,
+      "released_at": "2026-04-28",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-04-29",
@@ -1440,6 +2412,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-04-29",
+      "value": 0.74016,
+      "released_at": "2026-04-29",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-04-30",
       "value": 0.74017,
       "released_at": "2026-04-30",
@@ -1450,6 +2434,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-04-30",
+      "value": 0.74026,
+      "released_at": "2026-04-30",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-01",
@@ -1500,6 +2496,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-04",
+      "value": 0.7381,
+      "released_at": "2026-05-04",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-05",
       "value": 0.73863,
       "released_at": "2026-05-05",
@@ -1510,6 +2518,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-05-05",
+      "value": 0.73886,
+      "released_at": "2026-05-05",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-06",
@@ -1524,6 +2544,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-06",
+      "value": 0.73431,
+      "released_at": "2026-05-06",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-07",
       "value": 0.73425,
       "released_at": "2026-05-07",
@@ -1536,6 +2568,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-07",
+      "value": 0.73415,
+      "released_at": "2026-05-07",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-08",
       "value": 0.73477,
       "released_at": "2026-05-08",
@@ -1546,6 +2590,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-05-08",
+      "value": 0.73472,
+      "released_at": "2026-05-08",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-09",
@@ -1584,6 +2640,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-11",
+      "value": 0.73513,
+      "released_at": "2026-05-11",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-12",
       "value": 0.73682,
       "released_at": "2026-05-12",
@@ -1594,6 +2662,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-05-12",
+      "value": 0.7395,
+      "released_at": "2026-05-12",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-13",
@@ -1608,6 +2688,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-13",
+      "value": 0.74019,
+      "released_at": "2026-05-13",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-14",
       "value": 0.7395,
       "released_at": "2026-05-14",
@@ -1620,6 +2712,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-14",
+      "value": 0.7402,
+      "released_at": "2026-05-14",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-15",
       "value": 0.74497,
       "released_at": "2026-05-15",
@@ -1630,6 +2734,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-05-15",
+      "value": 0.74862,
+      "released_at": "2026-05-15",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-16",
@@ -1668,6 +2784,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-18",
+      "value": 0.74708,
+      "released_at": "2026-05-18",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-19",
       "value": 0.74577,
       "released_at": "2026-05-19",
@@ -1678,6 +2806,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-05-19",
+      "value": 0.74588,
+      "released_at": "2026-05-19",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-20",
@@ -1692,6 +2832,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-20",
+      "value": 0.74616,
+      "released_at": "2026-05-20",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-21",
       "value": 0.74456,
       "released_at": "2026-05-21",
@@ -1704,6 +2856,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-21",
+      "value": 0.74518,
+      "released_at": "2026-05-21",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-22",
       "value": 0.74406,
       "released_at": "2026-05-22",
@@ -1714,6 +2878,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-05-22",
+      "value": 0.7453,
+      "released_at": "2026-05-22",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-23",
@@ -1752,6 +2928,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-25",
+      "value": 0.74083,
+      "released_at": "2026-05-25",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-26",
       "value": 0.74141,
       "released_at": "2026-05-26",
@@ -1762,6 +2950,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-05-26",
+      "value": 0.74244,
+      "released_at": "2026-05-26",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-27",
@@ -1776,6 +2976,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-27",
+      "value": 0.74433,
+      "released_at": "2026-05-27",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-28",
       "value": 0.74372,
       "released_at": "2026-05-28",
@@ -1788,6 +3000,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-05-28",
+      "value": 0.74602,
+      "released_at": "2026-05-28",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-05-29",
       "value": 0.74369,
       "released_at": "2026-05-29",
@@ -1798,6 +3022,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-05-29",
+      "value": 0.74479,
+      "released_at": "2026-05-29",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-05-30",
@@ -1836,6 +3072,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-01",
+      "value": 0.74268,
+      "released_at": "2026-06-01",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-02",
       "value": 0.74215,
       "released_at": "2026-06-02",
@@ -1846,6 +3094,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-02",
+      "value": 0.74225,
+      "released_at": "2026-06-02",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-06-03",
@@ -1860,6 +3120,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-03",
+      "value": 0.74367,
+      "released_at": "2026-06-03",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-04",
       "value": 0.74336,
       "released_at": "2026-06-04",
@@ -1872,6 +3144,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-04",
+      "value": 0.74304,
+      "released_at": "2026-06-04",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-05",
       "value": 0.7435,
       "released_at": "2026-06-05",
@@ -1882,6 +3166,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-05",
+      "value": 0.74255,
+      "released_at": "2026-06-05",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-06-06",
@@ -1920,6 +3216,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-08",
+      "value": 0.74835,
+      "released_at": "2026-06-08",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-09",
       "value": 0.7472,
       "released_at": "2026-06-09",
@@ -1930,6 +3238,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-09",
+      "value": 0.74605,
+      "released_at": "2026-06-09",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-06-10",
@@ -1944,6 +3264,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-10",
+      "value": 0.74727,
+      "released_at": "2026-06-10",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-11",
       "value": 0.74689,
       "released_at": "2026-06-11",
@@ -1956,6 +3288,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-11",
+      "value": 0.74829,
+      "released_at": "2026-06-11",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-12",
       "value": 0.74601,
       "released_at": "2026-06-12",
@@ -1966,6 +3310,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-12",
+      "value": 0.74613,
+      "released_at": "2026-06-12",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-06-13",
@@ -2004,6 +3360,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-15",
+      "value": 0.74509,
+      "released_at": "2026-06-15",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-16",
       "value": 0.74465,
       "released_at": "2026-06-16",
@@ -2014,6 +3382,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-16",
+      "value": 0.74583,
+      "released_at": "2026-06-16",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-06-17",
@@ -2028,6 +3408,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-17",
+      "value": 0.74595,
+      "released_at": "2026-06-17",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-18",
       "value": 0.75077,
       "released_at": "2026-06-18",
@@ -2040,6 +3432,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-18",
+      "value": 0.75594,
+      "released_at": "2026-06-18",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-19",
       "value": 0.75425,
       "released_at": "2026-06-19",
@@ -2050,6 +3454,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-19",
+      "value": 0.75567,
+      "released_at": "2026-06-19",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-06-20",
@@ -2088,6 +3504,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-22",
+      "value": 0.75478,
+      "released_at": "2026-06-22",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-23",
       "value": 0.75566,
       "released_at": "2026-06-23",
@@ -2098,6 +3526,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-23",
+      "value": 0.75667,
+      "released_at": "2026-06-23",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-06-24",
@@ -2112,6 +3552,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-24",
+      "value": 0.75983,
+      "released_at": "2026-06-24",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-25",
       "value": 0.75809,
       "released_at": "2026-06-25",
@@ -2124,6 +3576,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-25",
+      "value": 0.75986,
+      "released_at": "2026-06-25",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-26",
       "value": 0.75708,
       "released_at": "2026-06-26",
@@ -2134,6 +3598,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-26",
+      "value": 0.75654,
+      "released_at": "2026-06-26",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-06-27",
@@ -2172,6 +3648,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-06-29",
+      "value": 0.75587,
+      "released_at": "2026-06-29",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-06-30",
       "value": 0.75492,
       "released_at": "2026-06-30",
@@ -2182,6 +3670,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-06-30",
+      "value": 0.75635,
+      "released_at": "2026-06-30",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-01",
@@ -2196,6 +3696,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-01",
+      "value": 0.75528,
+      "released_at": "2026-07-01",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-02",
       "value": 0.75168,
       "released_at": "2026-07-02",
@@ -2208,6 +3720,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-02",
+      "value": 0.75151,
+      "released_at": "2026-07-02",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-03",
       "value": 0.74903,
       "released_at": "2026-07-03",
@@ -2218,6 +3742,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-03",
+      "value": 0.74878,
+      "released_at": "2026-07-03",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-04",
@@ -2256,6 +3792,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-06",
+      "value": 0.74935,
+      "released_at": "2026-07-06",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-07",
       "value": 0.74759,
       "released_at": "2026-07-07",
@@ -2266,6 +3814,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-07",
+      "value": 0.74706,
+      "released_at": "2026-07-07",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-08",
@@ -2280,6 +3840,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-08",
+      "value": 0.74917,
+      "released_at": "2026-07-08",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-09",
       "value": 0.74654,
       "released_at": "2026-07-09",
@@ -2292,6 +3864,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-09",
+      "value": 0.74651,
+      "released_at": "2026-07-09",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-10",
       "value": 0.7452,
       "released_at": "2026-07-10",
@@ -2302,6 +3886,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-10",
+      "value": 0.74501,
+      "released_at": "2026-07-10",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-11",
@@ -2340,6 +3936,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-13",
+      "value": 0.74694,
+      "released_at": "2026-07-13",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-14",
       "value": 0.74688,
       "released_at": "2026-07-14",
@@ -2350,6 +3958,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-14",
+      "value": 0.74717,
+      "released_at": "2026-07-14",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-15",
@@ -2364,6 +3984,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-15",
+      "value": 0.74604,
+      "released_at": "2026-07-15",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-16",
       "value": 0.74123,
       "released_at": "2026-07-16",
@@ -2376,6 +4008,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-16",
+      "value": 0.74015,
+      "released_at": "2026-07-16",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-17",
       "value": 0.7422,
       "released_at": "2026-07-17",
@@ -2386,6 +4030,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-17",
+      "value": 0.74419,
+      "released_at": "2026-07-17",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-18",
@@ -2424,6 +4080,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-20",
+      "value": 0.74294,
+      "released_at": "2026-07-20",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-21",
       "value": 0.74404,
       "released_at": "2026-07-21",
@@ -2434,6 +4102,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-21",
+      "value": 0.74623,
+      "released_at": "2026-07-21",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-22",
@@ -2448,6 +4128,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-22",
+      "value": 0.74807,
+      "released_at": "2026-07-22",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-23",
       "value": 0.74748,
       "released_at": "2026-07-23",
@@ -2460,6 +4152,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-23",
+      "value": 0.74893,
+      "released_at": "2026-07-23",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-24",
       "value": 0.74918,
       "released_at": "2026-07-24",
@@ -2470,6 +4174,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-24",
+      "value": 0.75053,
+      "released_at": "2026-07-24",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-25",
@@ -2508,6 +4224,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-27",
+      "value": 0.75094,
+      "released_at": "2026-07-27",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-28",
       "value": 0.75105,
       "released_at": "2026-07-28",
@@ -2518,6 +4246,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-28",
+      "value": 0.75262,
+      "released_at": "2026-07-28",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-07-29",
@@ -2532,6 +4272,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-29",
+      "value": 0.7525,
+      "released_at": "2026-07-29",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-30",
       "value": 0.74843,
       "released_at": "2026-07-30",
@@ -2544,6 +4296,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-07-30",
+      "value": 0.74691,
+      "released_at": "2026-07-30",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-07-31",
       "value": 0.74412,
       "released_at": "2026-07-31",
@@ -2554,6 +4318,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-07-31",
+      "value": 0.74508,
+      "released_at": "2026-07-31",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-01",
@@ -2592,6 +4368,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-03",
+      "value": 0.74238,
+      "released_at": "2026-08-03",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-04",
       "value": 0.7435,
       "released_at": "2026-08-04",
@@ -2602,6 +4390,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-08-04",
+      "value": 0.74372,
+      "released_at": "2026-08-04",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-05",
@@ -2616,6 +4416,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-05",
+      "value": 0.74191,
+      "released_at": "2026-08-05",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-06",
       "value": 0.74247,
       "released_at": "2026-08-06",
@@ -2628,6 +4440,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-06",
+      "value": 0.74255,
+      "released_at": "2026-08-06",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-07",
       "value": 0.74267,
       "released_at": "2026-08-07",
@@ -2638,6 +4462,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-08-07",
+      "value": 0.74352,
+      "released_at": "2026-08-07",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-08",
@@ -2676,6 +4512,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-10",
+      "value": 0.7405,
+      "released_at": "2026-08-10",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-11",
       "value": 0.7405,
       "released_at": "2026-08-11",
@@ -2686,6 +4534,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-08-11",
+      "value": 0.74075,
+      "released_at": "2026-08-11",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-12",
@@ -2700,6 +4560,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-12",
+      "value": 0.73935,
+      "released_at": "2026-08-12",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-13",
       "value": 0.74061,
       "released_at": "2026-08-13",
@@ -2712,6 +4584,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-13",
+      "value": 0.7412,
+      "released_at": "2026-08-13",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-14",
       "value": 0.73987,
       "released_at": "2026-08-14",
@@ -2722,6 +4606,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-08-14",
+      "value": 0.73874,
+      "released_at": "2026-08-14",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-15",
@@ -2760,6 +4656,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-17",
+      "value": 0.73751,
+      "released_at": "2026-08-17",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-18",
       "value": 0.73816,
       "released_at": "2026-08-18",
@@ -2770,6 +4678,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-08-18",
+      "value": 0.73933,
+      "released_at": "2026-08-18",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-19",
@@ -2784,6 +4704,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-19",
+      "value": 0.73768,
+      "released_at": "2026-08-19",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-20",
       "value": 0.73474,
       "released_at": "2026-08-20",
@@ -2796,6 +4728,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-20",
+      "value": 0.73388,
+      "released_at": "2026-08-20",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-21",
       "value": 0.73332,
       "released_at": "2026-08-21",
@@ -2806,6 +4750,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-08-21",
+      "value": 0.73228,
+      "released_at": "2026-08-21",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-22",
@@ -2844,6 +4800,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-24",
+      "value": 0.73345,
+      "released_at": "2026-08-24",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-25",
       "value": 0.73316,
       "released_at": "2026-08-25",
@@ -2854,6 +4822,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-08-25",
+      "value": 0.73358,
+      "released_at": "2026-08-25",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-26",
@@ -2868,6 +4848,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-26",
+      "value": 0.73368,
+      "released_at": "2026-08-26",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-27",
       "value": 0.73522,
       "released_at": "2026-08-27",
@@ -2880,6 +4872,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-27",
+      "value": 0.73628,
+      "released_at": "2026-08-27",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-08-28",
       "value": 0.7359,
       "released_at": "2026-08-28",
@@ -2890,6 +4894,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-08-28",
+      "value": 0.73624,
+      "released_at": "2026-08-28",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-08-29",
@@ -2928,6 +4944,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-08-31",
+      "value": 0.7386,
+      "released_at": "2026-08-31",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-01",
       "value": 0.73802,
       "released_at": "2026-09-01",
@@ -2938,6 +4966,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-01",
+      "value": 0.73904,
+      "released_at": "2026-09-01",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-02",
@@ -2952,6 +4992,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-02",
+      "value": 0.74167,
+      "released_at": "2026-09-02",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-03",
       "value": 0.74066,
       "released_at": "2026-09-03",
@@ -2964,6 +5016,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-03",
+      "value": 0.7409,
+      "released_at": "2026-09-03",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-04",
       "value": 0.73897,
       "released_at": "2026-09-04",
@@ -2974,6 +5038,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-04",
+      "value": 0.7391,
+      "released_at": "2026-09-04",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-05",
@@ -3012,6 +5088,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-07",
+      "value": 0.73906,
+      "released_at": "2026-09-07",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-08",
       "value": 0.7388,
       "released_at": "2026-09-08",
@@ -3022,6 +5110,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-08",
+      "value": 0.73825,
+      "released_at": "2026-09-08",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-09",
@@ -3036,6 +5136,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-09",
+      "value": 0.7372,
+      "released_at": "2026-09-09",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-10",
       "value": 0.73784,
       "released_at": "2026-09-10",
@@ -3048,6 +5160,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-10",
+      "value": 0.73963,
+      "released_at": "2026-09-10",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-11",
       "value": 0.73901,
       "released_at": "2026-09-11",
@@ -3058,6 +5182,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-11",
+      "value": 0.7403,
+      "released_at": "2026-09-11",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-12",
@@ -3096,6 +5232,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-14",
+      "value": 0.74104,
+      "released_at": "2026-09-14",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-15",
       "value": 0.74111,
       "released_at": "2026-09-15",
@@ -3106,6 +5254,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-15",
+      "value": 0.74166,
+      "released_at": "2026-09-15",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-16",
@@ -3120,6 +5280,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-16",
+      "value": 0.74317,
+      "released_at": "2026-09-16",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-17",
       "value": 0.74558,
       "released_at": "2026-09-17",
@@ -3132,6 +5304,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-17",
+      "value": 0.74758,
+      "released_at": "2026-09-17",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-18",
       "value": 0.74708,
       "released_at": "2026-09-18",
@@ -3142,6 +5326,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-18",
+      "value": 0.74939,
+      "released_at": "2026-09-18",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-19",
@@ -3180,6 +5376,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-21",
+      "value": 0.74656,
+      "released_at": "2026-09-21",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-22",
       "value": 0.74738,
       "released_at": "2026-09-22",
@@ -3190,6 +5398,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-22",
+      "value": 0.74832,
+      "released_at": "2026-09-22",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-23",
@@ -3204,6 +5424,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-23",
+      "value": 0.75322,
+      "released_at": "2026-09-23",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-24",
       "value": 0.7541,
       "released_at": "2026-09-24",
@@ -3216,6 +5448,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-24",
+      "value": 0.75645,
+      "released_at": "2026-09-24",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-25",
       "value": 0.75461,
       "released_at": "2026-09-25",
@@ -3226,6 +5470,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-25",
+      "value": 0.75458,
+      "released_at": "2026-09-25",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-26",
@@ -3264,6 +5520,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-28",
+      "value": 0.75396,
+      "released_at": "2026-09-28",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-09-29",
       "value": 0.75425,
       "released_at": "2026-09-29",
@@ -3274,6 +5542,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-09-29",
+      "value": 0.75489,
+      "released_at": "2026-09-29",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-09-30",
@@ -3288,6 +5568,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-09-30",
+      "value": 0.75265,
+      "released_at": "2026-09-30",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-10-01",
       "value": 0.75425,
       "released_at": "2026-10-01",
@@ -3300,6 +5592,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-10-01",
+      "value": 0.75565,
+      "released_at": "2026-10-01",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-10-02",
       "value": 0.75551,
       "released_at": "2026-10-02",
@@ -3310,6 +5614,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-02",
+      "value": 0.75753,
+      "released_at": "2026-10-02",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-10-03",
@@ -3348,6 +5664,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-10-05",
+      "value": 0.75616,
+      "released_at": "2026-10-05",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-10-06",
       "value": 0.75471,
       "released_at": "2026-10-06",
@@ -3358,6 +5686,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-06",
+      "value": 0.75322,
+      "released_at": "2026-10-06",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-10-07",
@@ -3372,6 +5712,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-10-07",
+      "value": 0.75731,
+      "released_at": "2026-10-07",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-10-08",
       "value": 0.75604,
       "released_at": "2026-10-08",
@@ -3384,6 +5736,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-10-08",
+      "value": 0.75718,
+      "released_at": "2026-10-08",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-10-09",
       "value": 0.75565,
       "released_at": "2026-10-09",
@@ -3394,6 +5758,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-09",
+      "value": 0.75641,
+      "released_at": "2026-10-09",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-10-10",
@@ -3432,6 +5808,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-10-12",
+      "value": 0.75555,
+      "released_at": "2026-10-12",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-10-13",
       "value": 0.75493,
       "released_at": "2026-10-13",
@@ -3442,6 +5830,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-13",
+      "value": 0.75492,
+      "released_at": "2026-10-13",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-10-14",
@@ -3456,6 +5856,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-10-14",
+      "value": 0.75377,
+      "released_at": "2026-10-14",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-10-15",
       "value": 0.75443,
       "released_at": "2026-10-15",
@@ -3468,6 +5880,18 @@
       "is_revision": false
     },
     {
+      "period": "2026-10-15",
+      "value": 0.75491,
+      "released_at": "2026-10-15",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
       "period": "2026-10-16",
       "value": 0.75258,
       "released_at": "2026-10-16",
@@ -3478,6 +5902,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-16",
+      "value": 0.74989,
+      "released_at": "2026-10-16",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     },
     {
       "period": "2026-10-17",
@@ -3496,6 +5932,18 @@
       "value": 0.75204,
       "released_at": "2026-10-18",
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-19",
+      "value": 0.75016,
+      "released_at": "2026-10-19",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
       "source_id": "frankfurter",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",

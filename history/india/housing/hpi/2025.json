@@ -12,18 +12,6 @@
   },
   "observations": [
     {
-      "period": "Dec 2025",
-      "value": 102.46,
-      "released_at": null,
-      "collected_at": "2026-10-19T19:24:10.937299+05:30",
-      "source_id": "nhb-residex",
-      "source": "NHB RESIDEX",
-      "source_url": "https://residex.nhbonline.org.in/",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
-    },
-    {
       "period": "Jun 2025",
       "value": 100.17,
       "released_at": null,
@@ -38,6 +26,18 @@
     {
       "period": "Sep 2025",
       "value": 100.78,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "nhb-residex",
+      "source": "NHB RESIDEX",
+      "source_url": "https://residex.nhbonline.org.in/",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Dec 2025",
+      "value": 102.46,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "nhb-residex",

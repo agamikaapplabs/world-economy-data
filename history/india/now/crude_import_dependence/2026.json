@@ -1,0 +1,29 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.now.crude_import_dependence",
+  "metadata": {
+    "name": "Crude import dependence",
+    "unit": "%",
+    "frequency": "monthly cumulative FY",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "PPAC · Ministry of Petroleum & Natural Gas",
+    "source_url": "https://ppac.gov.in/",
+    "metric_type": "percent",
+    "stale_after_days": 45
+  },
+  "observations": [
+    {
+      "period": "Apr-Sep 2026",
+      "value": 88.1,
+      "released_at": "2026-10-16",
+      "collected_at": "2026-10-20T11:00:34.392452+05:30",
+      "source_id": "ppac-ministry-of-petroleum-natural-gas",
+      "source": "PPAC · Ministry of Petroleum & Natural Gas",
+      "source_url": "https://ppac.gov.in/",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

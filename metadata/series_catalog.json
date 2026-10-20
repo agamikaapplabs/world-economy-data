@@ -1,7 +1,7 @@
 {
   "schema_version": "5.0",
-  "generated_at": "2026-10-20T00:31:35.315897+05:30",
-  "series_count": 424,
+  "generated_at": "2026-10-20T12:45:33.871605+05:30",
+  "series_count": 484,
   "series": {
     "india.auto.commercial_vehicles": {
       "name": "Commercial vehicle sales",
@@ -86,6 +86,121 @@
       "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
       "history_files": [
         "history/india/labour/unemployment/2026.json"
+      ]
+    },
+    "india.now.cpi_inflation": {
+      "name": "CPI inflation",
+      "unit": "%",
+      "frequency": "monthly",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "MoSPI CPI",
+      "source_url": "https://esankhyiki.mospi.gov.in/",
+      "metric_type": "percent",
+      "stale_after_days": 45,
+      "history_files": [
+        "history/india/now/cpi_inflation/2026.json"
+      ]
+    },
+    "india.now.crude_import_dependence": {
+      "name": "Crude import dependence",
+      "unit": "%",
+      "frequency": "monthly cumulative FY",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "PPAC · Ministry of Petroleum & Natural Gas",
+      "source_url": "https://ppac.gov.in/",
+      "metric_type": "percent",
+      "stale_after_days": 45,
+      "history_files": [
+        "history/india/now/crude_import_dependence/2025.json",
+        "history/india/now/crude_import_dependence/2026.json"
+      ]
+    },
+    "india.now.current_account_gdp": {
+      "name": "Current account / GDP",
+      "unit": "%",
+      "frequency": "quarterly",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "Reserve Bank of India · Balance of Payments",
+      "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+      "metric_type": "percent",
+      "stale_after_days": 125,
+      "history_files": [
+        "history/india/now/current_account_gdp/2025.json",
+        "history/india/now/current_account_gdp/2026.json"
+      ]
+    },
+    "india.now.fx_reserves_usd_bn": {
+      "name": "FX reserves",
+      "unit": "US$ bn",
+      "frequency": "weekly",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "Reserve Bank of India · Weekly Statistical Supplement",
+      "source_url": "https://data.rbi.org.in/",
+      "metric_type": "usd_billion",
+      "stale_after_days": 15,
+      "history_files": [
+        "history/india/now/fx_reserves_usd_bn/2026.json"
+      ]
+    },
+    "india.now.real_gdp_growth": {
+      "name": "Real GDP growth",
+      "unit": "%",
+      "frequency": "quarterly",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "metric_type": "percent",
+      "stale_after_days": 125,
+      "history_files": [
+        "history/india/now/real_gdp_growth/2025.json",
+        "history/india/now/real_gdp_growth/2026.json"
+      ]
+    },
+    "india.now.total_exports_usd_bn": {
+      "name": "Total exports",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "Department of Commerce",
+      "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "metric_type": "usd_billion",
+      "stale_after_days": 45,
+      "history_files": [
+        "history/india/now/total_exports_usd_bn/2026.json"
+      ]
+    },
+    "india.now.total_imports_usd_bn": {
+      "name": "Total imports",
+      "unit": "US$ bn",
+      "frequency": "monthly",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "Department of Commerce",
+      "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "metric_type": "usd_billion",
+      "stale_after_days": 45,
+      "history_files": [
+        "history/india/now/total_imports_usd_bn/2026.json"
+      ]
+    },
+    "india.now.unemployment": {
+      "name": "Unemployment rate",
+      "unit": "%",
+      "frequency": "monthly",
+      "domain": "india_now",
+      "country": "IND",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "metric_type": "percent",
+      "stale_after_days": 45,
+      "history_files": [
+        "history/india/now/unemployment/2026.json"
       ]
     },
     "india.rail.freight_mt": {
@@ -7228,6 +7343,244 @@
         "history/macro/usa/unemployment/2025.json"
       ]
     },
+    "market.abb.close": {
+      "name": "ABB",
+      "unit": "CHF",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/ABBN.SW",
+      "history_files": [
+        "history/market/abb/close/2021.json",
+        "history/market/abb/close/2022.json",
+        "history/market/abb/close/2023.json",
+        "history/market/abb/close/2024.json",
+        "history/market/abb/close/2025.json",
+        "history/market/abb/close/2026.json"
+      ]
+    },
+    "market.airbus.close": {
+      "name": "Airbus",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "history_files": [
+        "history/market/airbus/close/2021.json",
+        "history/market/airbus/close/2022.json",
+        "history/market/airbus/close/2023.json",
+        "history/market/airbus/close/2024.json",
+        "history/market/airbus/close/2025.json",
+        "history/market/airbus/close/2026.json"
+      ]
+    },
+    "market.alphabet.close": {
+      "name": "Alphabet",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/GOOGL",
+      "history_files": [
+        "history/market/alphabet/close/2021.json",
+        "history/market/alphabet/close/2022.json",
+        "history/market/alphabet/close/2023.json",
+        "history/market/alphabet/close/2024.json",
+        "history/market/alphabet/close/2025.json",
+        "history/market/alphabet/close/2026.json"
+      ]
+    },
+    "market.amazon.close": {
+      "name": "Amazon",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AMZN",
+      "history_files": [
+        "history/market/amazon/close/2021.json",
+        "history/market/amazon/close/2022.json",
+        "history/market/amazon/close/2023.json",
+        "history/market/amazon/close/2024.json",
+        "history/market/amazon/close/2025.json",
+        "history/market/amazon/close/2026.json"
+      ]
+    },
+    "market.apple.close": {
+      "name": "Apple",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AAPL",
+      "history_files": [
+        "history/market/apple/close/2021.json",
+        "history/market/apple/close/2022.json",
+        "history/market/apple/close/2023.json",
+        "history/market/apple/close/2024.json",
+        "history/market/apple/close/2025.json",
+        "history/market/apple/close/2026.json"
+      ]
+    },
+    "market.asml.close": {
+      "name": "ASML",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/ASML.AS",
+      "history_files": [
+        "history/market/asml/close/2021.json",
+        "history/market/asml/close/2022.json",
+        "history/market/asml/close/2023.json",
+        "history/market/asml/close/2024.json",
+        "history/market/asml/close/2025.json",
+        "history/market/asml/close/2026.json"
+      ]
+    },
+    "market.bae.close": {
+      "name": "BAE Systems",
+      "unit": "GBp",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/BA.L",
+      "history_files": [
+        "history/market/bae/close/2021.json",
+        "history/market/bae/close/2022.json",
+        "history/market/bae/close/2023.json",
+        "history/market/bae/close/2024.json",
+        "history/market/bae/close/2025.json",
+        "history/market/bae/close/2026.json"
+      ]
+    },
+    "market.bharti.close": {
+      "name": "Bharti Airtel",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": "IND",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/BHARTIARTL.NS",
+      "history_files": [
+        "history/market/bharti/close/2021.json",
+        "history/market/bharti/close/2022.json",
+        "history/market/bharti/close/2023.json",
+        "history/market/bharti/close/2024.json",
+        "history/market/bharti/close/2025.json",
+        "history/market/bharti/close/2026.json"
+      ]
+    },
+    "market.brent.close": {
+      "name": "Brent Crude",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/BZ=F",
+      "history_files": [
+        "history/market/brent/close/2021.json",
+        "history/market/brent/close/2022.json",
+        "history/market/brent/close/2023.json",
+        "history/market/brent/close/2024.json",
+        "history/market/brent/close/2025.json",
+        "history/market/brent/close/2026.json"
+      ]
+    },
+    "market.broadcom.close": {
+      "name": "Broadcom",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "history_files": [
+        "history/market/broadcom/close/2021.json",
+        "history/market/broadcom/close/2022.json",
+        "history/market/broadcom/close/2023.json",
+        "history/market/broadcom/close/2024.json",
+        "history/market/broadcom/close/2025.json",
+        "history/market/broadcom/close/2026.json"
+      ]
+    },
+    "market.caterpillar.close": {
+      "name": "Caterpillar",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/CAT",
+      "history_files": [
+        "history/market/caterpillar/close/2021.json",
+        "history/market/caterpillar/close/2022.json",
+        "history/market/caterpillar/close/2023.json",
+        "history/market/caterpillar/close/2024.json",
+        "history/market/caterpillar/close/2025.json",
+        "history/market/caterpillar/close/2026.json"
+      ]
+    },
+    "market.copper.close": {
+      "name": "Copper",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "history_files": [
+        "history/market/copper/close/2021.json",
+        "history/market/copper/close/2022.json",
+        "history/market/copper/close/2023.json",
+        "history/market/copper/close/2024.json",
+        "history/market/copper/close/2025.json",
+        "history/market/copper/close/2026.json"
+      ]
+    },
+    "market.corn.close": {
+      "name": "Corn",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/ZC=F",
+      "history_files": [
+        "history/market/corn/close/2021.json",
+        "history/market/corn/close/2022.json",
+        "history/market/corn/close/2023.json",
+        "history/market/corn/close/2024.json",
+        "history/market/corn/close/2025.json",
+        "history/market/corn/close/2026.json"
+      ]
+    },
+    "market.deere.close": {
+      "name": "Deere",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/DE",
+      "history_files": [
+        "history/market/deere/close/2021.json",
+        "history/market/deere/close/2022.json",
+        "history/market/deere/close/2023.json",
+        "history/market/deere/close/2024.json",
+        "history/market/deere/close/2025.json",
+        "history/market/deere/close/2026.json"
+      ]
+    },
     "market.ftse100.close": {
       "name": "FTSE 100",
       "unit": "index",
@@ -7237,19 +7590,58 @@
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^FTSE",
       "history_files": [
+        "history/market/ftse100/close/2021.json",
+        "history/market/ftse100/close/2022.json",
+        "history/market/ftse100/close/2023.json",
+        "history/market/ftse100/close/2024.json",
         "history/market/ftse100/close/2025.json",
         "history/market/ftse100/close/2026.json"
       ]
     },
+    "market.generaldynamics.close": {
+      "name": "General Dynamics",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/GD",
+      "history_files": [
+        "history/market/generaldynamics/close/2021.json",
+        "history/market/generaldynamics/close/2022.json",
+        "history/market/generaldynamics/close/2023.json",
+        "history/market/generaldynamics/close/2024.json",
+        "history/market/generaldynamics/close/2025.json",
+        "history/market/generaldynamics/close/2026.json"
+      ]
+    },
+    "market.gevernova.close": {
+      "name": "GE Vernova",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/GEV",
+      "history_files": [
+        "history/market/gevernova/close/2024.json",
+        "history/market/gevernova/close/2025.json",
+        "history/market/gevernova/close/2026.json"
+      ]
+    },
     "market.gold.close": {
       "name": "Gold",
-      "unit": "USD/troy oz",
+      "unit": "USD",
       "frequency": "daily",
       "domain": "market",
       "country": null,
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/GC=F",
       "history_files": [
+        "history/market/gold/close/2021.json",
+        "history/market/gold/close/2022.json",
+        "history/market/gold/close/2023.json",
+        "history/market/gold/close/2024.json",
         "history/market/gold/close/2025.json",
         "history/market/gold/close/2026.json"
       ]
@@ -7263,8 +7655,216 @@
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^HSI",
       "history_files": [
+        "history/market/hangseng/close/2021.json",
+        "history/market/hangseng/close/2022.json",
+        "history/market/hangseng/close/2023.json",
+        "history/market/hangseng/close/2024.json",
         "history/market/hangseng/close/2025.json",
         "history/market/hangseng/close/2026.json"
+      ]
+    },
+    "market.hdfcbank.close": {
+      "name": "HDFC Bank",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": "IND",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HDFCBANK.NS",
+      "history_files": [
+        "history/market/hdfcbank/close/2021.json",
+        "history/market/hdfcbank/close/2022.json",
+        "history/market/hdfcbank/close/2023.json",
+        "history/market/hdfcbank/close/2024.json",
+        "history/market/hdfcbank/close/2025.json",
+        "history/market/hdfcbank/close/2026.json"
+      ]
+    },
+    "market.honeywell.close": {
+      "name": "Honeywell",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HON",
+      "history_files": [
+        "history/market/honeywell/close/2021.json",
+        "history/market/honeywell/close/2022.json",
+        "history/market/honeywell/close/2023.json",
+        "history/market/honeywell/close/2024.json",
+        "history/market/honeywell/close/2025.json",
+        "history/market/honeywell/close/2026.json"
+      ]
+    },
+    "market.icicibank.close": {
+      "name": "ICICI Bank",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": "IND",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/ICICIBANK.NS",
+      "history_files": [
+        "history/market/icicibank/close/2021.json",
+        "history/market/icicibank/close/2022.json",
+        "history/market/icicibank/close/2023.json",
+        "history/market/icicibank/close/2024.json",
+        "history/market/icicibank/close/2025.json",
+        "history/market/icicibank/close/2026.json"
+      ]
+    },
+    "market.infosys.close": {
+      "name": "Infosys",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": "IND",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/INFY.NS",
+      "history_files": [
+        "history/market/infosys/close/2021.json",
+        "history/market/infosys/close/2022.json",
+        "history/market/infosys/close/2023.json",
+        "history/market/infosys/close/2024.json",
+        "history/market/infosys/close/2025.json",
+        "history/market/infosys/close/2026.json"
+      ]
+    },
+    "market.leonardo.close": {
+      "name": "Leonardo",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/LDO.MI",
+      "history_files": [
+        "history/market/leonardo/close/2021.json",
+        "history/market/leonardo/close/2022.json",
+        "history/market/leonardo/close/2023.json",
+        "history/market/leonardo/close/2024.json",
+        "history/market/leonardo/close/2025.json",
+        "history/market/leonardo/close/2026.json"
+      ]
+    },
+    "market.lockheed.close": {
+      "name": "Lockheed Martin",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/LMT",
+      "history_files": [
+        "history/market/lockheed/close/2021.json",
+        "history/market/lockheed/close/2022.json",
+        "history/market/lockheed/close/2023.json",
+        "history/market/lockheed/close/2024.json",
+        "history/market/lockheed/close/2025.json",
+        "history/market/lockheed/close/2026.json"
+      ]
+    },
+    "market.lt.close": {
+      "name": "Larsen & Toubro",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": "IND",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/LT.NS",
+      "history_files": [
+        "history/market/lt/close/2021.json",
+        "history/market/lt/close/2022.json",
+        "history/market/lt/close/2023.json",
+        "history/market/lt/close/2024.json",
+        "history/market/lt/close/2025.json",
+        "history/market/lt/close/2026.json"
+      ]
+    },
+    "market.lt_heavy.close": {
+      "name": "Larsen & Toubro",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/LT.NS",
+      "history_files": [
+        "history/market/lt_heavy/close/2021.json",
+        "history/market/lt_heavy/close/2022.json",
+        "history/market/lt_heavy/close/2023.json",
+        "history/market/lt_heavy/close/2024.json",
+        "history/market/lt_heavy/close/2025.json",
+        "history/market/lt_heavy/close/2026.json"
+      ]
+    },
+    "market.lvmh.close": {
+      "name": "LVMH",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/MC.PA",
+      "history_files": [
+        "history/market/lvmh/close/2021.json",
+        "history/market/lvmh/close/2022.json",
+        "history/market/lvmh/close/2023.json",
+        "history/market/lvmh/close/2024.json",
+        "history/market/lvmh/close/2025.json",
+        "history/market/lvmh/close/2026.json"
+      ]
+    },
+    "market.meta.close": {
+      "name": "Meta",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/META",
+      "history_files": [
+        "history/market/meta/close/2021.json",
+        "history/market/meta/close/2022.json",
+        "history/market/meta/close/2023.json",
+        "history/market/meta/close/2024.json",
+        "history/market/meta/close/2025.json",
+        "history/market/meta/close/2026.json"
+      ]
+    },
+    "market.mhi.close": {
+      "name": "Mitsubishi Heavy Industries",
+      "unit": "JPY",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/7011.T",
+      "history_files": [
+        "history/market/mhi/close/2021.json",
+        "history/market/mhi/close/2022.json",
+        "history/market/mhi/close/2023.json",
+        "history/market/mhi/close/2024.json",
+        "history/market/mhi/close/2025.json",
+        "history/market/mhi/close/2026.json"
+      ]
+    },
+    "market.microsoft.close": {
+      "name": "Microsoft",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/MSFT",
+      "history_files": [
+        "history/market/microsoft/close/2021.json",
+        "history/market/microsoft/close/2022.json",
+        "history/market/microsoft/close/2023.json",
+        "history/market/microsoft/close/2024.json",
+        "history/market/microsoft/close/2025.json",
+        "history/market/microsoft/close/2026.json"
       ]
     },
     "market.nasdaq.close": {
@@ -7276,8 +7876,29 @@
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^IXIC",
       "history_files": [
+        "history/market/nasdaq/close/2021.json",
+        "history/market/nasdaq/close/2022.json",
+        "history/market/nasdaq/close/2023.json",
+        "history/market/nasdaq/close/2024.json",
         "history/market/nasdaq/close/2025.json",
         "history/market/nasdaq/close/2026.json"
+      ]
+    },
+    "market.natgas.close": {
+      "name": "Natural Gas",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NG=F",
+      "history_files": [
+        "history/market/natgas/close/2021.json",
+        "history/market/natgas/close/2022.json",
+        "history/market/natgas/close/2023.json",
+        "history/market/natgas/close/2024.json",
+        "history/market/natgas/close/2025.json",
+        "history/market/natgas/close/2026.json"
       ]
     },
     "market.nifty50.close": {
@@ -7289,6 +7910,10 @@
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^NSEI",
       "history_files": [
+        "history/market/nifty50/close/2021.json",
+        "history/market/nifty50/close/2022.json",
+        "history/market/nifty50/close/2023.json",
+        "history/market/nifty50/close/2024.json",
         "history/market/nifty50/close/2025.json",
         "history/market/nifty50/close/2026.json"
       ]
@@ -7302,19 +7927,231 @@
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^N225",
       "history_files": [
+        "history/market/nikkei/close/2021.json",
+        "history/market/nikkei/close/2022.json",
+        "history/market/nikkei/close/2023.json",
+        "history/market/nikkei/close/2024.json",
         "history/market/nikkei/close/2025.json",
         "history/market/nikkei/close/2026.json"
       ]
     },
+    "market.northrop.close": {
+      "name": "Northrop Grumman",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOC",
+      "history_files": [
+        "history/market/northrop/close/2021.json",
+        "history/market/northrop/close/2022.json",
+        "history/market/northrop/close/2023.json",
+        "history/market/northrop/close/2024.json",
+        "history/market/northrop/close/2025.json",
+        "history/market/northrop/close/2026.json"
+      ]
+    },
+    "market.novo.close": {
+      "name": "Novo Nordisk",
+      "unit": "DKK",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "history_files": [
+        "history/market/novo/close/2021.json",
+        "history/market/novo/close/2022.json",
+        "history/market/novo/close/2023.json",
+        "history/market/novo/close/2024.json",
+        "history/market/novo/close/2025.json",
+        "history/market/novo/close/2026.json"
+      ]
+    },
+    "market.nvidia.close": {
+      "name": "NVIDIA",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "history_files": [
+        "history/market/nvidia/close/2021.json",
+        "history/market/nvidia/close/2022.json",
+        "history/market/nvidia/close/2023.json",
+        "history/market/nvidia/close/2024.json",
+        "history/market/nvidia/close/2025.json",
+        "history/market/nvidia/close/2026.json"
+      ]
+    },
+    "market.reliance.close": {
+      "name": "Reliance Industries",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": "IND",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/RELIANCE.NS",
+      "history_files": [
+        "history/market/reliance/close/2021.json",
+        "history/market/reliance/close/2022.json",
+        "history/market/reliance/close/2023.json",
+        "history/market/reliance/close/2024.json",
+        "history/market/reliance/close/2025.json",
+        "history/market/reliance/close/2026.json"
+      ]
+    },
+    "market.rheinmetall.close": {
+      "name": "Rheinmetall",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/RHM.DE",
+      "history_files": [
+        "history/market/rheinmetall/close/2021.json",
+        "history/market/rheinmetall/close/2022.json",
+        "history/market/rheinmetall/close/2023.json",
+        "history/market/rheinmetall/close/2024.json",
+        "history/market/rheinmetall/close/2025.json",
+        "history/market/rheinmetall/close/2026.json"
+      ]
+    },
+    "market.rtx.close": {
+      "name": "RTX",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/RTX",
+      "history_files": [
+        "history/market/rtx/close/2021.json",
+        "history/market/rtx/close/2022.json",
+        "history/market/rtx/close/2023.json",
+        "history/market/rtx/close/2024.json",
+        "history/market/rtx/close/2025.json",
+        "history/market/rtx/close/2026.json"
+      ]
+    },
+    "market.sap.close": {
+      "name": "SAP",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SAP.DE",
+      "history_files": [
+        "history/market/sap/close/2021.json",
+        "history/market/sap/close/2022.json",
+        "history/market/sap/close/2023.json",
+        "history/market/sap/close/2024.json",
+        "history/market/sap/close/2025.json",
+        "history/market/sap/close/2026.json"
+      ]
+    },
+    "market.sbi.close": {
+      "name": "State Bank of India",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": "IND",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SBIN.NS",
+      "history_files": [
+        "history/market/sbi/close/2021.json",
+        "history/market/sbi/close/2022.json",
+        "history/market/sbi/close/2023.json",
+        "history/market/sbi/close/2024.json",
+        "history/market/sbi/close/2025.json",
+        "history/market/sbi/close/2026.json"
+      ]
+    },
+    "market.schneider.close": {
+      "name": "Schneider Electric",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SU.PA",
+      "history_files": [
+        "history/market/schneider/close/2021.json",
+        "history/market/schneider/close/2022.json",
+        "history/market/schneider/close/2023.json",
+        "history/market/schneider/close/2024.json",
+        "history/market/schneider/close/2025.json",
+        "history/market/schneider/close/2026.json"
+      ]
+    },
+    "market.shell.close": {
+      "name": "Shell",
+      "unit": "GBp",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SHEL.L",
+      "history_files": [
+        "history/market/shell/close/2021.json",
+        "history/market/shell/close/2022.json",
+        "history/market/shell/close/2023.json",
+        "history/market/shell/close/2024.json",
+        "history/market/shell/close/2025.json",
+        "history/market/shell/close/2026.json"
+      ]
+    },
+    "market.siemens_eu.close": {
+      "name": "Siemens",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SIE.DE",
+      "history_files": [
+        "history/market/siemens_eu/close/2021.json",
+        "history/market/siemens_eu/close/2022.json",
+        "history/market/siemens_eu/close/2023.json",
+        "history/market/siemens_eu/close/2024.json",
+        "history/market/siemens_eu/close/2025.json",
+        "history/market/siemens_eu/close/2026.json"
+      ]
+    },
+    "market.siemens_heavy.close": {
+      "name": "Siemens",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SIE.DE",
+      "history_files": [
+        "history/market/siemens_heavy/close/2021.json",
+        "history/market/siemens_heavy/close/2022.json",
+        "history/market/siemens_heavy/close/2023.json",
+        "history/market/siemens_heavy/close/2024.json",
+        "history/market/siemens_heavy/close/2025.json",
+        "history/market/siemens_heavy/close/2026.json"
+      ]
+    },
     "market.silver.close": {
       "name": "Silver",
-      "unit": "USD/troy oz",
+      "unit": "USD",
       "frequency": "daily",
       "domain": "market",
       "country": null,
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",
       "history_files": [
+        "history/market/silver/close/2021.json",
+        "history/market/silver/close/2022.json",
+        "history/market/silver/close/2023.json",
+        "history/market/silver/close/2024.json",
         "history/market/silver/close/2025.json",
         "history/market/silver/close/2026.json"
       ]
@@ -7328,8 +8165,148 @@
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^GSPC",
       "history_files": [
+        "history/market/sp500/close/2021.json",
+        "history/market/sp500/close/2022.json",
+        "history/market/sp500/close/2023.json",
+        "history/market/sp500/close/2024.json",
         "history/market/sp500/close/2025.json",
         "history/market/sp500/close/2026.json"
+      ]
+    },
+    "market.tcs.close": {
+      "name": "TCS",
+      "unit": "INR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": "IND",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/TCS.NS",
+      "history_files": [
+        "history/market/tcs/close/2021.json",
+        "history/market/tcs/close/2022.json",
+        "history/market/tcs/close/2023.json",
+        "history/market/tcs/close/2024.json",
+        "history/market/tcs/close/2025.json",
+        "history/market/tcs/close/2026.json"
+      ]
+    },
+    "market.tesla.close": {
+      "name": "Tesla",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/TSLA",
+      "history_files": [
+        "history/market/tesla/close/2021.json",
+        "history/market/tesla/close/2022.json",
+        "history/market/tesla/close/2023.json",
+        "history/market/tesla/close/2024.json",
+        "history/market/tesla/close/2025.json",
+        "history/market/tesla/close/2026.json"
+      ]
+    },
+    "market.thales.close": {
+      "name": "Thales",
+      "unit": "EUR",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HO.PA",
+      "history_files": [
+        "history/market/thales/close/2021.json",
+        "history/market/thales/close/2022.json",
+        "history/market/thales/close/2023.json",
+        "history/market/thales/close/2024.json",
+        "history/market/thales/close/2025.json",
+        "history/market/thales/close/2026.json"
+      ]
+    },
+    "market.us10y.close": {
+      "name": "US Treasury 10Y",
+      "unit": "%",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^TNX",
+      "history_files": [
+        "history/market/us10y/close/2021.json",
+        "history/market/us10y/close/2022.json",
+        "history/market/us10y/close/2023.json",
+        "history/market/us10y/close/2024.json",
+        "history/market/us10y/close/2025.json",
+        "history/market/us10y/close/2026.json"
+      ]
+    },
+    "market.us30y.close": {
+      "name": "US Treasury 30Y",
+      "unit": "%",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^TYX",
+      "history_files": [
+        "history/market/us30y/close/2021.json",
+        "history/market/us30y/close/2022.json",
+        "history/market/us30y/close/2023.json",
+        "history/market/us30y/close/2024.json",
+        "history/market/us30y/close/2025.json",
+        "history/market/us30y/close/2026.json"
+      ]
+    },
+    "market.us3m.close": {
+      "name": "US Treasury 3M",
+      "unit": "%",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^IRX",
+      "history_files": [
+        "history/market/us3m/close/2021.json",
+        "history/market/us3m/close/2022.json",
+        "history/market/us3m/close/2023.json",
+        "history/market/us3m/close/2024.json",
+        "history/market/us3m/close/2025.json",
+        "history/market/us3m/close/2026.json"
+      ]
+    },
+    "market.us5y.close": {
+      "name": "US Treasury 5Y",
+      "unit": "%",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^FVX",
+      "history_files": [
+        "history/market/us5y/close/2021.json",
+        "history/market/us5y/close/2022.json",
+        "history/market/us5y/close/2023.json",
+        "history/market/us5y/close/2024.json",
+        "history/market/us5y/close/2025.json",
+        "history/market/us5y/close/2026.json"
+      ]
+    },
+    "market.usd_chf.close": {
+      "name": "USD/CHF",
+      "unit": "CHF per USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "history_files": [
+        "history/market/usd_chf/close/2021.json",
+        "history/market/usd_chf/close/2022.json",
+        "history/market/usd_chf/close/2023.json",
+        "history/market/usd_chf/close/2024.json",
+        "history/market/usd_chf/close/2025.json",
+        "history/market/usd_chf/close/2026.json"
       ]
     },
     "market.usd_cny.close": {
@@ -7354,6 +8331,10 @@
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",
       "history_files": [
+        "history/market/usd_eur/close/2021.json",
+        "history/market/usd_eur/close/2022.json",
+        "history/market/usd_eur/close/2023.json",
+        "history/market/usd_eur/close/2024.json",
         "history/market/usd_eur/close/2025.json",
         "history/market/usd_eur/close/2026.json"
       ]
@@ -7367,6 +8348,10 @@
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",
       "history_files": [
+        "history/market/usd_gbp/close/2021.json",
+        "history/market/usd_gbp/close/2022.json",
+        "history/market/usd_gbp/close/2023.json",
+        "history/market/usd_gbp/close/2024.json",
         "history/market/usd_gbp/close/2025.json",
         "history/market/usd_gbp/close/2026.json"
       ]
@@ -7380,6 +8365,10 @@
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",
       "history_files": [
+        "history/market/usd_inr/close/2021.json",
+        "history/market/usd_inr/close/2022.json",
+        "history/market/usd_inr/close/2023.json",
+        "history/market/usd_inr/close/2024.json",
         "history/market/usd_inr/close/2025.json",
         "history/market/usd_inr/close/2026.json"
       ]
@@ -7393,8 +8382,63 @@
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",
       "history_files": [
+        "history/market/usd_jpy/close/2021.json",
+        "history/market/usd_jpy/close/2022.json",
+        "history/market/usd_jpy/close/2023.json",
+        "history/market/usd_jpy/close/2024.json",
         "history/market/usd_jpy/close/2025.json",
         "history/market/usd_jpy/close/2026.json"
+      ]
+    },
+    "market.vix.close": {
+      "name": "VIX",
+      "unit": "index",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^VIX",
+      "history_files": [
+        "history/market/vix/close/2021.json",
+        "history/market/vix/close/2022.json",
+        "history/market/vix/close/2023.json",
+        "history/market/vix/close/2024.json",
+        "history/market/vix/close/2025.json",
+        "history/market/vix/close/2026.json"
+      ]
+    },
+    "market.wheat.close": {
+      "name": "Wheat",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/ZW=F",
+      "history_files": [
+        "history/market/wheat/close/2021.json",
+        "history/market/wheat/close/2022.json",
+        "history/market/wheat/close/2023.json",
+        "history/market/wheat/close/2024.json",
+        "history/market/wheat/close/2025.json",
+        "history/market/wheat/close/2026.json"
+      ]
+    },
+    "market.wti.close": {
+      "name": "WTI Crude",
+      "unit": "USD",
+      "frequency": "daily",
+      "domain": "market",
+      "country": null,
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/CL=F",
+      "history_files": [
+        "history/market/wti/close/2021.json",
+        "history/market/wti/close/2022.json",
+        "history/market/wti/close/2023.json",
+        "history/market/wti/close/2024.json",
+        "history/market/wti/close/2025.json",
+        "history/market/wti/close/2026.json"
       ]
     }
   }

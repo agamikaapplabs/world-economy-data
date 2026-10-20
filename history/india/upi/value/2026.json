@@ -24,20 +24,8 @@
       "is_revision": false
     },
     {
-      "period": "Aug 2026",
-      "value": 2982355.95,
-      "released_at": null,
-      "collected_at": "2026-10-19T19:24:10.937299+05:30",
-      "source_id": "npci-upi",
-      "source": "NPCI UPI",
-      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
-    },
-    {
-      "period": "Jul 2026",
-      "value": 2987880.49,
+      "period": "May 2026",
+      "value": 2990424.21,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "npci-upi",
@@ -60,8 +48,20 @@
       "is_revision": false
     },
     {
-      "period": "May 2026",
-      "value": 2990424.21,
+      "period": "Jul 2026",
+      "value": 2987880.49,
+      "released_at": null,
+      "collected_at": "2026-10-19T19:24:10.937299+05:30",
+      "source_id": "npci-upi",
+      "source": "NPCI UPI",
+      "source_url": "https://www.npci.org.in/product/upi/product-statistics",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Aug 2026",
+      "value": 2982355.95,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "npci-upi",

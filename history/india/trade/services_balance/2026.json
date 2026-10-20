@@ -12,8 +12,8 @@
   },
   "observations": [
     {
-      "period": "Aug 2026",
-      "value": 17.45,
+      "period": "Jul 2026",
+      "value": 16.95,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "ministry-of-commerce-industry-pib",
@@ -24,8 +24,8 @@
       "is_revision": false
     },
     {
-      "period": "Jul 2026",
-      "value": 16.95,
+      "period": "Aug 2026",
+      "value": 17.45,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "ministry-of-commerce-industry-pib",

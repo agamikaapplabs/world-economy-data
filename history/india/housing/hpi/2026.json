@@ -12,8 +12,8 @@
   },
   "observations": [
     {
-      "period": "Jun 2026",
-      "value": 107.16,
+      "period": "Mar 2026",
+      "value": 104.39,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "nhb-residex",
@@ -24,8 +24,8 @@
       "is_revision": false
     },
     {
-      "period": "Mar 2026",
-      "value": 104.39,
+      "period": "Jun 2026",
+      "value": 107.16,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "nhb-residex",

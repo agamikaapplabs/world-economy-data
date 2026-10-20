@@ -1,0 +1,29 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.now.current_account_gdp",
+  "metadata": {
+    "name": "Current account / GDP",
+    "unit": "%",
+    "frequency": "quarterly",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "Reserve Bank of India · Balance of Payments",
+    "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+    "metric_type": "percent",
+    "stale_after_days": 125
+  },
+  "observations": [
+    {
+      "period": "Q1 FY2025-26",
+      "value": -0.4,
+      "released_at": null,
+      "collected_at": "2026-10-20T11:00:34.392452+05:30",
+      "source_id": "reserve-bank-of-india-balance-of-payments",
+      "source": "Reserve Bank of India · Balance of Payments",
+      "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

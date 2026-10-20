@@ -1,6 +1,6 @@
 {
   "schema_version": "5.0",
-  "generated_at": "2026-10-19T18:52:24.540234+00:00",
+  "generated_at": "2026-10-20T07:15:33.744225+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -55,12 +55,12 @@
       "status": "live-refreshed",
       "history": [
         {
-          "period": "Sep 2026",
-          "value": 454574.0
-        },
-        {
           "period": "August 2026",
           "value": 439309.0
+        },
+        {
+          "period": "Sep 2026",
+          "value": 454574.0
         }
       ],
       "series_id": "india.auto.passenger_vehicles"
@@ -497,6 +497,200 @@
       "reason": "Common high-frequency series is proprietary; no fabricated proxy is used."
     }
   ],
+  "india_now": {
+    "real_gdp_growth": {
+      "label": "Real GDP growth",
+      "value": 7.8,
+      "unit": "%",
+      "metric_type": "percent",
+      "period": "Q1 FY2026-27",
+      "frequency": "quarterly",
+      "released_at": "2026-08-31",
+      "stale_after_days": 125,
+      "source": "MoSPI National Accounts Statistics",
+      "url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "note": "Real GDP growth for April-June 2026; official quarterly national-accounts release.",
+      "history": [
+        {
+          "period": "Q1 FY2025-26",
+          "value": 6.9
+        },
+        {
+          "period": "Q1 FY2026-27",
+          "value": 7.8
+        }
+      ],
+      "series_id": "india.now.real_gdp_growth"
+    },
+    "cpi_inflation": {
+      "label": "CPI inflation",
+      "value": 5.54,
+      "unit": "%",
+      "metric_type": "percent",
+      "period": "Sep 2026",
+      "frequency": "monthly",
+      "released_at": "2026-10-12",
+      "stale_after_days": 45,
+      "source": "MoSPI CPI",
+      "url": "https://esankhyiki.mospi.gov.in/",
+      "status": "verified",
+      "note": "All-India headline CPI inflation, September 2026.",
+      "history": [
+        {
+          "period": "Sep 2026",
+          "value": 5.54
+        }
+      ],
+      "series_id": "india.now.cpi_inflation"
+    },
+    "unemployment": {
+      "label": "Unemployment rate",
+      "value": 55.5,
+      "unit": "%",
+      "metric_type": "percent",
+      "period": "Sep 2026",
+      "frequency": "monthly",
+      "released_at": "2026-10-15",
+      "stale_after_days": 45,
+      "source": "PLFS / MoSPI",
+      "url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "live-refreshed",
+      "note": "All-India unemployment rate, current weekly status, age 15+.",
+      "history": [
+        {
+          "period": "Sep 2026",
+          "value": 55.5
+        }
+      ],
+      "series_id": "india.now.unemployment"
+    },
+    "fx_reserves": {
+      "label": "FX reserves",
+      "value": 726.027,
+      "unit": "US$ bn",
+      "metric_type": "usd_billion",
+      "period": "Week ended 9 Oct 2026",
+      "frequency": "weekly",
+      "released_at": "2026-10-16",
+      "stale_after_days": 15,
+      "source": "Reserve Bank of India · Weekly Statistical Supplement",
+      "url": "https://data.rbi.org.in/",
+      "status": "verified",
+      "note": "Official reserve position; weekly series. Amount includes foreign currency assets, gold, SDRs and reserve tranche position.",
+      "history": [
+        {
+          "period": "Week ended 2 Oct 2026",
+          "value": 734.606
+        },
+        {
+          "period": "Week ended 9 Oct 2026",
+          "value": 726.027
+        }
+      ],
+      "series_id": "india.now.fx_reserves_usd_bn"
+    },
+    "total_exports": {
+      "label": "Total exports",
+      "value": 80.75,
+      "unit": "US$ bn",
+      "metric_type": "usd_billion",
+      "period": "Sep 2026",
+      "frequency": "monthly",
+      "released_at": "2026-10-15",
+      "stale_after_days": 45,
+      "source": "Department of Commerce",
+      "url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "status": "live-refreshed",
+      "note": "Merchandise and services combined; services component is an official estimate where noted by the Department of Commerce.",
+      "history": [
+        {
+          "period": "Aug 2026",
+          "value": 82.68
+        },
+        {
+          "period": "Sep 2026",
+          "value": 80.75
+        }
+      ],
+      "series_id": "india.now.total_exports_usd_bn"
+    },
+    "total_imports": {
+      "label": "Total imports",
+      "value": 94.05,
+      "unit": "US$ bn",
+      "metric_type": "usd_billion",
+      "period": "Sep 2026",
+      "frequency": "monthly",
+      "released_at": "2026-10-15",
+      "stale_after_days": 45,
+      "source": "Department of Commerce",
+      "url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "status": "live-refreshed",
+      "note": "Merchandise and services combined; services component is an official estimate where noted by the Department of Commerce.",
+      "history": [
+        {
+          "period": "Aug 2026",
+          "value": 92.09
+        },
+        {
+          "period": "Sep 2026",
+          "value": 94.05
+        }
+      ],
+      "series_id": "india.now.total_imports_usd_bn"
+    },
+    "current_account_gdp": {
+      "label": "Current account / GDP",
+      "value": -0.5,
+      "unit": "%",
+      "metric_type": "percent",
+      "period": "Q1 FY2026-27",
+      "frequency": "quarterly",
+      "released_at": "2026-09-01",
+      "stale_after_days": 125,
+      "source": "Reserve Bank of India · Balance of Payments",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+      "status": "verified",
+      "note": "Current-account balance as a share of GDP; negative indicates a deficit.",
+      "history": [
+        {
+          "period": "Q1 FY2025-26",
+          "value": -0.4
+        },
+        {
+          "period": "Q1 FY2026-27",
+          "value": -0.5
+        }
+      ],
+      "series_id": "india.now.current_account_gdp"
+    },
+    "crude_import_dependence": {
+      "label": "Crude import dependence",
+      "value": 88.1,
+      "unit": "%",
+      "metric_type": "percent",
+      "period": "Apr-Sep 2026",
+      "frequency": "monthly cumulative FY",
+      "released_at": "2026-10-16",
+      "stale_after_days": 45,
+      "source": "PPAC · Ministry of Petroleum & Natural Gas",
+      "url": "https://ppac.gov.in/",
+      "status": "verified",
+      "note": "Import dependence on a consumption basis; a direct measure of exposure to overseas crude supply and prices.",
+      "history": [
+        {
+          "period": "Apr-Sep 2025",
+          "value": 88.3
+        },
+        {
+          "period": "Apr-Sep 2026",
+          "value": 88.1
+        }
+      ],
+      "series_id": "india.now.crude_import_dependence"
+    }
+  },
   "refresh_log": [
     {
       "source": "FASTag",
@@ -532,6 +726,21 @@
       "source": "PLFS",
       "status": "ok",
       "detail": "PLFS Sep 2026"
+    },
+    {
+      "source": "GDP-now",
+      "status": "seed-kept",
+      "detail": "GDP growth not safely recognized"
+    },
+    {
+      "source": "CPI-now",
+      "status": "seed-kept",
+      "detail": "CPI inflation not safely recognized"
+    },
+    {
+      "source": "Trade-now",
+      "status": "ok",
+      "detail": "Trade Sep 2026 exports 80.75 imports 94.05"
     }
   ]
 }

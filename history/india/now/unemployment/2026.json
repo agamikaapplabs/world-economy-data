@@ -1,0 +1,41 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.now.unemployment",
+  "metadata": {
+    "name": "Unemployment rate",
+    "unit": "%",
+    "frequency": "monthly",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "PLFS / MoSPI",
+    "source_url": "https://www.mospi.gov.in/themes/product/69--",
+    "metric_type": "percent",
+    "stale_after_days": 45
+  },
+  "observations": [
+    {
+      "period": "Sep 2026",
+      "value": 5.0,
+      "released_at": "2026-10-15",
+      "collected_at": "2026-10-20T11:00:34.392452+05:30",
+      "source_id": "plfs-mospi",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Sep 2026",
+      "value": 55.5,
+      "released_at": "2026-10-15",
+      "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "plfs-mospi",
+      "source": "PLFS / MoSPI",
+      "source_url": "https://www.mospi.gov.in/themes/product/69--",
+      "status": "live-refreshed",
+      "revision_no": 1,
+      "is_revision": true
+    }
+  ]
+}

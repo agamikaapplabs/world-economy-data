@@ -1,0 +1,41 @@
+{
+  "schema_version": "5.0",
+  "series_id": "india.now.total_exports_usd_bn",
+  "metadata": {
+    "name": "Total exports",
+    "unit": "US$ bn",
+    "frequency": "monthly",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "Department of Commerce",
+    "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+    "metric_type": "usd_billion",
+    "stale_after_days": 45
+  },
+  "observations": [
+    {
+      "period": "Aug 2026",
+      "value": 82.68,
+      "released_at": null,
+      "collected_at": "2026-10-20T11:00:34.392452+05:30",
+      "source_id": "department-of-commerce",
+      "source": "Department of Commerce",
+      "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Sep 2026",
+      "value": 80.75,
+      "released_at": "2026-10-15",
+      "collected_at": "2026-10-20T11:00:34.392452+05:30",
+      "source_id": "department-of-commerce",
+      "source": "Department of Commerce",
+      "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

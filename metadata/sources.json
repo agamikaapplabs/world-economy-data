@@ -2,10 +2,16 @@
   "schema_version": "5.0",
   "sources": [
     {
+      "source_id": "department-of-commerce",
+      "name": "Department of Commerce",
+      "url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "series_count": 2
+    },
+    {
       "source_id": "frankfurter",
       "name": "Frankfurter",
       "url": "https://frankfurter.dev/",
-      "series_count": 5
+      "series_count": 6
     },
     {
       "source_id": "indian-railways-pib",
@@ -18,6 +24,18 @@
       "name": "Ministry of Commerce & Industry / PIB",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2310636&lang=2&reg=48",
       "series_count": 9
+    },
+    {
+      "source_id": "mospi-cpi",
+      "name": "MoSPI CPI",
+      "url": "https://esankhyiki.mospi.gov.in/",
+      "series_count": 1
+    },
+    {
+      "source_id": "mospi-national-accounts-statistics",
+      "name": "MoSPI National Accounts Statistics",
+      "url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "series_count": 1
     },
     {
       "source_id": "nhb-residex",
@@ -38,15 +56,39 @@
       "series_count": 2
     },
     {
+      "source_id": "plfs-mospi",
+      "name": "PLFS / MoSPI",
+      "url": "https://www.mospi.gov.in/themes/product/69--",
+      "series_count": 1
+    },
+    {
       "source_id": "plfs-mospi-pib",
       "name": "PLFS / MoSPI / PIB",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
       "series_count": 1
     },
     {
+      "source_id": "ppac-ministry-of-petroleum-natural-gas",
+      "name": "PPAC · Ministry of Petroleum & Natural Gas",
+      "url": "https://ppac.gov.in/",
+      "series_count": 1
+    },
+    {
       "source_id": "press-information-bureau-gst-council",
       "name": "Press Information Bureau / GST Council",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48",
+      "series_count": 1
+    },
+    {
+      "source_id": "reserve-bank-of-india-balance-of-payments",
+      "name": "Reserve Bank of India · Balance of Payments",
+      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+      "series_count": 1
+    },
+    {
+      "source_id": "reserve-bank-of-india-weekly-statistical-supplement",
+      "name": "Reserve Bank of India · Weekly Statistical Supplement",
+      "url": "https://data.rbi.org.in/",
       "series_count": 1
     },
     {
@@ -65,7 +107,7 @@
       "source_id": "yahoo-finance-chart",
       "name": "Yahoo Finance chart",
       "url": "https://finance.yahoo.com/quote/GC=F",
-      "series_count": 8
+      "series_count": 59
     }
   ]
 }

@@ -1,40 +1,40 @@
 {
   "schema_version": "5.0",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-20T00:31:35.315897+05:30",
+  "published_at": "2026-10-20T12:45:33.871605+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
-      "sha256": "e21951a8af0b20c4dbad006fb760f42d6f3032d8080e6c2924ece555fda59986"
+      "sha256": "795e61c178792bc26b57322f93c3ecb2eab4ecb63f8ab699c1a221518cc1738e"
     },
     "macro": {
       "path": "current/macro.json",
-      "sha256": "ec10f787cf63be16f895ab6d1424bb34202660e24d53dfacfbd8d20443163d95"
+      "sha256": "026a15809259c9dddbcfbf8dafe3ff0c37abc6cd494fc166773df2701c9d1666"
     },
     "resources": {
       "path": "current/resources.json",
-      "sha256": "0c091fe7b42d15fda7063738045859f447dea2afd316abf5df732ba38301dcf0"
+      "sha256": "3c70bd532f25ce7ef9ab6d77a5f92a0d2bc3b968be38443fca0628fd25c31809"
     },
     "india_activity": {
       "path": "current/india_activity.json",
-      "sha256": "a910eae5b2c0cad26c14c83fc114960e27aab2a2b0dc4ab89210bdcdeabf6240"
+      "sha256": "592fc4425f0ae4d083ae24510baf7495f2535c85a2ccd862ca905b161f36a668"
     }
   },
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "dd19e2aace7b64fdc6d59131a5979661a1f4379f69923a3eac4a9c1846e0d983"
+      "sha256": "783b50d89f75fdc7903a8def470a284f6720c7caf7afd6b4b44b6a0256035ad6"
     },
     "sources": {
       "path": "metadata/sources.json",
-      "sha256": "a4995345ac1ee3fa210499555bc5c93dee9864c612b35a29ba140a21378b1bcc"
+      "sha256": "454e82b9b68925a2fde7b4b39d4ea6b47ab128f0f2bc6c1decfcd27739cebd5b"
     }
   },
   "latest_report": {
     "path": "reports/2026/10/20.json",
-    "sha256": "4759916d2ba94cf995204ad768d849ad76a7f690e5f01fc461faf3c3a15278a7"
+    "sha256": "b4e6b6a372a89f29f510d6037f37d0960578a930087abc9bfb8a827b5096caf4"
   },
-  "series_count": 424,
+  "series_count": 484,
   "client_contract": {
     "current_is_materialized_view": true,
     "history_is_append_only_with_vintages": true,

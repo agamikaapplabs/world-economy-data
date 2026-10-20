@@ -24,8 +24,8 @@
       "is_revision": false
     },
     {
-      "period": "Jul 2026",
-      "value": 347.35,
+      "period": "May 2026",
+      "value": 375.23,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "npci-netc",
@@ -48,8 +48,8 @@
       "is_revision": false
     },
     {
-      "period": "May 2026",
-      "value": 375.23,
+      "period": "Jul 2026",
+      "value": 347.35,
       "released_at": null,
       "collected_at": "2026-10-19T19:24:10.937299+05:30",
       "source_id": "npci-netc",
