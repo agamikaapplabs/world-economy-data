@@ -3787,7 +3787,7 @@
       "series_id": "market.abb.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1258,
+      "points": 1259,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3796,7 +3796,7 @@
       "series_id": "market.airbus.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1282,
+      "points": 1283,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3832,7 +3832,7 @@
       "series_id": "market.asml.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1282,
+      "points": 1283,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3841,7 +3841,7 @@
       "series_id": "market.bae.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1263,
+      "points": 1264,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3913,7 +3913,7 @@
       "series_id": "market.ftse100.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1262,
+      "points": 1263,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3994,7 +3994,7 @@
       "series_id": "market.leonardo.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1272,
+      "points": 1273,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4030,7 +4030,7 @@
       "series_id": "market.lvmh.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1282,
+      "points": 1283,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4111,7 +4111,7 @@
       "series_id": "market.novo.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1253,
+      "points": 1254,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4138,7 +4138,7 @@
       "series_id": "market.rheinmetall.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1276,
+      "points": 1277,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4156,7 +4156,7 @@
       "series_id": "market.sap.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1276,
+      "points": 1277,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4174,7 +4174,7 @@
       "series_id": "market.schneider.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1282,
+      "points": 1283,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4183,7 +4183,7 @@
       "series_id": "market.shell.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1263,
+      "points": 1264,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4192,7 +4192,7 @@
       "series_id": "market.siemens_eu.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1276,
+      "points": 1277,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4201,7 +4201,7 @@
       "series_id": "market.siemens_heavy.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1276,
+      "points": 1277,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4246,7 +4246,7 @@
       "series_id": "market.thales.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1282,
+      "points": 1283,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4345,7 +4345,7 @@
       "series_id": "market.vix.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1258,
+      "points": 1259,
       "minimum": 60,
       "target": 250,
       "status": "OK"

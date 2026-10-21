@@ -1,33 +1,33 @@
 {
   "schema_version": "5.5",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-21T11:48:56.209023+05:30",
+  "published_at": "2026-10-21T17:22:35.634022+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
-      "sha256": "f4d37790aa5dc5c3d863ecd6f5e203f63a9df38b7669ae056de59a06ffd98754"
+      "sha256": "0c49e132316e1d0ebb4c1b5a0a31fb7f4f8118aef395031b1e30fa1b326e1f3a"
     },
     "macro": {
       "path": "current/macro.json",
-      "sha256": "b0fa4f9efdaf332180cd85c1dde11abea8f17767dcde2c9c74f7e9123c328bd9"
+      "sha256": "9ae201d0c3ef00c0cc0848ba523d39431501de563da03eb9d669bcf81d872d5b"
     },
     "resources": {
       "path": "current/resources.json",
-      "sha256": "5f73fdddaca2c26e7545be2dbc62792215cdf7a63b7f0d4955612b1b6b2dd1d2"
+      "sha256": "f33139ff88c32c9820c5a8bfcf2d5d850c0f8394f66adb4788076e01446b86fa"
     },
     "india_activity": {
       "path": "current/india_activity.json",
-      "sha256": "49f1b7cf659f2b9964ba554cc92210786349e4af45da645b1220ce86436ba5b0"
+      "sha256": "9be289e53ad1f629bad34f7f434b0e1f96fde9491388852ef61975fc3aa90ab7"
     },
     "news": {
       "path": "current/news.json",
-      "sha256": "98697449dfda9d27a7bfae734b5b3c66f567adcb7d99fd2a57454f372fc604ca"
+      "sha256": "14aa3af697f43a11a6a115f276d3dcfc468bbe98f03c2beec188b79f0eb9fd4f"
     }
   },
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "771e6fbf5471ffe41f6f7289f98fac8e8725312ed46577d4e0f222968d2169e3"
+      "sha256": "4f631ec53430fd718423b73c27c5b6e46ce391e2e0d6d54f5c2fe0a187dceed5"
     },
     "sources": {
       "path": "metadata/sources.json",
@@ -36,7 +36,7 @@
   },
   "latest_report": {
     "path": "reports/2026/10/21.json",
-    "sha256": "1478615b0ec48462c8284f22039f7f3e313cf38940ea0bd7ada03b1e42104a9c"
+    "sha256": "b25720b1e2148b503e39657181f01cea07fc32a2e28ef1da79dbd58d705d1efc"
   },
   "series_count": 485,
   "client_contract": {

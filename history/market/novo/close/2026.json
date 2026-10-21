@@ -2434,6 +2434,18 @@
       "status": "observed",
       "revision_no": 2,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-21",
+      "value": 259.600006,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T17:22:35.634022+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
