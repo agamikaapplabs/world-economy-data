@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.copper.close",
   "metadata": {
     "name": "Copper",
@@ -2469,6 +2469,42 @@
       "source_url": "https://finance.yahoo.com/quote/HG=F",
       "status": "observed",
       "revision_no": 2,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-20",
+      "value": 6.617,
+      "released_at": "2026-10-20",
+      "collected_at": "2026-10-20T23:48:28.488406+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "status": "observed",
+      "revision_no": 3,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-21",
+      "value": 6.5965,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 6.5945,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:48:56.209023+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "status": "observed",
+      "revision_no": 1,
       "is_revision": true
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "india.labour.unemployment",
   "metadata": {
     "name": "Looking for work, unemployed",
@@ -87,7 +87,7 @@
       "period": "Sep 2026",
       "value": 55.5,
       "released_at": null,
-      "collected_at": "2026-10-20T16:42:17.097327+05:30",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
       "source_id": "plfs-mospi-pib",
       "source": "PLFS / MoSPI / PIB",
       "source_url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",

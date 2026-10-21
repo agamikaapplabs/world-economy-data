@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "india.now.cpi_inflation",
   "metadata": {
     "name": "CPI inflation",
@@ -14,16 +14,71 @@
   },
   "observations": [
     {
+      "series_id": "india.now.cpi_inflation",
+      "period": "Mar 2026",
+      "value": 3.4,
+      "unit": "%",
+      "source_id": "mospi_cpi",
+      "source_url": "https://esankhyiki.mospi.gov.in/",
+      "status": "verified"
+    },
+    {
+      "series_id": "india.now.cpi_inflation",
+      "period": "Apr 2026",
+      "value": 3.48,
+      "unit": "%",
+      "source_id": "mospi_cpi",
+      "source_url": "https://esankhyiki.mospi.gov.in/",
+      "status": "verified"
+    },
+    {
+      "series_id": "india.now.cpi_inflation",
+      "period": "May 2026",
+      "value": 3.93,
+      "unit": "%",
+      "source_id": "mospi_cpi",
+      "source_url": "https://esankhyiki.mospi.gov.in/",
+      "status": "verified"
+    },
+    {
+      "series_id": "india.now.cpi_inflation",
+      "period": "Jun 2026",
+      "value": 4.38,
+      "unit": "%",
+      "source_id": "mospi_cpi",
+      "source_url": "https://esankhyiki.mospi.gov.in/",
+      "status": "verified"
+    },
+    {
+      "series_id": "india.now.cpi_inflation",
+      "period": "Jul 2026",
+      "value": 4.45,
+      "unit": "%",
+      "source_id": "mospi_cpi",
+      "source_url": "https://esankhyiki.mospi.gov.in/",
+      "status": "verified"
+    },
+    {
+      "series_id": "india.now.cpi_inflation",
+      "period": "Aug 2026",
+      "value": 4.82,
+      "unit": "%",
+      "source_id": "mospi_cpi",
+      "source_url": "https://esankhyiki.mospi.gov.in/",
+      "status": "verified"
+    },
+    {
+      "series_id": "india.now.cpi_inflation",
       "period": "Sep 2026",
       "value": 5.54,
-      "released_at": "2026-10-12",
-      "collected_at": "2026-10-20T11:00:34.392452+05:30",
-      "source_id": "mospi-cpi",
-      "source": "MoSPI CPI",
+      "unit": "%",
+      "source_id": "mospi_cpi",
       "source_url": "https://esankhyiki.mospi.gov.in/",
-      "status": "verified",
-      "revision_no": 0,
-      "is_revision": false
+      "status": "verified"
     }
-  ]
+  ],
+  "meta": {
+    "name": "CPI inflation",
+    "unit": "%"
+  }
 }

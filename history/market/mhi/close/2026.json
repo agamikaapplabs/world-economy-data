@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.mhi.close",
   "metadata": {
     "name": "Mitsubishi Heavy Industries",
@@ -2332,6 +2332,30 @@
       "value": 3685.0,
       "released_at": "2026-10-20",
       "collected_at": "2026-10-20T12:45:33.871605+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/7011.T",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-21",
+      "value": 3718.0,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/7011.T",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 3719.0,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:48:56.209023+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/7011.T",

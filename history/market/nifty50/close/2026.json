@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.nifty50.close",
   "metadata": {
     "name": "NIFTY 50",
@@ -2355,13 +2355,37 @@
       "period": "2026-10-19",
       "value": 22888.949219,
       "released_at": "2026-10-19",
-      "collected_at": "2026-10-20T16:42:17.097327+05:30",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^NSEI",
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 22834.449219,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^NSEI",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 22832.800781,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:48:56.209023+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^NSEI",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     }
   ]
 }

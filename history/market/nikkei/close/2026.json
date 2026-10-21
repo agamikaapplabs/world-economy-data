@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.nikkei.close",
   "metadata": {
     "name": "Nikkei 225",
@@ -2307,7 +2307,7 @@
       "period": "2026-10-19",
       "value": 64916.699219,
       "released_at": "2026-10-19",
-      "collected_at": "2026-10-20T16:42:17.097327+05:30",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^N225",
@@ -2319,13 +2319,37 @@
       "period": "2026-10-20",
       "value": 64075.421875,
       "released_at": "2026-10-20",
-      "collected_at": "2026-10-20T16:42:17.097327+05:30",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^N225",
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 64715.921875,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^N225",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 64746.621094,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:48:56.209023+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^N225",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     }
   ]
 }

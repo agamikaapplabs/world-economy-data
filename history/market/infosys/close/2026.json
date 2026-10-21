@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.infosys.close",
   "metadata": {
     "name": "Infosys",
@@ -2374,6 +2374,30 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 1156.400024,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/INFY.NS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 1156.0,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-21T11:48:56.209023+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/INFY.NS",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     }
   ]
 }

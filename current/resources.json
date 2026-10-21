@@ -1,6 +1,6 @@
 {
-  "schema_version": "5.4",
-  "generated_at": "2026-10-20T11:11:58.236710+00:00",
+  "schema_version": "5.5",
+  "generated_at": "2026-10-21T06:18:53.756096+00:00",
   "layers": {
     "energy": {
       "commodities": [

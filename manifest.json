@@ -1,38 +1,42 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-20T16:42:17.097327+05:30",
+  "published_at": "2026-10-21T11:48:56.209023+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
-      "sha256": "239278d4c442c8c5f1eab44d9fdb1ff7c29521e31202da4d613096c9caaaf4a7"
+      "sha256": "f4d37790aa5dc5c3d863ecd6f5e203f63a9df38b7669ae056de59a06ffd98754"
     },
     "macro": {
       "path": "current/macro.json",
-      "sha256": "f10749b12b89eb7ffa1b2f0f43d5419c9507fa36be51142b6a86fa8025ee532b"
+      "sha256": "b0fa4f9efdaf332180cd85c1dde11abea8f17767dcde2c9c74f7e9123c328bd9"
     },
     "resources": {
       "path": "current/resources.json",
-      "sha256": "6a3e4ddb48d77d3dd21fc0daa5896fdcac8acb7fe1c210b83a40bbfc24ebc700"
+      "sha256": "5f73fdddaca2c26e7545be2dbc62792215cdf7a63b7f0d4955612b1b6b2dd1d2"
     },
     "india_activity": {
       "path": "current/india_activity.json",
-      "sha256": "5eb7e12b366b04b4ec4e7021f1a123391e8e77536c88b05496ba0709e6d95a39"
+      "sha256": "49f1b7cf659f2b9964ba554cc92210786349e4af45da645b1220ce86436ba5b0"
+    },
+    "news": {
+      "path": "current/news.json",
+      "sha256": "98697449dfda9d27a7bfae734b5b3c66f567adcb7d99fd2a57454f372fc604ca"
     }
   },
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "e0db08e789f23b0d7c78aaf2688715b57a1a3a35973a84bd4d76a97ba56ce5da"
+      "sha256": "771e6fbf5471ffe41f6f7289f98fac8e8725312ed46577d4e0f222968d2169e3"
     },
     "sources": {
       "path": "metadata/sources.json",
-      "sha256": "c6bb1b1b5d8614f3be59edfece35786ea717a0557a23b9fe8cb4766ba430760b"
+      "sha256": "7cd5849a35bd01c04f2ecd4e3a94af668351a1747f949e4a89d4888721d7f3a3"
     }
   },
   "latest_report": {
-    "path": "reports/2026/10/20.json",
-    "sha256": "f880a4177e2db978cf99289894134c64f037b3e3918a69a094267150f8a9d08d"
+    "path": "reports/2026/10/21.json",
+    "sha256": "1478615b0ec48462c8284f22039f7f3e313cf38940ea0bd7ada03b1e42104a9c"
   },
   "series_count": 485,
   "client_contract": {

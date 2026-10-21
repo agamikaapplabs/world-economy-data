@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.usd_chf.close",
   "metadata": {
     "name": "USD/CHF",
@@ -2452,6 +2452,18 @@
       "value": 0.82503,
       "released_at": "2026-10-19",
       "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-20",
+      "value": 0.82363,
+      "released_at": "2026-10-20",
+      "collected_at": "2026-10-20T23:48:28.488406+05:30",
       "source_id": "frankfurter",
       "source": "Frankfurter",
       "source_url": "https://frankfurter.dev/",

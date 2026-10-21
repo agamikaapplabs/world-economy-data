@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.us3m.close",
   "metadata": {
     "name": "US Treasury 3M",
@@ -2404,6 +2404,18 @@
       "value": 4.075,
       "released_at": "2026-10-19",
       "collected_at": "2026-10-19T23:00:20.686568+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^IRX",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-20",
+      "value": 4.08,
+      "released_at": "2026-10-20",
+      "collected_at": "2026-10-20T23:48:28.488406+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^IRX",

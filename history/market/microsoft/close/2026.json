@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.microsoft.close",
   "metadata": {
     "name": "Microsoft",
@@ -2433,6 +2433,30 @@
       "source_url": "https://finance.yahoo.com/quote/MSFT",
       "status": "observed",
       "revision_no": 2,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-20",
+      "value": 532.669983,
+      "released_at": "2026-10-20",
+      "collected_at": "2026-10-20T23:48:28.488406+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/MSFT",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-20",
+      "value": 531.869995,
+      "released_at": "2026-10-20",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/MSFT",
+      "status": "observed",
+      "revision_no": 1,
       "is_revision": true
     }
   ]

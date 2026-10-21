@@ -1,5 +1,5 @@
 {
-  "schema_version": "5.4",
+  "schema_version": "5.5",
   "series_id": "market.sp500.close",
   "metadata": {
     "name": "S&P 500",
@@ -2403,7 +2403,19 @@
       "period": "2026-10-19",
       "value": 7690.72998,
       "released_at": "2026-10-19",
-      "collected_at": "2026-10-20T16:42:17.097327+05:30",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^GSPC",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-20",
+      "value": 7712.569824,
+      "released_at": "2026-10-20",
+      "collected_at": "2026-10-21T11:44:40.279064+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/^GSPC",

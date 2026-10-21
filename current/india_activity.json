@@ -1,6 +1,6 @@
 {
-  "schema_version": "5.4",
-  "generated_at": "2026-10-20T11:12:16.586267+00:00",
+  "schema_version": "5.5",
+  "generated_at": "2026-10-21T06:18:56.051931+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -593,8 +593,32 @@
       "source": "MoSPI CPI",
       "url": "https://esankhyiki.mospi.gov.in/",
       "status": "verified",
-      "note": "All-India headline CPI inflation, September 2026.",
+      "note": "All-India headline CPI inflation, year-on-year, base 2024=100.",
       "history": [
+        {
+          "period": "Mar 2026",
+          "value": 3.4
+        },
+        {
+          "period": "Apr 2026",
+          "value": 3.48
+        },
+        {
+          "period": "May 2026",
+          "value": 3.93
+        },
+        {
+          "period": "Jun 2026",
+          "value": 4.38
+        },
+        {
+          "period": "Jul 2026",
+          "value": 4.45
+        },
+        {
+          "period": "Aug 2026",
+          "value": 4.82
+        },
         {
           "period": "Sep 2026",
           "value": 5.54
