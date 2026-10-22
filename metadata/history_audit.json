@@ -3787,7 +3787,7 @@
       "series_id": "market.abb.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1259,
+      "points": 1260,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3796,7 +3796,7 @@
       "series_id": "market.airbus.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1283,
+      "points": 1284,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3832,7 +3832,7 @@
       "series_id": "market.asml.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1283,
+      "points": 1284,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3841,7 +3841,7 @@
       "series_id": "market.bae.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1264,
+      "points": 1265,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3850,7 +3850,7 @@
       "series_id": "market.bharti.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3859,7 +3859,7 @@
       "series_id": "market.brent.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1260,
+      "points": 1261,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3886,7 +3886,7 @@
       "series_id": "market.copper.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1260,
+      "points": 1261,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3895,7 +3895,7 @@
       "series_id": "market.corn.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1258,
+      "points": 1259,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3940,7 +3940,7 @@
       "series_id": "market.gold.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1258,
+      "points": 1260,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3958,7 +3958,7 @@
       "series_id": "market.hdfcbank.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3976,7 +3976,7 @@
       "series_id": "market.icicibank.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3985,7 +3985,7 @@
       "series_id": "market.infosys.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -3994,7 +3994,7 @@
       "series_id": "market.leonardo.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1273,
+      "points": 1274,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4012,7 +4012,7 @@
       "series_id": "market.lt.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4021,7 +4021,7 @@
       "series_id": "market.lt_heavy.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4030,7 +4030,7 @@
       "series_id": "market.lvmh.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1283,
+      "points": 1284,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4048,7 +4048,7 @@
       "series_id": "market.mhi.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1223,
+      "points": 1224,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4075,7 +4075,7 @@
       "series_id": "market.natgas.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1260,
+      "points": 1261,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4111,7 +4111,7 @@
       "series_id": "market.novo.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1254,
+      "points": 1255,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4129,7 +4129,7 @@
       "series_id": "market.reliance.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4138,7 +4138,7 @@
       "series_id": "market.rheinmetall.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1277,
+      "points": 1278,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4156,7 +4156,7 @@
       "series_id": "market.sap.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1277,
+      "points": 1278,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4165,7 +4165,7 @@
       "series_id": "market.sbi.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4174,7 +4174,7 @@
       "series_id": "market.schneider.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1283,
+      "points": 1284,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4183,7 +4183,7 @@
       "series_id": "market.shell.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1264,
+      "points": 1265,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4192,7 +4192,7 @@
       "series_id": "market.siemens_eu.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1277,
+      "points": 1278,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4201,7 +4201,7 @@
       "series_id": "market.siemens_heavy.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1277,
+      "points": 1278,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4210,7 +4210,7 @@
       "series_id": "market.silver.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1258,
+      "points": 1259,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4228,7 +4228,7 @@
       "series_id": "market.tcs.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1238,
+      "points": 1239,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4246,7 +4246,7 @@
       "series_id": "market.thales.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1283,
+      "points": 1284,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4291,7 +4291,7 @@
       "series_id": "market.usd_chf.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1282,
+      "points": 1283,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4309,7 +4309,7 @@
       "series_id": "market.usd_eur.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1393,
+      "points": 1394,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4318,7 +4318,7 @@
       "series_id": "market.usd_gbp.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1393,
+      "points": 1394,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4327,7 +4327,7 @@
       "series_id": "market.usd_inr.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1393,
+      "points": 1394,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4336,7 +4336,7 @@
       "series_id": "market.usd_jpy.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1393,
+      "points": 1394,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4345,7 +4345,7 @@
       "series_id": "market.vix.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1259,
+      "points": 1260,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4354,7 +4354,7 @@
       "series_id": "market.wheat.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1258,
+      "points": 1259,
       "minimum": 60,
       "target": 250,
       "status": "OK"
@@ -4363,7 +4363,7 @@
       "series_id": "market.wti.close",
       "domain": "market",
       "frequency": "daily",
-      "points": 1259,
+      "points": 1260,
       "minimum": 60,
       "target": 250,
       "status": "OK"

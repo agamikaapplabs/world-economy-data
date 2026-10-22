@@ -1,33 +1,33 @@
 {
   "schema_version": "5.5",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-21T17:22:35.634022+05:30",
+  "published_at": "2026-10-22T15:57:16.395783+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
-      "sha256": "0c49e132316e1d0ebb4c1b5a0a31fb7f4f8118aef395031b1e30fa1b326e1f3a"
+      "sha256": "302e8abc6cea2d44f2ea6aaad5bb75ca6b02a0b0d01f3cd33aff12c1ad61546b"
     },
     "macro": {
       "path": "current/macro.json",
-      "sha256": "9ae201d0c3ef00c0cc0848ba523d39431501de563da03eb9d669bcf81d872d5b"
+      "sha256": "f74a26fa48b3fd664f3e02c811586ba0d1e71e17a683e2b3984ef8a6733e211b"
     },
     "resources": {
       "path": "current/resources.json",
-      "sha256": "f33139ff88c32c9820c5a8bfcf2d5d850c0f8394f66adb4788076e01446b86fa"
+      "sha256": "9e0a97eab8e19ec3a2fa3ce3829a3fc80e9ac378749cbd73a77a1b006c34d9ef"
     },
     "india_activity": {
       "path": "current/india_activity.json",
-      "sha256": "9be289e53ad1f629bad34f7f434b0e1f96fde9491388852ef61975fc3aa90ab7"
+      "sha256": "f3d847ec2e9259c37872878fd475be33b559a4568099397c33f8693b48771d4a"
     },
     "news": {
       "path": "current/news.json",
-      "sha256": "14aa3af697f43a11a6a115f276d3dcfc468bbe98f03c2beec188b79f0eb9fd4f"
+      "sha256": "b982e9bc3c8da205bd844f30c9d9b20fd66052fe1cf412de3504781724d3ce7d"
     }
   },
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "4f631ec53430fd718423b73c27c5b6e46ce391e2e0d6d54f5c2fe0a187dceed5"
+      "sha256": "fc725aae2e3f530b5f8127e9e51a744f1af0befe34abdb497a012d80ee2c6e9b"
     },
     "sources": {
       "path": "metadata/sources.json",
@@ -35,8 +35,8 @@
     }
   },
   "latest_report": {
-    "path": "reports/2026/10/21.json",
-    "sha256": "b25720b1e2148b503e39657181f01cea07fc32a2e28ef1da79dbd58d705d1efc"
+    "path": "reports/2026/10/22.json",
+    "sha256": "80310f7011112e206cdb5605f7a0e6bc16d4a67d0eecfab88d5665c0e447f5bd"
   },
   "series_count": 485,
   "client_contract": {

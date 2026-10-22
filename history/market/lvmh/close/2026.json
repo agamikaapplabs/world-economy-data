@@ -2506,6 +2506,30 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-21",
+      "value": 388.600006,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/MC.PA",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-22",
+      "value": 383.75,
+      "released_at": "2026-10-22",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/MC.PA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

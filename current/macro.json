@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-21T11:52:32.358677+00:00",
+  "generated_at": "2026-10-22T10:27:09.372654+00:00",
   "refresh_mode": "resume-failed-only",
   "indicators": {
     "inflation": {
@@ -9,8 +9,8 @@
         "label": "CPI inflation",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -605,8 +605,8 @@
         "label": "Real GDP growth",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -1205,8 +1205,8 @@
         "label": "Nominal GDP",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -1805,8 +1805,8 @@
         "label": "GDP per capita",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -2405,8 +2405,8 @@
         "label": "Unemployment",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -3005,8 +3005,8 @@
         "label": "Total reserves incl. gold",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -3601,8 +3601,8 @@
         "label": "Reserves in months of imports",
         "unit": "months",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -4197,8 +4197,8 @@
         "label": "Exports of goods & services",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -4789,8 +4789,8 @@
         "label": "Exports / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -5381,8 +5381,8 @@
         "label": "Imports of goods & services",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -5973,8 +5973,8 @@
         "label": "Imports / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -6565,8 +6565,8 @@
         "label": "External balance goods & services / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -7158,7 +7158,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-21T11:52:32.358677+00:00"
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -7254,7 +7254,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-21T11:52:32.358677+00:00"
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -7350,7 +7350,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-21T11:52:32.358677+00:00"
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -7446,7 +7446,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-21T11:52:32.358677+00:00"
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -7542,7 +7542,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-21T11:52:32.358677+00:00"
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -7638,7 +7638,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-21T11:52:32.358677+00:00"
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -7733,8 +7733,8 @@
         "label": "Net energy imports / energy use",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -8277,8 +8277,8 @@
         "label": "Energy use per capita",
         "unit": "kg oil eq",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -8821,8 +8821,8 @@
         "label": "Electricity consumption per capita",
         "unit": "kWh",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -9405,8 +9405,8 @@
         "label": "Agriculture / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -9985,8 +9985,8 @@
         "label": "Food exports / merchandise exports",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -10569,8 +10569,8 @@
         "label": "Food imports / merchandise imports",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -11153,8 +11153,8 @@
         "label": "Ores & metals exports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -11737,8 +11737,8 @@
         "label": "Fuel exports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -12321,8 +12321,8 @@
         "label": "Fuel imports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -12905,8 +12905,8 @@
         "label": "Container port traffic",
         "unit": "TEU",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-21T06:18:52.825099+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-22T10:27:09.372654+00:00"
       },
       "countries": {
         "USA": {
@@ -13530,14 +13530,6 @@
   ],
   "failures": [],
   "fresh_indicators": [
-    "current_account_usd",
-    "current_account_gdp",
-    "gov_debt_gdp",
-    "fiscal_balance_gdp",
-    "external_debt_gni",
-    "fdi_usd"
-  ],
-  "skipped_success_indicators": [
     "inflation",
     "gdp_growth",
     "gdp_usd",
@@ -13550,6 +13542,12 @@
     "imports_usd",
     "imports_gdp",
     "trade_balance",
+    "current_account_usd",
+    "current_account_gdp",
+    "gov_debt_gdp",
+    "fiscal_balance_gdp",
+    "external_debt_gni",
+    "fdi_usd",
     "energy_imports_pct",
     "energy_use_pc",
     "electricity_pc",
@@ -13561,6 +13559,7 @@
     "fuel_imports_pct",
     "container_port_teu"
   ],
+  "skipped_success_indicators": [],
   "stale_indicators": [],
   "unavailable_indicators": [],
   "notes": [

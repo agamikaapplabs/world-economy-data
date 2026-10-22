@@ -2403,7 +2403,7 @@
       "period": "2026-10-16",
       "value": 56.994999,
       "released_at": "2026-10-16",
-      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",
@@ -2415,7 +2415,7 @@
       "period": "2026-10-19",
       "value": 56.973999,
       "released_at": "2026-10-19",
-      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",
@@ -2427,7 +2427,7 @@
       "period": "2026-10-20",
       "value": 57.706001,
       "released_at": "2026-10-20",
-      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",
@@ -2437,9 +2437,9 @@
     },
     {
       "period": "2026-10-21",
-      "value": 57.490002,
+      "value": 57.422001,
       "released_at": "2026-10-21",
-      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",
@@ -2448,28 +2448,16 @@
       "is_revision": false
     },
     {
-      "period": "2026-10-21",
-      "value": 57.470001,
-      "released_at": "2026-10-21",
-      "collected_at": "2026-10-21T11:48:56.209023+05:30",
+      "period": "2026-10-22",
+      "value": 56.0,
+      "released_at": "2026-10-22",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/SI=F",
       "status": "observed",
-      "revision_no": 1,
-      "is_revision": true
-    },
-    {
-      "period": "2026-10-21",
-      "value": 57.825001,
-      "released_at": "2026-10-21",
-      "collected_at": "2026-10-21T17:22:35.634022+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/SI=F",
-      "status": "observed",
-      "revision_no": 2,
-      "is_revision": true
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

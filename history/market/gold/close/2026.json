@@ -2403,7 +2403,19 @@
       "period": "2026-10-19",
       "value": 4160.100098,
       "released_at": "2026-10-19",
-      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/GC=F",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-20",
+      "value": 4142.600098,
+      "released_at": "2026-10-20",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/GC=F",
@@ -2413,9 +2425,9 @@
     },
     {
       "period": "2026-10-21",
-      "value": 4137.200195,
+      "value": 4150.0,
       "released_at": "2026-10-21",
-      "collected_at": "2026-10-21T11:44:40.279064+05:30",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/GC=F",
@@ -2424,28 +2436,16 @@
       "is_revision": false
     },
     {
-      "period": "2026-10-21",
-      "value": 4135.0,
-      "released_at": "2026-10-21",
-      "collected_at": "2026-10-21T11:48:56.209023+05:30",
+      "period": "2026-10-22",
+      "value": 4103.0,
+      "released_at": "2026-10-22",
+      "collected_at": "2026-10-22T15:57:16.395783+05:30",
       "source_id": "yahoo-finance-chart",
       "source": "Yahoo Finance chart",
       "source_url": "https://finance.yahoo.com/quote/GC=F",
       "status": "observed",
-      "revision_no": 1,
-      "is_revision": true
-    },
-    {
-      "period": "2026-10-21",
-      "value": 4158.799805,
-      "released_at": "2026-10-21",
-      "collected_at": "2026-10-21T17:22:35.634022+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/GC=F",
-      "status": "observed",
-      "revision_no": 2,
-      "is_revision": true
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

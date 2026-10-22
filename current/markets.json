@@ -1,7 +1,7 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-21T11:52:31.841927+00:00",
-  "history_mode": "incremental",
+  "generated_at": "2026-10-22T10:27:09.036445+00:00",
+  "history_mode": "full",
   "history_overlap_days": 10,
   "instruments": {
     "gold": {
@@ -10,24 +10,16 @@
       "symbol": "GC=F",
       "group": "metals",
       "unit": "USD",
-      "latest": 4158.799805,
-      "previous_close": 4160.100098,
-      "change": -1.300293000000238,
-      "change_pct": -0.03125629117975704,
-      "day_change_pct": -0.03125629117975704,
-      "market_time": "2026-10-21T11:42:12+00:00",
+      "latest": 4103.0,
+      "previous_close": 4150.0,
+      "change": -47.0,
+      "change_pct": -1.1325301204819278,
+      "day_change_pct": -1.1325301204819278,
+      "market_time": "2026-10-22T10:16:41+00:00",
       "currency": "USD",
       "exchange": "CMX",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-20",
-          "value": 3043.800049
-        },
-        {
-          "date": "2025-03-21",
-          "value": 3021.399902
-        },
         {
           "date": "2025-03-24",
           "value": 3015.600098
@@ -1617,20 +1609,28 @@
           "value": 4160.100098
         },
         {
+          "date": "2026-10-20",
+          "value": 4142.600098
+        },
+        {
           "date": "2026-10-21",
-          "value": 4158.799805
+          "value": 4150.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 4103.0
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1258,
       "performance_pct": {
-        "1W": 1.2390735951286924,
-        "1M": -5.1346997429687296,
-        "3M": 0.1661866413656954,
-        "6M": -12.501582053439941,
-        "1Y": 1.2095034390666282,
-        "3Y": 108.52385454042692,
-        "5Y": 133.3913097809128
+        "1W": -1.609076435171941,
+        "1M": -6.247141671743872,
+        "3M": 1.303640552041485,
+        "6M": -13.145639288738353,
+        "1Y": 0.9248806736454673,
+        "3Y": 106.40909039438301,
+        "5Y": 128.41395580232486
       },
       "series_id": "market.gold.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -1641,20 +1641,16 @@
       "symbol": "SI=F",
       "group": "metals",
       "unit": "USD",
-      "latest": 57.825001,
-      "previous_close": 57.706001,
-      "change": 0.11899999999999977,
-      "change_pct": 0.20621772075316702,
-      "day_change_pct": 0.20621772075316702,
-      "market_time": "2026-10-21T11:42:12+00:00",
+      "latest": 56.0,
+      "previous_close": 57.422001,
+      "change": -1.4220010000000016,
+      "change_pct": -2.4764044708229545,
+      "day_change_pct": -2.4764044708229545,
+      "market_time": "2026-10-22T10:16:32+00:00",
       "currency": "USD",
       "exchange": "CMX",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-21",
-          "value": 33.290001
-        },
         {
           "date": "2025-03-24",
           "value": 33.264999
@@ -3249,19 +3245,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 57.825001
+          "value": 57.422001
+        },
+        {
+          "date": "2026-10-22",
+          "value": 56.0
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1257,
       "performance_pct": {
-        "1W": 4.0954132150389455,
-        "1M": -12.153431621121069,
-        "3M": -3.6555090278826863,
-        "6M": -25.763544240523395,
-        "1Y": 21.86512071938629,
-        "3Y": 147.6339385893538,
-        "5Y": 139.44099792960665
+        "1W": -1.4726357312090377,
+        "1M": -15.064004050597656,
+        "3M": -3.1108342849233583,
+        "6M": -25.793410232208846,
+        "1Y": 17.991616653496912,
+        "3Y": 142.71843608189857,
+        "5Y": 129.23573501839064
       },
       "series_id": "market.silver.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -3277,7 +3277,7 @@
       "change": 21.839844000000085,
       "change_pct": 0.28397621626029423,
       "day_change_pct": 0.28397621626029423,
-      "market_time": "2026-10-20T20:45:45+00:00",
+      "market_time": "2026-10-21T20:31:21+00:00",
       "currency": "USD",
       "exchange": "SNP",
       "source": "Yahoo Finance chart",
@@ -4883,8 +4883,8 @@
           "value": 7712.569824
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -1.1899425232320016,
         "1M": 0.8113172210966635,
@@ -4892,7 +4892,7 @@
         "6M": 9.181188581046484,
         "1Y": 14.512562607992695,
         "3Y": 82.5823249870169,
-        "5Y": 69.5152334499196
+        "5Y": 69.6972428503003
       },
       "series_id": "market.sp500.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -4908,7 +4908,7 @@
       "change": -6.070313000000169,
       "change_pct": -0.02296673648317581,
       "day_change_pct": -0.02296673648317581,
-      "market_time": "2026-10-20T21:15:59+00:00",
+      "market_time": "2026-10-21T21:15:59+00:00",
       "currency": "USD",
       "exchange": "NIM",
       "source": "Yahoo Finance chart",
@@ -6514,8 +6514,8 @@
           "value": 26424.820312
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -2.8655698912629313,
         "1M": -0.36843663335387467,
@@ -6523,7 +6523,7 @@
         "6M": 8.92358969386895,
         "1Y": 14.937802200890381,
         "3Y": 103.52131760355138,
-        "5Y": 73.66811893864342
+        "5Y": 75.11245689606969
       },
       "series_id": "market.nasdaq.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -6534,12 +6534,12 @@
       "symbol": "^NSEI",
       "group": "indices",
       "unit": "index",
-      "latest": 22811.349609,
+      "latest": 22687.650391,
       "previous_close": 22888.949219,
-      "change": -77.59960999999748,
-      "change_pct": -0.3390265287302156,
-      "day_change_pct": -0.3390265287302156,
-      "market_time": "2026-10-21T10:01:08+00:00",
+      "change": -201.29882799999905,
+      "change_pct": -0.8794585809684174,
+      "day_change_pct": -0.8794585809684174,
+      "market_time": "2026-10-22T10:01:03+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -8141,20 +8141,20 @@
           "value": 22888.949219
         },
         {
-          "date": "2026-10-21",
-          "value": 22811.349609
+          "date": "2026-10-22",
+          "value": 22687.650391
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1234,
       "performance_pct": {
-        "1W": 0.8338986792591152,
-        "1M": -2.5751406272583544,
-        "3M": -4.937856502578519,
-        "6M": -6.4268750441137,
-        "1Y": -11.818382309865527,
-        "3Y": 16.725977043038842,
-        "5Y": 25.488087862089117
+        "1W": -1.3466735222340653,
+        "1M": -2.7491517381799557,
+        "3M": -4.9516926859315635,
+        "6M": -6.144861082935904,
+        "1Y": -12.296565202908438,
+        "3Y": 17.66385515318889,
+        "5Y": 25.2430314343427
       },
       "series_id": "market.nifty50.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -8165,12 +8165,12 @@
       "symbol": "^FTSE",
       "group": "indices",
       "unit": "index",
-      "latest": 10735.040039,
+      "latest": 10704.370117,
       "previous_close": 10733.0,
-      "change": 2.040038999999524,
-      "change_pct": 0.01900716481877876,
-      "day_change_pct": 0.01900716481877876,
-      "market_time": "2026-10-21T11:37:14+00:00",
+      "change": -28.62988299999961,
+      "change_pct": -0.2667463244200094,
+      "day_change_pct": -0.2667463244200094,
+      "market_time": "2026-10-22T10:11:43+00:00",
       "currency": "GBP",
       "exchange": "FGI",
       "source": "Yahoo Finance chart",
@@ -9772,20 +9772,20 @@
           "value": 10733.0
         },
         {
-          "date": "2026-10-21",
-          "value": 10735.040039
+          "date": "2026-10-22",
+          "value": 10704.370117
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 1,
+      "history_fetch": "full",
+      "history_points_added": 1261,
       "performance_pct": {
-        "1W": 0.09454305056770806,
-        "1M": -0.036874578638612654,
-        "3M": 0.16833105346645283,
-        "6M": 2.4678092779076843,
-        "1Y": 13.875464506205581,
-        "3Y": 45.026950417767765,
-        "5Y": 49.29892118733428
+        "1W": -1.254845477044697,
+        "1M": -0.03669759038839038,
+        "3M": 0.6125453117296287,
+        "6M": 2.3655935449937937,
+        "1Y": 12.499948681029949,
+        "3Y": 45.14794163961717,
+        "5Y": 48.57688103981703
       },
       "series_id": "market.ftse100.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -9796,12 +9796,12 @@
       "symbol": "^N225",
       "group": "indices",
       "unit": "index",
-      "latest": 64621.238281,
+      "latest": 62907.839844,
       "previous_close": 64075.421875,
-      "change": 545.8164059999981,
-      "change_pct": 0.851834275964333,
-      "day_change_pct": 0.851834275964333,
-      "market_time": "2026-10-21T06:45:03+00:00",
+      "change": -1167.582030999998,
+      "change_pct": -1.8221995218037697,
+      "day_change_pct": -1.8221995218037697,
+      "market_time": "2026-10-22T06:45:03+00:00",
       "currency": "JPY",
       "exchange": "OSA",
       "source": "Yahoo Finance chart",
@@ -11403,20 +11403,20 @@
           "value": 64075.421875
         },
         {
-          "date": "2026-10-21",
-          "value": 64621.238281
+          "date": "2026-10-22",
+          "value": 62907.839844
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1220,
       "performance_pct": {
-        "1W": -4.6100576509729985,
-        "1M": -0.6116846592835845,
-        "3M": -2.2602279124673164,
-        "6M": 8.450627311272196,
-        "1Y": 31.034880165508795,
-        "3Y": 106.7260480478097,
-        "5Y": 125.09381552632286
+        "1W": -2.3563632253823186,
+        "1M": -3.24691401561914,
+        "3M": -5.291514688293642,
+        "6M": 6.370636950721553,
+        "1Y": 27.58195214329968,
+        "3Y": 102.93145629244722,
+        "5Y": 118.39322439768827
       },
       "series_id": "market.nikkei.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -11427,12 +11427,12 @@
       "symbol": "^HSI",
       "group": "indices",
       "unit": "index",
-      "latest": 23651.869141,
+      "latest": 22934.679688,
       "previous_close": 23867.740234,
-      "change": -215.87109300000157,
-      "change_pct": -0.9044471361075463,
-      "day_change_pct": -0.9044471361075463,
-      "market_time": "2026-10-21T08:08:42+00:00",
+      "change": -933.0605460000006,
+      "change_pct": -3.90929571401502,
+      "day_change_pct": -3.90929571401502,
+      "market_time": "2026-10-22T08:08:58+00:00",
       "currency": "HKD",
       "exchange": "HKG",
       "source": "Yahoo Finance chart",
@@ -13034,20 +13034,20 @@
           "value": 23867.740234
         },
         {
-          "date": "2026-10-21",
-          "value": 23651.869141
+          "date": "2026-10-22",
+          "value": 22934.679688
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1228,
       "performance_pct": {
-        "1W": -2.723929227790489,
-        "1M": -5.553878733190687,
-        "3M": -4.98456576044537,
-        "6M": -9.598853469748715,
-        "1Y": -9.127565094347023,
-        "3Y": 37.734037407500495,
-        "5Y": -9.092562668019276
+        "1W": -4.687919661800177,
+        "1M": -8.582157873862739,
+        "3M": -9.028392223870219,
+        "6M": -11.501048113937706,
+        "1Y": -11.04303503906766,
+        "3Y": 33.55756415040256,
+        "5Y": -12.218236272385996
       },
       "series_id": "market.hangseng.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -13063,7 +13063,7 @@
       "change": -3.4400019999999927,
       "change_pct": -1.003091497036847,
       "day_change_pct": -1.003091497036847,
-      "market_time": "2026-10-20T20:00:01+00:00",
+      "market_time": "2026-10-21T20:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -14669,8 +14669,8 @@
           "value": 339.5
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -0.5186477150207369,
         "1M": 1.002586781861381,
@@ -14678,7 +14678,7 @@
         "6M": 27.55005576078926,
         "1Y": 29.461566864763846,
         "3Y": 96.3789855281413,
-        "5Y": 127.12069111909798
+        "5Y": 128.32738949051867
       },
       "series_id": "market.apple.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -14694,7 +14694,7 @@
       "change": -1.6500250000000278,
       "change_pct": -0.30927143090151105,
       "day_change_pct": -0.30927143090151105,
-      "market_time": "2026-10-20T20:00:01+00:00",
+      "market_time": "2026-10-21T20:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -16300,8 +16300,8 @@
           "value": 531.869995
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -2.130833884313177,
         "1M": 7.713960888885674,
@@ -16309,7 +16309,7 @@
         "6M": 25.393716989874406,
         "1Y": 2.9180165332076236,
         "3Y": 62.815677544299135,
-        "5Y": 71.15136371632886
+        "5Y": 72.03712903302977
       },
       "series_id": "market.microsoft.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -16325,7 +16325,7 @@
       "change": -0.6199950000000172,
       "change_pct": -0.28559353789845626,
       "day_change_pct": -0.28559353789845626,
-      "market_time": "2026-10-20T20:00:01+00:00",
+      "market_time": "2026-10-21T20:00:00+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -17931,8 +17931,8 @@
           "value": 216.470001
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -5.273062659319749,
         "1M": -2.6094402733712996,
@@ -17940,7 +17940,7 @@
         "6M": 8.299977779168044,
         "1Y": 18.522778244211445,
         "3Y": 423.03862509873574,
-        "5Y": 853.9485745614567
+        "5Y": 852.5213455953533
       },
       "series_id": "market.nvidia.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -17956,7 +17956,7 @@
       "change": -3.8999940000000493,
       "change_pct": -1.1331262941829536,
       "day_change_pct": -1.1331262941829536,
-      "market_time": "2026-10-20T20:00:01+00:00",
+      "market_time": "2026-10-21T20:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -19562,8 +19562,8 @@
           "value": 340.279999
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -3.81593081524092,
         "1M": -2.6491988789758336,
@@ -19571,7 +19571,7 @@
         "6M": 2.404523092356947,
         "1Y": 32.63691869671808,
         "3Y": 150.94394096118253,
-        "5Y": 139.82633537027846
+        "5Y": 147.3567357947863
       },
       "series_id": "market.alphabet.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -19587,7 +19587,7 @@
       "change": 0.17999299999996765,
       "change_pct": 0.06858182197376606,
       "day_change_pct": 0.06858182197376606,
-      "market_time": "2026-10-20T20:00:01+00:00",
+      "market_time": "2026-10-21T20:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -21193,8 +21193,8 @@
           "value": 262.630005
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": 1.5662534626084357,
         "1M": 3.515824269399026,
@@ -21202,7 +21202,7 @@
         "6M": 5.089832658319682,
         "1Y": 21.318371144094073,
         "3Y": 109.81865398767519,
-        "5Y": 52.9136735459012
+        "5Y": 57.47328704347496
       },
       "series_id": "market.amazon.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -21218,7 +21218,7 @@
       "change": -11.19000200000005,
       "change_pct": -1.586244325282825,
       "day_change_pct": -1.586244325282825,
-      "market_time": "2026-10-20T20:00:01+00:00",
+      "market_time": "2026-10-21T20:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -22824,8 +22824,8 @@
           "value": 694.25
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -8.95081967213115,
         "1M": 4.280886218550517,
@@ -22833,7 +22833,7 @@
         "6M": 3.7991106952694365,
         "1Y": -5.17912286497001,
         "3Y": 124.93115616260147,
-        "5Y": 103.06832509845086
+        "5Y": 113.87204093552454
       },
       "series_id": "market.meta.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -22849,7 +22849,7 @@
       "change": -0.22000099999996792,
       "change_pct": -0.06575241418753235,
       "day_change_pct": -0.06575241418753235,
-      "market_time": "2026-10-20T20:00:01+00:00",
+      "market_time": "2026-10-21T20:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -24455,8 +24455,8 @@
           "value": 334.369995
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -6.420196224120211,
         "1M": -6.498697177037704,
@@ -24464,7 +24464,7 @@
         "6M": -16.85854633821243,
         "1Y": -4.2578156642370635,
         "3Y": 291.7036642538766,
-        "5Y": 550.3354828292233
+        "5Y": 548.7456490948954
       },
       "series_id": "market.broadcom.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -24480,7 +24480,7 @@
       "change": 5.649992999999995,
       "change_pct": 1.5350739093358345,
       "day_change_pct": 1.5350739093358345,
-      "market_time": "2026-10-20T20:00:00+00:00",
+      "market_time": "2026-10-21T20:00:00+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -26086,8 +26086,8 @@
           "value": 373.709991
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -0.40509019946167735,
         "1M": 2.5914849658394523,
@@ -26095,7 +26095,7 @@
         "6M": -3.2891728100014284,
         "1Y": -16.47632102302986,
         "3Y": 76.28660888988612,
-        "5Y": 25.406037248322157
+        "5Y": 23.24443978463715
       },
       "series_id": "market.tesla.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -26106,20 +26106,16 @@
       "symbol": "RELIANCE.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 1209.0,
-      "previous_close": 1202.0,
-      "change": 7.0,
-      "change_pct": 0.5823627287853578,
-      "day_change_pct": 0.5823627287853578,
-      "market_time": "2026-10-21T09:59:20+00:00",
+      "latest": 1184.5,
+      "previous_close": 1209.0,
+      "change": -24.5,
+      "change_pct": -2.026468155500414,
+      "day_change_pct": -2.026468155500414,
+      "market_time": "2026-10-22T09:58:54+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 1249.800049
-        },
         {
           "date": "2025-03-10",
           "value": 1238.400024
@@ -27715,18 +27711,22 @@
         {
           "date": "2026-10-21",
           "value": 1209.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 1184.5
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": 2.928658667025208,
-        "1M": -3.078404943176438,
-        "3M": -6.177244876807286,
-        "6M": -11.23999549941993,
-        "1Y": -17.485664726179074,
-        "3Y": 5.171584399627993,
-        "5Y": -0.10603508893259894
+        "1W": -2.5102880658436244,
+        "1M": -4.506612618382211,
+        "3M": -6.893566607282475,
+        "6M": -11.828198687005532,
+        "1Y": -19.157791454225904,
+        "3Y": 4.6747989680056445,
+        "5Y": -2.312877909476918
       },
       "series_id": "market.reliance.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -27737,20 +27737,16 @@
       "symbol": "TCS.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 2529.0,
-      "previous_close": 2460.899902,
-      "change": 68.10009799999989,
-      "change_pct": 2.76728435580229,
-      "day_change_pct": 2.76728435580229,
-      "market_time": "2026-10-21T09:59:20+00:00",
+      "latest": 2506.899902,
+      "previous_close": 2529.0,
+      "change": -22.10009799999989,
+      "change_pct": -0.8738670620798691,
+      "day_change_pct": -0.8738670620798691,
+      "market_time": "2026-10-22T09:58:54+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 3611.199951
-        },
         {
           "date": "2025-03-10",
           "value": 3589.649902
@@ -29346,18 +29342,22 @@
         {
           "date": "2026-10-21",
           "value": 2529.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 2506.899902
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": 9.722769210304726,
-        "1M": 18.80490713648726,
-        "3M": 14.522480817098415,
-        "6M": -0.37423675398857714,
-        "1Y": -15.887849096519313,
-        "3Y": -27.630167989046306,
-        "5Y": -28.407643312101914
+        "1W": 6.676591574468094,
+        "1M": 19.09263192399051,
+        "3M": 11.770476237686323,
+        "6M": -0.5908536248109164,
+        "1Y": -16.622877478471743,
+        "3Y": -26.487105433994497,
+        "5Y": -28.35074862358392
       },
       "series_id": "market.tcs.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -29368,20 +29368,16 @@
       "symbol": "HDFCBANK.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 706.950012,
-      "previous_close": 712.0,
-      "change": -5.049987999999985,
-      "change_pct": -0.7092679775280878,
-      "day_change_pct": -0.7092679775280878,
-      "market_time": "2026-10-21T09:59:20+00:00",
+      "latest": 694.049988,
+      "previous_close": 706.950012,
+      "change": -12.90002400000003,
+      "change_pct": -1.82474344451953,
+      "day_change_pct": -1.82474344451953,
+      "market_time": "2026-10-22T09:58:54+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 844.625
-        },
         {
           "date": "2025-03-10",
           "value": 843.75
@@ -30977,18 +30973,22 @@
         {
           "date": "2026-10-21",
           "value": 706.950012
+        },
+        {
+          "date": "2026-10-22",
+          "value": 694.049988
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": -0.5276487880515157,
-        "1M": -4.401621095334685,
-        "3M": -6.134237605760207,
-        "6M": -11.620203676853503,
-        "1Y": -29.84519166602927,
-        "3Y": -7.151301587035408,
-        "5Y": -15.653523622639664
+        "1W": -4.51262146014021,
+        "1M": -6.031680131005035,
+        "3M": -7.119439544998329,
+        "6M": -11.512716359157505,
+        "1Y": -31.125336932118643,
+        "3Y": -7.831749825089485,
+        "5Y": -17.41187112896029
       },
       "series_id": "market.hdfcbank.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -30999,20 +30999,16 @@
       "symbol": "BHARTIARTL.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 1891.699951,
-      "previous_close": 1875.199951,
-      "change": 16.5,
-      "change_pct": 0.8799061663371385,
-      "day_change_pct": 0.8799061663371385,
-      "market_time": "2026-10-21T09:59:20+00:00",
+      "latest": 1895.0,
+      "previous_close": 1891.699951,
+      "change": 3.3000489999999445,
+      "change_pct": 0.1744488600454557,
+      "day_change_pct": 0.1744488600454557,
+      "market_time": "2026-10-22T09:58:55+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 1630.699951
-        },
         {
           "date": "2025-03-10",
           "value": 1630.949951
@@ -32608,18 +32604,22 @@
         {
           "date": "2026-10-21",
           "value": 1891.699951
+        },
+        {
+          "date": "2026-10-22",
+          "value": 1895.0
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": 5.410675153157363,
-        "1M": 3.360288583025972,
-        "3M": -2.9399717290918392,
-        "6M": 3.4281001093493746,
-        "1Y": -7.428434010276486,
-        "3Y": 100.13752930422095,
-        "5Y": 171.7764504867717
+        "1W": 2.2114347357065745,
+        "1M": 4.281314720330398,
+        "3M": -1.8643190056965353,
+        "6M": 2.922010125558594,
+        "1Y": -7.266943968681183,
+        "3Y": 101.74598362711787,
+        "5Y": 172.85817134629232
       },
       "series_id": "market.bharti.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -32630,20 +32630,16 @@
       "symbol": "ICICIBANK.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 1385.0,
-      "previous_close": 1381.0,
-      "change": 4.0,
-      "change_pct": 0.2896451846488052,
-      "day_change_pct": 0.2896451846488052,
-      "market_time": "2026-10-21T09:59:20+00:00",
+      "latest": 1398.5,
+      "previous_close": 1385.0,
+      "change": 13.5,
+      "change_pct": 0.9747292418772563,
+      "day_change_pct": 0.9747292418772563,
+      "market_time": "2026-10-22T09:58:54+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 1214.550049
-        },
         {
           "date": "2025-03-10",
           "value": 1214.849976
@@ -34239,18 +34235,22 @@
         {
           "date": "2026-10-21",
           "value": 1385.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 1398.5
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": 3.466309938137946,
-        "1M": 2.973977695167296,
-        "3M": -3.866172894733444,
-        "6M": 1.2723036198707849,
-        "1Y": 0.21707670043416005,
-        "3Y": 48.48566068078264,
-        "5Y": 83.32230311052282
+        "1W": 0.654957236419329,
+        "1M": 4.396836746434829,
+        "3M": -2.5163792418744557,
+        "6M": 3.7462908011869356,
+        "1Y": 1.193921852387847,
+        "3Y": 50.38442732984232,
+        "5Y": 84.18280285815045
       },
       "series_id": "market.icicibank.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -34261,20 +34261,16 @@
       "symbol": "INFY.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 1168.0,
-      "previous_close": 1130.699951,
-      "change": 37.300048999999944,
-      "change_pct": 3.2988459022229093,
-      "day_change_pct": 3.2988459022229093,
-      "market_time": "2026-10-21T09:59:20+00:00",
+      "latest": 1153.349976,
+      "previous_close": 1168.0,
+      "change": -14.65002400000003,
+      "change_pct": -1.2542828767123313,
+      "day_change_pct": -1.2542828767123313,
+      "market_time": "2026-10-22T09:58:54+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 1686.0
-        },
         {
           "date": "2025-03-10",
           "value": 1701.449951
@@ -35870,18 +35866,22 @@
         {
           "date": "2026-10-21",
           "value": 1168.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 1153.349976
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": 7.352941176470584,
-        "1M": 12.469908521906593,
-        "3M": 11.016065644316676,
-        "6M": -7.929999834715429,
-        "1Y": -20.673731257695227,
-        "3Y": -18.164301979330876,
-        "5Y": -33.3960605585462
+        "1W": 3.905403243243244,
+        "1M": 12.040989810585035,
+        "3M": 10.115519340488376,
+        "6M": -7.032887448645253,
+        "1Y": -21.66870706326476,
+        "3Y": -18.123738590160986,
+        "5Y": -32.93697272129802
       },
       "series_id": "market.infosys.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -35892,20 +35892,16 @@
       "symbol": "LT.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 3636.0,
-      "previous_close": 3661.899902,
-      "change": -25.89990200000011,
-      "change_pct": -0.7072804471213018,
-      "day_change_pct": -0.7072804471213018,
-      "market_time": "2026-10-21T09:59:23+00:00",
+      "latest": 3638.300049,
+      "previous_close": 3636.0,
+      "change": 2.3000489999999445,
+      "change_pct": 0.0632576732673252,
+      "day_change_pct": 0.0632576732673252,
+      "market_time": "2026-10-22T09:58:55+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 3244.699951
-        },
         {
           "date": "2025-03-10",
           "value": 3177.699951
@@ -37501,18 +37497,22 @@
         {
           "date": "2026-10-21",
           "value": 3636.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 3638.300049
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": -0.16474464579900872,
-        "1M": -6.883836448138703,
-        "3M": -4.751922949046072,
-        "6M": -9.576983626732883,
-        "1Y": -6.486290678933249,
-        "3Y": 20.703101622021357,
-        "5Y": 101.35677696248098
+        "1W": 0.17345949889868706,
+        "1M": -5.899541143739661,
+        "3M": -4.06338616659948,
+        "6M": -10.256284722844555,
+        "1Y": -6.427136082230767,
+        "3Y": 22.986174111373913,
+        "5Y": 103.00181609708466
       },
       "series_id": "market.lt.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -37523,20 +37523,16 @@
       "symbol": "SBIN.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 963.0,
-      "previous_close": 973.700012,
-      "change": -10.700012000000015,
-      "change_pct": -1.0989023177705388,
-      "day_change_pct": -1.0989023177705388,
-      "market_time": "2026-10-21T09:59:20+00:00",
+      "latest": 970.0,
+      "previous_close": 963.0,
+      "change": 7.0,
+      "change_pct": 0.726895119418484,
+      "day_change_pct": 0.726895119418484,
+      "market_time": "2026-10-22T09:58:54+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 732.75
-        },
         {
           "date": "2025-03-10",
           "value": 728.900024
@@ -39132,18 +39128,22 @@
         {
           "date": "2026-10-21",
           "value": 963.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 970.0
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": 0.848253827250911,
-        "1M": -3.3132530120481896,
-        "3M": -6.048780487804883,
-        "6M": -12.716400142206464,
-        "1Y": 6.07479489540681,
-        "3Y": 71.01758853564577,
-        "5Y": 91.47032051368159
+        "1W": 1.041666666666674,
+        "1M": -1.722391084093211,
+        "3M": -4.206989631609471,
+        "6M": -11.354809230066254,
+        "1Y": 6.845847402434702,
+        "3Y": 75.42272880898318,
+        "5Y": 92.86210892863045
       },
       "series_id": "market.sbi.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -39154,20 +39154,16 @@
       "symbol": "ASML.AS",
       "group": "europe_stocks",
       "unit": "EUR",
-      "latest": 1485.800049,
-      "previous_close": 1455.400024,
-      "change": 30.400024999999914,
-      "change_pct": 2.0887745292492803,
-      "day_change_pct": 2.0887745292492803,
-      "market_time": "2026-10-21T11:37:16+00:00",
+      "latest": 1447.599976,
+      "previous_close": 1493.800049,
+      "change": -46.200072999999975,
+      "change_pct": -3.0927882905699366,
+      "day_change_pct": -3.0927882905699366,
+      "market_time": "2026-10-22T10:11:51+00:00",
       "currency": "EUR",
       "exchange": "AMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-28",
-          "value": 625.599976
-        },
         {
           "date": "2025-03-31",
           "value": 606.0
@@ -40762,19 +40758,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 1485.800049
+          "value": 1493.800049
+        },
+        {
+          "date": "2026-10-22",
+          "value": 1447.599976
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1281,
       "performance_pct": {
-        "1W": -2.7744996309059577,
-        "1M": 0.2970180186793403,
-        "3M": -6.529940146400703,
-        "6M": 18.883020543072494,
-        "1Y": 66.98135188107015,
-        "3Y": 171.5774290218576,
-        "5Y": 122.99265732539682
+        "1W": -1.1337232314932666,
+        "1M": -3.9670987825325965,
+        "3M": -8.333332008823003,
+        "6M": 18.28729514947094,
+        "1Y": 66.37168324666176,
+        "3Y": 161.96164293716873,
+        "5Y": 109.645181173063
       },
       "series_id": "market.asml.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -40785,20 +40785,16 @@
       "symbol": "SAP.DE",
       "group": "europe_stocks",
       "unit": "EUR",
-      "latest": 204.25,
-      "previous_close": 201.550003,
-      "change": 2.699996999999996,
-      "change_pct": 1.3396164523996539,
-      "day_change_pct": 1.3396164523996539,
-      "market_time": "2026-10-21T11:37:16+00:00",
+      "latest": 206.649994,
+      "previous_close": 208.649994,
+      "change": -2.0,
+      "change_pct": -0.9585430421819231,
+      "day_change_pct": -0.9585430421819231,
+      "market_time": "2026-10-22T10:11:49+00:00",
       "currency": "EUR",
       "exchange": "GER",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-26",
-          "value": 250.100006
-        },
         {
           "date": "2025-03-27",
           "value": 249.25
@@ -42393,19 +42389,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 204.25
+          "value": 208.649994
+        },
+        {
+          "date": "2026-10-22",
+          "value": 206.649994
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1275,
       "performance_pct": {
-        "1W": 3.7117893397807578,
-        "1M": 11.697472866140913,
-        "3M": 54.68798154207717,
-        "6M": 36.33025661252305,
-        "1Y": -15.037435483463446,
-        "3Y": 64.8240827118154,
-        "5Y": 70.40714024355799
+        "1W": 2.6832268322981356,
+        "1M": 13.344661071672714,
+        "3M": 61.04269227479078,
+        "6M": 46.872777829554614,
+        "1Y": -12.750690831732559,
+        "3Y": 66.76081127761154,
+        "5Y": 70.39082759227264
       },
       "series_id": "market.sap.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -42416,20 +42416,16 @@
       "symbol": "SIE.DE",
       "group": "europe_stocks",
       "unit": "EUR",
-      "latest": 265.100006,
-      "previous_close": 260.25,
-      "change": 4.850006000000008,
-      "change_pct": 1.863595004803077,
-      "day_change_pct": 1.863595004803077,
-      "market_time": "2026-10-21T11:37:17+00:00",
+      "latest": 260.450012,
+      "previous_close": 266.75,
+      "change": -6.299987999999985,
+      "change_pct": -2.3617574507966204,
+      "day_change_pct": -2.3617574507966204,
+      "market_time": "2026-10-22T10:11:09+00:00",
       "currency": "EUR",
       "exchange": "GER",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-26",
-          "value": 224.5
-        },
         {
           "date": "2025-03-27",
           "value": 221.550003
@@ -44024,19 +44020,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 265.100006
+          "value": 266.75
+        },
+        {
+          "date": "2026-10-22",
+          "value": 260.450012
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1275,
       "performance_pct": {
-        "1W": -3.6175177000916547,
-        "1M": -3.071295795246798,
-        "3M": -2.267278894009217,
-        "6M": 9.704122732152864,
-        "1Y": 9.590745173809312,
-        "3Y": 108.54310867189017,
-        "5Y": 91.29744708763967
+        "1W": -3.768698402409709,
+        "1M": -4.89318740420257,
+        "3M": -2.889634471753866,
+        "6M": 7.004937724032989,
+        "1Y": 7.623971900826443,
+        "3Y": 103.95459523777437,
+        "5Y": 86.62225260278377
       },
       "series_id": "market.siemens_eu.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -44047,20 +44047,16 @@
       "symbol": "SU.PA",
       "group": "europe_stocks",
       "unit": "EUR",
-      "latest": 246.100006,
-      "previous_close": 244.300003,
-      "change": 1.8000030000000038,
-      "change_pct": 0.7368002365517793,
-      "day_change_pct": 0.7368002365517793,
-      "market_time": "2026-10-21T11:37:16+00:00",
+      "latest": 239.949997,
+      "previous_close": 249.100006,
+      "change": -9.150009000000011,
+      "change_pct": -3.673227129508785,
+      "day_change_pct": -3.673227129508785,
+      "market_time": "2026-10-22T10:11:50+00:00",
       "currency": "EUR",
       "exchange": "PAR",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-28",
-          "value": 217.149994
-        },
         {
           "date": "2025-03-31",
           "value": 210.75
@@ -45655,19 +45651,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 246.100006
+          "value": 249.100006
+        },
+        {
+          "date": "2026-10-22",
+          "value": 239.949997
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1281,
       "performance_pct": {
-        "1W": -6.921326934674587,
-        "1M": -16.576269152542366,
-        "3M": -8.513008921933086,
-        "6M": -10.149685508937978,
-        "1Y": -1.461459059059056,
-        "3Y": 73.99604250571208,
-        "5Y": 75.13521135396495
+        "1W": -6.996125193798452,
+        "1M": -18.6610179661017,
+        "3M": -9.589298257482248,
+        "6M": -12.697838180145427,
+        "1Y": -2.676944197806397,
+        "3Y": 69.07412653712129,
+        "5Y": 69.21720163856413
       },
       "series_id": "market.schneider.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -45678,20 +45678,16 @@
       "symbol": "AIR.PA",
       "group": "europe_stocks",
       "unit": "EUR",
-      "latest": 194.679993,
-      "previous_close": 193.580002,
-      "change": 1.0999909999999886,
-      "change_pct": 0.5682358656035083,
-      "day_change_pct": 0.5682358656035083,
-      "market_time": "2026-10-21T11:37:17+00:00",
+      "latest": 196.479996,
+      "previous_close": 198.779999,
+      "change": -2.300003000000004,
+      "change_pct": -1.1570595691571584,
+      "day_change_pct": -1.1570595691571584,
+      "market_time": "2026-10-22T10:11:51+00:00",
       "currency": "EUR",
       "exchange": "PAR",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-28",
-          "value": 166.259995
-        },
         {
           "date": "2025-03-31",
           "value": 162.779999
@@ -47286,19 +47282,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 194.679993
+          "value": 198.779999
+        },
+        {
+          "date": "2026-10-22",
+          "value": 196.479996
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1281,
       "performance_pct": {
-        "1W": 2.3446493410543168,
-        "1M": -0.05134305396521377,
-        "3M": -6.538650889985831,
-        "6M": 17.10778822462138,
-        "1Y": -6.1104473756321,
-        "3Y": 60.54757528372794,
-        "5Y": 74.78900901748094
+        "1W": 0.8727780104362814,
+        "1M": 0.9660791069040275,
+        "3M": -3.9217623471882623,
+        "6M": 16.841098552780732,
+        "1Y": -4.528671945646179,
+        "3Y": 60.39183346938775,
+        "5Y": 78.97613207301997
       },
       "series_id": "market.airbus.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -47309,20 +47309,16 @@
       "symbol": "MC.PA",
       "group": "europe_stocks",
       "unit": "EUR",
-      "latest": 388.450012,
-      "previous_close": 386.75,
-      "change": 1.7000120000000152,
-      "change_pct": 0.4395635423400168,
-      "day_change_pct": 0.4395635423400168,
-      "market_time": "2026-10-21T11:37:19+00:00",
+      "latest": 383.75,
+      "previous_close": 388.600006,
+      "change": -4.850006000000008,
+      "change_pct": -1.2480715195871632,
+      "day_change_pct": -1.2480715195871632,
+      "market_time": "2026-10-22T10:11:45+00:00",
       "currency": "EUR",
       "exchange": "PAR",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-28",
-          "value": 587.099976
-        },
         {
           "date": "2025-03-31",
           "value": 571.700012
@@ -48917,19 +48913,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 388.450012
+          "value": 388.600006
+        },
+        {
+          "date": "2026-10-22",
+          "value": 383.75
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1281,
       "performance_pct": {
-        "1W": -0.28237094952753283,
-        "1M": -4.20468261405672,
-        "3M": -18.048520675105483,
-        "6M": -18.100353820797476,
-        "1Y": -37.0217218616418,
-        "3Y": -41.498492168674694,
-        "5Y": -41.11717372532047
+        "1W": -3.653022455024524,
+        "1M": -4.527929209266945,
+        "3M": -15.389701211942263,
+        "6M": -19.244530658808145,
+        "1Y": -38.4226584385881,
+        "3Y": -42.672544630802115,
+        "5Y": -42.492131439990374
       },
       "series_id": "market.lvmh.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -48940,20 +48940,16 @@
       "symbol": "NOVO-B.CO",
       "group": "europe_stocks",
       "unit": "DKK",
-      "latest": 259.600006,
-      "previous_close": 261.200012,
-      "change": -1.6000060000000076,
-      "change_pct": -0.6125596962070612,
-      "day_change_pct": -0.6125596962070612,
-      "market_time": "2026-10-21T11:51:50+00:00",
+      "latest": 263.100006,
+      "previous_close": 261.700012,
+      "change": 1.3999939999999924,
+      "change_pct": 0.5349613816601553,
+      "day_change_pct": 0.5349613816601553,
+      "market_time": "2026-10-22T10:26:41+00:00",
       "currency": "DKK",
       "exchange": "CPH",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-13",
-          "value": 525.0
-        },
         {
           "date": "2025-03-14",
           "value": 530.200012
@@ -50548,19 +50544,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 259.600006
+          "value": 261.700012
+        },
+        {
+          "date": "2026-10-22",
+          "value": 263.100006
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1252,
       "performance_pct": {
-        "1W": 1.4260633103269749,
-        "1M": -0.15384384615384494,
-        "3M": -18.74804194053208,
-        "6M": 4.2570305220883675,
-        "1Y": -26.862939224242087,
-        "3Y": -61.693964674151424,
-        "5Y": -22.263812944555305
+        "1W": -0.13285480510815129,
+        "1M": 1.6615217153719497,
+        "3M": -17.858252932560205,
+        "6M": 6.647754033008768,
+        "1Y": -23.39496380626127,
+        "3Y": -61.433596984457395,
+        "5Y": -22.32063871317489
       },
       "series_id": "market.novo.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -50571,20 +50571,16 @@
       "symbol": "SHEL.L",
       "group": "europe_stocks",
       "unit": "GBp",
-      "latest": 3917.0,
-      "previous_close": 3900.0,
-      "change": 17.0,
-      "change_pct": 0.4358974358974359,
-      "day_change_pct": 0.4358974358974359,
-      "market_time": "2026-10-21T11:37:19+00:00",
+      "latest": 3954.0,
+      "previous_close": 3909.0,
+      "change": 45.0,
+      "change_pct": 1.1511895625479662,
+      "day_change_pct": 1.1511895625479662,
+      "market_time": "2026-10-22T10:11:51+00:00",
       "currency": "GBp",
       "exchange": "LSE",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-24",
-          "value": 2725.0
-        },
         {
           "date": "2025-03-25",
           "value": 2765.0
@@ -52179,19 +52175,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 3917.0
+          "value": 3909.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 3954.0
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1262,
       "performance_pct": {
-        "1W": 0.14061101879074833,
-        "1M": 12.283216282069652,
-        "3M": 18.985419198055897,
-        "6M": 18.714956811638128,
-        "1Y": 44.16635995583364,
-        "3Y": 43.61136571952338,
-        "5Y": 123.03838453984785
+        "1W": 1.1770726714432023,
+        "1M": 12.649572649572649,
+        "3M": 18.24162679425838,
+        "6M": 20.05465310459997,
+        "1Y": 43.20898225280696,
+        "3Y": 44.808643105658305,
+        "5Y": 126.0461988773518
       },
       "series_id": "market.shell.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -52207,7 +52207,7 @@
       "change": -0.5499879999999848,
       "change_pct": -0.07577784437249213,
       "day_change_pct": -0.07577784437249213,
-      "market_time": "2026-10-20T20:00:02+00:00",
+      "market_time": "2026-10-21T20:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
@@ -53813,8 +53813,8 @@
           "value": 725.23999
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -6.151820339032077,
         "1M": -10.352414867333525,
@@ -53822,7 +53822,7 @@
         "6M": -9.395967377410697,
         "1Y": 36.533754952626786,
         "3Y": 191.02728681011985,
-        "5Y": 258.7810396694422
+        "5Y": 261.4453085904404
       },
       "series_id": "market.caterpillar.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -53838,7 +53838,7 @@
       "change": 5.200012000000015,
       "change_pct": 0.8293480063795877,
       "day_change_pct": 0.8293480063795877,
-      "market_time": "2026-10-20T20:00:03+00:00",
+      "market_time": "2026-10-21T20:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
@@ -55444,8 +55444,8 @@
           "value": 632.200012
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": -2.738459692307693,
         "1M": -7.571745019250942,
@@ -55453,7 +55453,7 @@
         "6M": 7.645160040425547,
         "1Y": 36.709629198557096,
         "3Y": 68.5192648570321,
-        "5Y": 84.35249902448747
+        "5Y": 85.55370511573874
       },
       "series_id": "market.deere.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -55469,7 +55469,7 @@
       "change": -18.10998500000005,
       "change_pct": -1.9935257100226251,
       "day_change_pct": -1.9935257100226251,
-      "market_time": "2026-10-20T20:00:02+00:00",
+      "market_time": "2026-10-21T20:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
@@ -57075,8 +57075,8 @@
           "value": 890.330017
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 644,
       "performance_pct": {
         "1W": -11.325242369980614,
         "1M": -5.317282134576374,
@@ -57095,20 +57095,16 @@
       "symbol": "SIE.DE",
       "group": "heavy_industry",
       "unit": "EUR",
-      "latest": 265.100006,
-      "previous_close": 260.25,
-      "change": 4.850006000000008,
-      "change_pct": 1.863595004803077,
-      "day_change_pct": 1.863595004803077,
-      "market_time": "2026-10-21T11:37:17+00:00",
+      "latest": 260.450012,
+      "previous_close": 266.75,
+      "change": -6.299987999999985,
+      "change_pct": -2.3617574507966204,
+      "day_change_pct": -2.3617574507966204,
+      "market_time": "2026-10-22T10:11:09+00:00",
       "currency": "EUR",
       "exchange": "GER",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-26",
-          "value": 224.5
-        },
         {
           "date": "2025-03-27",
           "value": 221.550003
@@ -58703,19 +58699,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 265.100006
+          "value": 266.75
+        },
+        {
+          "date": "2026-10-22",
+          "value": 260.450012
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1275,
       "performance_pct": {
-        "1W": -3.6175177000916547,
-        "1M": -3.071295795246798,
-        "3M": -2.267278894009217,
-        "6M": 9.704122732152864,
-        "1Y": 9.590745173809312,
-        "3Y": 108.54310867189017,
-        "5Y": 91.29744708763967
+        "1W": -3.768698402409709,
+        "1M": -4.89318740420257,
+        "3M": -2.889634471753866,
+        "6M": 7.004937724032989,
+        "1Y": 7.623971900826443,
+        "3Y": 103.95459523777437,
+        "5Y": 86.62225260278377
       },
       "series_id": "market.siemens_heavy.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -58726,20 +58726,16 @@
       "symbol": "ABBN.SW",
       "group": "heavy_industry",
       "unit": "CHF",
-      "latest": 71.360001,
-      "previous_close": 70.959999,
-      "change": 0.40000200000000063,
-      "change_pct": 0.5637006843813521,
-      "day_change_pct": 0.5637006843813521,
-      "market_time": "2026-10-21T11:37:00+00:00",
+      "latest": 69.519997,
+      "previous_close": 71.839996,
+      "change": -2.3199989999999957,
+      "change_pct": -3.2293974515254646,
+      "day_change_pct": -3.2293974515254646,
+      "market_time": "2026-10-22T10:11:51+00:00",
       "currency": "CHF",
       "exchange": "EBS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-18",
-          "value": 49.580002
-        },
         {
           "date": "2025-03-19",
           "value": 50.98
@@ -60334,19 +60330,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 71.360001
+          "value": 71.839996
+        },
+        {
+          "date": "2026-10-22",
+          "value": 69.519997
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1257,
       "performance_pct": {
-        "1W": -9.53346385142485,
-        "1M": -13.12393247046424,
-        "3M": -11.573725337313212,
-        "6M": -6.986444121657398,
-        "1Y": 21.982907692307684,
-        "3Y": 141.5707467308481,
-        "5Y": 147.13415124485167
+        "1W": -8.766404544609097,
+        "1M": -16.341758516047133,
+        "3M": -12.94766324883967,
+        "6M": -10.98591705469697,
+        "1Y": 20.568846687478338,
+        "3Y": 132.58614695838565,
+        "5Y": 139.25161389881242
       },
       "series_id": "market.abb.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -60362,7 +60362,7 @@
       "change": 3.340011000000004,
       "change_pct": 1.5906329477213648,
       "day_change_pct": 1.5906329477213648,
-      "market_time": "2026-10-20T20:00:01+00:00",
+      "market_time": "2026-10-21T20:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
@@ -61968,8 +61968,8 @@
           "value": 213.320007
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": 2.908974964363087,
         "1M": 3.3226774035709505,
@@ -61977,7 +61977,7 @@
         "6M": -8.468803140263114,
         "1Y": 4.7459400858938405,
         "3Y": 19.02055404891847,
-        "5Y": -3.8802494840040724
+        "5Y": -0.7322591784208021
       },
       "series_id": "market.honeywell.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -61988,20 +61988,16 @@
       "symbol": "LT.NS",
       "group": "heavy_industry",
       "unit": "INR",
-      "latest": 3636.0,
-      "previous_close": 3661.899902,
-      "change": -25.89990200000011,
-      "change_pct": -0.7072804471213018,
-      "day_change_pct": -0.7072804471213018,
-      "market_time": "2026-10-21T09:59:23+00:00",
+      "latest": 3638.300049,
+      "previous_close": 3636.0,
+      "change": 2.3000489999999445,
+      "change_pct": 0.0632576732673252,
+      "day_change_pct": 0.0632576732673252,
+      "market_time": "2026-10-22T09:58:55+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-07",
-          "value": 3244.699951
-        },
         {
           "date": "2025-03-10",
           "value": 3177.699951
@@ -63597,18 +63593,22 @@
         {
           "date": "2026-10-21",
           "value": 3636.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 3638.300049
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1236,
       "performance_pct": {
-        "1W": -0.16474464579900872,
-        "1M": -6.883836448138703,
-        "3M": -4.751922949046072,
-        "6M": -9.576983626732883,
-        "1Y": -6.486290678933249,
-        "3Y": 20.703101622021357,
-        "5Y": 101.35677696248098
+        "1W": 0.17345949889868706,
+        "1M": -5.899541143739661,
+        "3M": -4.06338616659948,
+        "6M": -10.256284722844555,
+        "1Y": -6.427136082230767,
+        "3Y": 22.986174111373913,
+        "5Y": 103.00181609708466
       },
       "series_id": "market.lt_heavy.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -63619,20 +63619,16 @@
       "symbol": "7011.T",
       "group": "heavy_industry",
       "unit": "JPY",
-      "latest": 3721.0,
-      "previous_close": 3685.0,
-      "change": 36.0,
-      "change_pct": 0.9769335142469471,
-      "day_change_pct": 0.9769335142469471,
-      "market_time": "2026-10-21T06:30:00+00:00",
+      "latest": 3688.0,
+      "previous_close": 3721.0,
+      "change": -33.0,
+      "change_pct": -0.8868583714055361,
+      "day_change_pct": -0.8868583714055361,
+      "market_time": "2026-10-22T06:30:00+00:00",
       "currency": "JPY",
       "exchange": "JPX",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-03",
-          "value": 2121.0
-        },
         {
           "date": "2025-03-04",
           "value": 2285.5
@@ -65228,18 +65224,22 @@
         {
           "date": "2026-10-21",
           "value": 3721.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 3688.0
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1221,
       "performance_pct": {
-        "1W": -0.16098738932116552,
-        "1M": -4.073214746068576,
-        "3M": -4.393627954779033,
-        "6M": -17.457852706299914,
-        "1Y": -12.816307403936268,
-        "3Y": 370.1794146015846,
-        "5Y": 1126.4337750777938
+        "1W": 2.415995556789774,
+        "1M": -4.9239494715132786,
+        "3M": -6.157760814249369,
+        "6M": -22.423222549432055,
+        "1Y": -15.159880377271683,
+        "3Y": 373.24522735652863,
+        "5Y": 1136.7538067034013
       },
       "series_id": "market.mhi.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -65255,7 +65255,7 @@
       "change": 0.48004200000002584,
       "change_pct": 0.08756215776452538,
       "day_change_pct": 0.08756215776452538,
-      "market_time": "2026-10-20T20:00:02+00:00",
+      "market_time": "2026-10-21T20:03:01+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
@@ -66861,8 +66861,8 @@
           "value": 548.710022
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": 8.866718379298245,
         "1M": 2.8741266744710448,
@@ -66870,7 +66870,7 @@
         "6M": -4.063290412169806,
         "1Y": 8.462152304354454,
         "3Y": 23.53603483808351,
-        "5Y": 47.05204479342693
+        "5Y": 46.478914364993365
       },
       "series_id": "market.lockheed.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -66886,7 +66886,7 @@
       "change": 1.2299950000000024,
       "change_pct": 0.6402555794063018,
       "day_change_pct": 0.6402555794063018,
-      "market_time": "2026-10-20T20:00:02+00:00",
+      "market_time": "2026-10-21T20:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
@@ -68492,8 +68492,8 @@
           "value": 193.339996
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": 5.638723513523702,
         "1M": -0.34020824742266864,
@@ -68501,7 +68501,7 @@
         "6M": 3.2964674178176834,
         "1Y": 20.30364481285849,
         "3Y": 166.49205789832982,
-        "5Y": 111.04682227871608
+        "5Y": 110.47245144271227
       },
       "series_id": "market.rtx.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -68517,7 +68517,7 @@
       "change": 23.350006000000008,
       "change_pct": 4.572604773202055,
       "day_change_pct": 4.572604773202055,
-      "market_time": "2026-10-20T20:00:02+00:00",
+      "market_time": "2026-10-21T20:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
@@ -70123,8 +70123,8 @@
           "value": 534.0
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": 10.931072012432264,
         "1M": 1.2533390492802665,
@@ -70132,7 +70132,7 @@
         "6M": -12.620883342162193,
         "1Y": -11.29568106312292,
         "3Y": 9.944407413356204,
-        "5Y": 32.58187416739236
+        "5Y": 31.459100423751018
       },
       "series_id": "market.northrop.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -70148,7 +70148,7 @@
       "change": 3.010008999999968,
       "change_pct": 0.8815889235600834,
       "day_change_pct": 0.8815889235600834,
-      "market_time": "2026-10-20T20:00:02+00:00",
+      "market_time": "2026-10-21T20:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
@@ -71754,8 +71754,8 @@
           "value": 344.440002
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1253,
       "performance_pct": {
         "1W": 3.6159041363132305,
         "1M": -2.4387441701315127,
@@ -71763,7 +71763,7 @@
         "6M": 5.812243069349576,
         "1Y": 2.15012306325737,
         "3Y": 46.6076441082179,
-        "5Y": 65.56432108705175
+        "5Y": 64.3948049943718
       },
       "series_id": "market.generaldynamics.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -71774,20 +71774,16 @@
       "symbol": "BA.L",
       "group": "defence",
       "unit": "GBp",
-      "latest": 1935.5,
-      "previous_close": 1947.0,
-      "change": -11.5,
-      "change_pct": -0.5906522855675398,
-      "day_change_pct": -0.5906522855675398,
-      "market_time": "2026-10-21T11:37:22+00:00",
+      "latest": 1918.5,
+      "previous_close": 1933.0,
+      "change": -14.5,
+      "change_pct": -0.7501293326435592,
+      "day_change_pct": -0.7501293326435592,
+      "market_time": "2026-10-22T10:11:51+00:00",
       "currency": "GBp",
       "exchange": "LSE",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-24",
-          "value": 1584.0
-        },
         {
           "date": "2025-03-25",
           "value": 1570.0
@@ -73382,19 +73378,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 1935.5
+          "value": 1933.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 1918.5
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1262,
       "performance_pct": {
-        "1W": 1.9220642443391167,
-        "1M": -5.5853658536585415,
-        "3M": 0.597713097713104,
-        "6M": -8.400378608613346,
-        "1Y": 3.4750066827051507,
-        "3Y": 82.33631653320772,
-        "5Y": 230.62861644160094
+        "1W": -0.7757951900698168,
+        "1M": -3.738083291520322,
+        "3M": -2.366412213740454,
+        "6M": -7.764423076923077,
+        "1Y": 2.5387493319080745,
+        "3Y": 79.63483146067416,
+        "5Y": 225.39010822483482
       },
       "series_id": "market.bae.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -73405,20 +73405,16 @@
       "symbol": "RHM.DE",
       "group": "defence",
       "unit": "EUR",
-      "latest": 1040.599976,
-      "previous_close": 1054.0,
-      "change": -13.40002400000003,
-      "change_pct": -1.2713495256167011,
-      "day_change_pct": -1.2713495256167011,
-      "market_time": "2026-10-21T11:37:16+00:00",
+      "latest": 1029.599976,
+      "previous_close": 1020.0,
+      "change": 9.59997599999997,
+      "change_pct": 0.9411741176470558,
+      "day_change_pct": 0.9411741176470558,
+      "market_time": "2026-10-22T10:11:46+00:00",
       "currency": "EUR",
       "exchange": "GER",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-26",
-          "value": 1353.5
-        },
         {
           "date": "2025-03-27",
           "value": 1350.0
@@ -75013,19 +75009,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 1040.599976
+          "value": 1020.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 1029.599976
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1275,
       "performance_pct": {
-        "1W": 5.827315030944558,
-        "1M": 2.968533614926594,
-        "3M": 3.2546128587570555,
-        "6M": -26.862528804987406,
-        "1Y": -41.55574411682112,
-        "3Y": 300.38476337940966,
-        "5Y": 1138.8094952380952
+        "1W": 0.3508748538011641,
+        "1M": 3.853132043095453,
+        "3M": 1.2389356932153373,
+        "6M": -26.823029424307045,
+        "1Y": -41.182520651242505,
+        "3Y": 297.6825028431635,
+        "5Y": 1120.7730908595252
       },
       "series_id": "market.rheinmetall.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -75036,20 +75036,16 @@
       "symbol": "LDO.MI",
       "group": "defence",
       "unit": "EUR",
-      "latest": 48.959999,
-      "previous_close": 49.185001,
-      "change": -0.22500199999999637,
-      "change_pct": -0.4574605986080927,
-      "day_change_pct": -0.4574605986080927,
-      "market_time": "2026-10-21T11:37:19+00:00",
+      "latest": 48.669998,
+      "previous_close": 48.200001,
+      "change": 0.46999699999999933,
+      "change_pct": 0.9750974901432042,
+      "day_change_pct": 0.9750974901432042,
+      "market_time": "2026-10-22T10:11:56+00:00",
       "currency": "EUR",
       "exchange": "MIL",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-25",
-          "value": 45.259998
-        },
         {
           "date": "2025-03-26",
           "value": 45.939999
@@ -76644,19 +76640,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 48.959999
+          "value": 48.200001
+        },
+        {
+          "date": "2026-10-22",
+          "value": 48.669998
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1271,
       "performance_pct": {
-        "1W": 3.5971245703395827,
-        "1M": -3.2602291392959892,
-        "3M": -4.300236512900691,
-        "6M": -10.770913263548621,
-        "1Y": -3.659978354978344,
-        "3Y": 253.119358095925,
-        "5Y": 646.7968120805369
+        "1W": 1.0904517603073982,
+        "1M": -2.4649377769563996,
+        "3M": -6.1873610989328975,
+        "6M": -10.434306220095701,
+        "1Y": -3.6237663366336603,
+        "3Y": 255.9049213893967,
+        "5Y": 643.7346882640587
       },
       "series_id": "market.leonardo.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -76667,20 +76667,16 @@
       "symbol": "HO.PA",
       "group": "defence",
       "unit": "EUR",
-      "latest": 230.100006,
-      "previous_close": 230.100006,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "day_change_pct": 0.0,
-      "market_time": "2026-10-21T11:37:19+00:00",
+      "latest": 228.699997,
+      "previous_close": 230.0,
+      "change": -1.3000030000000038,
+      "change_pct": -0.5652186956521756,
+      "day_change_pct": -0.5652186956521756,
+      "market_time": "2026-10-22T10:11:05+00:00",
       "currency": "EUR",
       "exchange": "PAR",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-28",
-          "value": 246.600006
-        },
         {
           "date": "2025-03-31",
           "value": 245.600006
@@ -78275,19 +78271,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 230.100006
+          "value": 230.0
+        },
+        {
+          "date": "2026-10-22",
+          "value": 228.699997
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 2,
+      "history_fetch": "full",
+      "history_points_added": 1281,
       "performance_pct": {
-        "1W": 2.403208309789173,
-        "1M": -2.7883359035276944,
-        "3M": 1.4550277585313909,
-        "6M": -4.917352892561977,
-        "1Y": -10.011729096735177,
-        "3Y": 66.92056291967081,
-        "5Y": 181.50233867145437
+        "1W": 0.43917435800404636,
+        "1M": -3.134268874182078,
+        "3M": -4.028537926623532,
+        "6M": -5.768438472621817,
+        "1Y": -11.766980550911398,
+        "3Y": 64.17802733284937,
+        "5Y": 180.61349325153375
       },
       "series_id": "market.thales.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -78303,7 +78303,7 @@
       "change": 0.004999999999999893,
       "change_pct": 0.12269938650306486,
       "day_change_pct": 0.12269938650306486,
-      "market_time": "2026-10-20T18:59:54+00:00",
+      "market_time": "2026-10-21T18:59:54+00:00",
       "currency": "USD",
       "exchange": "CGI",
       "source": "Yahoo Finance chart",
@@ -79909,8 +79909,8 @@
           "value": 4.08
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1254,
       "performance_pct": {
         "1W": 0.5669213704707854,
         "1M": 2.564102564102555,
@@ -79934,7 +79934,7 @@
       "change": 0.005999999999999339,
       "change_pct": 0.12172854534386972,
       "day_change_pct": 0.12172854534386972,
-      "market_time": "2026-10-20T18:59:54+00:00",
+      "market_time": "2026-10-21T18:59:54+00:00",
       "currency": "USD",
       "exchange": "CGI",
       "source": "Yahoo Finance chart",
@@ -81540,8 +81540,8 @@
           "value": 4.935
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1254,
       "performance_pct": {
         "1W": -1.4379868184541622,
         "1M": 1.626853377265225,
@@ -81549,7 +81549,7 @@
         "6M": 26.279426816786078,
         "1Y": 37.92621576299609,
         "3Y": 1.501439736733845,
-        "5Y": 330.2528334786399
+        "5Y": 307.17821782178214
       },
       "series_id": "market.us5y.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -81565,7 +81565,7 @@
       "change": -0.019000000000000128,
       "change_pct": -0.3699376947040523,
       "day_change_pct": -0.3699376947040523,
-      "market_time": "2026-10-20T18:59:54+00:00",
+      "market_time": "2026-10-21T18:59:54+00:00",
       "currency": "USD",
       "exchange": "CGI",
       "source": "Yahoo Finance chart",
@@ -83171,8 +83171,8 @@
           "value": 5.117
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1254,
       "performance_pct": {
         "1W": -1.916810427448723,
         "1M": 2.3809523809523725,
@@ -83180,7 +83180,7 @@
         "6M": 19.221808014911467,
         "1Y": 28.37431008529854,
         "3Y": 3.9195775792038923,
-        "5Y": 212.7750611246944
+        "5Y": 205.31026252983295
       },
       "series_id": "market.us10y.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -83196,7 +83196,7 @@
       "change": -0.0470000000000006,
       "change_pct": -0.8589181286549816,
       "day_change_pct": -0.8589181286549816,
-      "market_time": "2026-10-20T18:59:54+00:00",
+      "market_time": "2026-10-21T18:59:54+00:00",
       "currency": "USD",
       "exchange": "CGI",
       "source": "Yahoo Finance chart",
@@ -84802,8 +84802,8 @@
           "value": 5.425
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1254,
       "performance_pct": {
         "1W": -2.4806758943016316,
         "1M": 1.7632714312511677,
@@ -84811,7 +84811,7 @@
         "6M": 10.759493670886089,
         "1Y": 18.553321678321687,
         "3Y": 6.602475928473162,
-        "5Y": 156.98720985315015
+        "5Y": 154.93421052631575
       },
       "series_id": "market.us30y.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -84822,20 +84822,16 @@
       "symbol": "BZ=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 109.389999,
-      "previous_close": 108.790001,
-      "change": 0.5999979999999994,
-      "change_pct": 0.5515194360555243,
-      "day_change_pct": 0.5515194360555243,
-      "market_time": "2026-10-21T11:42:25+00:00",
+      "latest": 111.919998,
+      "previous_close": 108.82,
+      "change": 3.0999980000000136,
+      "change_pct": 2.8487392023525215,
+      "day_change_pct": 2.8487392023525215,
+      "market_time": "2026-10-22T10:16:50+00:00",
       "currency": "USD",
       "exchange": "NYM",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-21",
-          "value": 72.160004
-        },
         {
           "date": "2025-03-24",
           "value": 73.0
@@ -86430,19 +86426,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 109.389999
+          "value": 108.82
+        },
+        {
+          "date": "2026-10-22",
+          "value": 111.919998
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1258,
       "performance_pct": {
-        "1W": 3.139733229110564,
-        "1M": 9.01933761288969,
-        "3M": 16.28574359519508,
-        "6M": 7.339804441573761,
-        "1Y": 78.39204011741683,
-        "3Y": 18.695740290983487,
-        "5Y": 29.287315573959162
+        "1W": 5.664652674936788,
+        "1M": 12.765741057934509,
+        "3M": 11.153039802303311,
+        "6M": 6.519461311506625,
+        "1Y": 78.81450391436331,
+        "3Y": 24.590888910366516,
+        "5Y": 30.854670067282484
       },
       "series_id": "market.brent.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -86453,24 +86453,16 @@
       "symbol": "CL=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 98.639999,
-      "previous_close": 103.660004,
-      "change": -5.020004999999998,
-      "change_pct": -4.842759797694005,
-      "day_change_pct": -4.842759797694005,
-      "market_time": "2026-10-21T11:42:25+00:00",
+      "latest": 99.519997,
+      "previous_close": 97.150002,
+      "change": 2.369995000000003,
+      "change_pct": 2.4395213085018805,
+      "day_change_pct": 2.4395213085018805,
+      "market_time": "2026-10-22T10:17:00+00:00",
       "currency": "USD",
       "exchange": "NYM",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-20",
-          "value": 68.260002
-        },
-        {
-          "date": "2025-03-21",
-          "value": 68.279999
-        },
         {
           "date": "2025-03-24",
           "value": 69.110001
@@ -88060,20 +88052,28 @@
           "value": 103.660004
         },
         {
+          "date": "2026-10-20",
+          "value": 101.790001
+        },
+        {
           "date": "2026-10-21",
-          "value": 98.639999
+          "value": 97.150002
+        },
+        {
+          "date": "2026-10-22",
+          "value": 99.519997
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1257,
       "performance_pct": {
-        "1W": 3.7333086016745787,
-        "1M": 2.986009636521292,
-        "3M": 13.601286108458233,
-        "6M": 6.110154971064508,
-        "1Y": 70.59840712556209,
-        "3Y": 11.143660845070436,
-        "5Y": 19.563635151515157
+        "1W": 1.5821128755525882,
+        "1M": 5.2119687160151695,
+        "3M": 7.950965225057693,
+        "6M": 3.828898358453814,
+        "1Y": 70.119652991453,
+        "3Y": 16.411275386858716,
+        "5Y": 18.815657382625183
       },
       "series_id": "market.wti.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -88084,20 +88084,16 @@
       "symbol": "NG=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 2.846,
-      "previous_close": 2.963,
-      "change": -0.11699999999999999,
-      "change_pct": -3.948700641241984,
-      "day_change_pct": -3.948700641241984,
-      "market_time": "2026-10-21T11:42:16+00:00",
+      "latest": 2.759,
+      "previous_close": 2.79,
+      "change": -0.03100000000000014,
+      "change_pct": -1.111111111111116,
+      "day_change_pct": -1.111111111111116,
+      "market_time": "2026-10-22T10:16:54+00:00",
       "currency": "USD",
       "exchange": "NYM",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-21",
-          "value": 3.98
-        },
         {
           "date": "2025-03-24",
           "value": 3.914
@@ -89692,19 +89688,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 2.846
+          "value": 2.79
+        },
+        {
+          "date": "2026-10-22",
+          "value": 2.759
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1258,
       "performance_pct": {
-        "1W": -11.006879299562222,
-        "1M": 0.35260930888576514,
-        "3M": -2.7008547008546935,
-        "6M": 4.555473916238073,
-        "1Y": -18.077144502014974,
-        "3Y": -1.8282166264229072,
-        "5Y": -44.359726295210166
+        "1W": -14.74042027194068,
+        "1M": -6.947723440134901,
+        "3M": -5.384087791495196,
+        "6M": 5.54705432287681,
+        "1Y": -20.02898550724639,
+        "3Y": -5.7074504442925615,
+        "5Y": -47.746212121212125
       },
       "series_id": "market.natgas.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -89715,24 +89715,16 @@
       "symbol": "HG=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 6.545,
-      "previous_close": 6.538,
-      "change": 0.006999999999999673,
-      "change_pct": 0.10706638115631191,
-      "day_change_pct": 0.10706638115631191,
-      "market_time": "2026-10-21T11:42:19+00:00",
+      "latest": 6.433,
+      "previous_close": 6.543,
+      "change": -0.11000000000000032,
+      "change_pct": -1.681186000305675,
+      "day_change_pct": -1.681186000305675,
+      "market_time": "2026-10-22T10:16:33+00:00",
       "currency": "USD",
       "exchange": "CMX",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-20",
-          "value": 5.085
-        },
-        {
-          "date": "2025-03-21",
-          "value": 5.0875
-        },
         {
           "date": "2025-03-24",
           "value": 5.064
@@ -91322,20 +91314,28 @@
           "value": 6.538
         },
         {
+          "date": "2026-10-20",
+          "value": 6.5665
+        },
+        {
           "date": "2026-10-21",
-          "value": 6.545
+          "value": 6.543
+        },
+        {
+          "date": "2026-10-22",
+          "value": 6.433
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1258,
       "performance_pct": {
-        "1W": -1.0058231868713685,
-        "1M": -2.1162042922306057,
-        "3M": 1.4571384281506727,
-        "6M": 6.944444444444442,
-        "1Y": 32.75862068965518,
-        "3Y": 84.78260869565217,
-        "5Y": 42.701406301101066
+        "1W": -1.2055593949166887,
+        "1M": -4.830238922997266,
+        "3M": 2.030134813639961,
+        "6M": 5.884289358900507,
+        "1Y": 29.67143721023986,
+        "3Y": 80.04478029666946,
+        "5Y": 42.13433495360142
       },
       "series_id": "market.copper.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -91346,20 +91346,16 @@
       "symbol": "ZW=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 634.25,
-      "previous_close": 643.25,
-      "change": -9.0,
-      "change_pct": -1.3991449669646328,
-      "day_change_pct": -1.3991449669646328,
-      "market_time": "2026-10-21T11:42:26+00:00",
+      "latest": 629.75,
+      "previous_close": 628.25,
+      "change": 1.5,
+      "change_pct": 0.23875845602865103,
+      "day_change_pct": 0.23875845602865103,
+      "market_time": "2026-10-22T10:16:40+00:00",
       "currency": "USX",
       "exchange": "CBT",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-20",
-          "value": 557.25
-        },
         {
           "date": "2025-03-21",
           "value": 558.25
@@ -92954,19 +92950,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 634.25
+          "value": 628.25
+        },
+        {
+          "date": "2026-10-22",
+          "value": 629.75
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1256,
       "performance_pct": {
-        "1W": -5.792796138135903,
-        "1M": -12.72789817681459,
-        "3M": -10.13106624158696,
-        "6M": 5.840634125990829,
-        "1Y": 26.78660669665167,
-        "3Y": 8.23378839590443,
-        "5Y": -14.43507588532884
+        "1W": -6.007462686567166,
+        "1M": -12.19937260369467,
+        "3M": -9.55116696588869,
+        "6M": 3.1109291854277465,
+        "1Y": 25.01240694789082,
+        "3Y": 7.237122179650912,
+        "5Y": -16.699735449735453
       },
       "series_id": "market.wheat.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -92977,20 +92977,16 @@
       "symbol": "ZC=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 458.75,
-      "previous_close": 462.0,
-      "change": -3.25,
-      "change_pct": -0.7034632034632035,
-      "day_change_pct": -0.7034632034632035,
-      "market_time": "2026-10-21T11:42:26+00:00",
+      "latest": 465.0,
+      "previous_close": 463.25,
+      "change": 1.75,
+      "change_pct": 0.37776578521316784,
+      "day_change_pct": 0.37776578521316784,
+      "market_time": "2026-10-22T10:16:40+00:00",
       "currency": "USX",
       "exchange": "CBT",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-20",
-          "value": 469.0
-        },
         {
           "date": "2025-03-21",
           "value": 464.25
@@ -94585,19 +94581,23 @@
         },
         {
           "date": "2026-10-21",
-          "value": 458.75
+          "value": 463.25
+        },
+        {
+          "date": "2026-10-22",
+          "value": 465.0
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1256,
       "performance_pct": {
-        "1W": -4.576183047321891,
-        "1M": -15.51565377532228,
-        "3M": -0.703463203463206,
-        "6M": 0.9906439185470628,
-        "1Y": 9.291244788564622,
-        "3Y": -7.416750756811297,
-        "5Y": -13.80930014091123
+        "1W": -2.7196652719665315,
+        "1M": -13.367489520260833,
+        "3M": 0.21551724137931494,
+        "6M": 2.0856201975850697,
+        "1Y": 9.92907801418439,
+        "3Y": -5.150433452320247,
+        "5Y": -13.568773234200748
       },
       "series_id": "market.corn.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -94608,12 +94608,12 @@
       "symbol": "^VIX",
       "group": "risk",
       "unit": "index",
-      "latest": 17.33,
+      "latest": 18.35,
       "previous_close": 17.309999,
-      "change": 0.02000099999999705,
-      "change_pct": 0.1155459338847856,
-      "day_change_pct": 0.1155459338847856,
-      "market_time": "2026-10-21T11:37:16+00:00",
+      "change": 1.0400010000000002,
+      "change_pct": 6.008093934609702,
+      "day_change_pct": 6.008093934609702,
+      "market_time": "2026-10-22T10:12:01+00:00",
       "currency": "USD",
       "exchange": "CXI",
       "source": "Yahoo Finance chart",
@@ -96215,20 +96215,20 @@
           "value": 17.309999
         },
         {
-          "date": "2026-10-21",
-          "value": 17.33
+          "date": "2026-10-22",
+          "value": 18.35
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 1,
+      "history_fetch": "full",
+      "history_points_added": 1256,
       "performance_pct": {
-        "1W": 2.726727757751757,
-        "1M": 16.54337592468056,
-        "3M": 4.1466408741971605,
-        "6M": -8.403805496828765,
-        "1Y": -3.0218297133839056,
-        "3Y": -20.175030869416442,
-        "5Y": 15.456362425049953
+        "1W": 11.482388303911817,
+        "1M": 29.134412385643916,
+        "3M": -1.8716630015153446,
+        "6M": -4.971512427318093,
+        "1Y": -1.3440860215053752,
+        "3Y": -9.916548359521427,
+        "5Y": 18.924173687621536
       },
       "series_id": "market.vix.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -96239,20 +96239,16 @@
       "symbol": "USD/INR",
       "group": "currencies",
       "unit": "INR per USD",
-      "latest": 94.93,
+      "latest": 94.47,
       "previous_close": 94.93,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "day_change_pct": 0.0,
-      "market_time": "2026-10-20",
+      "change": -0.46000000000000796,
+      "change_pct": -0.4845675761087187,
+      "day_change_pct": -0.4845675761087187,
+      "market_time": "2026-10-21",
       "currency": "INR",
       "exchange": "Frankfurter",
       "source": "Frankfurter",
       "history": [
-        {
-          "date": "2025-03-27",
-          "value": 85.73
-        },
         {
           "date": "2025-03-28",
           "value": 85.53
@@ -97848,18 +97844,22 @@
         {
           "date": "2026-10-20",
           "value": 94.93
+        },
+        {
+          "date": "2026-10-21",
+          "value": 94.47
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1280,
       "performance_pct": {
-        "1W": -0.36733837111669887,
-        "1M": -0.9908218606591412,
-        "3M": -1.350930063389788,
-        "6M": 1.5185541653299106,
-        "1Y": 7.997724687144481,
-        "3Y": 14.2771156855664,
-        "5Y": 26.772789188322953
+        "1W": -0.7250945775535866,
+        "1M": -1.4088916718847821,
+        "3M": -2.174588381484932,
+        "6M": 0.7142857142857117,
+        "1Y": 7.388882573604638,
+        "3Y": 13.7233658360419,
+        "5Y": 26.18376587815725
       },
       "series_id": "market.usd_inr.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -97870,20 +97870,16 @@
       "symbol": "USD/EUR",
       "group": "currencies",
       "unit": "EUR per USD",
-      "latest": 0.89166,
-      "previous_close": 0.89087,
-      "change": 0.0007899999999999574,
-      "change_pct": 0.08867736033315587,
-      "day_change_pct": 0.08867736033315587,
-      "market_time": "2026-10-20",
+      "latest": 0.89015,
+      "previous_close": 0.89166,
+      "change": -0.0015100000000000113,
+      "change_pct": -0.16934706053877147,
+      "day_change_pct": -0.16934706053877147,
+      "market_time": "2026-10-21",
       "currency": "EUR",
       "exchange": "Frankfurter",
       "source": "Frankfurter",
       "history": [
-        {
-          "date": "2025-03-27",
-          "value": 0.92721
-        },
         {
           "date": "2025-03-28",
           "value": 0.92618
@@ -99479,18 +99475,22 @@
         {
           "date": "2026-10-20",
           "value": 0.89166
+        },
+        {
+          "date": "2026-10-21",
+          "value": 0.89015
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1280,
       "performance_pct": {
-        "1W": -0.2405432921985695,
-        "1M": 2.1842768737107443,
-        "3M": 1.8097532569849584,
-        "6M": 4.922160902768802,
-        "1Y": 3.923076923076918,
-        "3Y": -5.564499046812122,
-        "5Y": 3.762233367856349
+        "1W": -0.3481629088955107,
+        "1M": 2.2784722860557105,
+        "3M": 1.5480617855757606,
+        "6M": 4.44092455708085,
+        "1Y": 3.3195983982357236,
+        "3Y": -5.724422791781403,
+        "5Y": 3.5238704425190503
       },
       "series_id": "market.usd_eur.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -99501,20 +99501,16 @@
       "symbol": "USD/GBP",
       "group": "currencies",
       "unit": "GBP per USD",
-      "latest": 0.74925,
-      "previous_close": 0.75016,
-      "change": -0.0009100000000000774,
-      "change_pct": -0.1213074544097359,
-      "day_change_pct": -0.1213074544097359,
-      "market_time": "2026-10-20",
+      "latest": 0.74617,
+      "previous_close": 0.74925,
+      "change": -0.0030799999999999716,
+      "change_pct": -0.41107774441107026,
+      "day_change_pct": -0.41107774441107026,
+      "market_time": "2026-10-21",
       "currency": "GBP",
       "exchange": "Frankfurter",
       "source": "Frankfurter",
       "history": [
-        {
-          "date": "2025-03-27",
-          "value": 0.77254
-        },
         {
           "date": "2025-03-28",
           "value": 0.77205
@@ -101110,18 +101106,22 @@
         {
           "date": "2026-10-20",
           "value": 0.74925
+        },
+        {
+          "date": "2026-10-21",
+          "value": 0.74617
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1280,
       "performance_pct": {
-        "1W": -0.7510729613734002,
-        "1M": -0.018681861247149545,
-        "3M": 0.4047009635099075,
-        "6M": 1.297911174204014,
-        "1Y": 0.47741018385656364,
-        "3Y": -9.011973866368738,
-        "5Y": 3.4404208026728167
+        "1W": -1.0082651206601567,
+        "1M": -0.05223960565795549,
+        "3M": -0.2539869263571637,
+        "6M": 0.7425709155224336,
+        "1Y": -0.19795358790878348,
+        "3Y": -9.386005391883023,
+        "5Y": 2.8561582466055446
       },
       "series_id": "market.usd_gbp.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -101132,20 +101132,16 @@
       "symbol": "USD/JPY",
       "group": "currencies",
       "unit": "JPY per USD",
-      "latest": 158.13,
-      "previous_close": 158.24,
-      "change": -0.11000000000001364,
-      "change_pct": -0.06951466127402828,
-      "day_change_pct": -0.06951466127402828,
-      "market_time": "2026-10-20",
+      "latest": 157.88,
+      "previous_close": 158.13,
+      "change": -0.25,
+      "change_pct": -0.15809776765951522,
+      "day_change_pct": -0.15809776765951522,
+      "market_time": "2026-10-21",
       "currency": "JPY",
       "exchange": "Frankfurter",
       "source": "Frankfurter",
       "history": [
-        {
-          "date": "2025-03-27",
-          "value": 150.72
-        },
         {
           "date": "2025-03-28",
           "value": 150.63
@@ -102741,18 +102737,22 @@
         {
           "date": "2026-10-20",
           "value": 158.13
+        },
+        {
+          "date": "2026-10-21",
+          "value": 157.88
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1280,
       "performance_pct": {
-        "1W": 0.0063243106501298385,
-        "1M": 0.1520045601368203,
-        "3M": -2.832739338822665,
-        "6M": -0.5721830985915499,
-        "1Y": 4.888564605996293,
-        "3Y": 5.462184873949583,
-        "5Y": 38.516117729502454
+        "1W": -0.35973493215525343,
+        "1M": 0.3878679977109334,
+        "3M": -3.182682283681848,
+        "6M": -0.8416028137168685,
+        "1Y": 3.8547559531640463,
+        "3Y": 5.295451513938909,
+        "5Y": 38.64933696320365
       },
       "series_id": "market.usd_jpy.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -102763,20 +102763,16 @@
       "symbol": "USD/CHF",
       "group": "currencies",
       "unit": "CHF per USD",
-      "latest": 0.82363,
-      "previous_close": 0.82503,
-      "change": -0.0014000000000000679,
-      "change_pct": -0.16969079912246832,
-      "day_change_pct": -0.16969079912246832,
-      "market_time": "2026-10-20",
+      "latest": 0.82393,
+      "previous_close": 0.82363,
+      "change": 0.000300000000000078,
+      "change_pct": 0.03642412248219262,
+      "day_change_pct": 0.03642412248219262,
+      "market_time": "2026-10-21",
       "currency": "CHF",
       "exchange": "Frankfurter",
       "source": "Frankfurter",
       "history": [
-        {
-          "date": "2025-03-27",
-          "value": 0.88308
-        },
         {
           "date": "2025-03-28",
           "value": 0.88219
@@ -104372,18 +104368,22 @@
         {
           "date": "2026-10-20",
           "value": 0.82363
+        },
+        {
+          "date": "2026-10-21",
+          "value": 0.82393
         }
       ],
-      "history_fetch": "incremental",
-      "history_points_added": 0,
+      "history_fetch": "full",
+      "history_points_added": 1280,
       "performance_pct": {
-        "1W": -1.044069588619756,
-        "1M": -0.24465572579179806,
-        "3M": 1.5686081069415714,
-        "6M": 5.66538802006491,
-        "1Y": 3.90054370450732,
-        "3Y": -7.6140480757366795,
-        "5Y": -10.340510766149224
+        "1W": -1.137495350427753,
+        "1M": 0.30678954480711784,
+        "3M": 1.4180032249726304,
+        "6M": 5.364587329599235,
+        "1Y": 3.611624602306329,
+        "3Y": -7.580397303451447,
+        "5Y": -10.176827141112843
       },
       "series_id": "market.usd_chf.close",
       "history_scope": "recent 400 points; full series in canonical history"
