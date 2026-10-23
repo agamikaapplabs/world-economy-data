@@ -1,33 +1,33 @@
 {
   "schema_version": "5.5",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-22T15:57:16.395783+05:30",
+  "published_at": "2026-10-23T07:40:41.330432+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
-      "sha256": "302e8abc6cea2d44f2ea6aaad5bb75ca6b02a0b0d01f3cd33aff12c1ad61546b"
+      "sha256": "4a2f71d41407a786d98174b19c07251fd947ac853050a9ba5be30dbc590ba0e2"
     },
     "macro": {
       "path": "current/macro.json",
-      "sha256": "f74a26fa48b3fd664f3e02c811586ba0d1e71e17a683e2b3984ef8a6733e211b"
+      "sha256": "27aac465793d14879a6caa4ad3017898951b4e0a09f9daa65df8ec01d74efe98"
     },
     "resources": {
       "path": "current/resources.json",
-      "sha256": "9e0a97eab8e19ec3a2fa3ce3829a3fc80e9ac378749cbd73a77a1b006c34d9ef"
+      "sha256": "4fdc36ec92802f0e5b89705c19a1731355d664fe876e5decf267bbb58335411b"
     },
     "india_activity": {
       "path": "current/india_activity.json",
-      "sha256": "f3d847ec2e9259c37872878fd475be33b559a4568099397c33f8693b48771d4a"
+      "sha256": "73d4fec484ac824d3ae2f3d9b1e1c17808a7ff3bd36bb0c148219822d08c4377"
     },
     "news": {
       "path": "current/news.json",
-      "sha256": "b982e9bc3c8da205bd844f30c9d9b20fd66052fe1cf412de3504781724d3ce7d"
+      "sha256": "4fc1566f97de7c75558c2d114c51a062ae3764a3b09e1ef87137a9ec7f0869b9"
     }
   },
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "fc725aae2e3f530b5f8127e9e51a744f1af0befe34abdb497a012d80ee2c6e9b"
+      "sha256": "633978a1e81f0a1a2ccd5ffd03069cdf03ffb5c348ed73d6ea5fa2142ad10a84"
     },
     "sources": {
       "path": "metadata/sources.json",
@@ -35,8 +35,8 @@
     }
   },
   "latest_report": {
-    "path": "reports/2026/10/22.json",
-    "sha256": "80310f7011112e206cdb5605f7a0e6bc16d4a67d0eecfab88d5665c0e447f5bd"
+    "path": "reports/2026/10/23.json",
+    "sha256": "c985ee9fe3b403013b04b6a2bf35f918faef3f336d48bba058c10d4fd43c9257"
   },
   "series_count": 485,
   "client_contract": {

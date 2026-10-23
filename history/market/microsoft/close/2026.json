@@ -2458,6 +2458,30 @@
       "status": "observed",
       "revision_no": 1,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-21",
+      "value": 532.950012,
+      "released_at": "2026-10-21",
+      "collected_at": "2026-10-23T07:13:11.627039+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/MSFT",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-22",
+      "value": 521.080017,
+      "released_at": "2026-10-22",
+      "collected_at": "2026-10-23T07:13:11.627039+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/MSFT",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
