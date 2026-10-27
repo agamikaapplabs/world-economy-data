@@ -1,0 +1,4 @@
+.video_http_server.log
+*.log
+__pycache__/
+*.pyc
