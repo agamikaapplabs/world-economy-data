@@ -1,12 +1,218 @@
 {
   "schema_version": "5.5.1",
   "principle": "Never draw a temporal trend unless periods are parseable, chronological and the series meets its minimum observation depth.",
-  "series_count": 41,
+  "series_count": 485,
   "chronology_error_count": 0,
-  "duplicate_period_series_count": 0,
-  "sparse_series_count": 20,
+  "duplicate_period_series_count": 41,
+  "sparse_series_count": 111,
   "chronology_errors": [],
-  "duplicate_periods": [],
+  "duplicate_periods": [
+    {
+      "series_id": "india.labour.unemployment",
+      "raw_rows": 7,
+      "unique_periods": 6
+    },
+    {
+      "series_id": "india.now.unemployment",
+      "raw_rows": 7,
+      "unique_periods": 6
+    },
+    {
+      "series_id": "market.abb.close",
+      "raw_rows": 1259,
+      "unique_periods": 1257
+    },
+    {
+      "series_id": "market.airbus.close",
+      "raw_rows": 1284,
+      "unique_periods": 1281
+    },
+    {
+      "series_id": "market.asml.close",
+      "raw_rows": 1284,
+      "unique_periods": 1281
+    },
+    {
+      "series_id": "market.bae.close",
+      "raw_rows": 1263,
+      "unique_periods": 1262
+    },
+    {
+      "series_id": "market.bharti.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.brent.close",
+      "raw_rows": 1262,
+      "unique_periods": 1258
+    },
+    {
+      "series_id": "market.copper.close",
+      "raw_rows": 1262,
+      "unique_periods": 1258
+    },
+    {
+      "series_id": "market.corn.close",
+      "raw_rows": 1258,
+      "unique_periods": 1256
+    },
+    {
+      "series_id": "market.hdfcbank.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.icicibank.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.infosys.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.leonardo.close",
+      "raw_rows": 1274,
+      "unique_periods": 1271
+    },
+    {
+      "series_id": "market.lt.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.lt_heavy.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.lvmh.close",
+      "raw_rows": 1283,
+      "unique_periods": 1281
+    },
+    {
+      "series_id": "market.natgas.close",
+      "raw_rows": 1262,
+      "unique_periods": 1258
+    },
+    {
+      "series_id": "market.novo.close",
+      "raw_rows": 1255,
+      "unique_periods": 1252
+    },
+    {
+      "series_id": "market.reliance.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.rheinmetall.close",
+      "raw_rows": 1277,
+      "unique_periods": 1275
+    },
+    {
+      "series_id": "market.sap.close",
+      "raw_rows": 1278,
+      "unique_periods": 1275
+    },
+    {
+      "series_id": "market.sbi.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.schneider.close",
+      "raw_rows": 1284,
+      "unique_periods": 1281
+    },
+    {
+      "series_id": "market.shell.close",
+      "raw_rows": 1265,
+      "unique_periods": 1262
+    },
+    {
+      "series_id": "market.siemens_eu.close",
+      "raw_rows": 1278,
+      "unique_periods": 1275
+    },
+    {
+      "series_id": "market.siemens_heavy.close",
+      "raw_rows": 1278,
+      "unique_periods": 1275
+    },
+    {
+      "series_id": "market.silver.close",
+      "raw_rows": 258,
+      "unique_periods": 257
+    },
+    {
+      "series_id": "market.tcs.close",
+      "raw_rows": 1237,
+      "unique_periods": 1236
+    },
+    {
+      "series_id": "market.thales.close",
+      "raw_rows": 1283,
+      "unique_periods": 1281
+    },
+    {
+      "series_id": "market.us10y.close",
+      "raw_rows": 1258,
+      "unique_periods": 1256
+    },
+    {
+      "series_id": "market.us30y.close",
+      "raw_rows": 1258,
+      "unique_periods": 1256
+    },
+    {
+      "series_id": "market.us3m.close",
+      "raw_rows": 1257,
+      "unique_periods": 1256
+    },
+    {
+      "series_id": "market.us5y.close",
+      "raw_rows": 1258,
+      "unique_periods": 1256
+    },
+    {
+      "series_id": "market.usd_eur.close",
+      "raw_rows": 384,
+      "unique_periods": 377
+    },
+    {
+      "series_id": "market.usd_gbp.close",
+      "raw_rows": 384,
+      "unique_periods": 377
+    },
+    {
+      "series_id": "market.usd_inr.close",
+      "raw_rows": 384,
+      "unique_periods": 377
+    },
+    {
+      "series_id": "market.usd_jpy.close",
+      "raw_rows": 384,
+      "unique_periods": 377
+    },
+    {
+      "series_id": "market.vix.close",
+      "raw_rows": 1261,
+      "unique_periods": 1257
+    },
+    {
+      "series_id": "market.wheat.close",
+      "raw_rows": 1258,
+      "unique_periods": 1256
+    },
+    {
+      "series_id": "market.wti.close",
+      "raw_rows": 1261,
+      "unique_periods": 1257
+    }
+  ],
   "sparse_series": [
     {
       "series_id": "india.auto.commercial_vehicles",
@@ -17,7 +223,7 @@
     },
     {
       "series_id": "india.auto.passenger_vehicles",
-      "points": 1,
+      "points": 2,
       "minimum": 4,
       "frequency": "monthly",
       "domain": "india"
@@ -147,6 +353,643 @@
       "minimum": 6,
       "frequency": "monthly",
       "domain": "india"
+    },
+    {
+      "series_id": "macro.bra.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.bra.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.bra.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.bra.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.bra.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.bra.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.che.container_port_teu",
+      "points": 3,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.che.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.che.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.che.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.che.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.che.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.che.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.chn.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.chn.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.chn.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.chn.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.chn.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.chn.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.deu.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.deu.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.deu.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.deu.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.deu.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.deu.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.fra.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.fra.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.fra.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.fra.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.fra.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.fra.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.gbr.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.gbr.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.gbr.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.gbr.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.gbr.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.gbr.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.ind.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.ind.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.ind.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.ind.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.ind.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.ind.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.jpn.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.jpn.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.jpn.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.jpn.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.jpn.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.jpn.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.kor.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.kor.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.kor.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.kor.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.kor.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.kor.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.pol.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.pol.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.pol.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.pol.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.pol.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.pol.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.food_exports_pct",
+      "points": 4,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.food_imports_pct",
+      "points": 4,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.fuel_exports_pct",
+      "points": 4,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.fuel_imports_pct",
+      "points": 4,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.rus.ores_metals_exports_pct",
+      "points": 4,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.sau.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.sau.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.sau.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.sau.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.sau.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.sau.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.tur.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.tur.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.tur.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.tur.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.tur.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.tur.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.usa.agriculture_gdp",
+      "points": 4,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.usa.current_account_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.usa.current_account_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.usa.external_debt_gni",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.usa.fdi_usd",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.usa.fiscal_balance_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
+    },
+    {
+      "series_id": "macro.usa.gov_debt_gdp",
+      "points": 0,
+      "minimum": 5,
+      "frequency": "annual",
+      "domain": "macro"
     }
   ]
 }
