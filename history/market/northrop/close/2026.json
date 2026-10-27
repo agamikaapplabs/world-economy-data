@@ -2470,6 +2470,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-10-27",
+      "value": 557.856812,
+      "released_at": "2026-10-27",
+      "collected_at": "2026-10-27T20:18:30.679915+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOC",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
