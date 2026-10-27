@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-23T02:10:36.085690+00:00",
+  "generated_at": "2026-10-19T00:00:00+05:30",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -17,7 +17,7 @@
       "frequency": "cumulative FY",
       "source": "Press Information Bureau / GST Council",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48",
-      "status": "live-refreshed",
+      "status": "verified",
       "history": [
         {
           "period": "Apr–Sep 2026",
@@ -35,7 +35,7 @@
       "frequency": "monthly",
       "source": "Indian Railways / PIB",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322673&lang=2&reg=48",
-      "status": "live-refreshed",
+      "status": "verified",
       "history": [
         {
           "period": "Sep 2026",
@@ -46,18 +46,14 @@
     },
     "passenger_vehicles": {
       "label": "Passenger vehicle sales",
-      "value": 439309,
+      "value": 454574,
       "unit": "units",
-      "period": "August 2026",
+      "period": "Sep 2026",
       "frequency": "monthly",
       "source": "SIAM",
       "url": "https://www.siam.in/press-release.aspx",
-      "status": "live-refreshed",
+      "status": "verified",
       "history": [
-        {
-          "period": "August 2026",
-          "value": 439309.0
-        },
         {
           "period": "Sep 2026",
           "value": 454574.0
@@ -170,14 +166,14 @@
     },
     "unemployment": {
       "label": "Looking for work, unemployed",
-      "value": 55.5,
+      "value": 5.0,
       "unit": "%",
       "period": "Sep 2026",
       "yoy_delta_pp": -0.2,
       "frequency": "monthly",
       "source": "PLFS / MoSPI / PIB",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
-      "status": "live-refreshed",
+      "status": "verified",
       "history": [
         {
           "period": "Apr 2026",
@@ -219,11 +215,11 @@
     "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48"
   },
   "automobile": {
-    "latest_month": "August 2026",
+    "latest_month": "Sep 2026",
     "monthly": {
-      "passenger_vehicles": 439309,
-      "three_wheelers": 93764,
-      "two_wheelers": 2034698,
+      "passenger_vehicles": 454574,
+      "three_wheelers": 98162,
+      "two_wheelers": 2463103,
       "production_pv_3w_2w_quadricycle": 3452554
     },
     "q2_fy27": {
@@ -425,7 +421,7 @@
       "period": "Sep 2026",
       "lfpr_pct": 55.5,
       "wpr_pct": 52.7,
-      "unemployment_pct": 55.5,
+      "unemployment_pct": 5.0,
       "urban_lfpr_pct": 50.7,
       "female_lfpr_pct": 34.6,
       "rural_female_lfpr_pct": 38.9
@@ -593,7 +589,7 @@
       "source": "MoSPI CPI",
       "url": "https://esankhyiki.mospi.gov.in/",
       "status": "verified",
-      "note": "All-India headline CPI inflation, year-on-year, base 2024=100.",
+      "note": "All-India headline CPI inflation, September 2026.",
       "history": [
         {
           "period": "Mar 2026",
@@ -628,7 +624,7 @@
     },
     "unemployment": {
       "label": "Looking for work, unemployed",
-      "value": 55.5,
+      "value": 5.0,
       "unit": "%",
       "metric_type": "percent",
       "period": "Sep 2026",
@@ -743,7 +739,7 @@
       "stale_after_days": 45,
       "source": "Department of Commerce",
       "url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
-      "status": "live-refreshed",
+      "status": "verified",
       "note": "Merchandise and services combined; services component is an official estimate where noted by the Department of Commerce.",
       "history": [
         {
@@ -768,7 +764,7 @@
       "stale_after_days": 45,
       "source": "Department of Commerce",
       "url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
-      "status": "live-refreshed",
+      "status": "verified",
       "note": "Merchandise and services combined; services component is an official estimate where noted by the Department of Commerce.",
       "history": [
         {
@@ -873,57 +869,5 @@
         }
       ]
     }
-  },
-  "refresh_log": [
-    {
-      "source": "FASTag",
-      "status": "seed-kept",
-      "detail": "No table rows recognized"
-    },
-    {
-      "source": "UPI",
-      "status": "seed-kept",
-      "detail": "No table rows recognized"
-    },
-    {
-      "source": "SIAM",
-      "status": "ok",
-      "detail": "SIAM August 2026"
-    },
-    {
-      "source": "NHB",
-      "status": "seed-kept",
-      "detail": "Composite HPI series not safely recognized"
-    },
-    {
-      "source": "GST",
-      "status": "ok",
-      "detail": "GST Apr-Sep 2026"
-    },
-    {
-      "source": "Rail",
-      "status": "ok",
-      "detail": "Rail freight Sep 2026"
-    },
-    {
-      "source": "PLFS",
-      "status": "ok",
-      "detail": "PLFS Sep 2026"
-    },
-    {
-      "source": "GDP-now",
-      "status": "seed-kept",
-      "detail": "GDP growth not safely recognized"
-    },
-    {
-      "source": "CPI-now",
-      "status": "seed-kept",
-      "detail": "CPI inflation not safely recognized"
-    },
-    {
-      "source": "Trade-now",
-      "status": "ok",
-      "detail": "Trade Sep 2026 exports 80.75 imports 94.05"
-    }
-  ]
+  }
 }

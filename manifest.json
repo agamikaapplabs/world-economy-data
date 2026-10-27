@@ -1,44 +1,48 @@
 {
   "schema_version": "5.5",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-23T07:40:41.330432+05:30",
+  "published_at": "2026-10-27T18:20:53.519302+05:30",
   "datasets": {
     "markets": {
       "path": "current/markets.json",
-      "sha256": "4a2f71d41407a786d98174b19c07251fd947ac853050a9ba5be30dbc590ba0e2"
+      "sha256": "579984dd137a2eedc8752cb36ea9d7db4b4ee5721f49d657779f3621ef18d7cc"
     },
     "macro": {
       "path": "current/macro.json",
-      "sha256": "27aac465793d14879a6caa4ad3017898951b4e0a09f9daa65df8ec01d74efe98"
+      "sha256": "83435b866003047829ef358430781f779383e81b90cb414409a25905c9e58303"
     },
     "resources": {
       "path": "current/resources.json",
-      "sha256": "4fdc36ec92802f0e5b89705c19a1731355d664fe876e5decf267bbb58335411b"
+      "sha256": "e0f71d90af75979722393cec3c94b2a1f5b401948278db664dd86d55793df86e"
     },
     "india_activity": {
       "path": "current/india_activity.json",
-      "sha256": "73d4fec484ac824d3ae2f3d9b1e1c17808a7ff3bd36bb0c148219822d08c4377"
+      "sha256": "08418e731bdcdc7fcd07c93ea29af1fd6610891cd2e55fc870d9923111d5d852"
     },
     "news": {
       "path": "current/news.json",
-      "sha256": "4fc1566f97de7c75558c2d114c51a062ae3764a3b09e1ef87137a9ec7f0869b9"
+      "sha256": "5ef5558b13786bb5a4a063f3594988b38f7be8af2a0cbfa708a1a1d6b6b13814"
+    },
+    "india_structural": {
+      "path": "current/india_structural.json",
+      "sha256": "96205a32850cb193da6f1f5b910e29039ce1e35881a11d31b58831fab38c6c44"
     }
   },
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "633978a1e81f0a1a2ccd5ffd03069cdf03ffb5c348ed73d6ea5fa2142ad10a84"
+      "sha256": "8d4ea113523de943efa21260480757963ac5907ed04abbb18ee4f3f3c7184431"
     },
     "sources": {
       "path": "metadata/sources.json",
-      "sha256": "7cd5849a35bd01c04f2ecd4e3a94af668351a1747f949e4a89d4888721d7f3a3"
+      "sha256": "8768e7d2c20253e69f15ea04835eea71d6e6d65930ea2dd9c3a099c921ee4a2f"
     }
   },
   "latest_report": {
-    "path": "reports/2026/10/23.json",
-    "sha256": "c985ee9fe3b403013b04b6a2bf35f918faef3f336d48bba058c10d4fd43c9257"
+    "path": "reports/2026/10/27.json",
+    "sha256": "bdd05783fd33ad9411406ffbaa40805fb0a6ff10b057e2459cffd0cd22292683"
   },
-  "series_count": 485,
+  "series_count": 41,
   "client_contract": {
     "current_is_materialized_view": true,
     "history_is_append_only_with_vintages": true,

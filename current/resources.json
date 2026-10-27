@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-23T02:10:33.629962+00:00",
+  "generated_at": null,
   "layers": {
     "energy": {
       "commodities": [
@@ -17,17 +17,15 @@
         "exports",
         "net imports",
         "import dependency",
-        "proven reserves",
-        "strategic stocks",
-        "refining"
+        "reserves"
       ],
-      "status": "Framework ready. Detailed physical balance feeds remain pending where official keyless sources are not yet wired."
+      "status": "Physical balance connectors staged; missing source data is not inferred from prices."
     },
     "agriculture": {
       "commodities": [
         "Wheat",
         "Rice",
-        "Corn / maize",
+        "Corn",
         "Soybeans",
         "Sugar",
         "Cotton",
@@ -39,8 +37,7 @@
         "imports",
         "exports",
         "ending stocks",
-        "stocks-to-use",
-        "1Y/5Y"
+        "stocks-to-use"
       ],
       "status": "FAOSTAT / USDA integration staged."
     },
@@ -49,8 +46,8 @@
         "Milk",
         "Butter",
         "Cheese",
-        "Skim milk powder",
-        "Whole milk powder"
+        "SMP",
+        "WMP"
       ],
       "metrics": [
         "production",
@@ -75,19 +72,17 @@
         "production",
         "imports",
         "exports",
-        "reserves where reliable"
+        "reserves where comparable"
       ],
-      "status": "Price series are separate from physical balance data."
+      "status": "Market prices are shown separately from physical balances."
     },
     "shipping": {
       "metrics": [
         "container port traffic",
-        "Baltic Dry / freight benchmarks",
-        "container rates",
+        "freight benchmarks",
         "port throughput"
       ],
-      "status": "World Bank annual container traffic is used where available; richer freight connectors remain staged."
+      "status": "World Bank container traffic included where available; richer freight feeds staged."
     }
-  },
-  "principle": "Unavailable physical-balance data stays pending and is never inferred from commodity prices."
+  }
 }

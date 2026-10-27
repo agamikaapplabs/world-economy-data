@@ -12,18 +12,6 @@
   },
   "observations": [
     {
-      "period": "August 2026",
-      "value": 439309.0,
-      "released_at": null,
-      "collected_at": "2026-10-23T07:40:41.330432+05:30",
-      "source_id": "siam",
-      "source": "SIAM",
-      "source_url": "https://www.siam.in/press-release.aspx",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
-    },
-    {
       "period": "Sep 2026",
       "value": 454574.0,
       "released_at": null,

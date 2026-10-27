@@ -1,0 +1,491 @@
+{
+  "schema_version": "5.5",
+  "generated_at": "2026-10-27T09:54:00+05:30",
+  "note": "Bundled verified starter snapshot. Older observations are labelled; remote publication can replace this file.",
+  "external_view": {
+    "ratings": [
+      {
+        "agency": "S&P Global Ratings",
+        "rating": "BBB",
+        "outlook": "Stable",
+        "action": "Affirmed",
+        "date": "2026-08-27",
+        "summary": "Investment-grade sovereign rating. S&P upgraded India to BBB in August 2025 and retained a stable outlook in its 2026 review.",
+        "source": "S&P / public reporting",
+        "url": "https://www.spglobal.com/ratings/"
+      },
+      {
+        "agency": "Fitch Ratings",
+        "rating": "BBB-",
+        "outlook": "Stable",
+        "action": "Affirmed",
+        "date": "2026-08-11",
+        "summary": "Fitch cites fast growth and resilient external finances while public debt and fiscal metrics remain important constraints.",
+        "source": "Fitch Ratings",
+        "url": "https://www.fitchratings.com/"
+      },
+      {
+        "agency": "Moody's Ratings",
+        "rating": "Baa3",
+        "outlook": "Stable",
+        "action": "Affirmed",
+        "date": "2025-09-29",
+        "summary": "Large, fast-growing economy and foreign-exchange buffers are strengths; debt and fiscal revenue remain constraints.",
+        "source": "Moody's Ratings",
+        "url": "https://ratings.moodys.com/"
+      },
+      {
+        "agency": "Morningstar DBRS",
+        "rating": "BBB",
+        "outlook": "Stable",
+        "action": "Confirmed",
+        "date": "2026-05-07",
+        "summary": "Long-term foreign and local currency issuer ratings confirmed at BBB with a stable trend.",
+        "source": "Morningstar DBRS",
+        "url": "https://dbrs.morningstar.com/research/480462/morningstar-dbrs-confirms-india-at-bbb-stable-trend"
+      },
+      {
+        "agency": "Japan Credit Rating Agency",
+        "rating": "A-",
+        "outlook": "Stable",
+        "action": "Upgraded",
+        "date": "2026-09-02",
+        "summary": "Upgrade reflects solid growth, stronger economic foundations, improving fiscal quality and a stronger financial system.",
+        "source": "JCR",
+        "url": "https://www.jcr.co.jp/en/ratinglist/sovereign/12045"
+      }
+    ],
+    "outlooks": [
+      {
+        "institution": "World Bank",
+        "metric": "Real GDP growth",
+        "value": 7.1,
+        "unit": "%",
+        "period": "FY2026-27",
+        "date": "2026-10-06",
+        "summary": "India Development Update projects 7.1% growth, supported by domestic demand and exports, while external risks remain elevated.",
+        "source": "World Bank India Development Update",
+        "url": "https://www.worldbank.org/en/news/press-release/2026/10/06/india-development-update-oct-2026"
+      },
+      {
+        "institution": "IMF",
+        "metric": "Real GDP growth",
+        "value": 6.4,
+        "unit": "%",
+        "period": "2026",
+        "date": "2026-07",
+        "summary": "IMF India country page reports 6.4% projected real GDP growth for 2026 from the July 2026 WEO update.",
+        "source": "IMF",
+        "url": "https://www.imf.org/en/Countries/IND"
+      },
+      {
+        "institution": "IMF",
+        "metric": "Consumer prices",
+        "value": 4.7,
+        "unit": "%",
+        "period": "2026",
+        "date": "2026-10",
+        "summary": "IMF country data reports projected consumer-price inflation of 4.7% for 2026.",
+        "source": "IMF",
+        "url": "https://www.imf.org/en/Countries/IND"
+      }
+    ]
+  },
+  "structural": {
+    "people": [
+      {
+        "id": "birth_rate",
+        "label": "Crude birth rate",
+        "value": 18.3,
+        "unit": "per 1,000",
+        "period": "2024",
+        "frequency": "annual",
+        "released_at": "2026-05-20",
+        "source": "SRS Statistical Report 2024",
+        "url": "https://censusindia.gov.in/nada/index.php/catalog/47152",
+        "note": "Births per 1,000 population."
+      },
+      {
+        "id": "death_rate",
+        "label": "Crude death rate",
+        "value": 6.4,
+        "unit": "per 1,000",
+        "period": "2024",
+        "frequency": "annual",
+        "released_at": "2026-05-20",
+        "source": "SRS Statistical Report 2024",
+        "url": "https://censusindia.gov.in/nada/index.php/catalog/47152",
+        "note": "Deaths per 1,000 population."
+      },
+      {
+        "id": "natural_growth",
+        "label": "Natural growth rate",
+        "value": 11.9,
+        "unit": "per 1,000",
+        "period": "2024",
+        "frequency": "annual",
+        "released_at": "2026-05-20",
+        "source": "SRS Bulletin 2024",
+        "url": "https://censusindia.gov.in/nada/index.php/catalog/47150",
+        "note": "Birth rate minus death rate."
+      },
+      {
+        "id": "infant_mortality",
+        "label": "Infant mortality rate",
+        "value": 24,
+        "unit": "per 1,000 live births",
+        "period": "2024",
+        "frequency": "annual",
+        "released_at": "2026-05-20",
+        "source": "SRS Bulletin 2024",
+        "url": "https://censusindia.gov.in/nada/index.php/catalog/47150",
+        "note": "Infant deaths before age one per 1,000 live births."
+      },
+      {
+        "id": "fertility_rate",
+        "label": "Total fertility rate",
+        "value": 1.9,
+        "unit": "children per woman",
+        "period": "2024",
+        "frequency": "annual",
+        "released_at": "2026-05-20",
+        "source": "SRS Statistical Report 2024",
+        "url": "https://censusindia.gov.in/nada/index.php/catalog/47152",
+        "note": "Average children per woman under current fertility rates."
+      }
+    ],
+    "agriculture": [
+      {
+        "id": "foodgrains",
+        "label": "Foodgrain production",
+        "value": 376.563,
+        "unit": "million tonnes",
+        "period": "2025-26 3rd AE",
+        "frequency": "seasonal",
+        "released_at": "2026-05-27",
+        "source": "Ministry of Agriculture",
+        "url": "https://desagri.gov.in/statistics-type/advance-estimates/",
+        "note": "Third Advance Estimate."
+      },
+      {
+        "id": "rice",
+        "label": "Rice production",
+        "value": 154.024,
+        "unit": "million tonnes",
+        "period": "2025-26 3rd AE",
+        "frequency": "seasonal",
+        "released_at": "2026-05-27",
+        "source": "Ministry of Agriculture",
+        "url": "https://desagri.gov.in/statistics-type/advance-estimates/",
+        "note": "Third Advance Estimate."
+      },
+      {
+        "id": "wheat",
+        "label": "Wheat production",
+        "value": 120.657,
+        "unit": "million tonnes",
+        "period": "2025-26 3rd AE",
+        "frequency": "seasonal",
+        "released_at": "2026-05-27",
+        "source": "Ministry of Agriculture",
+        "url": "https://desagri.gov.in/statistics-type/advance-estimates/",
+        "note": "Third Advance Estimate."
+      },
+      {
+        "id": "pulses",
+        "label": "Pulse production",
+        "value": 27.409,
+        "unit": "million tonnes",
+        "period": "2025-26 3rd AE",
+        "frequency": "seasonal",
+        "released_at": "2026-05-27",
+        "source": "Ministry of Agriculture",
+        "url": "https://desagri.gov.in/statistics-type/advance-estimates/",
+        "note": "Third Advance Estimate."
+      },
+      {
+        "id": "oilseeds",
+        "label": "Oilseed production",
+        "value": 43.059,
+        "unit": "million tonnes",
+        "period": "2025-26 3rd AE",
+        "frequency": "seasonal",
+        "released_at": "2026-05-27",
+        "source": "Ministry of Agriculture",
+        "url": "https://desagri.gov.in/statistics-type/advance-estimates/",
+        "note": "Third Advance Estimate."
+      }
+    ],
+    "livestock": [
+      {
+        "id": "milk",
+        "label": "Milk production",
+        "value": 247.87,
+        "unit": "million tonnes",
+        "period": "2024-25",
+        "frequency": "annual",
+        "released_at": "2025-11-26",
+        "source": "Basic Animal Husbandry Statistics 2025",
+        "url": "https://dahd.gov.in/en/schemes/programmes/animal-husbandry-statistics",
+        "note": "Annual national milk production."
+      },
+      {
+        "id": "milk_per_capita",
+        "label": "Milk availability",
+        "value": 485,
+        "unit": "grams/person/day",
+        "period": "2024-25",
+        "frequency": "annual",
+        "released_at": "2025-11-26",
+        "source": "Basic Animal Husbandry Statistics 2025",
+        "url": "https://dahd.gov.in/en/schemes/programmes/animal-husbandry-statistics",
+        "note": "Per-capita availability."
+      }
+    ],
+    "energy": [
+      {
+        "id": "coal_production",
+        "label": "Coal production",
+        "value": 1040.08,
+        "unit": "million tonnes",
+        "period": "FY2025-26",
+        "frequency": "annual",
+        "released_at": "2026-08",
+        "source": "Ministry of Coal",
+        "url": "https://coal.gov.in/public-information/monthly-statistics-at-glance",
+        "note": "National coal production."
+      },
+      {
+        "id": "coal_reserves",
+        "label": "Coal reserves",
+        "value": 400715,
+        "unit": "million tonnes",
+        "period": "latest published",
+        "frequency": "structural",
+        "released_at": "2026-08",
+        "source": "Ministry of Coal",
+        "url": "https://coal.gov.in/",
+        "note": "Reported geological coal reserves; structural indicator."
+      }
+    ],
+    "minerals": [
+      {
+        "id": "iron_ore",
+        "label": "Iron ore production",
+        "value": 25.2,
+        "unit": "million tonnes",
+        "period": "Jan 2024",
+        "frequency": "monthly",
+        "released_at": "2024-03-20",
+        "source": "Indian Bureau of Mines / Ministry of Mines",
+        "url": "https://ibm.gov.in/IBMPortal/pages/Monthly_Statistics_of_Mineral_Production___",
+        "note": "Bundled starter is historical; remote monthly collector should replace it."
+      },
+      {
+        "id": "bauxite",
+        "label": "Bauxite production",
+        "value": 2.426,
+        "unit": "million tonnes",
+        "period": "Jan 2024",
+        "frequency": "monthly",
+        "released_at": "2024-03-20",
+        "source": "Indian Bureau of Mines / Ministry of Mines",
+        "url": "https://ibm.gov.in/IBMPortal/pages/Monthly_Statistics_of_Mineral_Production___",
+        "note": "Bundled starter is historical; remote monthly collector should replace it."
+      },
+      {
+        "id": "limestone",
+        "label": "Limestone production",
+        "value": 39.4,
+        "unit": "million tonnes",
+        "period": "Jan 2024",
+        "frequency": "monthly",
+        "released_at": "2024-03-20",
+        "source": "Indian Bureau of Mines / Ministry of Mines",
+        "url": "https://ibm.gov.in/IBMPortal/pages/Monthly_Statistics_of_Mineral_Production___",
+        "note": "Bundled starter is historical; remote monthly collector should replace it."
+      },
+      {
+        "id": "manganese",
+        "label": "Manganese ore production",
+        "value": 0.304,
+        "unit": "million tonnes",
+        "period": "Jan 2024",
+        "frequency": "monthly",
+        "released_at": "2024-03-20",
+        "source": "Indian Bureau of Mines / Ministry of Mines",
+        "url": "https://ibm.gov.in/IBMPortal/pages/Monthly_Statistics_of_Mineral_Production___",
+        "note": "Bundled starter is historical; remote monthly collector should replace it."
+      }
+    ]
+  },
+  "consumer_world_view": {
+    "title": "India in the World",
+    "subtitle": "A plain-English macro view: what the number is, where India stands, whether the direction is encouraging, and why it matters.",
+    "audience": "general",
+    "cards": [
+      {
+        "id": "economy_size",
+        "category": "Economy",
+        "label": "Size of the economy",
+        "value": 4.15,
+        "unit": "trillion USD",
+        "period": "2026",
+        "standing": "One of the world's largest economies",
+        "trend": "IMF projects real GDP growth around 6.4% in 2026.",
+        "signal": "positive",
+        "signal_label": "Strong, with context",
+        "why": "A larger, faster-growing economy can support jobs, company earnings and government revenue — but size alone does not tell us how well the average household is doing.",
+        "compare": "Per-person income remains much lower than the economy's global size would suggest.",
+        "source": "IMF World Economic Outlook / India country page",
+        "url": "https://www.imf.org/en/Countries/IND"
+      },
+      {
+        "id": "income_per_person",
+        "category": "Economy",
+        "label": "Income per person",
+        "value": 2810,
+        "unit": "USD/person",
+        "period": "2026",
+        "standing": "Still a developing-economy income level",
+        "trend": "Rising over time as the economy grows, but from a much lower base than advanced economies.",
+        "signal": "mixed",
+        "signal_label": "Improving, but still a gap",
+        "why": "This is the better reality check on living standards. A country can be a huge economy because it has many people while average income is still modest.",
+        "compare": "Use this beside GDP size to avoid confusing national scale with household prosperity.",
+        "source": "IMF WEO DataMapper",
+        "url": "https://www.imf.org/external/datamapper/profile/IND/WEO"
+      },
+      {
+        "id": "population",
+        "category": "People",
+        "label": "Population",
+        "value": 1.477,
+        "unit": "billion people",
+        "period": "2026",
+        "standing": "#1 globally",
+        "trend": "Population is still growing, while fertility has moved down sharply over the long run.",
+        "signal": "mixed",
+        "signal_label": "Opportunity + pressure",
+        "why": "A huge working-age population can support consumption and growth, but it also raises the need for jobs, housing, education, healthcare and infrastructure.",
+        "compare": "Scale gives India one of the world's largest consumer and labour markets.",
+        "source": "UN World Population Prospects 2024 revision",
+        "url": "https://population.un.org/wpp"
+      },
+      {
+        "id": "world_ppp_share",
+        "category": "Economy",
+        "label": "Share of world economy (PPP)",
+        "value": 8.49,
+        "unit": "% of world",
+        "period": "2026",
+        "standing": "A very large share of global output on a purchasing-power basis",
+        "trend": "India's weight in the world economy has been rising with faster growth than many large economies.",
+        "signal": "positive",
+        "signal_label": "Gaining global weight",
+        "why": "PPP adjusts for local prices. It is useful for understanding India's economic scale and domestic purchasing power, though it is not the same as market-exchange-rate GDP.",
+        "compare": "Think of this as India's share of the world's real purchasing-power-sized economy.",
+        "source": "IMF WEO DataMapper",
+        "url": "https://www.imf.org/external/datamapper/profile/IND/WEO"
+      },
+      {
+        "id": "steel",
+        "category": "Industry",
+        "label": "Crude steel production",
+        "value": 164.9,
+        "unit": "million tonnes",
+        "period": "2025",
+        "standing": "#2 globally",
+        "trend": "Up about 10.4% from 2024 in worldsteel's 2025 totals.",
+        "signal": "positive",
+        "signal_label": "Industrial strength",
+        "why": "Steel demand and production connect to construction, autos, machinery and infrastructure. Strong output usually means a deep industrial base — though it is also energy-intensive.",
+        "compare": "China remains far larger; India is clearly the second-largest producer.",
+        "source": "World Steel Association",
+        "url": "https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2026/"
+      },
+      {
+        "id": "coal",
+        "category": "Energy",
+        "label": "Coal production",
+        "value": 1.1,
+        "unit": "billion tonnes",
+        "period": "2025",
+        "standing": "#2 globally",
+        "trend": "Near record levels; IEA expects another record around 1.095 billion tonnes in 2026.",
+        "signal": "mixed",
+        "signal_label": "Energy security vs transition",
+        "why": "More domestic coal reduces import dependence and supports reliable power, but heavy coal use also increases pollution and carbon emissions.",
+        "compare": "China is #1 by a wide margin; India is ahead of Indonesia, the third-largest producer.",
+        "source": "International Energy Agency, Coal Mid-Year Update 2026",
+        "url": "https://www.iea.org/reports/coal-mid-year-update-2026/production"
+      },
+      {
+        "id": "milk",
+        "category": "Food & Rural Economy",
+        "label": "Milk production share",
+        "value": 22,
+        "unit": "% of world production",
+        "period": "latest FAO structural comparison",
+        "standing": "#1 globally",
+        "trend": "India has been the world's largest milk producer for years.",
+        "signal": "positive",
+        "signal_label": "Large rural economic base",
+        "why": "Dairy is not just food output; it supports millions of rural households and is an important source of regular cash income.",
+        "compare": "FAO identifies India ahead of the US, Pakistan, China and Brazil in milk production.",
+        "source": "FAO Dairy Production Gateway",
+        "url": "https://www.fao.org/dairy-production-products/production/milk-production/"
+      },
+      {
+        "id": "roads",
+        "category": "Infrastructure",
+        "label": "Road network",
+        "value": 6.373,
+        "unit": "million km",
+        "period": "2026",
+        "standing": "#2 globally",
+        "trend": "National highways and high-speed corridors have continued to expand.",
+        "signal": "positive",
+        "signal_label": "Improving connectivity",
+        "why": "Roads affect freight time, logistics cost, access to markets and mobility. Network size matters, but quality, congestion and travel speed matter too.",
+        "compare": "India has enormous physical coverage; the next question is how efficiently that network moves people and goods.",
+        "source": "Government of India, Ministry of Road Transport & Highways / PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2270740"
+      },
+      {
+        "id": "mobile_manufacturing",
+        "category": "Industry",
+        "label": "Mobile phone manufacturing",
+        "value": 2,
+        "unit": "global rank",
+        "period": "2026",
+        "standing": "#2 globally by volume",
+        "trend": "India shifted from being a major importer to a major producer and exporter of mobile phones.",
+        "signal": "positive",
+        "signal_label": "Manufacturing upgrade",
+        "why": "This shows whether India is moving beyond services into large-scale electronics manufacturing, exports and supply-chain capability.",
+        "compare": "The deeper test is not only assembly volume but how much component and design value is created domestically.",
+        "source": "Government of India, MeitY / PIB",
+        "url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2238427"
+      },
+      {
+        "id": "renewables",
+        "category": "Energy",
+        "label": "Renewable power capacity",
+        "value": 4,
+        "unit": "global rank",
+        "period": "2025 capacity / 2026 reporting",
+        "standing": "#4 globally in total renewable capacity",
+        "trend": "Capacity has been expanding rapidly as India targets much more non-fossil generation this decade.",
+        "signal": "positive",
+        "signal_label": "Transition gaining scale",
+        "why": "More renewable capacity can reduce fuel-import exposure and emissions, but grid, storage and transmission investment determine how useful the capacity becomes.",
+        "compare": "India is also among the global leaders in solar and wind capacity.",
+        "source": "MNRE / IRENA Renewable Capacity Statistics 2026",
+        "url": "https://www.irena.org/Publications/2026/Mar/Renewable-capacity-statistics-2026"
+      }
+    ],
+    "method_note": "Curated structural context for non-experts. Rankings are included only when the cited source or an authoritative table supports them. Observation years differ because structural data is not released on one common schedule."
+  },
+  "published_at": "2026-10-27T18:20:53.519302+05:30"
+}

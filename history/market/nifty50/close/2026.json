@@ -2350,42 +2350,6 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
-    },
-    {
-      "period": "2026-10-19",
-      "value": 22888.949219,
-      "released_at": "2026-10-19",
-      "collected_at": "2026-10-23T07:40:41.330432+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/^NSEI",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
-    },
-    {
-      "period": "2026-10-21",
-      "value": 22811.349609,
-      "released_at": "2026-10-21",
-      "collected_at": "2026-10-23T07:40:41.330432+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/^NSEI",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
-    },
-    {
-      "period": "2026-10-22",
-      "value": 22687.650391,
-      "released_at": "2026-10-22",
-      "collected_at": "2026-10-23T07:40:41.330432+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/^NSEI",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
     }
   ]
 }

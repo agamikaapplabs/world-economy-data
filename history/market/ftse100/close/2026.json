@@ -2422,54 +2422,6 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
-    },
-    {
-      "period": "2026-10-19",
-      "value": 10764.700195,
-      "released_at": "2026-10-19",
-      "collected_at": "2026-10-23T07:40:41.330432+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/^FTSE",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
-    },
-    {
-      "period": "2026-10-20",
-      "value": 10733.0,
-      "released_at": "2026-10-20",
-      "collected_at": "2026-10-23T07:40:41.330432+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/^FTSE",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
-    },
-    {
-      "period": "2026-10-21",
-      "value": 10752.900391,
-      "released_at": "2026-10-21",
-      "collected_at": "2026-10-23T07:40:41.330432+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/^FTSE",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
-    },
-    {
-      "period": "2026-10-22",
-      "value": 10725.0,
-      "released_at": "2026-10-22",
-      "collected_at": "2026-10-23T07:40:41.330432+05:30",
-      "source_id": "yahoo-finance-chart",
-      "source": "Yahoo Finance chart",
-      "source_url": "https://finance.yahoo.com/quote/^FTSE",
-      "status": "observed",
-      "revision_no": 0,
-      "is_revision": false
     }
   ]
 }
