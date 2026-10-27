@@ -2566,6 +2566,54 @@
       "status": "observed",
       "revision_no": 3,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-27",
+      "value": 1022.0,
+      "released_at": "2026-10-27",
+      "collected_at": "2026-10-27T20:23:56.651356+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/RHM.DE",
+      "status": "observed",
+      "revision_no": 4,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-27",
+      "value": 1020.200012,
+      "released_at": "2026-10-27",
+      "collected_at": "2026-10-27T20:29:50.822723+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/RHM.DE",
+      "status": "observed",
+      "revision_no": 5,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-27",
+      "value": 1023.799988,
+      "released_at": "2026-10-27",
+      "collected_at": "2026-10-27T20:55:03.668410+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/RHM.DE",
+      "status": "observed",
+      "revision_no": 6,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-27",
+      "value": 1025.199951,
+      "released_at": "2026-10-27",
+      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/RHM.DE",
+      "status": "observed",
+      "revision_no": 7,
+      "is_revision": true
     }
   ]
 }
