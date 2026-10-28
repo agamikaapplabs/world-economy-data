@@ -1,10 +1,10 @@
 {
   "schema_version": "5.5",
-  "published_at": "2026-10-28T07:29:10.570267+05:30",
+  "published_at": "2026-10-28T07:39:15.054060+05:30",
   "payload_role": "startup",
   "markets": {
     "schema_version": "5.5",
-    "generated_at": "2026-10-28T01:59:01.002297+00:00",
+    "generated_at": "2026-10-28T02:09:06.128074+00:00",
     "payload_role": "startup-summary",
     "instruments": {
       "gold": {
@@ -14,22 +14,22 @@
         "symbol": "GC=F",
         "group": "metals",
         "unit": "USD",
-        "latest": 4065.600098,
-        "previous_close": 4038.399902,
-        "day_change_pct": 0.6735389426522371,
-        "change_pct": 0.6735389426522371,
-        "market_time": "2026-10-28T01:48:37+00:00",
+        "latest": 4060.800049,
+        "previous_close": 4074.600098,
+        "day_change_pct": -0.3386847461858561,
+        "change_pct": -0.3386847461858561,
+        "market_time": "2026-10-28T01:58:38+00:00",
         "currency": "USD",
         "exchange": "CMX",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -2.033732578313252,
-          "1M": -2.4661694275224577,
-          "3M": 0.7259135506355374,
-          "6M": -10.87142172530966,
-          "1Y": 2.0712509846645633,
-          "3Y": -6.739455214127322,
-          "5Y": -6.739455214127322
+          "1W": -2.14939640963856,
+          "1M": -2.5813227024684915,
+          "3M": 0.6069915442998397,
+          "6M": -10.976651342760057,
+          "1Y": 1.950740606268342,
+          "3Y": -6.849563236054779,
+          "5Y": -6.849563236054779
         },
         "history": []
       },
@@ -40,22 +40,22 @@
         "symbol": "SI=F",
         "group": "metals",
         "unit": "USD",
-        "latest": 54.330002,
-        "previous_close": 54.108002,
-        "day_change_pct": 0.41029051488539775,
-        "change_pct": 0.41029051488539775,
-        "market_time": "2026-10-28T01:48:15+00:00",
+        "latest": 54.174999,
+        "previous_close": 54.292999,
+        "day_change_pct": -0.21733925584033792,
+        "change_pct": -0.21733925584033792,
+        "market_time": "2026-10-28T01:58:42+00:00",
         "currency": "USD",
         "exchange": "CMX",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -5.384693925939644,
-          "1M": -11.254490178789778,
-          "3M": -6.105796555757504,
-          "6M": -24.087241682851513,
-          "1Y": 15.289128912466854,
-          "3Y": 6.281427772089199,
-          "5Y": 6.281427772089199
+          "1W": -5.654630530900517,
+          "1M": -11.507680308597191,
+          "3M": -6.373675861494843,
+          "6M": -24.303820089703642,
+          "1Y": 14.960210079575598,
+          "3Y": 5.978207828365334,
+          "5Y": 5.978207828365334
         },
         "history": []
       },
@@ -170,22 +170,22 @@
         "symbol": "^N225",
         "group": "indices",
         "unit": "index",
-        "latest": 64238.699219,
+        "latest": 64089.71875,
         "previous_close": 63268.371094,
-        "day_change_pct": 1.533670154963133,
-        "change_pct": 1.533670154963133,
-        "market_time": "2026-10-28T01:43:40+00:00",
+        "day_change_pct": 1.2981963053540504,
+        "change_pct": 1.2981963053540504,
+        "market_time": "2026-10-28T01:53:45+00:00",
         "currency": "JPY",
         "exchange": "OSA",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -0.591971110699796,
-          "1M": -2.4878221753572127,
-          "3M": 4.565060186868686,
-          "6M": 7.21198497625164,
-          "1Y": 27.91666374898991,
-          "3Y": 33.060705630200445,
-          "5Y": 33.060705630200445
+          "1W": -0.8225152366915789,
+          "1M": -2.7139695002898145,
+          "3M": 4.322556028206548,
+          "6M": 6.963342148822482,
+          "1Y": 27.620003250101675,
+          "3Y": 32.75211522330761,
+          "5Y": 32.75211522330761
         },
         "history": []
       },
@@ -196,22 +196,22 @@
         "symbol": "^HSI",
         "group": "indices",
         "unit": "index",
-        "latest": 23095.240234,
+        "latest": 23032.210938,
         "previous_close": 23041.320312,
-        "day_change_pct": 0.2340140290134297,
-        "change_pct": 0.2340140290134297,
-        "market_time": "2026-10-28T01:43:42+00:00",
+        "day_change_pct": -0.03953494798323457,
+        "change_pct": -0.03953494798323457,
+        "market_time": "2026-10-28T01:53:46+00:00",
         "currency": "HKD",
         "exchange": "HKG",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -2.353424601166487,
-          "1M": -6.278863422161695,
-          "3M": -10.511035744835729,
-          "6M": -11.552612255674333,
-          "1Y": -12.339190157951263,
-          "3Y": -10.789611133463028,
-          "5Y": -10.789611133463028
+          "1W": -2.6199121908967227,
+          "1M": -6.534638083908872,
+          "3M": -10.755260371192655,
+          "6M": -11.793994312153522,
+          "1Y": -12.57842556209312,
+          "3Y": -11.033075498811618,
+          "5Y": -11.033075498811618
         },
         "history": []
       },
@@ -1028,22 +1028,22 @@
         "symbol": "7011.T",
         "group": "heavy_industry",
         "unit": "JPY",
-        "latest": 3556.0,
+        "latest": 3563.0,
         "previous_close": 3527.0,
-        "day_change_pct": 0.8222285228239297,
-        "change_pct": 0.8222285228239297,
-        "market_time": "2026-10-28T01:43:52+00:00",
+        "day_change_pct": 1.0206974766090162,
+        "change_pct": 1.0206974766090162,
+        "market_time": "2026-10-28T01:53:56+00:00",
         "currency": "JPY",
         "exchange": "JPX",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -4.4342918570276835,
-          "1M": -8.492022645393726,
-          "3M": -4.919786096256685,
-          "6M": -25.87033562643318,
-          "1Y": -19.47463768115942,
-          "3Y": 350.41165294490185,
-          "5Y": 1081.787992990123
+          "1W": -4.246170384305293,
+          "1M": -8.311888831703552,
+          "3M": -4.732620320855618,
+          "6M": -25.724411090264752,
+          "1Y": -19.316123188405797,
+          "3Y": 351.29829005699816,
+          "5Y": 1084.1143473070324
         },
         "history": []
       },
@@ -1366,22 +1366,22 @@
         "symbol": "BZ=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 110.940002,
-        "previous_close": 115.809998,
-        "day_change_pct": -4.205160248772292,
-        "change_pct": -4.205160248772292,
-        "market_time": "2026-10-28T01:48:34+00:00",
+        "latest": 111.209999,
+        "previous_close": 113.879997,
+        "day_change_pct": -2.344571540513833,
+        "change_pct": -2.344571540513833,
+        "market_time": "2026-10-28T01:58:56+00:00",
         "currency": "USD",
         "exchange": "NYM",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 1.9481731299393568,
-          "1M": 5.37614271823843,
-          "3M": 22.26141111442388,
-          "6M": -6.006944895424427,
-          "1Y": 72.26707850102241,
-          "3Y": 22.612730240515155,
-          "5Y": 31.570211100569278
+          "1W": 2.1962865282117328,
+          "1M": 5.632598837695646,
+          "3M": 22.558961264248655,
+          "6M": -5.778192034043828,
+          "1Y": 72.6863284880022,
+          "3Y": 22.911135403034866,
+          "5Y": 31.890416271347256
         },
         "history": []
       },
@@ -1392,22 +1392,22 @@
         "symbol": "CL=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 101.040001,
-        "previous_close": 101.760002,
-        "day_change_pct": -0.7075481386095063,
-        "change_pct": -0.7075481386095063,
-        "market_time": "2026-10-28T01:48:50+00:00",
+        "latest": 101.300003,
+        "previous_close": 99.900002,
+        "day_change_pct": 1.401402374346302,
+        "change_pct": 1.401402374346302,
+        "market_time": "2026-10-28T01:58:56+00:00",
         "currency": "USD",
         "exchange": "NYM",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 4.004116232545218,
-          "1M": 9.114474278930329,
-          "3M": 19.630596964605694,
-          "6M": -5.46406826714263,
-          "1Y": 67.98004595245068,
-          "3Y": 18.120177482812984,
-          "5Y": 22.014253641208903
+          "1W": 4.271745666047444,
+          "1M": 9.39525398261889,
+          "3M": 19.93843736607197,
+          "6M": -5.220802916003075,
+          "1Y": 68.41230196467825,
+          "3Y": 18.424131185128225,
+          "5Y": 22.32822780650232
         },
         "history": []
       },
@@ -1418,22 +1418,22 @@
         "symbol": "NG=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 3.061,
-        "previous_close": 2.602,
-        "day_change_pct": 17.64027671022291,
-        "change_pct": 17.64027671022291,
-        "market_time": "2026-10-28T01:45:17+00:00",
+        "latest": 3.056,
+        "previous_close": 2.697,
+        "day_change_pct": 13.311086392287727,
+        "change_pct": 13.311086392287727,
+        "market_time": "2026-10-28T01:57:15+00:00",
         "currency": "USD",
         "exchange": "NYM",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 9.713261648745508,
-          "1M": 2.0333333333333314,
-          "3M": 12.33027522935779,
-          "6M": 15.640347563279189,
-          "1Y": -8.490284005979076,
-          "3Y": -3.255372945638435,
-          "5Y": -47.059840885506745
+          "1W": 9.534050179211473,
+          "1M": 1.866666666666661,
+          "3M": 12.146788990825685,
+          "6M": 15.45145447676617,
+          "1Y": -8.639760837070254,
+          "3Y": -3.4134007585335024,
+          "5Y": -47.146316153580074
         },
         "history": []
       },
@@ -1444,22 +1444,22 @@
         "symbol": "HG=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 6.654,
-        "previous_close": 6.508,
-        "day_change_pct": 2.243392747387829,
-        "change_pct": 2.243392747387829,
-        "market_time": "2026-10-28T01:48:31+00:00",
+        "latest": 6.6465,
+        "previous_close": 6.622,
+        "day_change_pct": 0.3699788583509475,
+        "change_pct": 0.3699788583509475,
+        "market_time": "2026-10-28T01:58:56+00:00",
         "currency": "USD",
         "exchange": "CMX",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 1.6964695093993454,
-          "1M": 1.340237587572335,
-          "3M": 6.065194867298951,
-          "6M": 13.192140852258238,
-          "1Y": 29.442661219725696,
-          "3Y": 83.10401761144743,
-          "5Y": 49.94929577464789
+          "1W": 1.5818431911966968,
+          "1M": 1.2260127931769782,
+          "3M": 5.945644377141934,
+          "6M": 13.064557285021694,
+          "1Y": 29.29676101546541,
+          "3Y": 82.89763346175015,
+          "5Y": 49.78028169014084
         },
         "history": []
       },
@@ -1471,10 +1471,10 @@
         "group": "commodities",
         "unit": "USD",
         "latest": 612.0,
-        "previous_close": 616.0,
-        "day_change_pct": -0.6493506493506493,
-        "change_pct": -0.6493506493506493,
-        "market_time": "2026-10-28T01:48:43+00:00",
+        "previous_close": 610.25,
+        "day_change_pct": 0.2867677181482999,
+        "change_pct": 0.2867677181482999,
+        "market_time": "2026-10-28T01:58:54+00:00",
         "currency": "USX",
         "exchange": "CBT",
         "source": "Yahoo Finance chart",
@@ -1496,22 +1496,22 @@
         "symbol": "ZC=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 450.0,
-        "previous_close": 455.0,
-        "day_change_pct": -1.098901098901099,
-        "change_pct": -1.098901098901099,
-        "market_time": "2026-10-28T01:47:14+00:00",
+        "latest": 450.25,
+        "previous_close": 448.75,
+        "day_change_pct": 0.3342618384401114,
+        "change_pct": 0.3342618384401114,
+        "market_time": "2026-10-28T01:58:39+00:00",
         "currency": "USX",
         "exchange": "CBT",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -2.8602266594711323,
-          "1M": -13.95793499043977,
-          "3M": 0.22271714922048602,
-          "6M": -3.5369774919614128,
-          "1Y": 4.166666666666674,
-          "3Y": -6.396255850234011,
-          "5Y": -20.035539760106623
+          "1W": -2.806260118726389,
+          "1M": -13.910133843212236,
+          "3M": 0.2783964365256075,
+          "6M": -3.483386923901388,
+          "1Y": 4.224537037037046,
+          "3Y": -6.344253770150809,
+          "5Y": -19.991115059973342
         },
         "history": []
       },
@@ -1700,369 +1700,9 @@
   },
   "macro": {
     "schema_version": "5.5",
-    "generated_at": "2026-10-28T01:59:01.307269+00:00",
+    "generated_at": "2026-10-28T02:09:06.451087+00:00",
     "payload_role": "startup-summary",
     "indicators": {
-      "inflation": {
-        "meta": {
-          "label": "CPI inflation",
-          "unit": "%",
-          "frequency": "annual / latest World Bank observation"
-        },
-        "countries": {
-          "USA": {
-            "country": "United States",
-            "series_id": "macro.usa.inflation",
-            "latest": {
-              "date": "2024",
-              "value": 2.94952520485207
-            },
-            "history": []
-          },
-          "IND": {
-            "country": "India",
-            "series_id": "macro.ind.inflation",
-            "latest": {
-              "date": "2025",
-              "value": 2.39884954182294
-            },
-            "history": []
-          },
-          "CHN": {
-            "country": "China",
-            "series_id": "macro.chn.inflation",
-            "latest": {
-              "date": "2025",
-              "value": 0.0595646916565402
-            },
-            "history": []
-          },
-          "JPN": {
-            "country": "Japan",
-            "series_id": "macro.jpn.inflation",
-            "latest": {
-              "date": "2025",
-              "value": 3.17253034260247
-            },
-            "history": []
-          },
-          "DEU": {
-            "country": "Germany",
-            "series_id": "macro.deu.inflation",
-            "latest": {
-              "date": "2025",
-              "value": 2.17178770949721
-            },
-            "history": []
-          },
-          "GBR": {
-            "country": "United Kingdom",
-            "series_id": "macro.gbr.inflation",
-            "latest": {
-              "date": "2025",
-              "value": 3.88306881625999
-            },
-            "history": []
-          },
-          "FRA": {
-            "country": "France",
-            "series_id": "macro.fra.inflation",
-            "latest": {
-              "date": "2025",
-              "value": 0.943824761520197
-            },
-            "history": []
-          },
-          "BRA": {
-            "country": "Brazil",
-            "series_id": "macro.bra.inflation",
-            "latest": {
-              "date": "2025",
-              "value": 5.01675279604836
-            },
-            "history": []
-          },
-          "RUS": {
-            "country": "Russia",
-            "series_id": "macro.rus.inflation",
-            "latest": {
-              "date": "2025",
-              "value": 8.71986939402666
-            },
-            "history": []
-          }
-        }
-      },
-      "unemployment": {
-        "meta": {
-          "label": "Unemployment",
-          "unit": "%",
-          "frequency": "annual / latest World Bank observation"
-        },
-        "countries": {
-          "USA": {
-            "country": "United States",
-            "series_id": "macro.usa.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 4.198
-            },
-            "history": []
-          },
-          "IND": {
-            "country": "India",
-            "series_id": "macro.ind.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 4.219
-            },
-            "history": []
-          },
-          "CHN": {
-            "country": "China",
-            "series_id": "macro.chn.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 4.615
-            },
-            "history": []
-          },
-          "JPN": {
-            "country": "Japan",
-            "series_id": "macro.jpn.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 2.451
-            },
-            "history": []
-          },
-          "DEU": {
-            "country": "Germany",
-            "series_id": "macro.deu.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 3.711
-            },
-            "history": []
-          },
-          "GBR": {
-            "country": "United Kingdom",
-            "series_id": "macro.gbr.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 4.746
-            },
-            "history": []
-          },
-          "FRA": {
-            "country": "France",
-            "series_id": "macro.fra.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 7.542
-            },
-            "history": []
-          },
-          "BRA": {
-            "country": "Brazil",
-            "series_id": "macro.bra.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 5.97
-            },
-            "history": []
-          },
-          "RUS": {
-            "country": "Russia",
-            "series_id": "macro.rus.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 2.133
-            },
-            "history": []
-          }
-        }
-      },
-      "gdp_growth": {
-        "meta": {
-          "label": "Real GDP growth",
-          "unit": "%",
-          "frequency": "annual / latest World Bank observation"
-        },
-        "countries": {
-          "USA": {
-            "country": "United States",
-            "series_id": "macro.usa.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 2.16138195623856
-            },
-            "history": []
-          },
-          "IND": {
-            "country": "India",
-            "series_id": "macro.ind.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 7.56666179284244
-            },
-            "history": []
-          },
-          "CHN": {
-            "country": "China",
-            "series_id": "macro.chn.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 4.95994886240992
-            },
-            "history": []
-          },
-          "JPN": {
-            "country": "Japan",
-            "series_id": "macro.jpn.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 1.19311288444599
-            },
-            "history": []
-          },
-          "DEU": {
-            "country": "Germany",
-            "series_id": "macro.deu.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 0.239578342117881
-            },
-            "history": []
-          },
-          "GBR": {
-            "country": "United Kingdom",
-            "series_id": "macro.gbr.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 1.38844207858726
-            },
-            "history": []
-          },
-          "FRA": {
-            "country": "France",
-            "series_id": "macro.fra.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 0.840949955479587
-            },
-            "history": []
-          },
-          "BRA": {
-            "country": "Brazil",
-            "series_id": "macro.bra.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 2.2857464902475
-            },
-            "history": []
-          },
-          "RUS": {
-            "country": "Russia",
-            "series_id": "macro.rus.gdp_growth",
-            "latest": {
-              "date": "2025",
-              "value": 1.00117656925738
-            },
-            "history": []
-          }
-        }
-      },
-      "energy_imports_pct": {
-        "meta": {
-          "label": "Net energy imports / energy use",
-          "unit": "%",
-          "frequency": "annual / latest World Bank observation"
-        },
-        "countries": {
-          "USA": {
-            "country": "United States",
-            "series_id": "macro.usa.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": -9.78127421443322
-            },
-            "history": []
-          },
-          "IND": {
-            "country": "India",
-            "series_id": "macro.ind.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 36.0305276064275
-            },
-            "history": []
-          },
-          "CHN": {
-            "country": "China",
-            "series_id": "macro.chn.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 24.0191966181448
-            },
-            "history": []
-          },
-          "JPN": {
-            "country": "Japan",
-            "series_id": "macro.jpn.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 87.2760175203616
-            },
-            "history": []
-          },
-          "DEU": {
-            "country": "Germany",
-            "series_id": "macro.deu.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 70.2584516342916
-            },
-            "history": []
-          },
-          "GBR": {
-            "country": "United Kingdom",
-            "series_id": "macro.gbr.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 47.5592581197649
-            },
-            "history": []
-          },
-          "FRA": {
-            "country": "France",
-            "series_id": "macro.fra.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 41.7548883068387
-            },
-            "history": []
-          },
-          "BRA": {
-            "country": "Brazil",
-            "series_id": "macro.bra.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": -10.8440412585642
-            },
-            "history": []
-          },
-          "RUS": {
-            "country": "Russia",
-            "series_id": "macro.rus.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": -70.7306703064017
-            },
-            "history": []
-          }
-        }
-      },
       "current_account_gdp": {
         "meta": {
           "label": "Current account / GDP",
@@ -2122,96 +1762,6 @@
             "country": "Russia",
             "series_id": "macro.rus.current_account_gdp",
             "latest": {},
-            "history": []
-          }
-        }
-      },
-      "imports_usd": {
-        "meta": {
-          "label": "Imports of goods & services",
-          "unit": "USD",
-          "frequency": "annual / latest World Bank observation"
-        },
-        "countries": {
-          "USA": {
-            "country": "United States",
-            "series_id": "macro.usa.imports_usd",
-            "latest": {
-              "date": "2024",
-              "value": 4113828000000.0
-            },
-            "history": []
-          },
-          "IND": {
-            "country": "India",
-            "series_id": "macro.ind.imports_usd",
-            "latest": {
-              "date": "2025",
-              "value": 949660225776.158
-            },
-            "history": []
-          },
-          "CHN": {
-            "country": "China",
-            "series_id": "macro.chn.imports_usd",
-            "latest": {
-              "date": "2025",
-              "value": 3292280901123.49
-            },
-            "history": []
-          },
-          "JPN": {
-            "country": "Japan",
-            "series_id": "macro.jpn.imports_usd",
-            "latest": {
-              "date": "2024",
-              "value": 958381808469.152
-            },
-            "history": []
-          },
-          "DEU": {
-            "country": "Germany",
-            "series_id": "macro.deu.imports_usd",
-            "latest": {
-              "date": "2025",
-              "value": 1923292318697.25
-            },
-            "history": []
-          },
-          "GBR": {
-            "country": "United Kingdom",
-            "series_id": "macro.gbr.imports_usd",
-            "latest": {
-              "date": "2025",
-              "value": 1275239250327.84
-            },
-            "history": []
-          },
-          "FRA": {
-            "country": "France",
-            "series_id": "macro.fra.imports_usd",
-            "latest": {
-              "date": "2025",
-              "value": 1137799795606.86
-            },
-            "history": []
-          },
-          "BRA": {
-            "country": "Brazil",
-            "series_id": "macro.bra.imports_usd",
-            "latest": {
-              "date": "2025",
-              "value": 398319353081.263
-            },
-            "history": []
-          },
-          "RUS": {
-            "country": "Russia",
-            "series_id": "macro.rus.imports_usd",
-            "latest": {
-              "date": "2025",
-              "value": 397181687664.146
-            },
             "history": []
           }
         }
@@ -2395,6 +1945,456 @@
             "history": []
           }
         }
+      },
+      "gdp_growth": {
+        "meta": {
+          "label": "Real GDP growth",
+          "unit": "%",
+          "frequency": "annual / latest World Bank observation"
+        },
+        "countries": {
+          "USA": {
+            "country": "United States",
+            "series_id": "macro.usa.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 2.16138195623856
+            },
+            "history": []
+          },
+          "IND": {
+            "country": "India",
+            "series_id": "macro.ind.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 7.56666179284244
+            },
+            "history": []
+          },
+          "CHN": {
+            "country": "China",
+            "series_id": "macro.chn.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 4.95994886240992
+            },
+            "history": []
+          },
+          "JPN": {
+            "country": "Japan",
+            "series_id": "macro.jpn.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 1.19311288444599
+            },
+            "history": []
+          },
+          "DEU": {
+            "country": "Germany",
+            "series_id": "macro.deu.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 0.239578342117881
+            },
+            "history": []
+          },
+          "GBR": {
+            "country": "United Kingdom",
+            "series_id": "macro.gbr.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 1.38844207858726
+            },
+            "history": []
+          },
+          "FRA": {
+            "country": "France",
+            "series_id": "macro.fra.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 0.840949955479587
+            },
+            "history": []
+          },
+          "BRA": {
+            "country": "Brazil",
+            "series_id": "macro.bra.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 2.2857464902475
+            },
+            "history": []
+          },
+          "RUS": {
+            "country": "Russia",
+            "series_id": "macro.rus.gdp_growth",
+            "latest": {
+              "date": "2025",
+              "value": 1.00117656925738
+            },
+            "history": []
+          }
+        }
+      },
+      "unemployment": {
+        "meta": {
+          "label": "Unemployment",
+          "unit": "%",
+          "frequency": "annual / latest World Bank observation"
+        },
+        "countries": {
+          "USA": {
+            "country": "United States",
+            "series_id": "macro.usa.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 4.198
+            },
+            "history": []
+          },
+          "IND": {
+            "country": "India",
+            "series_id": "macro.ind.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 4.219
+            },
+            "history": []
+          },
+          "CHN": {
+            "country": "China",
+            "series_id": "macro.chn.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 4.615
+            },
+            "history": []
+          },
+          "JPN": {
+            "country": "Japan",
+            "series_id": "macro.jpn.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 2.451
+            },
+            "history": []
+          },
+          "DEU": {
+            "country": "Germany",
+            "series_id": "macro.deu.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 3.711
+            },
+            "history": []
+          },
+          "GBR": {
+            "country": "United Kingdom",
+            "series_id": "macro.gbr.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 4.746
+            },
+            "history": []
+          },
+          "FRA": {
+            "country": "France",
+            "series_id": "macro.fra.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 7.542
+            },
+            "history": []
+          },
+          "BRA": {
+            "country": "Brazil",
+            "series_id": "macro.bra.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 5.97
+            },
+            "history": []
+          },
+          "RUS": {
+            "country": "Russia",
+            "series_id": "macro.rus.unemployment",
+            "latest": {
+              "date": "2025",
+              "value": 2.133
+            },
+            "history": []
+          }
+        }
+      },
+      "energy_imports_pct": {
+        "meta": {
+          "label": "Net energy imports / energy use",
+          "unit": "%",
+          "frequency": "annual / latest World Bank observation"
+        },
+        "countries": {
+          "USA": {
+            "country": "United States",
+            "series_id": "macro.usa.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": -9.78127421443322
+            },
+            "history": []
+          },
+          "IND": {
+            "country": "India",
+            "series_id": "macro.ind.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 36.0305276064275
+            },
+            "history": []
+          },
+          "CHN": {
+            "country": "China",
+            "series_id": "macro.chn.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 24.0191966181448
+            },
+            "history": []
+          },
+          "JPN": {
+            "country": "Japan",
+            "series_id": "macro.jpn.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 87.2760175203616
+            },
+            "history": []
+          },
+          "DEU": {
+            "country": "Germany",
+            "series_id": "macro.deu.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 70.2584516342916
+            },
+            "history": []
+          },
+          "GBR": {
+            "country": "United Kingdom",
+            "series_id": "macro.gbr.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 47.5592581197649
+            },
+            "history": []
+          },
+          "FRA": {
+            "country": "France",
+            "series_id": "macro.fra.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 41.7548883068387
+            },
+            "history": []
+          },
+          "BRA": {
+            "country": "Brazil",
+            "series_id": "macro.bra.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": -10.8440412585642
+            },
+            "history": []
+          },
+          "RUS": {
+            "country": "Russia",
+            "series_id": "macro.rus.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": -70.7306703064017
+            },
+            "history": []
+          }
+        }
+      },
+      "imports_usd": {
+        "meta": {
+          "label": "Imports of goods & services",
+          "unit": "USD",
+          "frequency": "annual / latest World Bank observation"
+        },
+        "countries": {
+          "USA": {
+            "country": "United States",
+            "series_id": "macro.usa.imports_usd",
+            "latest": {
+              "date": "2024",
+              "value": 4113828000000.0
+            },
+            "history": []
+          },
+          "IND": {
+            "country": "India",
+            "series_id": "macro.ind.imports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 949660225776.158
+            },
+            "history": []
+          },
+          "CHN": {
+            "country": "China",
+            "series_id": "macro.chn.imports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 3292280901123.49
+            },
+            "history": []
+          },
+          "JPN": {
+            "country": "Japan",
+            "series_id": "macro.jpn.imports_usd",
+            "latest": {
+              "date": "2024",
+              "value": 958381808469.152
+            },
+            "history": []
+          },
+          "DEU": {
+            "country": "Germany",
+            "series_id": "macro.deu.imports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 1923292318697.25
+            },
+            "history": []
+          },
+          "GBR": {
+            "country": "United Kingdom",
+            "series_id": "macro.gbr.imports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 1275239250327.84
+            },
+            "history": []
+          },
+          "FRA": {
+            "country": "France",
+            "series_id": "macro.fra.imports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 1137799795606.86
+            },
+            "history": []
+          },
+          "BRA": {
+            "country": "Brazil",
+            "series_id": "macro.bra.imports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 398319353081.263
+            },
+            "history": []
+          },
+          "RUS": {
+            "country": "Russia",
+            "series_id": "macro.rus.imports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 397181687664.146
+            },
+            "history": []
+          }
+        }
+      },
+      "inflation": {
+        "meta": {
+          "label": "CPI inflation",
+          "unit": "%",
+          "frequency": "annual / latest World Bank observation"
+        },
+        "countries": {
+          "USA": {
+            "country": "United States",
+            "series_id": "macro.usa.inflation",
+            "latest": {
+              "date": "2024",
+              "value": 2.94952520485207
+            },
+            "history": []
+          },
+          "IND": {
+            "country": "India",
+            "series_id": "macro.ind.inflation",
+            "latest": {
+              "date": "2025",
+              "value": 2.39884954182294
+            },
+            "history": []
+          },
+          "CHN": {
+            "country": "China",
+            "series_id": "macro.chn.inflation",
+            "latest": {
+              "date": "2025",
+              "value": 0.0595646916565402
+            },
+            "history": []
+          },
+          "JPN": {
+            "country": "Japan",
+            "series_id": "macro.jpn.inflation",
+            "latest": {
+              "date": "2025",
+              "value": 3.17253034260247
+            },
+            "history": []
+          },
+          "DEU": {
+            "country": "Germany",
+            "series_id": "macro.deu.inflation",
+            "latest": {
+              "date": "2025",
+              "value": 2.17178770949721
+            },
+            "history": []
+          },
+          "GBR": {
+            "country": "United Kingdom",
+            "series_id": "macro.gbr.inflation",
+            "latest": {
+              "date": "2025",
+              "value": 3.88306881625999
+            },
+            "history": []
+          },
+          "FRA": {
+            "country": "France",
+            "series_id": "macro.fra.inflation",
+            "latest": {
+              "date": "2025",
+              "value": 0.943824761520197
+            },
+            "history": []
+          },
+          "BRA": {
+            "country": "Brazil",
+            "series_id": "macro.bra.inflation",
+            "latest": {
+              "date": "2025",
+              "value": 5.01675279604836
+            },
+            "history": []
+          },
+          "RUS": {
+            "country": "Russia",
+            "series_id": "macro.rus.inflation",
+            "latest": {
+              "date": "2025",
+              "value": 8.71986939402666
+            },
+            "history": []
+          }
+        }
       }
     },
     "policy_rates": [
@@ -2451,10 +2451,10 @@
   },
   "news": {
     "schema_version": "5.5",
-    "generated_at": "2026-10-28T01:59:05.461408+00:00",
-    "published_at": "2026-10-28T07:29:10.570267+05:30",
-    "collected_at": "2026-10-28T01:59:05.461408+00:00",
-    "newest_article_at": "2026-10-27T23:47:00+00:00",
+    "generated_at": "2026-10-28T02:09:10.338815+00:00",
+    "published_at": "2026-10-28T07:39:15.054060+05:30",
+    "collected_at": "2026-10-28T02:09:10.338815+00:00",
+    "newest_article_at": "2026-10-27T23:29:00+00:00",
     "payload_role": "startup-summary",
     "items": [
       {
@@ -2506,29 +2506,13 @@
         ]
       },
       {
-        "id": "91aec4f00c144c0f",
-        "headline": "India Should Avoid Defending Rupee At Cost Of Reserves, Ex-RBI Governor Says - BW Businessworld",
-        "summary": "India Should Avoid Defending Rupee At Cost Of Reserves, Ex-RBI Governor Says    BW Businessworld",
+        "id": "b9a88b9cd6b524fe",
+        "headline": "India should not deplete reserves to defend rupee, ex-RBI chief Rajan says - CNBC TV18",
+        "summary": "India should not deplete reserves to defend rupee, ex-RBI chief Rajan says    CNBC TV18",
         "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
-        "published_at": "2026-10-27T12:36:55+00:00",
-        "source": "BW Businessworld",
-        "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZTZNVUlITnZNZXRlYVBkYUhTVjVNUGtCZ0hzVzRDUGE2MUdnSFV2TGMzTW1JdDFoS2N3WDdmTFZQLWlzSDFsQUh5UGc1VG52VTB0MmhYN3o5V2xJQkhmckJQQjVyVWxNbkFCV0xiUF81SXBLRUhBUGwzUDF4ZmM4MUd0U214TzY0MExlWktpQ29oVHRIY0lWMUs5dEZLYkNleXI4cGlIbklBMEpUQ2g0SzZLQWo5YnIxbkJR?oc=5",
-        "importance": 92,
-        "category": "monetary_policy",
-        "linked_series": [
-          "market.usd_inr.close",
-          "india.now.cpi_inflation",
-          "india.now.fx_reserves_usd_bn"
-        ]
-      },
-      {
-        "id": "21159c17fa7db8f8",
-        "headline": "India should not deplete reserves to defend rupee, former RBI chief Rajan says - BusinessLine",
-        "summary": "India should not deplete reserves to defend rupee, former RBI chief Rajan says    BusinessLine",
-        "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
-        "published_at": "2026-10-27T08:40:35+00:00",
-        "source": "BusinessLine",
-        "source_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQV0tJUzRpMzd5Rjd3ellEaTBMOHE0am91TldLODNVY3k5WTNIV2xSVUpMYXBWUTdDdWY1ZExwYktxOUdJcmJKVEVWa3FodHpwd0ZuV2VkWmxvUWxKWVlyV2lraUZtOVRwVm9SMzNEUTZXellQSk56QWZzUVpLeE9VdUpDNTltcGZySXE3TTIzbDZQOUJWd1hFMFQwMlZqMmRQTHZRQVhnekhTYXg1M2M4RmJIUGJWT1Z0dmJpTEs2b2wwMlMtQ1UwRlhEdTBnbDBTWlQxd3ZXN0EyeFV0eEhCYkMyWHdhbVhV0gHoAUFVX3lxTFBXS0lTNGkzN3lGN3d6WURpMEw4cTRqb3VOV0s4M1VjeTlZM0hXbFJVSkxhcFZRN0N1ZjVkTHBiS3E5R0lyYkpURVZrcWh0enB3Rm5XZWRabG9RbEpZWXJXaWtpRm05VHBWb1IzM0RRNld6WVBKTnpBZnNRWkt4T1V1SkM1OW1wZnJJcTdNMjNsNlA5QlZ3WEUwVDAyVmoyZFBMdlFBWGd6SFNheDUzYzhGYkhQYlZPVnR2YmlMSzZvbDAyUy1DVTBGWER1MGdsMFNaVDF3dlc3QTJ4VXR4SEJiQzJYd2FtWFU?oc=5",
+        "published_at": "2026-10-27T09:15:16+00:00",
+        "source": "CNBC TV18",
+        "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPY0pFRDB1QmJXZEVOQVEzOXNlYzJxZWRFU09qUWZRLVB0VHFKY0dGUlBXYVcwbzJFdlZDWTJSX0tvMW9wTUhibVQtNkVWSUhXazhXQlBnQnBoa19qX3JLVjdWOUNjMXI0cVRVM2JYR0xtemVCMlhESlNpUzIyT2Nrc0Z0c2N5Q2ZqRndxbHBGTndqRDFWZjB4VWJ2TEdaOE1hMjZCeVVxVVpwY1p2cUFBWElXbThiV2pCb2FhUXdsaWJNMllWRFc1OWt5SmxqY05OOVZaT1BmcWd1Njk0S0tyMS1QeWNNaF9ZdGxUaWVDSmRlenlwSS0tTTBoQVZILWROeUdpZU5jeWpKcFFBOXhiRHpTUmNRdDJkaGpSSGI4NHc3NEtmVldENDVRZ29GZVJyRjhmMDJzb3duSGw4dERxV3pKVm1LUGPSAcwCQVVfeXFMUEQ5VTJXZVQ2M1RYQW5ab3J1eE55Y2hxVU8tZ24tTWl3UFlFRFlQVnVqbTJTQUR6ZmQ5YTdic3ZSejRhWlRUX0Y2bnVYbjlqcGljUUNNVXNPQjFicW1lbmVyM1ExSUdtSXBZNkJZRWZzeWFLRGJrUXVKaXU3dzNVUHBjMU4wbHRyVzhucDE3RGZJQng4UGMxbXpWMExqZ2RpR3I2bFhiQUhYSDVhc2U4SUEwemNNTEg5VnFrY3dHakRzcnRfekRrUjQ4SWRFUzlnajFRTllWcmg2LWZ6aFRwNGUwREFXMDh4cnphSWlFeWh4bjhRd2tHREd4ZmdhcWFxTDgwZ2kyaXRtM3EtVFYwLXpkalNScTk4eGR2OTMwQnZ2bWxPVTlPQkdrUDEwc09xOHV6SElUbmVqelNHUjVaOWlDLTlRbmtSb3BhYXA?oc=5",
         "importance": 91,
         "category": "monetary_policy",
         "linked_series": [
@@ -2551,6 +2535,23 @@
           "market.usd_inr.close",
           "india.now.cpi_inflation",
           "india.now.fx_reserves_usd_bn"
+        ]
+      },
+      {
+        "id": "098992bfc0c4e4ba",
+        "headline": "Indian Rupee declines as higher oil prices drive further demand for US Dollar - www.tmgm.com",
+        "summary": "Indian Rupee declines as higher oil prices drive further demand for US Dollar    www.tmgm.com",
+        "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+        "published_at": "2026-10-27T18:10:35+00:00",
+        "source": "www.tmgm.com",
+        "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaEZnMmVTcWMyZkZjUExiZEhFTk9HeEpONjBMdWhVdHY1WlA3aUZ4LXFLblItOUw1YVJXM2plWk1KSlVPdmJOUUgtOXI4dzJydVFwdHNvVl9XdWowaWdxNV81MGFmSE1PWS16cVJJMjhSR2RqS3dxSzhOemZZZ3hsSVdndEwxanY0cDhzUy10aXBqeFAzemUwSmlJbVg1elNXNVZqUVVlR0dHNDFJemxjTkxZYXNoZ2N2M1JQb2JzTHNSQVRVLTRBRjAxdEJBTTY2SFVpVmIxR2JEZDQ?oc=5",
+        "importance": 88,
+        "category": "energy",
+        "linked_series": [
+          "india.now.cpi_inflation",
+          "india.now.crude_import_dependence",
+          "india.now.current_account_gdp",
+          "market.usd_inr.close"
         ]
       }
     ]

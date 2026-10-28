@@ -59,7 +59,7 @@
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1270,
+      "raw_rows": 1272,
       "unique_periods": 1259
     },
     {
@@ -74,12 +74,12 @@
     },
     {
       "series_id": "market.copper.close",
-      "raw_rows": 1270,
+      "raw_rows": 1272,
       "unique_periods": 1259
     },
     {
       "series_id": "market.corn.close",
-      "raw_rows": 1263,
+      "raw_rows": 1265,
       "unique_periods": 1257
     },
     {
@@ -149,7 +149,7 @@
     },
     {
       "series_id": "market.mhi.close",
-      "raw_rows": 1223,
+      "raw_rows": 1224,
       "unique_periods": 1222
     },
     {
@@ -159,7 +159,7 @@
     },
     {
       "series_id": "market.natgas.close",
-      "raw_rows": 1269,
+      "raw_rows": 1271,
       "unique_periods": 1259
     },
     {
@@ -224,8 +224,8 @@
     },
     {
       "series_id": "market.silver.close",
-      "raw_rows": 258,
-      "unique_periods": 257
+      "raw_rows": 259,
+      "unique_periods": 258
     },
     {
       "series_id": "market.tcs.close",
@@ -289,12 +289,12 @@
     },
     {
       "series_id": "market.wheat.close",
-      "raw_rows": 1264,
+      "raw_rows": 1265,
       "unique_periods": 1257
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1269,
+      "raw_rows": 1271,
       "unique_periods": 1258
     }
   ],
