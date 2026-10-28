@@ -59,7 +59,7 @@
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1269,
+      "raw_rows": 1270,
       "unique_periods": 1259
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "series_id": "market.copper.close",
-      "raw_rows": 1269,
+      "raw_rows": 1270,
       "unique_periods": 1259
     },
     {
@@ -289,12 +289,12 @@
     },
     {
       "series_id": "market.wheat.close",
-      "raw_rows": 1263,
+      "raw_rows": 1264,
       "unique_periods": 1257
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1258
     }
   ],

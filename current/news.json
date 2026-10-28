@@ -1,8 +1,8 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-28T01:44:56.683859+00:00",
-  "collected_at": "2026-10-28T01:44:56.683859+00:00",
-  "newest_article_at": "2026-10-27T23:29:00+00:00",
+  "generated_at": "2026-10-28T01:59:05.461408+00:00",
+  "collected_at": "2026-10-28T01:59:05.461408+00:00",
+  "newest_article_at": "2026-10-27T23:47:00+00:00",
   "collection_status": "fresh",
   "collection_method": "RSS aggregation with Google News primary + Bing News fallback; deterministic dedupe/ranking; why-it-matters is rule-based interpretation",
   "items": [
@@ -24,6 +24,25 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "2888106bea030b24"
+    },
+    {
+      "headline": "India's GDP growth would have exceeded 8% but for recent global shocks: RBI Deputy Governor Poonam Gupta - Moneycontrol.com",
+      "summary": "India's GDP growth would have exceeded 8% but for recent global shocks: RBI Deputy Governor Poonam Gupta    Moneycontrol.com",
+      "published_at": "2026-10-27T17:36:50+00:00",
+      "source": "Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNRW5uMDJqaG9CX0dEa2E1QTFCbElRTzhERDA5YUEwMmFKZEdnZ2ZmaFJsLXFsU1RtY21GT0tkN1RiVHdHa1V0bUtDQjVXVHp2Si1fejMzc3V5OFlYdk1oREdLRTZnSnJsUUVteUI3amVBaXNZdlVJVEF3TG5uZERUWTRPNDY3cGJacTZnSUVUNElTdld3TjZmcFJoZXpkdmFYNWRSSk1Ld2dJdllLQ3UyOHVKT3JwY3Vfak1lYTJjMFE5VjcyRXpvMlhnbVJFMTFlNkpXc2NROTg3NzktdlE5SzRkNnJOTF8wMUNlM25FcEs5c0hBVk9zQ3hvMXdkQ3Fn0gGAAkFVX3lxTE1Fbm4wMmpob0JfR0RrYTVBMUJsSVFPOEREMDlhQTAyYUpkR2dnZmZoUmwtcWxTVG1jbUZPS2Q3VGJUd0drVXRtS0NCNVdUenZKLV96MzNzdXk4WVh2TWhER0tFNmdKcmxRRW15QjdqZUFpc1l2VUlUQXdMbm5kRFRZNE80NjdwYlpxNmdJRVQ0SVN2V3dONmZwUmhlemR2YVg1ZFJKTUt3Z0l2WUtDdTI4dUpPcnBjdV9qTWVhMmMwUTlWNzJFem8yWGdtUkUxMWU2SldzY1E5ODc3OS12UTlLNGQ2ck5MXzAxQ2UzbkVwSzlzSEFWT3NDeG8xd2RDcWc?oc=5",
+      "category": "monetary_policy",
+      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "linked_series": [
+        "market.usd_inr.close",
+        "india.now.cpi_inflation",
+        "india.now.fx_reserves_usd_bn"
+      ],
+      "importance": 96,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "f1431b5792df9f9f"
     },
     {
       "headline": "RBI may hike repo rate to 6.25% by H1 2027, warns Deutsche Bank as inflation risks persist - Livemint",
@@ -275,25 +294,6 @@
       "id": "576f6d30850c3f18"
     },
     {
-      "headline": "Dont Panic: Raghuram Rajan Warns RBI Against Depleting Forex Reserves To Defend Currency - Free Press Journal",
-      "summary": "Dont Panic: Raghuram Rajan Warns RBI Against Depleting Forex Reserves To Defend Currency    Free Press Journal",
-      "published_at": "2026-10-27T10:17:39+00:00",
-      "source": "Free Press Journal",
-      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNWY0WXpRZWs3VVZfR3hNZ0NTczhNTmdhX2VyeXZGaXhxM3hhT2FjTktVaHYyWDJrNXVvSng0VVpoa19DS3hNVVVSaG94RUp1N2ZVcnBQY29qUjAwVGtXb1gwRUlfRlBjb1hPZHpxMFYtMjdlMmFIa19reDAtTWRFS2hUUjhUWE1kMHdBMnEwVmJjX2xldzUxR3VXdHotYU1INGlob2J1Y1o5aXJLcE5JT0NoaGRBeVE2Wlg1eFJ3Wjg4a1NkN3Q4dl9yd1_SAcwBQVVfeXFMTTVmNFl6UWVrN1VWX0d4TWdDU3M4TU5nYV9lcnl2Rml4cTN4YU9hY05LVWh2MlgyazV1b0p4NFVaaGtfQ0t4TVVVUmhveEVKdTdmVXJwUGNvalIwMFRrV29YMEVJX0ZQY29YT2R6cTBWLTI3ZTJhSGtfa3gwLU1kRUtoVFI4VFhNZDB3QTJxMFZiY19sZXc1MUd1V3R6LWFNSDRpaG9idWNaOWlyS3BOSU9DaGhkQXlRNlpYNXhSd1o4OGtTZDd0OHZfcndf?oc=5",
-      "category": "monetary_policy",
-      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
-      "linked_series": [
-        "market.usd_inr.close",
-        "india.now.cpi_inflation",
-        "india.now.fx_reserves_usd_bn"
-      ],
-      "importance": 83,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "bcc21deeafa6b31f"
-    },
-    {
       "headline": "India should not deplete reserves to defend rupee, says Raghuram Rajan - Business Standard",
       "summary": "India should not deplete reserves to defend rupee, says Raghuram Rajan    Business Standard",
       "published_at": "2026-10-27T08:01:18+00:00",
@@ -330,6 +330,24 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "23e0d995c88dcc80"
+    },
+    {
+      "headline": "“Borrowing to Fund AI Investment”: U.S. Big Tech’s Debt Buildup Puts Upward Pressure on Corporate Bond and Treasury Yields - https://economy.ac/",
+      "summary": "“Borrowing to Fund AI Investment”: U.S. Big Tech’s Debt Buildup Puts Upward Pressure on Corporate Bond and Treasury Yields    https://economy.ac/",
+      "published_at": "2026-10-27T21:31:20+00:00",
+      "source": "https://economy.ac/",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5MSmppQzI0Z0owTklqNlVSOVZUeFZpSFRObkh0MFZhRXNmR0pVdXBoS292V21saUhDdVo1dDF2b0tqSFZlc0Q1QXB0SEM2MC1EZmFvZmQ4Yw?oc=5",
+      "category": "technology",
+      "why_it_matters": "Large technology investment cycles can move equity leadership, capital spending, electricity demand and semiconductor supply chains.",
+      "linked_series": [
+        "market.nasdaq.close",
+        "market.sp500.close"
+      ],
+      "importance": 80,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "e522d1d9ddc8e00c"
     },
     {
       "headline": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
@@ -450,11 +468,49 @@
       "id": "411fbfd2768be24b"
     },
     {
+      "headline": "\"Annual limit of 350,000 units\" China concedes hybrid vehicle exports under EU trade pressure; prospects of difficulties in securing alternative markets and local production - https://economy.ac/",
+      "summary": "\"Annual limit of 350,000 units\" China concedes hybrid vehicle exports under EU trade pressure; prospects of difficulties in securing alternative markets and local production    https://economy.ac/",
+      "published_at": "2026-10-27T23:11:45+00:00",
+      "source": "https://economy.ac/",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95SnZZYklTcU1FeElRMFVXQ3dHQjl2WTFubVNOUUkzS1NVSjBPXy1ubzU0bFFSdjdEWXA0ZkZJUElGdUhBZnk0SzJsdnZ1VXh1YVJKVXRxQQ?oc=5",
+      "category": "trade",
+      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
+      "linked_series": [
+        "india.now.total_exports_usd_bn",
+        "india.now.total_imports_usd_bn",
+        "india.now.current_account_gdp"
+      ],
+      "importance": 77,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "5608468cf0de47d3"
+    },
+    {
+      "headline": "AI Stocks Have Lost Over $1 Trillion.The AI Bubble Warning Bell Is Ringing Louder. What Are the IMF, Ray Dalio and Wall Street Experts Seeing, and How Badly Could India Be Hit? - Inventiva",
+      "summary": "AI Stocks Have Lost Over $1 Trillion.The AI Bubble Warning Bell Is Ringing Louder. What Are the IMF, Ray Dalio and Wall Street Experts Seeing, and How Badly Could India Be Hit?    Inventiva",
+      "published_at": "2026-10-27T22:28:52+00:00",
+      "source": "Inventiva",
+      "source_url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZmxvU2ZGbmg4UWh6MEFRSk5ocXlyUFlWUkNNWkZtMU9rYTNOWXp2RG4tNzMyekVXRDdURGJHVjQxdFBRVVl1ZEFadmtTVW41Sm5yNmpmU0ZZejVVbnNaWDdVdVFCYWJacU44MU00MVk2UzdGV2dWd2lXaEpMNUl0d0FwZ0hIVEVLcU80cnU1amVYODgzejc3OEs0UThzQlRUNHVHczNxUHp0UnFYMTFVdFJ5ZExSUVhlM1RYaDVVcEREZDE1ckxuZnVRamkyVzhQbVktSjA3bnJxQVpBYkJ1b2tOQ3lzUHRaTGFLZ085b09fYzNKWmJyZ1BVMXhYajZ0OHdvckhWdEJ4Vko3dEkweGJDZjhhUTA4WGFVbm9NbUZTX2tNR0t4VER2azNMY1da?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 77,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "01e446d0fa5f4aba"
+    },
+    {
       "headline": "India threatens a key UK trade deal benefit by seeking 150% duties on bulk Scotch - Vinetur",
       "summary": "India threatens a key UK trade deal benefit by seeking 150% duties on bulk Scotch    Vinetur",
-      "published_at": "2026-10-27T22:04:57+00:00",
+      "published_at": "2026-10-27T22:05:07+00:00",
       "source": "Vinetur",
-      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcWRFa2NSU1dhYnBILUxoaEl5MU83eUNIa241ekZPNDlZZE1pa0VadGMtU1pDT2VQMzZNRWJ2bVhuSjgzVUdzd1g4YkFSdnJ0OTNoMmFhby02aldLeFdKTWNLMUMyVVNyb29yNjhmVkE5d3lOMUptSFZURXNaZGZyLWdsRXVNbEo4bFFCSGlQODZGb1pIeFJ2dGptNmEyN2dBLVRqZVVDNU1ZVW04aE1PZzY5N1JneHloeUhjU3JKQXN5a2FRRmfSAcsBQVVfeXFMTW9SZlpiY0pwdDlwaVNGODJzUEJBR0Z1QTk5SHk4elMwYk81V2w2blV6c0I1bEZOSjJZSDJ2UmEtVE9PemtzTGFFVEhjU00xZDNmTXhNdmZQbjNvZ1owU2R1a0VFLWJvTkdaQmd5SWFUVVF2aTBpLXU2YzZSeXB6WFRhRm5FUEdSWGNaTDNDX0VhbTVyTTl4b1BsUjV3MHpuY2taOVdodEExZnp2ajR1QjNqcFpXWEwwVkNFNFo4QzBMZDhSM0h3OGJvRGs?oc=5",
+      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb1JmWmJjSnB0OXBpU0Y4MnNQQkFHRnVBOTlIeTh6UzBiTzVXbDZuVXpzQjVsRk5KMllIMnZSYS1UT096a3NMYUVUSGNTTTFkM2ZNeE12ZlBuM29nWjBTZHVrRUUtYm9OR1pCZ3lJYVRVUXZpMGktdTZjNlJ5cHpYVGFGbkVQR1JYY1pMM0NfRWFtNXJNOXhvUGxSNXcwem5ja1o5V2h0QTFmenZqNHVCM2pwWldYTDBWQ0U0WjhDMExkOFIzSHc4Ym9Ea9IBywFBVV95cUxNb1JmWmJjSnB0OXBpU0Y4MnNQQkFHRnVBOTlIeTh6UzBiTzVXbDZuVXpzQjVsRk5KMllIMnZSYS1UT096a3NMYUVUSGNTTTFkM2ZNeE12ZlBuM29nWjBTZHVrRUUtYm9OR1pCZ3lJYVRVUXZpMGktdTZjNlJ5cHpYVGFGbkVQR1JYY1pMM0NfRWFtNXJNOXhvUGxSNXcwem5ja1o5V2h0QTFmenZqNHVCM2pwWldYTDBWQ0U0WjhDMExkOFIzSHc4Ym9Eaw?oc=5",
       "category": "india",
       "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
       "linked_series": [
@@ -603,25 +659,6 @@
       "id": "b1a5b5d62295100f"
     },
     {
-      "headline": "IMF to India: Let the Rupee Be Your First Line of Defence | Krishna Srinivasan - The Economic Times",
-      "summary": "IMF to India: Let the Rupee Be Your First Line of Defence | Krishna Srinivasan    The Economic Times",
-      "published_at": "2026-10-27T11:42:24+00:00",
-      "source": "The Economic Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOd0dJdzBhYnFKSlFOaWlhbEhlaWpPeFhoSjdBa29fejNqaEYyS1EzdTRfR3NVUEpSaHZKX2lJbDExTHNHVkFfZkp3bFF2YkxZd01KQURqSTIxOE5JQnVHeFl1TFlxb3ZBRUZOaWMxVEprYVd6MDc3T0t6aFUzS21Yam1kMGtBMVZTYllMMFFaQ2xJZmJwY3FTZkVLQWxpMWEtaW9vM2tZNGt3RjNVdzNFSWhYdVZFWFFpZnZyMDMtY2w3dTZ5eUJZZ1oySmtoeTl1dUdtMmpncGIwLWRBRFk4YURBNHM5UdIB6wFBVV95cUxQeW54eEJmNmFibzBpdDdiWjdnbG9yVmgxZ3JCNS1tQ3dqOTkwZ0FTcFBwbUNNWnpKY0JMcUtPUlZPU21xMkZFczhBWXNrbjF5UlRqTGVTLUpYX3A2cjRrd05HcmZrTFMyUmhjSC1taUVlX1lTQnc1Ui1oZTNDNFlXUVR3U2JEZUowOUREWXhPXzZ2S2ptRFNETEdodHQydWIySHBwZXcwakpJRVd2alU3czJSSmJ6MklnVlhwaDUwRkxWa3cya083UnlwNF9md19US05Ba3FmXzB2ZS1Tc2pQR3A3TDJHSy1hTmxV?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 74,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "5e455638d114dfab"
-    },
-    {
       "headline": "World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says - EnergyNow.com",
       "summary": "World Faces Largest-Ever Oil Supply Disruption on Middle East War, IEA Says    EnergyNow.com",
       "published_at": "2026-10-26T21:28:05+00:00",
@@ -681,42 +718,6 @@
       "id": "9878db58714d029a"
     },
     {
-      "headline": "COMMENTARY: AI tremor exposes market's volatility fault lines - Reuters",
-      "summary": "COMMENTARY: AI tremor exposes market's volatility fault lines    Reuters",
-      "published_at": "2026-10-27T11:00:42+00:00",
-      "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmR2T3EtUl9KU2hocWJmbVpmU09FaFZJVWNENkpjcGhuRUQ3NHpuX0d4MlR5aV9MYWJRZlU5dG1TamZvOUN1MjVXYnBaTURWN2dQSng1ZV9zUmxoY0dTTWdSOGhoeDBveWh2TjVQNVc5SFBSbE1BT25fbG5qNHpPV3JLY3A1NlJXR254M0JDLVQ0bUN1QUpjRUh3THVHS0t2OGxxSGVVY2NMaWRqNFBfRHB0N3I3UUdK?oc=5",
-      "category": "technology",
-      "why_it_matters": "Large technology investment cycles can move equity leadership, capital spending, electricity demand and semiconductor supply chains.",
-      "linked_series": [
-        "market.nasdaq.close",
-        "market.sp500.close"
-      ],
-      "importance": 71,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "92559b9da3d86027"
-    },
-    {
-      "headline": "JPMorgan CEO Warns of 5 Risks Threatening US Stocks and Bonds - Yahoo Finance",
-      "summary": "JPMorgan CEO Warns of 5 Risks Threatening US Stocks and Bonds    Yahoo Finance",
-      "published_at": "2026-10-27T15:32:00+00:00",
-      "source": "Yahoo Finance",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNXduQkt4ZEI2aVZneUY3bllUd0M4LXcxRG9NR3hVRFBkYnp6U3NoTlk0RktaT0lSZF9ORFdET2tKNEFQMElYX1VmeXJ1MkdLc0NoeEdnS0I5a2hydmlSVXM4S3RkRGdRZW10UFFwRFZUY0ItWnB6MkdJWjlwZnVmZzhfVkFGdVd1cUttQXd1MU1NcEhxNGc?oc=5",
-      "category": "markets",
-      "why_it_matters": "The development can change growth, inflation, risk appetite or financial conditions; watch the linked market reaction rather than assuming causation.",
-      "linked_series": [
-        "market.sp500.close",
-        "market.gold.close"
-      ],
-      "importance": 70,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "fa3898f3ee37cd73"
-    },
-    {
       "headline": "Stephen Moore Warns Kevin Warsh May Need Another Rate Hike to Crush Inflation Despite Trump's Push for Lo - Benzinga",
       "summary": "Stephen Moore Warns Kevin Warsh May Need Another Rate Hike to Crush Inflation Despite Trump's Push for Lo    Benzinga",
       "published_at": "2026-10-27T04:41:03+00:00",
@@ -735,50 +736,49 @@
       "id": "aaa0fdacbfe3b0a1"
     },
     {
-      "headline": "Trump and Carney Pursue Relief on Steel and Auto Tariffs - Demokratis.co.id",
-      "summary": "Trump and Carney Pursue Relief on Steel and Auto Tariffs    Demokratis.co.id",
-      "published_at": "2026-10-27T23:29:00+00:00",
-      "source": "Demokratis.co.id",
-      "source_url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kMEtvN1NmRUdqQzh4bWFMOVFycUdSNGMtLUFXV3VyVnFkRFpjVFpoV3BrX3VSWWIyLTFUTkRxeVliQTlRWG5HaE1hXzlXM0Q4cnhOcmlETlAwanNaOVdwMW9HLUFzbzRPNmVsZzJmcHVWQjQ?oc=5",
-      "category": "trade",
-      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
+      "headline": "Samsung’s AI boom comes with a $100 billion warning - TheStreet",
+      "summary": "Samsung’s AI boom comes with a $100 billion warning    TheStreet",
+      "published_at": "2026-10-27T23:47:00+00:00",
+      "source": "TheStreet",
+      "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSXk4WktxOTNWVjRGcXRXdXRldkpWR0VKQWx1MjFVU250blp6WUFQVmJfUjRVS3Bfb1I0YVh0V3c0MmVrTlFpaWdtTmJfcV9IVDNhS2dUZFBJMTBmMzhMMnBBaG1jaUx0VWRsRUtxd290OGt3MTBHV2ZQUkt5akxUVnIzMEdlQjlBbndmN2R3?oc=5",
+      "category": "technology",
+      "why_it_matters": "Large technology investment cycles can move equity leadership, capital spending, electricity demand and semiconductor supply chains.",
       "linked_series": [
-        "india.now.total_exports_usd_bn",
-        "india.now.total_imports_usd_bn",
-        "india.now.current_account_gdp"
+        "market.nasdaq.close",
+        "market.sp500.close"
       ],
-      "importance": 69,
+      "importance": 65,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "151b813bb6e3bf7b"
+      "id": "d5ecce19a4297fb3"
     },
     {
-      "headline": "Inflation Risks Are ‘Alive and Well.’ That’s Why Tiff Macklem Is Worried - Bloomberg.com",
-      "summary": "Inflation Risks Are ‘Alive and Well.’ That’s Why Tiff Macklem Is Worried    Bloomberg.com",
-      "published_at": "2026-10-27T21:26:08+00:00",
-      "source": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUgzVkVOLW5Fd1ZPZERkTlFCRXB4MzUyblU4d1VXYXJLMnpFZHViYncxWm1FTVBsekotUXZaMm93LWNieG55RlEzbmFFM2FKODN0MkZpbXZ2d3RSTkNCN1lnVmRKUlViRU5HOFd4T0wtLWFyOHdxeldudWVNTUtGWVZfT1gyYjhlc2hmMkNHOC1FUkcwSVBfY2llekFhZnAzQUFQcmh5a0NDWU1ZNVVScU9SRnU4TEZXeGZN?oc=5",
-      "category": "markets",
-      "why_it_matters": "The development can change growth, inflation, risk appetite or financial conditions; watch the linked market reaction rather than assuming causation.",
+      "headline": "KOSPI Surges 3% as AI Chip Demand and Strong GDP Data Lift Samsung, SK Hynix - BigGo Finance",
+      "summary": "KOSPI Surges 3% as AI Chip Demand and Strong GDP Data Lift Samsung, SK Hynix    BigGo Finance",
+      "published_at": "2026-10-27T18:05:00+00:00",
+      "source": "BigGo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00bE5kSHd3TjgxSjM2WnJadzhTOHhYOXdIX1ZiRDk3Z3ktU251LWh3a2xqcDlDMzhVWGZxQndjXy15OGtJRjBSRm9PVFA2Qmc2VTlqanQ2UmpFZHBsZlZfdGVxa1ZRdDlWQ1phbDVQZTA4WmExalE?oc=5",
+      "category": "technology",
+      "why_it_matters": "Large technology investment cycles can move equity leadership, capital spending, electricity demand and semiconductor supply chains.",
       "linked_series": [
-        "market.sp500.close",
-        "market.gold.close"
+        "market.nasdaq.close",
+        "market.sp500.close"
       ],
-      "importance": 66,
+      "importance": 65,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "6e5d4f8ac966a767"
+      "id": "3186c799dd1cb4b5"
     }
   ],
   "collection_errors": [],
   "provider_results": [
     {
       "provider": "google",
-      "candidates": 214,
+      "candidates": 258,
       "errors": 0
     }
   ],
-  "published_at": "2026-10-28T07:15:01.817350+05:30"
+  "published_at": "2026-10-28T07:29:10.570267+05:30"
 }
