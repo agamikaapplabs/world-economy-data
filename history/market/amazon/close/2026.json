@@ -2530,6 +2530,18 @@
       "status": "observed",
       "revision_no": 4,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-27",
+      "value": 253.100006,
+      "released_at": "2026-10-27",
+      "collected_at": "2026-10-28T07:15:01.817350+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AMZN",
+      "status": "observed",
+      "revision_no": 5,
+      "is_revision": true
     }
   ]
 }
