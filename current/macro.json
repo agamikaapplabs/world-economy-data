@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-28T02:09:06.451087+00:00",
+  "generated_at": "2026-10-28T05:23:00.358678+00:00",
   "refresh_mode": "resume-failed-only",
   "indicators": {
     "inflation": {
@@ -10,7 +10,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -606,7 +606,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -1206,7 +1206,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -1806,7 +1806,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -2406,7 +2406,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -3006,7 +3006,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -3602,7 +3602,7 @@
         "unit": "months",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -4198,7 +4198,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -4790,7 +4790,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -5382,7 +5382,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -5974,7 +5974,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -6566,7 +6566,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -7158,7 +7158,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -7254,7 +7254,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -7350,7 +7350,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -7446,7 +7446,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -7542,7 +7542,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -7638,7 +7638,7 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -7734,7 +7734,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -8278,7 +8278,7 @@
         "unit": "kg oil eq",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -8822,7 +8822,7 @@
         "unit": "kWh",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -9406,7 +9406,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -9986,7 +9986,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -10570,7 +10570,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -11154,7 +11154,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -11738,7 +11738,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -12322,7 +12322,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
@@ -12906,7 +12906,7 @@
         "unit": "TEU",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T02:09:06.451087+00:00"
+        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
       },
       "countries": {
         "USA": {
