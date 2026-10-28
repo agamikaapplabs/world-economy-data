@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-28T17:19:51.570564+05:30",
+  "generated_at": "2026-10-28T17:29:50.041392+05:30",
   "series_count": 485,
   "series": {
     "india.auto.commercial_vehicles": {
@@ -1681,7 +1681,20 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
       "indicator_code": "GC.NLD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/chn/fiscal_balance_gdp/2020.json",
+        "history/macro/chn/fiscal_balance_gdp/2021.json",
+        "history/macro/chn/fiscal_balance_gdp/2022.json",
+        "history/macro/chn/fiscal_balance_gdp/2023.json",
+        "history/macro/chn/fiscal_balance_gdp/2024.json",
+        "history/macro/chn/fiscal_balance_gdp/2025.json",
+        "history/macro/chn/fiscal_balance_gdp/2026.json",
+        "history/macro/chn/fiscal_balance_gdp/2027.json",
+        "history/macro/chn/fiscal_balance_gdp/2028.json",
+        "history/macro/chn/fiscal_balance_gdp/2029.json",
+        "history/macro/chn/fiscal_balance_gdp/2030.json",
+        "history/macro/chn/fiscal_balance_gdp/2031.json"
+      ]
     },
     "macro.chn.food_exports_pct": {
       "name": "China · Food exports / merchandise exports",
@@ -1832,7 +1845,20 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/chn/gov_debt_gdp/2020.json",
+        "history/macro/chn/gov_debt_gdp/2021.json",
+        "history/macro/chn/gov_debt_gdp/2022.json",
+        "history/macro/chn/gov_debt_gdp/2023.json",
+        "history/macro/chn/gov_debt_gdp/2024.json",
+        "history/macro/chn/gov_debt_gdp/2025.json",
+        "history/macro/chn/gov_debt_gdp/2026.json",
+        "history/macro/chn/gov_debt_gdp/2027.json",
+        "history/macro/chn/gov_debt_gdp/2028.json",
+        "history/macro/chn/gov_debt_gdp/2029.json",
+        "history/macro/chn/gov_debt_gdp/2030.json",
+        "history/macro/chn/gov_debt_gdp/2031.json"
+      ]
     },
     "macro.chn.import_cover": {
       "name": "China · Reserves in months of imports",
@@ -2370,7 +2396,20 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/deu/gov_debt_gdp/2020.json",
+        "history/macro/deu/gov_debt_gdp/2021.json",
+        "history/macro/deu/gov_debt_gdp/2022.json",
+        "history/macro/deu/gov_debt_gdp/2023.json",
+        "history/macro/deu/gov_debt_gdp/2024.json",
+        "history/macro/deu/gov_debt_gdp/2025.json",
+        "history/macro/deu/gov_debt_gdp/2026.json",
+        "history/macro/deu/gov_debt_gdp/2027.json",
+        "history/macro/deu/gov_debt_gdp/2028.json",
+        "history/macro/deu/gov_debt_gdp/2029.json",
+        "history/macro/deu/gov_debt_gdp/2030.json",
+        "history/macro/deu/gov_debt_gdp/2031.json"
+      ]
     },
     "macro.deu.import_cover": {
       "name": "Germany · Reserves in months of imports",
@@ -2908,7 +2947,20 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/fra/gov_debt_gdp/2020.json",
+        "history/macro/fra/gov_debt_gdp/2021.json",
+        "history/macro/fra/gov_debt_gdp/2022.json",
+        "history/macro/fra/gov_debt_gdp/2023.json",
+        "history/macro/fra/gov_debt_gdp/2024.json",
+        "history/macro/fra/gov_debt_gdp/2025.json",
+        "history/macro/fra/gov_debt_gdp/2026.json",
+        "history/macro/fra/gov_debt_gdp/2027.json",
+        "history/macro/fra/gov_debt_gdp/2028.json",
+        "history/macro/fra/gov_debt_gdp/2029.json",
+        "history/macro/fra/gov_debt_gdp/2030.json",
+        "history/macro/fra/gov_debt_gdp/2031.json"
+      ]
     },
     "macro.fra.import_cover": {
       "name": "France · Reserves in months of imports",
@@ -4372,7 +4424,20 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
       "indicator_code": "GC.NLD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/jpn/fiscal_balance_gdp/2020.json",
+        "history/macro/jpn/fiscal_balance_gdp/2021.json",
+        "history/macro/jpn/fiscal_balance_gdp/2022.json",
+        "history/macro/jpn/fiscal_balance_gdp/2023.json",
+        "history/macro/jpn/fiscal_balance_gdp/2024.json",
+        "history/macro/jpn/fiscal_balance_gdp/2025.json",
+        "history/macro/jpn/fiscal_balance_gdp/2026.json",
+        "history/macro/jpn/fiscal_balance_gdp/2027.json",
+        "history/macro/jpn/fiscal_balance_gdp/2028.json",
+        "history/macro/jpn/fiscal_balance_gdp/2029.json",
+        "history/macro/jpn/fiscal_balance_gdp/2030.json",
+        "history/macro/jpn/fiscal_balance_gdp/2031.json"
+      ]
     },
     "macro.jpn.food_exports_pct": {
       "name": "Japan · Food exports / merchandise exports",
@@ -4523,7 +4588,20 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/jpn/gov_debt_gdp/2020.json",
+        "history/macro/jpn/gov_debt_gdp/2021.json",
+        "history/macro/jpn/gov_debt_gdp/2022.json",
+        "history/macro/jpn/gov_debt_gdp/2023.json",
+        "history/macro/jpn/gov_debt_gdp/2024.json",
+        "history/macro/jpn/gov_debt_gdp/2025.json",
+        "history/macro/jpn/gov_debt_gdp/2026.json",
+        "history/macro/jpn/gov_debt_gdp/2027.json",
+        "history/macro/jpn/gov_debt_gdp/2028.json",
+        "history/macro/jpn/gov_debt_gdp/2029.json",
+        "history/macro/jpn/gov_debt_gdp/2030.json",
+        "history/macro/jpn/gov_debt_gdp/2031.json"
+      ]
     },
     "macro.jpn.import_cover": {
       "name": "Japan · Reserves in months of imports",
@@ -5604,7 +5682,20 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/pol/gov_debt_gdp/2020.json",
+        "history/macro/pol/gov_debt_gdp/2021.json",
+        "history/macro/pol/gov_debt_gdp/2022.json",
+        "history/macro/pol/gov_debt_gdp/2023.json",
+        "history/macro/pol/gov_debt_gdp/2024.json",
+        "history/macro/pol/gov_debt_gdp/2025.json",
+        "history/macro/pol/gov_debt_gdp/2026.json",
+        "history/macro/pol/gov_debt_gdp/2027.json",
+        "history/macro/pol/gov_debt_gdp/2028.json",
+        "history/macro/pol/gov_debt_gdp/2029.json",
+        "history/macro/pol/gov_debt_gdp/2030.json",
+        "history/macro/pol/gov_debt_gdp/2031.json"
+      ]
     },
     "macro.pol.import_cover": {
       "name": "Poland · Reserves in months of imports",
@@ -6670,7 +6761,20 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/sau/gov_debt_gdp/2020.json",
+        "history/macro/sau/gov_debt_gdp/2021.json",
+        "history/macro/sau/gov_debt_gdp/2022.json",
+        "history/macro/sau/gov_debt_gdp/2023.json",
+        "history/macro/sau/gov_debt_gdp/2024.json",
+        "history/macro/sau/gov_debt_gdp/2025.json",
+        "history/macro/sau/gov_debt_gdp/2026.json",
+        "history/macro/sau/gov_debt_gdp/2027.json",
+        "history/macro/sau/gov_debt_gdp/2028.json",
+        "history/macro/sau/gov_debt_gdp/2029.json",
+        "history/macro/sau/gov_debt_gdp/2030.json",
+        "history/macro/sau/gov_debt_gdp/2031.json"
+      ]
     },
     "macro.sau.import_cover": {
       "name": "Saudi Arabia · Reserves in months of imports",

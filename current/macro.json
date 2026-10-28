@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-28T11:49:41.483560+00:00",
+  "generated_at": "2026-10-28T11:59:36.513814+00:00",
   "refresh_mode": "resume-failed-only",
   "indicators": {
     "inflation": {
@@ -9,8 +9,8 @@
         "label": "CPI inflation",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -605,8 +605,8 @@
         "label": "Real GDP growth",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -1205,8 +1205,8 @@
         "label": "Nominal GDP",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -1805,8 +1805,8 @@
         "label": "GDP per capita",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -2405,8 +2405,8 @@
         "label": "Unemployment",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -3005,8 +3005,8 @@
         "label": "Total reserves incl. gold",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -3601,8 +3601,8 @@
         "label": "Reserves in months of imports",
         "unit": "months",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -4197,8 +4197,8 @@
         "label": "Exports of goods & services",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -4789,8 +4789,8 @@
         "label": "Exports / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -5381,8 +5381,8 @@
         "label": "Imports of goods & services",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -5973,8 +5973,8 @@
         "label": "Imports / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -6565,8 +6565,8 @@
         "label": "External balance goods & services / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -7157,8 +7157,8 @@
         "label": "Current account",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -7757,8 +7757,8 @@
         "label": "Current account / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -8357,8 +8357,8 @@
         "label": "Central government debt / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -8415,20 +8415,128 @@
         },
         "CHN": {
           "country": "China",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 90.5
+            },
+            {
+              "date": "2025",
+              "value": 98.6
+            },
+            {
+              "date": "2026",
+              "value": 104.4
+            },
+            {
+              "date": "2027",
+              "value": 109.1
+            },
+            {
+              "date": "2028",
+              "value": 113.2
+            },
+            {
+              "date": "2029",
+              "value": 116.4
+            },
+            {
+              "date": "2030",
+              "value": 119.5
+            },
+            {
+              "date": "2031",
+              "value": 122.1
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 122.1
+          },
           "series_id": "macro.chn.gov_debt_gdp"
         },
         "JPN": {
           "country": "Japan",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 213.6
+            },
+            {
+              "date": "2025",
+              "value": 204.8
+            },
+            {
+              "date": "2026",
+              "value": 199.4
+            },
+            {
+              "date": "2027",
+              "value": 196.4
+            },
+            {
+              "date": "2028",
+              "value": 193.8
+            },
+            {
+              "date": "2029",
+              "value": 191.5
+            },
+            {
+              "date": "2030",
+              "value": 190.1
+            },
+            {
+              "date": "2031",
+              "value": 188.9
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 188.9
+          },
           "series_id": "macro.jpn.gov_debt_gdp"
         },
         "DEU": {
           "country": "Germany",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 61.4
+            },
+            {
+              "date": "2025",
+              "value": 62.7
+            },
+            {
+              "date": "2026",
+              "value": 64.6
+            },
+            {
+              "date": "2027",
+              "value": 66.9
+            },
+            {
+              "date": "2028",
+              "value": 69.3
+            },
+            {
+              "date": "2029",
+              "value": 71.5
+            },
+            {
+              "date": "2030",
+              "value": 73.6
+            },
+            {
+              "date": "2031",
+              "value": 75.6
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 75.6
+          },
           "series_id": "macro.deu.gov_debt_gdp"
         },
         "GBR": {
@@ -8471,8 +8579,44 @@
         },
         "FRA": {
           "country": "France",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 112.6
+            },
+            {
+              "date": "2025",
+              "value": 115.5
+            },
+            {
+              "date": "2026",
+              "value": 118.5
+            },
+            {
+              "date": "2027",
+              "value": 120.4
+            },
+            {
+              "date": "2028",
+              "value": 121.7
+            },
+            {
+              "date": "2029",
+              "value": 122.6
+            },
+            {
+              "date": "2030",
+              "value": 123.2
+            },
+            {
+              "date": "2031",
+              "value": 123.6
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 123.6
+          },
           "series_id": "macro.fra.gov_debt_gdp"
         },
         "BRA": {
@@ -8591,8 +8735,44 @@
         },
         "SAU": {
           "country": "Saudi Arabia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 25.9
+            },
+            {
+              "date": "2025",
+              "value": 31.8
+            },
+            {
+              "date": "2026",
+              "value": 35.4
+            },
+            {
+              "date": "2027",
+              "value": 37.3
+            },
+            {
+              "date": "2028",
+              "value": 40.2
+            },
+            {
+              "date": "2029",
+              "value": 43.1
+            },
+            {
+              "date": "2030",
+              "value": 45.9
+            },
+            {
+              "date": "2031",
+              "value": 48.7
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 48.7
+          },
           "series_id": "macro.sau.gov_debt_gdp"
         },
         "KOR": {
@@ -8673,8 +8853,44 @@
         },
         "POL": {
           "country": "Poland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 54.8
+            },
+            {
+              "date": "2025",
+              "value": 59.7
+            },
+            {
+              "date": "2026",
+              "value": 66.6
+            },
+            {
+              "date": "2027",
+              "value": 70.7
+            },
+            {
+              "date": "2028",
+              "value": 73.7
+            },
+            {
+              "date": "2029",
+              "value": 77.0
+            },
+            {
+              "date": "2030",
+              "value": 79.8
+            },
+            {
+              "date": "2031",
+              "value": 82.0
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 82.0
+          },
           "series_id": "macro.pol.gov_debt_gdp"
         }
       }
@@ -8685,8 +8901,8 @@
         "label": "Net lending (+) / net borrowing (-) / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -8747,14 +8963,86 @@
         },
         "CHN": {
           "country": "China",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": -7.2
+            },
+            {
+              "date": "2025",
+              "value": -7.9
+            },
+            {
+              "date": "2026",
+              "value": -8.0
+            },
+            {
+              "date": "2027",
+              "value": -8.4
+            },
+            {
+              "date": "2028",
+              "value": -8.2
+            },
+            {
+              "date": "2029",
+              "value": -8.0
+            },
+            {
+              "date": "2030",
+              "value": -8.0
+            },
+            {
+              "date": "2031",
+              "value": -8.0
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": -8.0
+          },
           "series_id": "macro.chn.fiscal_balance_gdp"
         },
         "JPN": {
           "country": "Japan",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": -1.7
+            },
+            {
+              "date": "2025",
+              "value": -0.7
+            },
+            {
+              "date": "2026",
+              "value": -1.4
+            },
+            {
+              "date": "2027",
+              "value": -2.1
+            },
+            {
+              "date": "2028",
+              "value": -2.7
+            },
+            {
+              "date": "2029",
+              "value": -3.2
+            },
+            {
+              "date": "2030",
+              "value": -3.6
+            },
+            {
+              "date": "2031",
+              "value": -4.0
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": -4.0
+          },
           "series_id": "macro.jpn.fiscal_balance_gdp"
         },
         "DEU": {
@@ -9145,8 +9433,8 @@
         "label": "External debt stocks / GNI",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -9393,8 +9681,8 @@
         "label": "FDI net inflows",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -9993,8 +10281,8 @@
         "label": "Net energy imports / energy use",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -10537,8 +10825,8 @@
         "label": "Energy use per capita",
         "unit": "kg oil eq",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -11081,8 +11369,8 @@
         "label": "Electricity consumption per capita",
         "unit": "kWh",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -11665,8 +11953,8 @@
         "label": "Agriculture / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -12245,8 +12533,8 @@
         "label": "Food exports / merchandise exports",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -12829,8 +13117,8 @@
         "label": "Food imports / merchandise imports",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -13413,8 +13701,8 @@
         "label": "Ores & metals exports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -13997,8 +14285,8 @@
         "label": "Fuel exports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -14581,8 +14869,8 @@
         "label": "Fuel imports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -15165,8 +15453,8 @@
         "label": "Container port traffic",
         "unit": "TEU",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:59:36.513814+00:00"
       },
       "countries": {
         "USA": {
@@ -15789,8 +16077,7 @@
     }
   ],
   "failures": [],
-  "fresh_indicators": [],
-  "skipped_success_indicators": [
+  "fresh_indicators": [
     "inflation",
     "gdp_growth",
     "gdp_usd",
@@ -15820,6 +16107,7 @@
     "fuel_imports_pct",
     "container_port_teu"
   ],
+  "skipped_success_indicators": [],
   "stale_indicators": [],
   "unavailable_indicators": [],
   "notes": [

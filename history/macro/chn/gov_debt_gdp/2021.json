@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.5",
+  "series_id": "macro.chn.gov_debt_gdp",
+  "metadata": {
+    "name": "China · Central government debt / GDP",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "CHN",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
+    "indicator_code": "GC.DOD.TOTL.GD.ZS"
+  },
+  "observations": [
+    {
+      "period": "2021",
+      "value": 72.1,
+      "released_at": null,
+      "collected_at": "2026-10-28T17:29:50.041392+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}
