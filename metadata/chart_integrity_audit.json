@@ -59,8 +59,8 @@
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1267,
-      "unique_periods": 1258
+      "raw_rows": 1268,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.broadcom.close",
@@ -74,13 +74,13 @@
     },
     {
       "series_id": "market.copper.close",
-      "raw_rows": 1267,
-      "unique_periods": 1258
+      "raw_rows": 1268,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.corn.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1262,
+      "unique_periods": 1257
     },
     {
       "series_id": "market.deere.close",
@@ -154,8 +154,8 @@
     },
     {
       "series_id": "market.natgas.close",
-      "raw_rows": 1267,
-      "unique_periods": 1258
+      "raw_rows": 1268,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.northrop.close",
@@ -279,18 +279,18 @@
     },
     {
       "series_id": "market.vix.close",
-      "raw_rows": 1263,
+      "raw_rows": 1264,
       "unique_periods": 1257
     },
     {
       "series_id": "market.wheat.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1262,
+      "unique_periods": 1257
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1266,
-      "unique_periods": 1257
+      "raw_rows": 1267,
+      "unique_periods": 1258
     }
   ],
   "sparse_series": [

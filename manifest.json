@@ -1,52 +1,52 @@
 {
   "schema_version": "5.5",
   "architecture": "canonical-history + materialized-current + daily-report",
-  "published_at": "2026-10-28T00:08:29.579370+05:30",
+  "published_at": "2026-10-28T06:51:15.033911+05:30",
   "datasets": {
     "startup": {
       "path": "current/startup.json",
-      "sha256": "81be8d337c912b03bd0f7aa85068810dabddca9aebf042c439f5e2faf241cfe4",
+      "sha256": "c2146dd6c09b0dda817e9ea923493eb2462651545dfbe6d4b40fdb8cbad7c776",
       "role": "startup"
     },
     "markets": {
       "path": "current/markets.json",
-      "sha256": "44baffa0b73f3e504712dfee167e3a4dbb541a933e5886e035dc485c6a0cab1f"
+      "sha256": "65e8316fd500a84ecf4d0ba2e63d1720aba660969eb7069203040181d97522ff"
     },
     "markets_summary": {
       "path": "current/markets_summary.json",
-      "sha256": "f0e358815147977dc4168cebece1e13e39ca7488bda45a6f46996f82cc9ba849",
+      "sha256": "7144500280d12fa8ded111c60232e54ce78c65fb6611883c15504115f7676f9b",
       "role": "startup"
     },
     "macro": {
       "path": "current/macro.json",
-      "sha256": "83cd8cb587bc66d1324acd0000f2f6714f8ac9bf20a21383a7a8ba358e5eaa52"
+      "sha256": "14064392d595f08d59597ac5d6eb2f39c81d65fa8b5102026061ae0bfdd8d411"
     },
     "macro_summary": {
       "path": "current/macro_summary.json",
-      "sha256": "d4cea223ff1ef4e8d2205fe900f23be4756c727aa5f7a828a17c97d7a9fb0c23",
+      "sha256": "cdea6ca26bcc454c7b14036e584af30b59c0f394a3d8f58fa13fab65c44a02c2",
       "role": "startup"
     },
     "resources": {
       "path": "current/resources.json",
-      "sha256": "68db7a54bfc54ecacc507366ded9479144b1214b40be22a97acf636177f047b9"
+      "sha256": "40a1f885a0b2489b146a499af63d28d25de16a2df16b64c3d8494a9d0359aabd"
     },
     "india_activity": {
       "path": "current/india_activity.json",
-      "sha256": "44a70ee85547ad7598f48deab60d78e3d22fbfcec7f6cbccd22029bf1bfc7991"
+      "sha256": "754da1a1a4a064e67cf4e3cd419580a5c9b5f1fd937c076f492a069ee3350131"
     },
     "news": {
       "path": "current/news.json",
-      "sha256": "df9613372aa8de5dbcedf59a425ae3e4d63fd9dba5b0aafd32fd64fe2a5768e0"
+      "sha256": "1bec391bce028b856cfb0e08e15859df57bdd4e5ba71e6d288c38ab25a17876c"
     },
     "india_structural": {
       "path": "current/india_structural.json",
-      "sha256": "a96711425c54210f31ef76d9313a1c103b947c3f8e357c0e248ef6f239a04ee0"
+      "sha256": "a96efb534024a6ce75ba8eb604e97cb2f8d8d61166366cacefd7a7144eba5a10"
     }
   },
   "metadata": {
     "series_catalog": {
       "path": "metadata/series_catalog.json",
-      "sha256": "372c6a4582bd1e132a9505ccb970fbb6841ea25b3d2e88b85c5ebf45fe9735f6"
+      "sha256": "fdbf0b8f8035afc38af295ede13bc104adbb4d192c6129e90c813decaf0e80cb"
     },
     "sources": {
       "path": "metadata/sources.json",
@@ -55,7 +55,7 @@
   },
   "latest_report": {
     "path": "reports/2026/10/28.json",
-    "sha256": "eca5e25cd7af5f8e8534aea6e010556289b3e08cf1cc3d430ac81c569651f0ce"
+    "sha256": "35364fe08ba300eb72c26199579d2156f4ea2dc6849f62c780060b99307c1cd1"
   },
   "series_count": 485,
   "client_contract": {
