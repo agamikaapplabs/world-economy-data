@@ -19,12 +19,12 @@
     },
     {
       "series_id": "market.abb.close",
-      "raw_rows": 1266,
+      "raw_rows": 1267,
       "unique_periods": 1258
     },
     {
       "series_id": "market.airbus.close",
-      "raw_rows": 1290,
+      "raw_rows": 1291,
       "unique_periods": 1282
     },
     {
@@ -44,12 +44,12 @@
     },
     {
       "series_id": "market.asml.close",
-      "raw_rows": 1292,
+      "raw_rows": 1293,
       "unique_periods": 1282
     },
     {
       "series_id": "market.bae.close",
-      "raw_rows": 1269,
+      "raw_rows": 1270,
       "unique_periods": 1263
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1278,
+      "raw_rows": 1279,
       "unique_periods": 1259
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "series_id": "market.copper.close",
-      "raw_rows": 1276,
+      "raw_rows": 1277,
       "unique_periods": 1259
     },
     {
@@ -119,7 +119,7 @@
     },
     {
       "series_id": "market.leonardo.close",
-      "raw_rows": 1282,
+      "raw_rows": 1283,
       "unique_periods": 1272
     },
     {
@@ -139,7 +139,7 @@
     },
     {
       "series_id": "market.lvmh.close",
-      "raw_rows": 1291,
+      "raw_rows": 1292,
       "unique_periods": 1282
     },
     {
@@ -169,7 +169,7 @@
     },
     {
       "series_id": "market.novo.close",
-      "raw_rows": 1263,
+      "raw_rows": 1264,
       "unique_periods": 1253
     },
     {
@@ -184,7 +184,7 @@
     },
     {
       "series_id": "market.rheinmetall.close",
-      "raw_rows": 1285,
+      "raw_rows": 1286,
       "unique_periods": 1276
     },
     {
@@ -194,7 +194,7 @@
     },
     {
       "series_id": "market.sap.close",
-      "raw_rows": 1285,
+      "raw_rows": 1286,
       "unique_periods": 1276
     },
     {
@@ -204,12 +204,12 @@
     },
     {
       "series_id": "market.schneider.close",
-      "raw_rows": 1290,
+      "raw_rows": 1291,
       "unique_periods": 1282
     },
     {
       "series_id": "market.shell.close",
-      "raw_rows": 1272,
+      "raw_rows": 1273,
       "unique_periods": 1263
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "series_id": "market.thales.close",
-      "raw_rows": 1290,
+      "raw_rows": 1291,
       "unique_periods": 1282
     },
     {
@@ -284,7 +284,7 @@
     },
     {
       "series_id": "market.vix.close",
-      "raw_rows": 1267,
+      "raw_rows": 1268,
       "unique_periods": 1258
     },
     {
@@ -294,7 +294,7 @@
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1277,
+      "raw_rows": 1278,
       "unique_periods": 1258
     }
   ],

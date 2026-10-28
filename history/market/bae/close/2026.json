@@ -2590,6 +2590,18 @@
       "status": "observed",
       "revision_no": 1,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-28",
+      "value": 2011.0,
+      "released_at": "2026-10-28",
+      "collected_at": "2026-10-28T17:57:07.749682+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/BA.L",
+      "status": "observed",
+      "revision_no": 2,
+      "is_revision": true
     }
   ]
 }
