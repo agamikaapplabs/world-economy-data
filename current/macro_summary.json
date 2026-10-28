@@ -1,98 +1,8 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-28T11:25:09.651202+00:00",
+  "generated_at": "2026-10-28T11:49:41.483560+00:00",
   "payload_role": "startup-summary",
   "indicators": {
-    "unemployment": {
-      "meta": {
-        "label": "Unemployment",
-        "unit": "%",
-        "frequency": "annual / latest World Bank observation"
-      },
-      "countries": {
-        "USA": {
-          "country": "United States",
-          "series_id": "macro.usa.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 4.198
-          },
-          "history": []
-        },
-        "IND": {
-          "country": "India",
-          "series_id": "macro.ind.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 4.219
-          },
-          "history": []
-        },
-        "CHN": {
-          "country": "China",
-          "series_id": "macro.chn.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 4.615
-          },
-          "history": []
-        },
-        "JPN": {
-          "country": "Japan",
-          "series_id": "macro.jpn.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 2.451
-          },
-          "history": []
-        },
-        "DEU": {
-          "country": "Germany",
-          "series_id": "macro.deu.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 3.711
-          },
-          "history": []
-        },
-        "GBR": {
-          "country": "United Kingdom",
-          "series_id": "macro.gbr.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 4.746
-          },
-          "history": []
-        },
-        "FRA": {
-          "country": "France",
-          "series_id": "macro.fra.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 7.542
-          },
-          "history": []
-        },
-        "BRA": {
-          "country": "Brazil",
-          "series_id": "macro.bra.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 5.97
-          },
-          "history": []
-        },
-        "RUS": {
-          "country": "Russia",
-          "series_id": "macro.rus.unemployment",
-          "latest": {
-            "date": "2025",
-            "value": 2.133
-          },
-          "history": []
-        }
-      }
-    },
     "imports_usd": {
       "meta": {
         "label": "Imports of goods & services",
@@ -183,6 +93,186 @@
         }
       }
     },
+    "gdp_growth": {
+      "meta": {
+        "label": "Real GDP growth",
+        "unit": "%",
+        "frequency": "annual / latest World Bank observation"
+      },
+      "countries": {
+        "USA": {
+          "country": "United States",
+          "series_id": "macro.usa.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 2.16138195623856
+          },
+          "history": []
+        },
+        "IND": {
+          "country": "India",
+          "series_id": "macro.ind.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 7.56666179284244
+          },
+          "history": []
+        },
+        "CHN": {
+          "country": "China",
+          "series_id": "macro.chn.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 4.95994886240992
+          },
+          "history": []
+        },
+        "JPN": {
+          "country": "Japan",
+          "series_id": "macro.jpn.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 1.19311288444599
+          },
+          "history": []
+        },
+        "DEU": {
+          "country": "Germany",
+          "series_id": "macro.deu.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 0.239578342117881
+          },
+          "history": []
+        },
+        "GBR": {
+          "country": "United Kingdom",
+          "series_id": "macro.gbr.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 1.38844207858726
+          },
+          "history": []
+        },
+        "FRA": {
+          "country": "France",
+          "series_id": "macro.fra.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 0.840949955479587
+          },
+          "history": []
+        },
+        "BRA": {
+          "country": "Brazil",
+          "series_id": "macro.bra.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 2.2857464902475
+          },
+          "history": []
+        },
+        "RUS": {
+          "country": "Russia",
+          "series_id": "macro.rus.gdp_growth",
+          "latest": {
+            "date": "2025",
+            "value": 1.00117656925738
+          },
+          "history": []
+        }
+      }
+    },
+    "inflation": {
+      "meta": {
+        "label": "CPI inflation",
+        "unit": "%",
+        "frequency": "annual / latest World Bank observation"
+      },
+      "countries": {
+        "USA": {
+          "country": "United States",
+          "series_id": "macro.usa.inflation",
+          "latest": {
+            "date": "2024",
+            "value": 2.94952520485207
+          },
+          "history": []
+        },
+        "IND": {
+          "country": "India",
+          "series_id": "macro.ind.inflation",
+          "latest": {
+            "date": "2025",
+            "value": 2.39884954182294
+          },
+          "history": []
+        },
+        "CHN": {
+          "country": "China",
+          "series_id": "macro.chn.inflation",
+          "latest": {
+            "date": "2025",
+            "value": 0.0595646916565402
+          },
+          "history": []
+        },
+        "JPN": {
+          "country": "Japan",
+          "series_id": "macro.jpn.inflation",
+          "latest": {
+            "date": "2025",
+            "value": 3.17253034260247
+          },
+          "history": []
+        },
+        "DEU": {
+          "country": "Germany",
+          "series_id": "macro.deu.inflation",
+          "latest": {
+            "date": "2025",
+            "value": 2.17178770949721
+          },
+          "history": []
+        },
+        "GBR": {
+          "country": "United Kingdom",
+          "series_id": "macro.gbr.inflation",
+          "latest": {
+            "date": "2025",
+            "value": 3.88306881625999
+          },
+          "history": []
+        },
+        "FRA": {
+          "country": "France",
+          "series_id": "macro.fra.inflation",
+          "latest": {
+            "date": "2025",
+            "value": 0.943824761520197
+          },
+          "history": []
+        },
+        "BRA": {
+          "country": "Brazil",
+          "series_id": "macro.bra.inflation",
+          "latest": {
+            "date": "2025",
+            "value": 5.01675279604836
+          },
+          "history": []
+        },
+        "RUS": {
+          "country": "Russia",
+          "series_id": "macro.rus.inflation",
+          "latest": {
+            "date": "2025",
+            "value": 8.71986939402666
+          },
+          "history": []
+        }
+      }
+    },
     "exports_usd": {
       "meta": {
         "label": "Exports of goods & services",
@@ -268,6 +358,186 @@
           "latest": {
             "date": "2025",
             "value": 466237273304.333
+          },
+          "history": []
+        }
+      }
+    },
+    "unemployment": {
+      "meta": {
+        "label": "Unemployment",
+        "unit": "%",
+        "frequency": "annual / latest World Bank observation"
+      },
+      "countries": {
+        "USA": {
+          "country": "United States",
+          "series_id": "macro.usa.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 4.198
+          },
+          "history": []
+        },
+        "IND": {
+          "country": "India",
+          "series_id": "macro.ind.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 4.219
+          },
+          "history": []
+        },
+        "CHN": {
+          "country": "China",
+          "series_id": "macro.chn.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 4.615
+          },
+          "history": []
+        },
+        "JPN": {
+          "country": "Japan",
+          "series_id": "macro.jpn.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 2.451
+          },
+          "history": []
+        },
+        "DEU": {
+          "country": "Germany",
+          "series_id": "macro.deu.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 3.711
+          },
+          "history": []
+        },
+        "GBR": {
+          "country": "United Kingdom",
+          "series_id": "macro.gbr.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 4.746
+          },
+          "history": []
+        },
+        "FRA": {
+          "country": "France",
+          "series_id": "macro.fra.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 7.542
+          },
+          "history": []
+        },
+        "BRA": {
+          "country": "Brazil",
+          "series_id": "macro.bra.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 5.97
+          },
+          "history": []
+        },
+        "RUS": {
+          "country": "Russia",
+          "series_id": "macro.rus.unemployment",
+          "latest": {
+            "date": "2025",
+            "value": 2.133
+          },
+          "history": []
+        }
+      }
+    },
+    "reserves_usd": {
+      "meta": {
+        "label": "Total reserves incl. gold",
+        "unit": "USD",
+        "frequency": "annual / latest World Bank observation"
+      },
+      "countries": {
+        "USA": {
+          "country": "United States",
+          "series_id": "macro.usa.reserves_usd",
+          "latest": {
+            "date": "2025",
+            "value": 1385447111476.7
+          },
+          "history": []
+        },
+        "IND": {
+          "country": "India",
+          "series_id": "macro.ind.reserves_usd",
+          "latest": {
+            "date": "2025",
+            "value": 700073798240.701
+          },
+          "history": []
+        },
+        "CHN": {
+          "country": "China",
+          "series_id": "macro.chn.reserves_usd",
+          "latest": {
+            "date": "2025",
+            "value": 3748744952817.94
+          },
+          "history": []
+        },
+        "JPN": {
+          "country": "Japan",
+          "series_id": "macro.jpn.reserves_usd",
+          "latest": {
+            "date": "2025",
+            "value": 1371402218767.57
+          },
+          "history": []
+        },
+        "DEU": {
+          "country": "Germany",
+          "series_id": "macro.deu.reserves_usd",
+          "latest": {
+            "date": "2025",
+            "value": 572201958133.157
+          },
+          "history": []
+        },
+        "GBR": {
+          "country": "United Kingdom",
+          "series_id": "macro.gbr.reserves_usd",
+          "latest": {
+            "date": "2025",
+            "value": 214355349052.166
+          },
+          "history": []
+        },
+        "FRA": {
+          "country": "France",
+          "series_id": "macro.fra.reserves_usd",
+          "latest": {
+            "date": "2025",
+            "value": 428208373515.726
+          },
+          "history": []
+        },
+        "BRA": {
+          "country": "Brazil",
+          "series_id": "macro.bra.reserves_usd",
+          "latest": {
+            "date": "2025",
+            "value": 358513128727.455
+          },
+          "history": []
+        },
+        "RUS": {
+          "country": "Russia",
+          "series_id": "macro.rus.reserves_usd",
+          "latest": {
+            "date": "2024",
+            "value": 608360767884.902
           },
           "history": []
         }
@@ -448,276 +718,6 @@
           "latest": {
             "date": "2024",
             "value": -70.7306703064017
-          },
-          "history": []
-        }
-      }
-    },
-    "inflation": {
-      "meta": {
-        "label": "CPI inflation",
-        "unit": "%",
-        "frequency": "annual / latest World Bank observation"
-      },
-      "countries": {
-        "USA": {
-          "country": "United States",
-          "series_id": "macro.usa.inflation",
-          "latest": {
-            "date": "2024",
-            "value": 2.94952520485207
-          },
-          "history": []
-        },
-        "IND": {
-          "country": "India",
-          "series_id": "macro.ind.inflation",
-          "latest": {
-            "date": "2025",
-            "value": 2.39884954182294
-          },
-          "history": []
-        },
-        "CHN": {
-          "country": "China",
-          "series_id": "macro.chn.inflation",
-          "latest": {
-            "date": "2025",
-            "value": 0.0595646916565402
-          },
-          "history": []
-        },
-        "JPN": {
-          "country": "Japan",
-          "series_id": "macro.jpn.inflation",
-          "latest": {
-            "date": "2025",
-            "value": 3.17253034260247
-          },
-          "history": []
-        },
-        "DEU": {
-          "country": "Germany",
-          "series_id": "macro.deu.inflation",
-          "latest": {
-            "date": "2025",
-            "value": 2.17178770949721
-          },
-          "history": []
-        },
-        "GBR": {
-          "country": "United Kingdom",
-          "series_id": "macro.gbr.inflation",
-          "latest": {
-            "date": "2025",
-            "value": 3.88306881625999
-          },
-          "history": []
-        },
-        "FRA": {
-          "country": "France",
-          "series_id": "macro.fra.inflation",
-          "latest": {
-            "date": "2025",
-            "value": 0.943824761520197
-          },
-          "history": []
-        },
-        "BRA": {
-          "country": "Brazil",
-          "series_id": "macro.bra.inflation",
-          "latest": {
-            "date": "2025",
-            "value": 5.01675279604836
-          },
-          "history": []
-        },
-        "RUS": {
-          "country": "Russia",
-          "series_id": "macro.rus.inflation",
-          "latest": {
-            "date": "2025",
-            "value": 8.71986939402666
-          },
-          "history": []
-        }
-      }
-    },
-    "gdp_growth": {
-      "meta": {
-        "label": "Real GDP growth",
-        "unit": "%",
-        "frequency": "annual / latest World Bank observation"
-      },
-      "countries": {
-        "USA": {
-          "country": "United States",
-          "series_id": "macro.usa.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 2.16138195623856
-          },
-          "history": []
-        },
-        "IND": {
-          "country": "India",
-          "series_id": "macro.ind.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 7.56666179284244
-          },
-          "history": []
-        },
-        "CHN": {
-          "country": "China",
-          "series_id": "macro.chn.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 4.95994886240992
-          },
-          "history": []
-        },
-        "JPN": {
-          "country": "Japan",
-          "series_id": "macro.jpn.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 1.19311288444599
-          },
-          "history": []
-        },
-        "DEU": {
-          "country": "Germany",
-          "series_id": "macro.deu.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 0.239578342117881
-          },
-          "history": []
-        },
-        "GBR": {
-          "country": "United Kingdom",
-          "series_id": "macro.gbr.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 1.38844207858726
-          },
-          "history": []
-        },
-        "FRA": {
-          "country": "France",
-          "series_id": "macro.fra.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 0.840949955479587
-          },
-          "history": []
-        },
-        "BRA": {
-          "country": "Brazil",
-          "series_id": "macro.bra.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 2.2857464902475
-          },
-          "history": []
-        },
-        "RUS": {
-          "country": "Russia",
-          "series_id": "macro.rus.gdp_growth",
-          "latest": {
-            "date": "2025",
-            "value": 1.00117656925738
-          },
-          "history": []
-        }
-      }
-    },
-    "reserves_usd": {
-      "meta": {
-        "label": "Total reserves incl. gold",
-        "unit": "USD",
-        "frequency": "annual / latest World Bank observation"
-      },
-      "countries": {
-        "USA": {
-          "country": "United States",
-          "series_id": "macro.usa.reserves_usd",
-          "latest": {
-            "date": "2025",
-            "value": 1385447111476.7
-          },
-          "history": []
-        },
-        "IND": {
-          "country": "India",
-          "series_id": "macro.ind.reserves_usd",
-          "latest": {
-            "date": "2025",
-            "value": 700073798240.701
-          },
-          "history": []
-        },
-        "CHN": {
-          "country": "China",
-          "series_id": "macro.chn.reserves_usd",
-          "latest": {
-            "date": "2025",
-            "value": 3748744952817.94
-          },
-          "history": []
-        },
-        "JPN": {
-          "country": "Japan",
-          "series_id": "macro.jpn.reserves_usd",
-          "latest": {
-            "date": "2025",
-            "value": 1371402218767.57
-          },
-          "history": []
-        },
-        "DEU": {
-          "country": "Germany",
-          "series_id": "macro.deu.reserves_usd",
-          "latest": {
-            "date": "2025",
-            "value": 572201958133.157
-          },
-          "history": []
-        },
-        "GBR": {
-          "country": "United Kingdom",
-          "series_id": "macro.gbr.reserves_usd",
-          "latest": {
-            "date": "2025",
-            "value": 214355349052.166
-          },
-          "history": []
-        },
-        "FRA": {
-          "country": "France",
-          "series_id": "macro.fra.reserves_usd",
-          "latest": {
-            "date": "2025",
-            "value": 428208373515.726
-          },
-          "history": []
-        },
-        "BRA": {
-          "country": "Brazil",
-          "series_id": "macro.bra.reserves_usd",
-          "latest": {
-            "date": "2025",
-            "value": 358513128727.455
-          },
-          "history": []
-        },
-        "RUS": {
-          "country": "Russia",
-          "series_id": "macro.rus.reserves_usd",
-          "latest": {
-            "date": "2024",
-            "value": 608360767884.902
           },
           "history": []
         }

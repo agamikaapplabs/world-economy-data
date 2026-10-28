@@ -3,7 +3,7 @@
   "principle": "Never draw a temporal trend unless periods are parseable, chronological and the series meets its minimum observation depth.",
   "series_count": 485,
   "chronology_error_count": 0,
-  "duplicate_period_series_count": 58,
+  "duplicate_period_series_count": 60,
   "sparse_series_count": 46,
   "chronology_errors": [],
   "duplicate_periods": [
@@ -19,12 +19,12 @@
     },
     {
       "series_id": "market.abb.close",
-      "raw_rows": 1265,
+      "raw_rows": 1266,
       "unique_periods": 1258
     },
     {
       "series_id": "market.airbus.close",
-      "raw_rows": 1288,
+      "raw_rows": 1289,
       "unique_periods": 1282
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "series_id": "market.asml.close",
-      "raw_rows": 1290,
+      "raw_rows": 1291,
       "unique_periods": 1282
     },
     {
@@ -59,7 +59,7 @@
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1276,
+      "raw_rows": 1277,
       "unique_periods": 1259
     },
     {
@@ -74,18 +74,23 @@
     },
     {
       "series_id": "market.copper.close",
-      "raw_rows": 1275,
+      "raw_rows": 1276,
       "unique_periods": 1259
     },
     {
       "series_id": "market.corn.close",
-      "raw_rows": 1267,
+      "raw_rows": 1268,
       "unique_periods": 1257
     },
     {
       "series_id": "market.deere.close",
       "raw_rows": 1260,
       "unique_periods": 1255
+    },
+    {
+      "series_id": "market.ftse100.close",
+      "raw_rows": 263,
+      "unique_periods": 262
     },
     {
       "series_id": "market.generaldynamics.close",
@@ -96,6 +101,11 @@
       "series_id": "market.gevernova.close",
       "raw_rows": 654,
       "unique_periods": 649
+    },
+    {
+      "series_id": "market.gold.close",
+      "raw_rows": 259,
+      "unique_periods": 258
     },
     {
       "series_id": "market.hdfcbank.close",
@@ -119,7 +129,7 @@
     },
     {
       "series_id": "market.leonardo.close",
-      "raw_rows": 1280,
+      "raw_rows": 1281,
       "unique_periods": 1272
     },
     {
@@ -139,7 +149,7 @@
     },
     {
       "series_id": "market.lvmh.close",
-      "raw_rows": 1289,
+      "raw_rows": 1290,
       "unique_periods": 1282
     },
     {
@@ -169,7 +179,7 @@
     },
     {
       "series_id": "market.novo.close",
-      "raw_rows": 1261,
+      "raw_rows": 1262,
       "unique_periods": 1253
     },
     {
@@ -184,7 +194,7 @@
     },
     {
       "series_id": "market.rheinmetall.close",
-      "raw_rows": 1283,
+      "raw_rows": 1284,
       "unique_periods": 1276
     },
     {
@@ -194,7 +204,7 @@
     },
     {
       "series_id": "market.sap.close",
-      "raw_rows": 1283,
+      "raw_rows": 1284,
       "unique_periods": 1276
     },
     {
@@ -204,27 +214,27 @@
     },
     {
       "series_id": "market.schneider.close",
-      "raw_rows": 1288,
+      "raw_rows": 1289,
       "unique_periods": 1282
     },
     {
       "series_id": "market.shell.close",
-      "raw_rows": 1270,
+      "raw_rows": 1271,
       "unique_periods": 1263
     },
     {
       "series_id": "market.siemens_eu.close",
-      "raw_rows": 1283,
-      "unique_periods": 1276
-    },
-    {
-      "series_id": "market.siemens_heavy.close",
       "raw_rows": 1284,
       "unique_periods": 1276
     },
     {
+      "series_id": "market.siemens_heavy.close",
+      "raw_rows": 1285,
+      "unique_periods": 1276
+    },
+    {
       "series_id": "market.silver.close",
-      "raw_rows": 259,
+      "raw_rows": 260,
       "unique_periods": 258
     },
     {
@@ -239,7 +249,7 @@
     },
     {
       "series_id": "market.thales.close",
-      "raw_rows": 1288,
+      "raw_rows": 1289,
       "unique_periods": 1282
     },
     {
@@ -284,17 +294,17 @@
     },
     {
       "series_id": "market.vix.close",
-      "raw_rows": 1265,
+      "raw_rows": 1266,
       "unique_periods": 1258
     },
     {
       "series_id": "market.wheat.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1257
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1275,
+      "raw_rows": 1276,
       "unique_periods": 1258
     }
   ],

@@ -1,7 +1,7 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-28T11:25:16.070405+00:00",
-  "collected_at": "2026-10-28T11:25:16.070405+00:00",
+  "generated_at": "2026-10-28T11:49:45.973297+00:00",
+  "collected_at": "2026-10-28T11:49:45.973297+00:00",
   "newest_article_at": "2026-10-28T10:34:07+00:00",
   "collection_status": "fresh",
   "collection_method": "RSS aggregation with Google News primary + Bing News fallback; deterministic dedupe/ranking; why-it-matters is rule-based interpretation",
@@ -95,7 +95,7 @@
         "india.now.cpi_inflation",
         "india.now.fx_reserves_usd_bn"
       ],
-      "importance": 88,
+      "importance": 87,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
@@ -133,7 +133,7 @@
         "india.now.cpi_inflation",
         "india.now.fx_reserves_usd_bn"
       ],
-      "importance": 86,
+      "importance": 85,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
@@ -180,25 +180,6 @@
       "id": "098992bfc0c4e4ba"
     },
     {
-      "headline": "Explainer | China’s non-tariff barriers: Implications for Indian trade - The Financial Express",
-      "summary": "Explainer | China’s non-tariff barriers: Implications for Indian trade    The Financial Express",
-      "published_at": "2026-10-27T05:48:37+00:00",
-      "source": "The Financial Express",
-      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFl4YVVwcjhLYXBGOXFtVUxRUEVGMXhtNWFCbXYyeDFsal9TUTBpSnNKNjNYOUhGQlBXSjM5ajVESmFXZXFWTzBjTXNna19rSmVrLXB5WTVBWW1wSzZTeWo5Q2NMaUctbVpoaEZwTDY1SGh6QmNTOVJPM0xQdnpUaFRIZXEzUS00ZjVsYWRGS20temo2RnhSdjNFakVpdXowbVpVYXRjZUlHeFlCcDhkcEJJSFpITmdDYU5HUm5JTFDSAccBQVVfeXFMTkxDQU1MWER1b3ptX3J2d0QyOHllVENGa2lSQ0lzUUVpODFvNHZmZmVHNEQtcXJIejMzT0NJOFRrSThBYjlLOGNQNVBDRmp3SnFkQ2VERkJsMnMwdF9QT0RBcWZieERjWnlIN2huMTd6Mlh3Q21lcTdvSUliMmh1cUxUWm5URHZVMGl1NmhXNFFoY2xRZDJjY0tJTV9iT29zNlVkaG93cXRpWDJUU2Y0NXhlelVFQkNGaUNWSF9uaEZPUlRiejc0dw?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 85,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "eb11f0c2b473456e"
-    },
-    {
       "headline": "Indian economy stays resilient amid global headwinds: RBI - Fibre2Fashion",
       "summary": "Indian economy stays resilient amid global headwinds: RBI    Fibre2Fashion",
       "published_at": "2026-10-28T02:54:33+00:00",
@@ -216,6 +197,25 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "9a21b1fd944efc0d"
+    },
+    {
+      "headline": "Explainer | China’s non-tariff barriers: Implications for Indian trade - The Financial Express",
+      "summary": "Explainer | China’s non-tariff barriers: Implications for Indian trade    The Financial Express",
+      "published_at": "2026-10-27T05:48:37+00:00",
+      "source": "The Financial Express",
+      "source_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOFl4YVVwcjhLYXBGOXFtVUxRUEVGMXhtNWFCbXYyeDFsal9TUTBpSnNKNjNYOUhGQlBXSjM5ajVESmFXZXFWTzBjTXNna19rSmVrLXB5WTVBWW1wSzZTeWo5Q2NMaUctbVpoaEZwTDY1SGh6QmNTOVJPM0xQdnpUaFRIZXEzUS00ZjVsYWRGS20temo2RnhSdjNFakVpdXowbVpVYXRjZUlHeFlCcDhkcEJJSFpITmdDYU5HUm5JTFDSAccBQVVfeXFMTkxDQU1MWER1b3ptX3J2d0QyOHllVENGa2lSQ0lzUUVpODFvNHZmZmVHNEQtcXJIejMzT0NJOFRrSThBYjlLOGNQNVBDRmp3SnFkQ2VERkJsMnMwdF9QT0RBcWZieERjWnlIN2huMTd6Mlh3Q21lcTdvSUliMmh1cUxUWm5URHZVMGl1NmhXNFFoY2xRZDJjY0tJTV9iT29zNlVkaG93cXRpWDJUU2Y0NXhlelVFQkNGaUNWSF9uaEZPUlRiejc0dw?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 84,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "eb11f0c2b473456e"
     },
     {
       "headline": "FM Nirmala Sitharaman Says RBI Aims to Prevent Sudden Rupee Fluctuations - www.nationpathindia.com",
@@ -237,11 +237,11 @@
       "id": "c7235b80970d0759"
     },
     {
-      "headline": "RBI May Raise Repo Rate To 6.25% By H1 2027 As Inflation Risks Persist - Times Now",
-      "summary": "RBI May Raise Repo Rate To 6.25% By H1 2027 As Inflation Risks Persist    Times Now",
-      "published_at": "2026-10-27T09:23:38+00:00",
-      "source": "Times Now",
-      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQb2t2QS00Vy1HRnBsNEU3T05Oa0JyTElCUGtCNVA2cm1jMEpKalltWDhzNTF6QlBHNUkxX19PLW8za2xYa1dFNGJnenVoWUIxUXY3bzVKcTNMaXdmNU9vVTd2TU8tWTM3djVkai1ETTZsNTBLUjVJRU11c0ZadXptMHBlVC1qXzV6NlNhQTBtcWNFZklVOWlESmJPQzJoZ18wTDlLcXdfMlNHVkxDMXpqRlFWQ2dsdjVVeTY3RXNmeU16dkpyWmFWZllpVWdIeDFlRmUzQXR0V1TSAd4BQVVfeXFMTjFCOXppOHk1YXdxRUM5ZnNhTzhEeElyMWxERVdueGc0TXlHb3FqMTRBQ1p2V0xzRkk3TGp1RkRPdzZTZi1ydHo5czZZY1pDU004eWFkZ21VQmIxV2RGNlUxb2ZLb0J5X2ZkZGpieENUSE90STNrckhjaVN0U0l6d25rSV9ieW9wbDE1YzJMdDVKTWJ1QjI1UjlaV3NHV0RRcGtNU1pYMjlxcUhVbElYQm9ja3o1TVdsWF9wV01ocE1VSVhmMVpEWU5vbktBWXhfTC1SNUJjSmZZQjg3ZmZ3?oc=5",
+      "headline": "Iran War Price Shock Fuels Inflation Fears, with EU and Japan Raising Rates and U.S. Long-Term Yields Surging - https://economy.ac/",
+      "summary": "Iran War Price Shock Fuels Inflation Fears, with EU and Japan Raising Rates and U.S. Long-Term Yields Surging    https://economy.ac/",
+      "published_at": "2026-10-27T09:33:07+00:00",
+      "source": "https://economy.ac/",
+      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56Z05DQjdtWVp0T2N1Z3dkT0hVSVg5NHk4QkJjNkpNVVZibWlJdFZkWjR0a25GR0lGY0RIZ2l5QU11MnQ5ank4Si1mZzJvMlhraTBjZEYxMA?oc=5",
       "category": "monetary_policy",
       "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
       "linked_series": [
@@ -253,7 +253,27 @@
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "29b3d2183dddf4a4"
+      "id": "e45ddbeaff7f7a77"
+    },
+    {
+      "headline": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices - EnergyNow.com",
+      "summary": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices    EnergyNow.com",
+      "published_at": "2026-10-28T08:21:21+00:00",
+      "source": "EnergyNow.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQllwV3FRcWtSUHdaOGZ1eUlkaHRnN1NjTGNIeDRYQVhNekF5NkRGTE1KY3BnWXR4a0I5RTAtNy0ybktHd3BYakI0VlFjQlBtd0pNdVVOdzZrN0tzWmIya0VFU2JPRWxnS0x1NWJ3UTRDOUtPU1IxZmJiNVlBSXNvWUJLa1VMTWlxaGhwYm5jN3AybVZzYXBpbUZuOXlhMnozd3M2NlhyZUkzU0RsWkhULVJ4Y2pCVDRRckw2em40MUc4YUEz?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+      "linked_series": [
+        "india.now.cpi_inflation",
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
+      ],
+      "importance": 81,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "a61a8a5358bd1be8"
     },
     {
       "headline": "The Day in Trade: Food import tariff cuts, Brexit division in cabinet and US trade warning to EU over aircraft loan - The Chartered Institute of Export & International Trade",
@@ -355,25 +375,6 @@
       "id": "343efb07623aaefd"
     },
     {
-      "headline": "India to emerge as major exporter to China, ASEAN, get edge in US trade pact, says Piyush Goyal - The Economic Times",
-      "summary": "India to emerge as major exporter to China, ASEAN, get edge in US trade pact, says Piyush Goyal    The Economic Times",
-      "published_at": "2026-10-27T17:48:44+00:00",
-      "source": "The Economic Times",
-      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSVpkS0R2UGE2Z0d3ZC13VVo4aGdsM0g2OXRJMG0wbHZ3el9UTEV4OXJzNHIxS21VU1c1ZFpTYk5iU1BHUFI5QThzRFpULTdDbndPMkt4TVdaUW1GMGtrNDRpYmNJcnlrMGVvZExyUVBPV0ZCWl82TUY1Q0tUMGJhdUlxa3c1VEp6TEI2ZmJnQkU0YzNCRXR0bHNWMDVKZmY0bTRCcDYtWGpSakxrQ2hFQTlRYUFKOWI4Zk1qRXZZcng5T1dLMnBYOGY2VVVBS2ZzdGk3Nm9mTzJQMFdBemhET3dVZDNiQlp0eTNKemtNU2lWUEFJcXlmUHJkZll3ZkpwYmY40gGIAkFVX3lxTE1abTZWWUlSN01SblF4bVp6Vy00X2tpUEFwbWhIZU9yZmpnbGVYT2pmRHBHZFpvdEFSSTZ5VkNIcWdYektUV3FEV2k0aEt2RW52T1c3MjB5TjhQNEwtTkRSYlpNbDdaUkNqNENYSmdJRWlOVHI4N05SYzFQb1p3RlJVUl9CRHZkaTVWV0g4aDMyYXVoTkQ5Sm1SNnl1eXdyZC1NN1hFUEFjLXE4OVJHOGNvV09kMm1DRnJxWmx2MDhhTFhtY0h6UkFOWGNZZmJ4U2JzbWIzckdiVndjbG9NMGZ0YkdPM3I5bkl5Z3JKXzRVZjE0ZWhuTEFqZG1lU2tpcnJqQmMwVEwyMQ?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 80,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "1756b7273642394d"
-    },
-    {
       "headline": "South Korea Q3 GDP beats forecasts as AI chip boom boosts exports, investments - Reuters",
       "summary": "South Korea Q3 GDP beats forecasts as AI chip boom boosts exports, investments    Reuters",
       "published_at": "2026-10-26T23:17:00+00:00",
@@ -395,7 +396,7 @@
     {
       "headline": "Heightened Tensions in Oil Markets Following U.S. Midterm Elections - India News Network",
       "summary": "Heightened Tensions in Oil Markets Following U.S. Midterm Elections    India News Network",
-      "published_at": "2026-10-28T05:34:49+00:00",
+      "published_at": "2026-10-28T05:51:34+00:00",
       "source": "India News Network",
       "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkRRd09kZ0Z3UzRlb0ZVWm9Wd3Z1T280NUhnOUdYSVZTXzd2ZVU5TEJZNjFVOFBHWWl6SWFDNXNuTkRqQW1oNzZZb3dJSE45R1NuUjR1N2s5aHViVlVfMEMzZ0ZTenduU3JqeE9oS2lTZHdaR1VoWmFNeFlFX1ZibDRCcTJQZWhSdXI0TDFWX0VDLTZ1UkJsTFlhLTJkblR3dUVHeWNncFN6UQ?oc=5",
       "category": "energy",
@@ -411,6 +412,25 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "de91d02b0ed62d06"
+    },
+    {
+      "headline": "India to emerge as major exporter to China, ASEAN, get edge in US trade pact, says Piyush Goyal - The Economic Times",
+      "summary": "India to emerge as major exporter to China, ASEAN, get edge in US trade pact, says Piyush Goyal    The Economic Times",
+      "published_at": "2026-10-27T17:48:44+00:00",
+      "source": "The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSVpkS0R2UGE2Z0d3ZC13VVo4aGdsM0g2OXRJMG0wbHZ3el9UTEV4OXJzNHIxS21VU1c1ZFpTYk5iU1BHUFI5QThzRFpULTdDbndPMkt4TVdaUW1GMGtrNDRpYmNJcnlrMGVvZExyUVBPV0ZCWl82TUY1Q0tUMGJhdUlxa3c1VEp6TEI2ZmJnQkU0YzNCRXR0bHNWMDVKZmY0bTRCcDYtWGpSakxrQ2hFQTlRYUFKOWI4Zk1qRXZZcng5T1dLMnBYOGY2VVVBS2ZzdGk3Nm9mTzJQMFdBemhET3dVZDNiQlp0eTNKemtNU2lWUEFJcXlmUHJkZll3ZkpwYmY40gGIAkFVX3lxTE1abTZWWUlSN01SblF4bVp6Vy00X2tpUEFwbWhIZU9yZmpnbGVYT2pmRHBHZFpvdEFSSTZ5VkNIcWdYektUV3FEV2k0aEt2RW52T1c3MjB5TjhQNEwtTkRSYlpNbDdaUkNqNENYSmdJRWlOVHI4N05SYzFQb1p3RlJVUl9CRHZkaTVWV0g4aDMyYXVoTkQ5Sm1SNnl1eXdyZC1NN1hFUEFjLXE4OVJHOGNvV09kMm1DRnJxWmx2MDhhTFhtY0h6UkFOWGNZZmJ4U2JzbWIzckdiVndjbG9NMGZ0YkdPM3I5bkl5Z3JKXzRVZjE0ZWhuTEFqZG1lU2tpcnJqQmMwVEwyMQ?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 79,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "1756b7273642394d"
     },
     {
       "headline": "COMMENTARY: China’s Oil Fortress Will Reshape the Global Order: Bousso - EnergyNow.com",
@@ -431,6 +451,25 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "69c5178581306952"
+    },
+    {
+      "headline": "‘We’ll see India become major exporter to China’: Goyal on overcoming trade barriers, upcoming FTA's - The Economic Times",
+      "summary": "‘We’ll see India become major exporter to China’: Goyal on overcoming trade barriers, upcoming FTA's    The Economic Times",
+      "published_at": "2026-10-27T14:31:00+00:00",
+      "source": "The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUXg5SkkxdGZqbXg4ZHlBUU9aWWVlWGRLTkhPVnJGUUNOcjd5a2syNGZJSXZQUm9PY2t4dEZqLXJveDB4MjhLVExUUGE2M2xyYXN5Umk2bFZPM0k0dzdreGtzclhvbDlFeDlFWDBKMldkZmkwdDl3d0pqRE82dWkxSTdwRVhOLVhJT1Z2WF84XzJ1YklpYWJCWEdYV201eG5MeHNBUjE5Vk5LZnBxWHBuM3R0eFB3SlRBWS0zM19pVlZmWk8wMnNIbFpwYTZPZU1nUExfQ25fUTdWQ1FzUTRfS2tzS2FadlJEd0lLZVp5cEIzVnfSAfMBQVVfeXFMT1F4OUpJMXRmam14OGR5QVFPWlllZVhkS05IT1ZyRlFDTnI3eWtrMjRmSUl2UFJvT2NreHRGai1yb3gweDI4S1RMVFBhNjNscmFzeVJpNmxWTzNJNHc3a3hrc3JYb2w5RXg5RVgwSjJXZGZpMHQ5d3dKakRPNnVpMUk3cEVYTi1YSU9WdlhfOF8ydWJJaWFiQlhHWFdtNXhuTHhzQVIxOVZOS2ZwcVhwbjN0dHhQd0pUQVktMzNfaVZWZlpPMDJzSGxacGE2T2VNZ1BMX0NuX1E3VkNRc1E0X0trc0thWnZSRHdJS2VaeXBCM1Z3?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 78,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "96b259fab6e8f827"
     },
     {
       "headline": "China's economy is outpacing the US despite Trump's tariffs. Here's what Goldman Sachs says it could mean for trade - MoneyWise.com",
@@ -488,26 +527,6 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "4718ffb3af02d5d7"
-    },
-    {
-      "headline": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices - EnergyNow.com",
-      "summary": "AMERICAN ENERGY SNAPSHOT: Why Gasoline Prices Don’t Always Move in Lockstep with Crude Oil Prices    EnergyNow.com",
-      "published_at": "2026-10-27T17:54:39+00:00",
-      "source": "EnergyNow.com",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQllwV3FRcWtSUHdaOGZ1eUlkaHRnN1NjTGNIeDRYQVhNekF5NkRGTE1KY3BnWXR4a0I5RTAtNy0ybktHd3BYakI0VlFjQlBtd0pNdVVOdzZrN0tzWmIya0VFU2JPRWxnS0x1NWJ3UTRDOUtPU1IxZmJiNVlBSXNvWUJLa1VMTWlxaGhwYm5jN3AybVZzYXBpbUZuOXlhMnozd3M2NlhyZUkzU0RsWkhULVJ4Y2pCVDRRckw2em40MUc4YUEz?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 77,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "a61a8a5358bd1be8"
     },
     {
       "headline": "'Unfair Pricing Will Face...': Goyal On India-China Trade, Eyes Bigger Exports To Beijing & ASEAN - The Times of India",
@@ -603,25 +622,6 @@
       "id": "a402d67e15665bb6"
     },
     {
-      "headline": "India’s seafood trade outlook shaped by global shift toward aquaculture - AgroSpectrum India",
-      "summary": "India’s seafood trade outlook shaped by global shift toward aquaculture    AgroSpectrum India",
-      "published_at": "2026-10-26T22:20:47+00:00",
-      "source": "AgroSpectrum India",
-      "source_url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQb01wMWpmaV9kS1BNVVpYemNwSGFOcEZ0aUY2OFZQLUwySWYtNm5YWjY1RnY2alFoM3pSVEdKeWZDR2VLLWNENE5HM0lsckQ1b3hFTmJ6aEdLdWY1NzFCaXRpNWNWTTJQZVlLSWRsMEppQUhMMGQ1d0lqdk5jSWlkN3Fac2cwN0dfbFA0LWs3T3l1SVhmZlN4RHBHdWVobnB5VlI5YWhyczdxNmJaRUtsM1I2NUNMUGtXWFJLdzFCU1Vwb0ZfeFF2WjBLcDY5OG1YT0trUkxmdmhwVTBNakkyMXhTdHk1TnQyVlpOSg?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 75,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "411fbfd2768be24b"
-    },
-    {
       "headline": "\"Annual limit of 350,000 units\" China concedes hybrid vehicle exports under EU trade pressure; prospects of difficulties in securing alternative markets and local production - https://economy.ac/",
       "summary": "\"Annual limit of 350,000 units\" China concedes hybrid vehicle exports under EU trade pressure; prospects of difficulties in securing alternative markets and local production    https://economy.ac/",
       "published_at": "2026-10-27T23:11:45+00:00",
@@ -639,25 +639,6 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "5608468cf0de47d3"
-    },
-    {
-      "headline": "“Eroding Tariff Advantages and Manufacturing Constraints”: China Diversification Through Southeast Asia Under Strain, With Key Manufacturing Hubs’ Capabilities a Decisive Factor | Policy News - https://economy.ac/",
-      "summary": "“Eroding Tariff Advantages and Manufacturing Constraints”: China Diversification Through Southeast Asia Under Strain, With Key Manufacturing Hubs’ Capabilities a Decisive Factor | Policy News    https://economy.ac/",
-      "published_at": "2026-10-27T22:00:16+00:00",
-      "source": "https://economy.ac/",
-      "source_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1MkVOeUNjUnRQNjFkdUxUWVMxQ0xab0E5WnhXT3drRVVYZUl0dTlhaTdtdGhqbVpVWjlQMExCTHNwSlB2ZF9lbVdrVW5PR1FCOU9iUlBWZw?oc=5",
-      "category": "trade",
-      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
-      "linked_series": [
-        "india.now.total_exports_usd_bn",
-        "india.now.total_imports_usd_bn",
-        "india.now.current_account_gdp"
-      ],
-      "importance": 73,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "56d4a46427b143f2"
     },
     {
       "headline": "Why the US-China trade truce matters - Interest.co.nz",
@@ -691,7 +672,7 @@
         "india.now.total_imports_usd_bn",
         "india.now.current_account_gdp"
       ],
-      "importance": 73,
+      "importance": 72,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
@@ -753,6 +734,25 @@
       "id": "5af666f92122eafe"
     },
     {
+      "headline": "Bangladesh Malaysia Free Trade Agreement | First round of FTA talks with Malaysia starts today - The Daily Star",
+      "summary": "Bangladesh Malaysia Free Trade Agreement | First round of FTA talks with Malaysia starts today    The Daily Star",
+      "published_at": "2026-10-28T09:42:36+00:00",
+      "source": "The Daily Star",
+      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS0FvZTFBTkNNTGI2S1FBNFdhZnpRUG0zdGprb29jcnMzbENlYmtmSm1hN0hiSksyZ1NiSUlyQ3A4SWNHNkpRU0ZwX281VDlVRHVyUm1sR09JRnRNd1A1eDVXdDB3R1FEellCTmtKMy1MaXJCRjJZVFVydTFUcE1fOGNwdloxTFBqaDRxV2VKWEdkbjFaODlVVXBFZktQWDNlXzZZdjFvNzBMR1BiN1E?oc=5",
+      "category": "trade",
+      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
+      "linked_series": [
+        "india.now.total_exports_usd_bn",
+        "india.now.total_imports_usd_bn",
+        "india.now.current_account_gdp"
+      ],
+      "importance": 69,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "0c59707de9763cf0"
+    },
+    {
       "headline": "Germany set for record trade deficit with Asia-Pacific in 2026, report says - Yahoo Finance UK",
       "summary": "Germany set for record trade deficit with Asia-Pacific in 2026, report says    Yahoo Finance UK",
       "published_at": "2026-10-28T07:05:26+00:00",
@@ -776,9 +776,9 @@
   "provider_results": [
     {
       "provider": "google",
-      "candidates": 219,
+      "candidates": 248,
       "errors": 0
     }
   ],
-  "published_at": "2026-10-28T16:55:20.876824+05:30"
+  "published_at": "2026-10-28T17:19:51.570564+05:30"
 }
