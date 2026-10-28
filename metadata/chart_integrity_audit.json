@@ -3,7 +3,7 @@
   "principle": "Never draw a temporal trend unless periods are parseable, chronological and the series meets its minimum observation depth.",
   "series_count": 485,
   "chronology_error_count": 0,
-  "duplicate_period_series_count": 58,
+  "duplicate_period_series_count": 62,
   "sparse_series_count": 111,
   "chronology_errors": [],
   "duplicate_periods": [
@@ -54,12 +54,12 @@
     },
     {
       "series_id": "market.bharti.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1273,
+      "raw_rows": 1275,
       "unique_periods": 1259
     },
     {
@@ -74,7 +74,7 @@
     },
     {
       "series_id": "market.copper.close",
-      "raw_rows": 1273,
+      "raw_rows": 1274,
       "unique_periods": 1259
     },
     {
@@ -98,8 +98,18 @@
       "unique_periods": 649
     },
     {
+      "series_id": "market.gold.close",
+      "raw_rows": 260,
+      "unique_periods": 258
+    },
+    {
+      "series_id": "market.hangseng.close",
+      "raw_rows": 256,
+      "unique_periods": 254
+    },
+    {
       "series_id": "market.hdfcbank.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
@@ -109,12 +119,12 @@
     },
     {
       "series_id": "market.icicibank.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
       "series_id": "market.infosys.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
@@ -129,12 +139,12 @@
     },
     {
       "series_id": "market.lt.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
       "series_id": "market.lt_heavy.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
@@ -149,7 +159,7 @@
     },
     {
       "series_id": "market.mhi.close",
-      "raw_rows": 1225,
+      "raw_rows": 1227,
       "unique_periods": 1222
     },
     {
@@ -159,8 +169,18 @@
     },
     {
       "series_id": "market.natgas.close",
-      "raw_rows": 1272,
+      "raw_rows": 1274,
       "unique_periods": 1259
+    },
+    {
+      "series_id": "market.nifty50.close",
+      "raw_rows": 256,
+      "unique_periods": 254
+    },
+    {
+      "series_id": "market.nikkei.close",
+      "raw_rows": 253,
+      "unique_periods": 251
     },
     {
       "series_id": "market.northrop.close",
@@ -179,7 +199,7 @@
     },
     {
       "series_id": "market.reliance.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
@@ -199,7 +219,7 @@
     },
     {
       "series_id": "market.sbi.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
@@ -224,12 +244,12 @@
     },
     {
       "series_id": "market.silver.close",
-      "raw_rows": 259,
+      "raw_rows": 261,
       "unique_periods": 258
     },
     {
       "series_id": "market.tcs.close",
-      "raw_rows": 1238,
+      "raw_rows": 1240,
       "unique_periods": 1237
     },
     {
@@ -289,12 +309,12 @@
     },
     {
       "series_id": "market.wheat.close",
-      "raw_rows": 1265,
+      "raw_rows": 1267,
       "unique_periods": 1257
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1272,
+      "raw_rows": 1274,
       "unique_periods": 1258
     }
   ],
