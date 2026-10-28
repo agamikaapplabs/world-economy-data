@@ -2578,6 +2578,18 @@
       "status": "observed",
       "revision_no": 7,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-28",
+      "value": 72.800003,
+      "released_at": "2026-10-28",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/ABBN.SW",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

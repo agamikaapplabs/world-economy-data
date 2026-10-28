@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-28T06:32:23.872996+00:00",
+  "generated_at": "2026-10-28T11:25:09.651202+00:00",
   "refresh_mode": "resume-failed-only",
   "indicators": {
     "inflation": {
@@ -9,8 +9,8 @@
         "label": "CPI inflation",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -605,8 +605,8 @@
         "label": "Real GDP growth",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -1205,8 +1205,8 @@
         "label": "Nominal GDP",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -1805,8 +1805,8 @@
         "label": "GDP per capita",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -2405,8 +2405,8 @@
         "label": "Unemployment",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -3005,8 +3005,8 @@
         "label": "Total reserves incl. gold",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -3601,8 +3601,8 @@
         "label": "Reserves in months of imports",
         "unit": "months",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -4197,8 +4197,8 @@
         "label": "Exports of goods & services",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -4789,8 +4789,8 @@
         "label": "Exports / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -5381,8 +5381,8 @@
         "label": "Imports of goods & services",
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -5973,8 +5973,8 @@
         "label": "Imports / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -6565,8 +6565,8 @@
         "label": "External balance goods & services / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -7158,91 +7158,595 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T06:32:23.872996+00:00"
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
           "country": "United States",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -419443000000.0
+            },
+            {
+              "date": "2019",
+              "value": -404302000000.0
+            },
+            {
+              "date": "2020",
+              "value": -589622000000.0
+            },
+            {
+              "date": "2021",
+              "value": -855203000000.0
+            },
+            {
+              "date": "2022",
+              "value": -972359000000.0
+            },
+            {
+              "date": "2023",
+              "value": -931394000000.0
+            },
+            {
+              "date": "2024",
+              "value": -1198628000000.0
+            },
+            {
+              "date": "2025",
+              "value": -1177068000000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -1177068000000.0
+          },
           "series_id": "macro.usa.current_account_usd"
         },
         "IND": {
           "country": "India",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -65599439052.6676
+            },
+            {
+              "date": "2019",
+              "value": -29762864650.3281
+            },
+            {
+              "date": "2020",
+              "value": 32730048588.2079
+            },
+            {
+              "date": "2021",
+              "value": -33422359357.9397
+            },
+            {
+              "date": "2022",
+              "value": -79050941951.3239
+            },
+            {
+              "date": "2023",
+              "value": -31955497930.2044
+            },
+            {
+              "date": "2024",
+              "value": -32015418428.3173
+            },
+            {
+              "date": "2025",
+              "value": -20227690663.9122
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -20227690663.9122
+          },
           "series_id": "macro.ind.current_account_usd"
         },
         "CHN": {
           "country": "China",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 24130909184.4985
+            },
+            {
+              "date": "2019",
+              "value": 90267369315.1809
+            },
+            {
+              "date": "2020",
+              "value": 223715895433.051
+            },
+            {
+              "date": "2021",
+              "value": 297407494180.593
+            },
+            {
+              "date": "2022",
+              "value": 404141947756.877
+            },
+            {
+              "date": "2023",
+              "value": 257029393581.815
+            },
+            {
+              "date": "2024",
+              "value": 462283038233.159
+            },
+            {
+              "date": "2025",
+              "value": 735021965565.35
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 735021965565.35
+          },
           "series_id": "macro.chn.current_account_usd"
         },
         "JPN": {
           "country": "Japan",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 177268535276.423
+            },
+            {
+              "date": "2019",
+              "value": 176609997619.695
+            },
+            {
+              "date": "2020",
+              "value": 150028926280.73
+            },
+            {
+              "date": "2021",
+              "value": 196525067468.841
+            },
+            {
+              "date": "2022",
+              "value": 90209904940.9152
+            },
+            {
+              "date": "2023",
+              "value": 158349160012.648
+            },
+            {
+              "date": "2024",
+              "value": 193663188265.458
+            },
+            {
+              "date": "2025",
+              "value": 215768947339.997
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 215768947339.997
+          },
           "series_id": "macro.jpn.current_account_usd"
         },
         "DEU": {
           "country": "Germany",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 342181727697.509
+            },
+            {
+              "date": "2019",
+              "value": 311830319405.001
+            },
+            {
+              "date": "2020",
+              "value": 250193181663.212
+            },
+            {
+              "date": "2021",
+              "value": 301386469208.007
+            },
+            {
+              "date": "2022",
+              "value": 172820108195.698
+            },
+            {
+              "date": "2023",
+              "value": 251070777589.059
+            },
+            {
+              "date": "2024",
+              "value": 276159859965.21
+            },
+            {
+              "date": "2025",
+              "value": 224632916868.02
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 224632916868.02
+          },
           "series_id": "macro.deu.current_account_usd"
         },
         "GBR": {
           "country": "United Kingdom",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -112615839096.92
+            },
+            {
+              "date": "2019",
+              "value": -76564527687.8271
+            },
+            {
+              "date": "2020",
+              "value": -79781478065.7869
+            },
+            {
+              "date": "2021",
+              "value": -24049803045.1644
+            },
+            {
+              "date": "2022",
+              "value": -65768123497.5548
+            },
+            {
+              "date": "2023",
+              "value": -122353749282.974
+            },
+            {
+              "date": "2024",
+              "value": -109041814164.368
+            },
+            {
+              "date": "2025",
+              "value": -125420187646.32
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -125420187646.32
+          },
           "series_id": "macro.gbr.current_account_usd"
         },
         "FRA": {
           "country": "France",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -20463239633.6479
+            },
+            {
+              "date": "2019",
+              "value": 15992675264.402
+            },
+            {
+              "date": "2020",
+              "value": -53041563679.7434
+            },
+            {
+              "date": "2021",
+              "value": 7245173502.31717
+            },
+            {
+              "date": "2022",
+              "value": -40031107427.2457
+            },
+            {
+              "date": "2023",
+              "value": -28503147212.9114
+            },
+            {
+              "date": "2024",
+              "value": -10336880404.1509
+            },
+            {
+              "date": "2025",
+              "value": -11152257703.2589
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -11152257703.2589
+          },
           "series_id": "macro.fra.current_account_usd"
         },
         "BRA": {
           "country": "Brazil",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -53818304220.9849
+            },
+            {
+              "date": "2019",
+              "value": -63959511165.035
+            },
+            {
+              "date": "2020",
+              "value": -24223442477.915
+            },
+            {
+              "date": "2021",
+              "value": -39397557333.0099
+            },
+            {
+              "date": "2022",
+              "value": -41960059748.66
+            },
+            {
+              "date": "2023",
+              "value": -26981475122.1649
+            },
+            {
+              "date": "2024",
+              "value": -65312661657.7099
+            },
+            {
+              "date": "2025",
+              "value": -66717333403.48
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -66717333403.48
+          },
           "series_id": "macro.bra.current_account_usd"
         },
         "CHE": {
           "country": "Switzerland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 44398303272.7384
+            },
+            {
+              "date": "2019",
+              "value": 29633016077.571
+            },
+            {
+              "date": "2020",
+              "value": 3319443311.75407
+            },
+            {
+              "date": "2021",
+              "value": 62546710782.767
+            },
+            {
+              "date": "2022",
+              "value": 76884698445.1557
+            },
+            {
+              "date": "2023",
+              "value": 54438566778.6986
+            },
+            {
+              "date": "2024",
+              "value": 86202865399.0253
+            },
+            {
+              "date": "2025",
+              "value": 65182983913.8817
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 65182983913.8817
+          },
           "series_id": "macro.che.current_account_usd"
         },
         "RUS": {
           "country": "Russia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 115679870000.0
+            },
+            {
+              "date": "2019",
+              "value": 65627250000.0
+            },
+            {
+              "date": "2020",
+              "value": 35372689999.9999
+            },
+            {
+              "date": "2021",
+              "value": 124953030000.0
+            },
+            {
+              "date": "2022",
+              "value": 237734771339.141
+            },
+            {
+              "date": "2023",
+              "value": 49396449999.9999
+            },
+            {
+              "date": "2024",
+              "value": 63258550000.0
+            },
+            {
+              "date": "2025",
+              "value": 38805330000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 38805330000.0
+          },
           "series_id": "macro.rus.current_account_usd"
         },
         "SAU": {
           "country": "Saudi Arabia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 70028933566.2436
+            },
+            {
+              "date": "2019",
+              "value": 32398623534.4862
+            },
+            {
+              "date": "2020",
+              "value": -34687750307.1511
+            },
+            {
+              "date": "2021",
+              "value": 44905279085.0797
+            },
+            {
+              "date": "2022",
+              "value": 145336719378.572
+            },
+            {
+              "date": "2023",
+              "value": 25948146192.5274
+            },
+            {
+              "date": "2024",
+              "value": -16254059643.409
+            },
+            {
+              "date": "2025",
+              "value": -32736467567.4766
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -32736467567.4766
+          },
           "series_id": "macro.sau.current_account_usd"
         },
         "KOR": {
           "country": "South Korea",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 77466500000.0
+            },
+            {
+              "date": "2019",
+              "value": 59676100000.0
+            },
+            {
+              "date": "2020",
+              "value": 76503400000.0
+            },
+            {
+              "date": "2021",
+              "value": 83879100000.0
+            },
+            {
+              "date": "2022",
+              "value": 23238400000.0
+            },
+            {
+              "date": "2023",
+              "value": 32530200000.0
+            },
+            {
+              "date": "2024",
+              "value": 99973500000.0
+            },
+            {
+              "date": "2025",
+              "value": 123053800000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 123053800000.0
+          },
           "series_id": "macro.kor.current_account_usd"
         },
         "TUR": {
           "country": "Turkey",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -14608000000.0
+            },
+            {
+              "date": "2019",
+              "value": 15013000000.0
+            },
+            {
+              "date": "2020",
+              "value": -31024000000.0
+            },
+            {
+              "date": "2021",
+              "value": -7068000000.0
+            },
+            {
+              "date": "2022",
+              "value": -46668000000.0
+            },
+            {
+              "date": "2023",
+              "value": -41821000000.0
+            },
+            {
+              "date": "2024",
+              "value": -13027000000.0
+            },
+            {
+              "date": "2025",
+              "value": -30338000000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -30338000000.0
+          },
           "series_id": "macro.tur.current_account_usd"
         },
         "POL": {
           "country": "Poland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -11690000000.0
+            },
+            {
+              "date": "2019",
+              "value": -1645000000.0
+            },
+            {
+              "date": "2020",
+              "value": 14532000000.0
+            },
+            {
+              "date": "2021",
+              "value": -8970000000.0
+            },
+            {
+              "date": "2022",
+              "value": -15822000000.0
+            },
+            {
+              "date": "2023",
+              "value": 12486000000.0
+            },
+            {
+              "date": "2024",
+              "value": 2795000000.0
+            },
+            {
+              "date": "2025",
+              "value": -9872000000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -9872000000.0
+          },
           "series_id": "macro.pol.current_account_usd"
         }
       }
@@ -7254,91 +7758,595 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T06:32:23.872996+00:00"
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
           "country": "United States",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -2.03056023581131
+            },
+            {
+              "date": "2019",
+              "value": -1.87698392691322
+            },
+            {
+              "date": "2020",
+              "value": -2.75842923421685
+            },
+            {
+              "date": "2021",
+              "value": -3.60455110914793
+            },
+            {
+              "date": "2022",
+              "value": -3.7320030916597
+            },
+            {
+              "date": "2023",
+              "value": -3.3489507242629
+            },
+            {
+              "date": "2024",
+              "value": -4.09115799081665
+            },
+            {
+              "date": "2025",
+              "value": -3.8254126624569
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -3.8254126624569
+          },
           "series_id": "macro.usa.current_account_gdp"
         },
         "IND": {
           "country": "India",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -2.42697545810527
+            },
+            {
+              "date": "2019",
+              "value": -1.04961203910072
+            },
+            {
+              "date": "2020",
+              "value": 1.22362111042791
+            },
+            {
+              "date": "2021",
+              "value": -1.05524166809383
+            },
+            {
+              "date": "2022",
+              "value": -2.43238270956779
+            },
+            {
+              "date": "2023",
+              "value": -0.912777939495826
+            },
+            {
+              "date": "2024",
+              "value": -0.851289719084461
+            },
+            {
+              "date": "2025",
+              "value": -0.511308076227287
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -0.511308076227287
+          },
           "series_id": "macro.ind.current_account_gdp"
         },
         "CHN": {
           "country": "China",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 0.170563391928727
+            },
+            {
+              "date": "2019",
+              "value": 0.619961080716059
+            },
+            {
+              "date": "2020",
+              "value": 1.49179592498581
+            },
+            {
+              "date": "2021",
+              "value": 1.6339546037037
+            },
+            {
+              "date": "2022",
+              "value": 2.20640460953833
+            },
+            {
+              "date": "2023",
+              "value": 1.40681103517506
+            },
+            {
+              "date": "2024",
+              "value": 2.46818591485776
+            },
+            {
+              "date": "2025",
+              "value": 3.76972243689338
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 3.76972243689338
+          },
           "series_id": "macro.chn.current_account_gdp"
         },
         "JPN": {
           "country": "Japan",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 3.43924007536727
+            },
+            {
+              "date": "2019",
+              "value": 3.36672218972422
+            },
+            {
+              "date": "2020",
+              "value": 2.89117777881579
+            },
+            {
+              "date": "2021",
+              "value": 3.76057343034322
+            },
+            {
+              "date": "2022",
+              "value": 2.0281112293848
+            },
+            {
+              "date": "2023",
+              "value": 3.61127531871254
+            },
+            {
+              "date": "2024",
+              "value": 4.62202410018022
+            },
+            {
+              "date": "2025",
+              "value": 4.86496093471918
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 4.86496093471918
+          },
           "series_id": "macro.jpn.current_account_gdp"
         },
         "DEU": {
           "country": "Germany",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 8.43761219902202
+            },
+            {
+              "date": "2019",
+              "value": 7.87471222403171
+            },
+            {
+              "date": "2020",
+              "value": 6.34782686016016
+            },
+            {
+              "date": "2021",
+              "value": 6.9200696637534
+            },
+            {
+              "date": "2022",
+              "value": 4.11376375249819
+            },
+            {
+              "date": "2023",
+              "value": 5.50327392607702
+            },
+            {
+              "date": "2024",
+              "value": 5.89380863529107
+            },
+            {
+              "date": "2025",
+              "value": 4.44736378284623
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 4.44736378284623
+          },
           "series_id": "macro.deu.current_account_gdp"
         },
         "GBR": {
           "country": "United Kingdom",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -3.88728858372976
+            },
+            {
+              "date": "2019",
+              "value": -2.66245642145608
+            },
+            {
+              "date": "2020",
+              "value": -2.92883387550298
+            },
+            {
+              "date": "2021",
+              "value": -0.752836357784011
+            },
+            {
+              "date": "2022",
+              "value": -2.06737101121871
+            },
+            {
+              "date": "2023",
+              "value": -3.57676183842871
+            },
+            {
+              "date": "2024",
+              "value": -2.9506331555927
+            },
+            {
+              "date": "2025",
+              "value": -3.13347768999639
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -3.13347768999639
+          },
           "series_id": "macro.gbr.current_account_gdp"
         },
         "FRA": {
           "country": "France",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -0.735670615255371
+            },
+            {
+              "date": "2019",
+              "value": 0.587362764575747
+            },
+            {
+              "date": "2020",
+              "value": -2.00313613657686
+            },
+            {
+              "date": "2021",
+              "value": 0.244238511780543
+            },
+            {
+              "date": "2022",
+              "value": -1.43234855251881
+            },
+            {
+              "date": "2023",
+              "value": -0.932618115934767
+            },
+            {
+              "date": "2024",
+              "value": -0.327070655568123
+            },
+            {
+              "date": "2025",
+              "value": -0.331289693053725
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -0.331289693053725
+          },
           "series_id": "macro.fra.current_account_gdp"
         },
         "BRA": {
           "country": "Brazil",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -2.80752008594698
+            },
+            {
+              "date": "2019",
+              "value": -3.41429103072781
+            },
+            {
+              "date": "2020",
+              "value": -1.64103541830151
+            },
+            {
+              "date": "2021",
+              "value": -2.35822097223117
+            },
+            {
+              "date": "2022",
+              "value": -2.14967698505073
+            },
+            {
+              "date": "2023",
+              "value": -1.23139445763703
+            },
+            {
+              "date": "2024",
+              "value": -2.98801427062079
+            },
+            {
+              "date": "2025",
+              "value": -2.92630139201733
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -2.92630139201733
+          },
           "series_id": "macro.bra.current_account_gdp"
         },
         "CHE": {
           "country": "Switzerland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 5.99356226118809
+            },
+            {
+              "date": "2019",
+              "value": 4.02412129092585
+            },
+            {
+              "date": "2020",
+              "value": 0.439023949410653
+            },
+            {
+              "date": "2021",
+              "value": 7.43974843118479
+            },
+            {
+              "date": "2022",
+              "value": 8.95592029075918
+            },
+            {
+              "date": "2023",
+              "value": 5.86347462172406
+            },
+            {
+              "date": "2024",
+              "value": 8.88762829753526
+            },
+            {
+              "date": "2025",
+              "value": 6.24639351116552
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 6.24639351116552
+          },
           "series_id": "macro.che.current_account_gdp"
         },
         "RUS": {
           "country": "Russia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 6.97989872935135
+            },
+            {
+              "date": "2019",
+              "value": 3.87612476973049
+            },
+            {
+              "date": "2020",
+              "value": 2.36911533657246
+            },
+            {
+              "date": "2021",
+              "value": 6.83107025995823
+            },
+            {
+              "date": "2022",
+              "value": 10.370132157734
+            },
+            {
+              "date": "2023",
+              "value": 2.41395767974471
+            },
+            {
+              "date": "2024",
+              "value": 2.89319193394267
+            },
+            {
+              "date": "2025",
+              "value": 1.51505781940168
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 1.51505781940168
+          },
           "series_id": "macro.rus.current_account_gdp"
         },
         "SAU": {
           "country": "Saudi Arabia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 7.89890750977747
+            },
+            {
+              "date": "2019",
+              "value": 3.64484004485363
+            },
+            {
+              "date": "2020",
+              "value": -4.51692116727614
+            },
+            {
+              "date": "2021",
+              "value": 4.56976271965319
+            },
+            {
+              "date": "2022",
+              "value": 11.7294510759776
+            },
+            {
+              "date": "2023",
+              "value": 2.12936729495784
+            },
+            {
+              "date": "2024",
+              "value": -1.29603148573183
+            },
+            {
+              "date": "2025",
+              "value": -2.56365940191401
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -2.56365940191401
+          },
           "series_id": "macro.sau.current_account_gdp"
         },
         "KOR": {
           "country": "South Korea",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 4.24648147146115
+            },
+            {
+              "date": "2019",
+              "value": 3.40802631398853
+            },
+            {
+              "date": "2020",
+              "value": 4.38648608581777
+            },
+            {
+              "date": "2021",
+              "value": 4.31851487245382
+            },
+            {
+              "date": "2022",
+              "value": 1.29147917850335
+            },
+            {
+              "date": "2023",
+              "value": 1.76334472698699
+            },
+            {
+              "date": "2024",
+              "value": 5.33081628105267
+            },
+            {
+              "date": "2025",
+              "value": 6.57207036660681
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 6.57207036660681
+          },
           "series_id": "macro.kor.current_account_gdp"
         },
         "TUR": {
           "country": "Turkey",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -1.85296766104815
+            },
+            {
+              "date": "2019",
+              "value": 1.93503114755598
+            },
+            {
+              "date": "2020",
+              "value": -4.22884480277712
+            },
+            {
+              "date": "2021",
+              "value": -0.841490012048298
+            },
+            {
+              "date": "2022",
+              "value": -5.03921035996332
+            },
+            {
+              "date": "2023",
+              "value": -3.66451360136676
+            },
+            {
+              "date": "2024",
+              "value": -0.958485187243091
+            },
+            {
+              "date": "2025",
+              "value": -1.89933817058389
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -1.89933817058389
+          },
           "series_id": "macro.tur.current_account_gdp"
         },
         "POL": {
           "country": "Poland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -1.96597258830492
+            },
+            {
+              "date": "2019",
+              "value": -0.272945793712772
+            },
+            {
+              "date": "2020",
+              "value": 2.39835922164097
+            },
+            {
+              "date": "2021",
+              "value": -1.30156521580162
+            },
+            {
+              "date": "2022",
+              "value": -2.27455866454271
+            },
+            {
+              "date": "2023",
+              "value": 1.53683077845046
+            },
+            {
+              "date": "2024",
+              "value": 0.30454349270969
+            },
+            {
+              "date": "2025",
+              "value": -0.953363430850522
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": -0.953363430850522
+          },
           "series_id": "macro.pol.current_account_gdp"
         }
       }
@@ -7350,19 +8358,59 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T06:32:23.872996+00:00"
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
           "country": "United States",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 98.62934291533
+            },
+            {
+              "date": "2019",
+              "value": 100.234364169849
+            },
+            {
+              "date": "2020",
+              "value": 124.509268439559
+            },
+            {
+              "date": "2021",
+              "value": 118.284809538371
+            },
+            {
+              "date": "2022",
+              "value": 112.71753248772
+            },
+            {
+              "date": "2023",
+              "value": 114.73985759209
+            },
+            {
+              "date": "2024",
+              "value": 115.788609964778
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 115.788609964778
+          },
           "series_id": "macro.usa.gov_debt_gdp"
         },
         "IND": {
           "country": "India",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 46.5224986659322
+            }
+          ],
+          "latest": {
+            "date": "2018",
+            "value": 46.5224986659322
+          },
           "series_id": "macro.ind.gov_debt_gdp"
         },
         "CHN": {
@@ -7385,8 +8433,40 @@
         },
         "GBR": {
           "country": "United Kingdom",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 156.766820519267
+            },
+            {
+              "date": "2019",
+              "value": 158.972569875821
+            },
+            {
+              "date": "2020",
+              "value": 194.682828796265
+            },
+            {
+              "date": "2021",
+              "value": 183.804848939919
+            },
+            {
+              "date": "2022",
+              "value": 138.215904304967
+            },
+            {
+              "date": "2023",
+              "value": 136.142431919028
+            },
+            {
+              "date": "2024",
+              "value": 130.735888365813
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 130.735888365813
+          },
           "series_id": "macro.gbr.gov_debt_gdp"
         },
         "FRA": {
@@ -7397,20 +8477,116 @@
         },
         "BRA": {
           "country": "Brazil",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 86.6078841211512
+            },
+            {
+              "date": "2019",
+              "value": 92.5652531945418
+            },
+            {
+              "date": "2020",
+              "value": 98.7098819468714
+            },
+            {
+              "date": "2021",
+              "value": 85.0115036768016
+            },
+            {
+              "date": "2022",
+              "value": 79.1023218878495
+            },
+            {
+              "date": "2023",
+              "value": 83.0317498523878
+            },
+            {
+              "date": "2024",
+              "value": 81.8554431191023
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 81.8554431191023
+          },
           "series_id": "macro.bra.gov_debt_gdp"
         },
         "CHE": {
           "country": "Switzerland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 18.2949120373139
+            },
+            {
+              "date": "2019",
+              "value": 18.567762730375
+            },
+            {
+              "date": "2020",
+              "value": 20.4633377506952
+            },
+            {
+              "date": "2021",
+              "value": 19.3367603778384
+            },
+            {
+              "date": "2022",
+              "value": 16.9722395480807
+            },
+            {
+              "date": "2023",
+              "value": 19.1539698862517
+            },
+            {
+              "date": "2024",
+              "value": 22.2786942016816
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 22.2786942016816
+          },
           "series_id": "macro.che.gov_debt_gdp"
         },
         "RUS": {
           "country": "Russia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 16.1685789853238
+            },
+            {
+              "date": "2019",
+              "value": 17.2760484379376
+            },
+            {
+              "date": "2020",
+              "value": 22.992021036968
+            },
+            {
+              "date": "2021",
+              "value": 21.0287512612177
+            },
+            {
+              "date": "2022",
+              "value": 19.2810466629119
+            },
+            {
+              "date": "2023",
+              "value": 18.7312788319232
+            },
+            {
+              "date": "2024",
+              "value": 17.8500676833114
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 17.8500676833114
+          },
           "series_id": "macro.rus.gov_debt_gdp"
         },
         "SAU": {
@@ -7421,14 +8597,78 @@
         },
         "KOR": {
           "country": "South Korea",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 35.5200546750178
+            },
+            {
+              "date": "2019",
+              "value": 37.6954834097738
+            },
+            {
+              "date": "2020",
+              "value": 43.775799174588
+            },
+            {
+              "date": "2021",
+              "value": 45.8328934501884
+            },
+            {
+              "date": "2022",
+              "value": 47.6110651856141
+            },
+            {
+              "date": "2023",
+              "value": 48.5543799702909
+            },
+            {
+              "date": "2024",
+              "value": 47.8141426119509
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 47.8141426119509
+          },
           "series_id": "macro.kor.gov_debt_gdp"
         },
         "TUR": {
           "country": "Turkey",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 29.3999927208091
+            },
+            {
+              "date": "2019",
+              "value": 33.4600744570718
+            },
+            {
+              "date": "2020",
+              "value": 41.0396523893444
+            },
+            {
+              "date": "2021",
+              "value": 41.6375124693568
+            },
+            {
+              "date": "2022",
+              "value": 35.3300843740665
+            },
+            {
+              "date": "2023",
+              "value": 31.1237728765421
+            },
+            {
+              "date": "2024",
+              "value": 25.5128667788107
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 25.5128667788107
+          },
           "series_id": "macro.tur.gov_debt_gdp"
         },
         "POL": {
@@ -7441,24 +8681,68 @@
     },
     "fiscal_balance_gdp": {
       "meta": {
-        "code": "GC.BAL.CASH.GD.ZS",
-        "label": "Cash surplus/deficit / GDP",
+        "code": "GC.NLD.TOTL.GD.ZS",
+        "label": "Net lending (+) / net borrowing (-) / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T06:32:23.872996+00:00"
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
           "country": "United States",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -4.77899854941656
+            },
+            {
+              "date": "2019",
+              "value": -5.35878674364723
+            },
+            {
+              "date": "2020",
+              "value": -14.3855994220614
+            },
+            {
+              "date": "2021",
+              "value": -12.7072284020097
+            },
+            {
+              "date": "2022",
+              "value": -4.45683440176853
+            },
+            {
+              "date": "2023",
+              "value": -7.25485596488678
+            },
+            {
+              "date": "2024",
+              "value": -7.18895885533261
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -7.18895885533261
+          },
           "series_id": "macro.usa.fiscal_balance_gdp"
         },
         "IND": {
           "country": "India",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -2.30328908296065
+            },
+            {
+              "date": "2022",
+              "value": -5.2600268875823
+            }
+          ],
+          "latest": {
+            "date": "2022",
+            "value": -5.2600268875823
+          },
           "series_id": "macro.ind.fiscal_balance_gdp"
         },
         "CHN": {
@@ -7475,62 +8759,382 @@
         },
         "DEU": {
           "country": "Germany",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 1.11091050456752
+            },
+            {
+              "date": "2019",
+              "value": 0.766521168807671
+            },
+            {
+              "date": "2020",
+              "value": -3.65593267492002
+            },
+            {
+              "date": "2021",
+              "value": -3.52007147628953
+            },
+            {
+              "date": "2022",
+              "value": -2.5662569966837
+            },
+            {
+              "date": "2023",
+              "value": -1.98906930280069
+            },
+            {
+              "date": "2024",
+              "value": -1.68030732483709
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -1.68030732483709
+          },
           "series_id": "macro.deu.fiscal_balance_gdp"
         },
         "GBR": {
           "country": "United Kingdom",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -3.85207125387797
+            },
+            {
+              "date": "2019",
+              "value": -3.54138398312266
+            },
+            {
+              "date": "2020",
+              "value": -14.8089159983433
+            },
+            {
+              "date": "2021",
+              "value": -9.17408204070175
+            },
+            {
+              "date": "2022",
+              "value": -5.6017379653763
+            },
+            {
+              "date": "2023",
+              "value": -6.97705514642296
+            },
+            {
+              "date": "2024",
+              "value": -6.86231516155942
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -6.86231516155942
+          },
           "series_id": "macro.gbr.fiscal_balance_gdp"
         },
         "FRA": {
           "country": "France",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -2.39420440876454
+            },
+            {
+              "date": "2019",
+              "value": -2.28934891556096
+            },
+            {
+              "date": "2020",
+              "value": -8.76625917136189
+            },
+            {
+              "date": "2021",
+              "value": -6.54907895902013
+            },
+            {
+              "date": "2022",
+              "value": -4.70032899808636
+            },
+            {
+              "date": "2023",
+              "value": -5.0315801130109
+            },
+            {
+              "date": "2024",
+              "value": -5.23749461411331
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -5.23749461411331
+          },
           "series_id": "macro.fra.fiscal_balance_gdp"
         },
         "BRA": {
           "country": "Brazil",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -6.78706251270613
+            },
+            {
+              "date": "2019",
+              "value": -5.3069043382862
+            },
+            {
+              "date": "2020",
+              "value": -12.4363388244528
+            },
+            {
+              "date": "2021",
+              "value": -4.53656203171234
+            },
+            {
+              "date": "2022",
+              "value": -4.46637752027106
+            },
+            {
+              "date": "2023",
+              "value": -6.86868984803513
+            },
+            {
+              "date": "2024",
+              "value": -5.69048407132059
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -5.69048407132059
+          },
           "series_id": "macro.bra.fiscal_balance_gdp"
         },
         "CHE": {
           "country": "Switzerland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 0.844814525837079
+            },
+            {
+              "date": "2019",
+              "value": 0.91719044473155
+            },
+            {
+              "date": "2020",
+              "value": -2.2957040495665
+            },
+            {
+              "date": "2021",
+              "value": -0.65753296117608
+            },
+            {
+              "date": "2022",
+              "value": 0.524929220755109
+            },
+            {
+              "date": "2023",
+              "value": 0.140609747350414
+            },
+            {
+              "date": "2024",
+              "value": 0.49125164665876
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 0.49125164665876
+          },
           "series_id": "macro.che.fiscal_balance_gdp"
         },
         "RUS": {
           "country": "Russia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 2.99931928709043
+            },
+            {
+              "date": "2019",
+              "value": 2.25303685943492
+            },
+            {
+              "date": "2020",
+              "value": -1.7556031548021
+            },
+            {
+              "date": "2021",
+              "value": 1.21542847320298
+            },
+            {
+              "date": "2022",
+              "value": 1.45490619204936
+            },
+            {
+              "date": "2023",
+              "value": 3.36236398439808
+            },
+            {
+              "date": "2024",
+              "value": 1.56344099066055
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 1.56344099066055
+          },
           "series_id": "macro.rus.fiscal_balance_gdp"
         },
         "SAU": {
           "country": "Saudi Arabia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -5.21398247858852
+            },
+            {
+              "date": "2019",
+              "value": -3.97905319006053
+            },
+            {
+              "date": "2020",
+              "value": -10.2054852387537
+            },
+            {
+              "date": "2021",
+              "value": -1.99311190055249
+            },
+            {
+              "date": "2022",
+              "value": 2.23510524060073
+            },
+            {
+              "date": "2023",
+              "value": -1.77137700860758
+            },
+            {
+              "date": "2024",
+              "value": -2.45851850496765
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -2.45851850496765
+          },
           "series_id": "macro.sau.fiscal_balance_gdp"
         },
         "KOR": {
           "country": "South Korea",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 2.28487854818778
+            },
+            {
+              "date": "2019",
+              "value": 0.0352267388925863
+            },
+            {
+              "date": "2020",
+              "value": -1.92144767575192
+            },
+            {
+              "date": "2021",
+              "value": -0.723170898998876
+            },
+            {
+              "date": "2022",
+              "value": -1.74784573111172
+            },
+            {
+              "date": "2023",
+              "value": -1.01976823616344
+            },
+            {
+              "date": "2024",
+              "value": -1.78522109808118
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -1.78522109808118
+          },
           "series_id": "macro.kor.fiscal_balance_gdp"
         },
         "TUR": {
           "country": "Turkey",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -2.20511093526739
+            },
+            {
+              "date": "2019",
+              "value": -3.92445523823865
+            },
+            {
+              "date": "2020",
+              "value": -4.46634618652819
+            },
+            {
+              "date": "2021",
+              "value": -1.26647365629945
+            },
+            {
+              "date": "2022",
+              "value": -2.95717737537508
+            },
+            {
+              "date": "2023",
+              "value": -2.16757579367707
+            },
+            {
+              "date": "2024",
+              "value": -3.16228908448439
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -3.16228908448439
+          },
           "series_id": "macro.tur.fiscal_balance_gdp"
         },
         "POL": {
           "country": "Poland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 0.0711030565932835
+            },
+            {
+              "date": "2019",
+              "value": -0.525642748761954
+            },
+            {
+              "date": "2020",
+              "value": -7.0279473310229
+            },
+            {
+              "date": "2021",
+              "value": -2.23304895927813
+            },
+            {
+              "date": "2022",
+              "value": -2.94116129448377
+            },
+            {
+              "date": "2023",
+              "value": -4.46907041719054
+            },
+            {
+              "date": "2024",
+              "value": -6.86113769190175
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": -6.86113769190175
+          },
           "series_id": "macro.pol.fiscal_balance_gdp"
         }
       }
@@ -7542,7 +9146,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T06:32:23.872996+00:00"
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -7553,14 +9157,78 @@
         },
         "IND": {
           "country": "India",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 19.4905310721105
+            },
+            {
+              "date": "2019",
+              "value": 19.9766366353145
+            },
+            {
+              "date": "2020",
+              "value": 21.4094740100862
+            },
+            {
+              "date": "2021",
+              "value": 19.5524130311129
+            },
+            {
+              "date": "2022",
+              "value": 18.6518069060743
+            },
+            {
+              "date": "2023",
+              "value": 18.0442974446192
+            },
+            {
+              "date": "2024",
+              "value": 18.5795533694083
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 18.5795533694083
+          },
           "series_id": "macro.ind.external_debt_gni"
         },
         "CHN": {
           "country": "China",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 13.9248882428061
+            },
+            {
+              "date": "2019",
+              "value": 14.5601860956403
+            },
+            {
+              "date": "2020",
+              "value": 15.634535209813
+            },
+            {
+              "date": "2021",
+              "value": 15.0703683293598
+            },
+            {
+              "date": "2022",
+              "value": 13.9317634143876
+            },
+            {
+              "date": "2023",
+              "value": 13.50675136222
+            },
+            {
+              "date": "2024",
+              "value": 13.0007522555005
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 13.0007522555005
+          },
           "series_id": "macro.chn.external_debt_gni"
         },
         "JPN": {
@@ -7589,8 +9257,40 @@
         },
         "BRA": {
           "country": "Brazil",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 29.9289604206331
+            },
+            {
+              "date": "2019",
+              "value": 31.1964144613097
+            },
+            {
+              "date": "2020",
+              "value": 38.0076646022397
+            },
+            {
+              "date": "2021",
+              "value": 35.2910131878973
+            },
+            {
+              "date": "2022",
+              "value": 30.5621181630478
+            },
+            {
+              "date": "2023",
+              "value": 28.628650184641
+            },
+            {
+              "date": "2024",
+              "value": 28.6612661075538
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 28.6612661075538
+          },
           "series_id": "macro.bra.external_debt_gni"
         },
         "CHE": {
@@ -7601,8 +9301,32 @@
         },
         "RUS": {
           "country": "Russia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 29.548796109
+            },
+            {
+              "date": "2019",
+              "value": 29.6288697909038
+            },
+            {
+              "date": "2020",
+              "value": 31.6125814211445
+            },
+            {
+              "date": "2021",
+              "value": 26.4340953468359
+            },
+            {
+              "date": "2022",
+              "value": 16.757438584072
+            }
+          ],
+          "latest": {
+            "date": "2022",
+            "value": 16.757438584072
+          },
           "series_id": "macro.rus.external_debt_gni"
         },
         "SAU": {
@@ -7619,8 +9343,40 @@
         },
         "TUR": {
           "country": "Turkey",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 55.4453574540502
+            },
+            {
+              "date": "2019",
+              "value": 55.3071524639806
+            },
+            {
+              "date": "2020",
+              "value": 60.3150906136416
+            },
+            {
+              "date": "2021",
+              "value": 53.7425891882514
+            },
+            {
+              "date": "2022",
+              "value": 50.758322367613
+            },
+            {
+              "date": "2023",
+              "value": 45.157151097837
+            },
+            {
+              "date": "2024",
+              "value": 39.3880494718611
+            }
+          ],
+          "latest": {
+            "date": "2024",
+            "value": 39.3880494718611
+          },
           "series_id": "macro.tur.external_debt_gni"
         },
         "POL": {
@@ -7638,91 +9394,595 @@
         "unit": "USD",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-10-28T06:32:23.872996+00:00"
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
           "country": "United States",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 214715000000.0
+            },
+            {
+              "date": "2019",
+              "value": 315984000000.0
+            },
+            {
+              "date": "2020",
+              "value": 137066000000.0
+            },
+            {
+              "date": "2021",
+              "value": 477956000000.0
+            },
+            {
+              "date": "2022",
+              "value": 425816000000.0
+            },
+            {
+              "date": "2023",
+              "value": 349697000000.0
+            },
+            {
+              "date": "2024",
+              "value": 248584000000.0
+            },
+            {
+              "date": "2025",
+              "value": 307018000000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 307018000000.0
+          },
           "series_id": "macro.usa.fdi_usd"
         },
         "IND": {
           "country": "India",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 42117450737.2644
+            },
+            {
+              "date": "2019",
+              "value": 50610647353.5911
+            },
+            {
+              "date": "2020",
+              "value": 64362364994.3754
+            },
+            {
+              "date": "2021",
+              "value": 44727277562.881
+            },
+            {
+              "date": "2022",
+              "value": 49940258404.2659
+            },
+            {
+              "date": "2023",
+              "value": 28086193530.3979
+            },
+            {
+              "date": "2024",
+              "value": 27139853378.1402
+            },
+            {
+              "date": "2025",
+              "value": 40791693366.9814
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 40791693366.9814
+          },
           "series_id": "macro.ind.fdi_usd"
         },
         "CHN": {
           "country": "China",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 235365050036.341
+            },
+            {
+              "date": "2019",
+              "value": 187169822364.755
+            },
+            {
+              "date": "2020",
+              "value": 253095616058.58
+            },
+            {
+              "date": "2021",
+              "value": 344074977062.48
+            },
+            {
+              "date": "2022",
+              "value": 190203789092.51
+            },
+            {
+              "date": "2023",
+              "value": 51338076801.59
+            },
+            {
+              "date": "2024",
+              "value": 42646542014.57
+            },
+            {
+              "date": "2025",
+              "value": 79979865650.02
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 79979865650.02
+          },
           "series_id": "macro.chn.fdi_usd"
         },
         "JPN": {
           "country": "Japan",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 25289367857.8518
+            },
+            {
+              "date": "2019",
+              "value": 39960544340.0141
+            },
+            {
+              "date": "2020",
+              "value": 62584719398.0912
+            },
+            {
+              "date": "2021",
+              "value": 35027163875.7213
+            },
+            {
+              "date": "2022",
+              "value": 48153832744.0586
+            },
+            {
+              "date": "2023",
+              "value": 20007989122.9042
+            },
+            {
+              "date": "2024",
+              "value": 18874093729.4008
+            },
+            {
+              "date": "2025",
+              "value": 45805721094.5082
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 45805721094.5082
+          },
           "series_id": "macro.jpn.fdi_usd"
         },
         "DEU": {
           "country": "Germany",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 162250938125.842
+            },
+            {
+              "date": "2019",
+              "value": 75463438450.8916
+            },
+            {
+              "date": "2020",
+              "value": 176781024357.228
+            },
+            {
+              "date": "2021",
+              "value": 127609826748.268
+            },
+            {
+              "date": "2022",
+              "value": 76571769735.7819
+            },
+            {
+              "date": "2023",
+              "value": 90884107609.8902
+            },
+            {
+              "date": "2024",
+              "value": 62637241923.0722
+            },
+            {
+              "date": "2025",
+              "value": 95190853681.3291
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 95190853681.3291
+          },
           "series_id": "macro.deu.fdi_usd"
         },
         "GBR": {
           "country": "United Kingdom",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -25055440306.9073
+            },
+            {
+              "date": "2019",
+              "value": 19790761929.1276
+            },
+            {
+              "date": "2020",
+              "value": 157185559299.989
+            },
+            {
+              "date": "2021",
+              "value": 102431564639.492
+            },
+            {
+              "date": "2022",
+              "value": 92776358059.3492
+            },
+            {
+              "date": "2023",
+              "value": 13789803776.1608
+            },
+            {
+              "date": "2024",
+              "value": -12955141484.5037
+            },
+            {
+              "date": "2025",
+              "value": 37588831510.9724
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 37588831510.9724
+          },
           "series_id": "macro.gbr.fdi_usd"
         },
         "FRA": {
           "country": "France",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 77493098693.2377
+            },
+            {
+              "date": "2019",
+              "value": 53499337503.7413
+            },
+            {
+              "date": "2020",
+              "value": 19368829836.4654
+            },
+            {
+              "date": "2021",
+              "value": 98012545019.163
+            },
+            {
+              "date": "2022",
+              "value": 112295479269.655
+            },
+            {
+              "date": "2023",
+              "value": 26786976937.2708
+            },
+            {
+              "date": "2024",
+              "value": 53513083339.2355
+            },
+            {
+              "date": "2025",
+              "value": 61095170372.5774
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 61095170372.5774
+          },
           "series_id": "macro.fra.fdi_usd"
         },
         "BRA": {
           "country": "Brazil",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 78183840044.98
+            },
+            {
+              "date": "2019",
+              "value": 69174411753.45
+            },
+            {
+              "date": "2020",
+              "value": 38270116307.45
+            },
+            {
+              "date": "2021",
+              "value": 46440503520.19
+            },
+            {
+              "date": "2022",
+              "value": 75501038733.31
+            },
+            {
+              "date": "2023",
+              "value": 62750364285.48
+            },
+            {
+              "date": "2024",
+              "value": 74090786050.19
+            },
+            {
+              "date": "2025",
+              "value": 77676162911.61
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 77676162911.61
+          },
           "series_id": "macro.bra.fdi_usd"
         },
         "CHE": {
           "country": "Switzerland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": -161796242279.339
+            },
+            {
+              "date": "2019",
+              "value": 22355117767.168
+            },
+            {
+              "date": "2020",
+              "value": -238563810399.583
+            },
+            {
+              "date": "2021",
+              "value": -120778435587.715
+            },
+            {
+              "date": "2022",
+              "value": -12414047154.6242
+            },
+            {
+              "date": "2023",
+              "value": -115458607844.803
+            },
+            {
+              "date": "2024",
+              "value": -108395568633.839
+            },
+            {
+              "date": "2025",
+              "value": 15896179.02246
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 15896179.02246
+          },
           "series_id": "macro.che.fdi_usd"
         },
         "RUS": {
           "country": "Russia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 8784850000.0
+            },
+            {
+              "date": "2019",
+              "value": 31974770000.0
+            },
+            {
+              "date": "2020",
+              "value": 9478810000.0
+            },
+            {
+              "date": "2021",
+              "value": 40450000000.0
+            },
+            {
+              "date": "2022",
+              "value": -39800944226.9805
+            },
+            {
+              "date": "2023",
+              "value": -10045120000.0
+            },
+            {
+              "date": "2024",
+              "value": -9350260000.0
+            },
+            {
+              "date": "2025",
+              "value": 11136480000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 11136480000.0
+          },
           "series_id": "macro.rus.fdi_usd"
         },
         "SAU": {
           "country": "Saudi Arabia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 12141122232.9039
+            },
+            {
+              "date": "2019",
+              "value": 3079217251.32355
+            },
+            {
+              "date": "2020",
+              "value": 1621264195.43532
+            },
+            {
+              "date": "2021",
+              "value": 28350373333.3333
+            },
+            {
+              "date": "2022",
+              "value": 26710062133.3333
+            },
+            {
+              "date": "2023",
+              "value": 22803498160.5828
+            },
+            {
+              "date": "2024",
+              "value": 21337562069.6656
+            },
+            {
+              "date": "2025",
+              "value": 32628095187.0899
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 32628095187.0899
+          },
           "series_id": "macro.sau.fdi_usd"
         },
         "KOR": {
           "country": "South Korea",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 12182600000.0
+            },
+            {
+              "date": "2019",
+              "value": 9634300000.0
+            },
+            {
+              "date": "2020",
+              "value": 8764900000.0
+            },
+            {
+              "date": "2021",
+              "value": 22060400000.0
+            },
+            {
+              "date": "2022",
+              "value": 25044700000.0
+            },
+            {
+              "date": "2023",
+              "value": 19042300000.0
+            },
+            {
+              "date": "2024",
+              "value": 12862500000.0
+            },
+            {
+              "date": "2025",
+              "value": 15804100000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 15804100000.0
+          },
           "series_id": "macro.kor.fdi_usd"
         },
         "TUR": {
           "country": "Turkey",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 12450000000.0
+            },
+            {
+              "date": "2019",
+              "value": 9507000000.0
+            },
+            {
+              "date": "2020",
+              "value": 7522000000.0
+            },
+            {
+              "date": "2021",
+              "value": 12891000000.0
+            },
+            {
+              "date": "2022",
+              "value": 14776000000.0
+            },
+            {
+              "date": "2023",
+              "value": 10621000000.0
+            },
+            {
+              "date": "2024",
+              "value": 11662000000.0
+            },
+            {
+              "date": "2025",
+              "value": 12971000000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 12971000000.0
+          },
           "series_id": "macro.tur.fdi_usd"
         },
         "POL": {
           "country": "Poland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2018",
+              "value": 19908000000.0
+            },
+            {
+              "date": "2019",
+              "value": 19012000000.0
+            },
+            {
+              "date": "2020",
+              "value": 20086000000.0
+            },
+            {
+              "date": "2021",
+              "value": 37512000000.0
+            },
+            {
+              "date": "2022",
+              "value": 41780000000.0
+            },
+            {
+              "date": "2023",
+              "value": 35660000000.0
+            },
+            {
+              "date": "2024",
+              "value": 20606000000.0
+            },
+            {
+              "date": "2025",
+              "value": 20940000000.0
+            }
+          ],
+          "latest": {
+            "date": "2025",
+            "value": 20940000000.0
+          },
           "series_id": "macro.pol.fdi_usd"
         }
       }
@@ -7733,8 +9993,8 @@
         "label": "Net energy imports / energy use",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -8277,8 +10537,8 @@
         "label": "Energy use per capita",
         "unit": "kg oil eq",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -8821,8 +11081,8 @@
         "label": "Electricity consumption per capita",
         "unit": "kWh",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -9405,8 +11665,8 @@
         "label": "Agriculture / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -9985,8 +12245,8 @@
         "label": "Food exports / merchandise exports",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -10569,8 +12829,8 @@
         "label": "Food imports / merchandise imports",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -11153,8 +13413,8 @@
         "label": "Ores & metals exports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -11737,8 +13997,8 @@
         "label": "Fuel exports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -12321,8 +14581,8 @@
         "label": "Fuel imports share",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -12905,8 +15165,8 @@
         "label": "Container port traffic",
         "unit": "TEU",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "skipped-success",
-        "last_successful_fetch_at": "2026-10-28T05:23:00.358678+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-10-28T11:25:09.651202+00:00"
       },
       "countries": {
         "USA": {
@@ -13530,14 +15790,6 @@
   ],
   "failures": [],
   "fresh_indicators": [
-    "current_account_usd",
-    "current_account_gdp",
-    "gov_debt_gdp",
-    "fiscal_balance_gdp",
-    "external_debt_gni",
-    "fdi_usd"
-  ],
-  "skipped_success_indicators": [
     "inflation",
     "gdp_growth",
     "gdp_usd",
@@ -13550,6 +15802,12 @@
     "imports_usd",
     "imports_gdp",
     "trade_balance",
+    "current_account_usd",
+    "current_account_gdp",
+    "gov_debt_gdp",
+    "fiscal_balance_gdp",
+    "external_debt_gni",
+    "fdi_usd",
     "energy_imports_pct",
     "energy_use_pc",
     "electricity_pc",
@@ -13561,6 +15819,7 @@
     "fuel_imports_pct",
     "container_port_teu"
   ],
+  "skipped_success_indicators": [],
   "stale_indicators": [],
   "unavailable_indicators": [],
   "notes": [

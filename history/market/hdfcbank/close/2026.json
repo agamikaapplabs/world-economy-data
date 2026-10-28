@@ -2482,6 +2482,18 @@
       "status": "observed",
       "revision_no": 2,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-28",
+      "value": 685.299988,
+      "released_at": "2026-10-28",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HDFCBANK.NS",
+      "status": "observed",
+      "revision_no": 3,
+      "is_revision": true
     }
   ]
 }

@@ -1,54 +1,54 @@
 {
   "schema_version": "5.5",
   "report_date": "2026-10-28",
-  "as_of": "2026-10-28T12:02:34.485407+05:30",
+  "as_of": "2026-10-28T16:55:20.876824+05:30",
   "series_latest": {
     "market.gold.close": {
       "period": "2026-10-28",
-      "value": 4044.800049,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 4060.5,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.silver.close": {
       "period": "2026-10-28",
-      "value": 53.970001,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 53.790001,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.sp500.close": {
       "period": "2026-10-27",
       "value": 7722.600098,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.nasdaq.close": {
       "period": "2026-10-27",
       "value": 26477.810547,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.nifty50.close": {
       "period": "2026-10-28",
-      "value": 22625.550781,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 22698.849609,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.ftse100.close": {
-      "period": "2026-10-27",
-      "value": 10686.5,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "period": "2026-10-28",
+      "value": 10654.80957,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.nikkei.close": {
       "period": "2026-10-28",
-      "value": 64051.46875,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 63954.191406,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.hangseng.close": {
       "period": "2026-10-28",
-      "value": 23082.029297,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 23094.830078,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.apple.close": {
@@ -101,98 +101,98 @@
     },
     "market.reliance.close": {
       "period": "2026-10-28",
-      "value": 1172.0,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 1158.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.tcs.close": {
       "period": "2026-10-28",
-      "value": 2428.800049,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 2460.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.hdfcbank.close": {
       "period": "2026-10-28",
-      "value": 679.900024,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 685.299988,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.bharti.close": {
       "period": "2026-10-28",
-      "value": 1942.599976,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 1948.099976,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.icicibank.close": {
       "period": "2026-10-28",
-      "value": 1374.599976,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 1377.599976,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.infosys.close": {
       "period": "2026-10-28",
-      "value": 1114.650024,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 1123.150024,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.lt.close": {
       "period": "2026-10-28",
-      "value": 3811.800049,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 3801.300049,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.sbi.close": {
       "period": "2026-10-28",
-      "value": 954.75,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 956.799988,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.asml.close": {
-      "period": "2026-10-27",
-      "value": 1470.0,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 1489.199951,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.sap.close": {
-      "period": "2026-10-27",
-      "value": 213.149994,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 209.600006,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.siemens_eu.close": {
-      "period": "2026-10-27",
-      "value": 266.200012,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 267.600006,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.schneider.close": {
-      "period": "2026-10-27",
-      "value": 242.699997,
-      "collected_at": "2026-10-27T20:55:03.668410+05:30",
+      "period": "2026-10-28",
+      "value": 246.949997,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.airbus.close": {
-      "period": "2026-10-27",
-      "value": 192.740005,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 192.679993,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.lvmh.close": {
-      "period": "2026-10-27",
-      "value": 388.25,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 386.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.novo.close": {
-      "period": "2026-10-27",
-      "value": 259.5,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 256.5,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.shell.close": {
-      "period": "2026-10-27",
-      "value": 3927.5,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 3930.5,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.caterpillar.close": {
@@ -214,15 +214,15 @@
       "source_id": "yahoo-finance-chart"
     },
     "market.siemens_heavy.close": {
-      "period": "2026-10-27",
-      "value": 266.200012,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 267.600006,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.abb.close": {
-      "period": "2026-10-27",
-      "value": 71.5,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 72.800003,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.honeywell.close": {
@@ -233,8 +233,8 @@
     },
     "market.lt_heavy.close": {
       "period": "2026-10-28",
-      "value": 3810.0,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 3801.300049,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.mhi.close": {
@@ -268,27 +268,27 @@
       "source_id": "yahoo-finance-chart"
     },
     "market.bae.close": {
-      "period": "2026-10-27",
-      "value": 2037.0,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 2021.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.rheinmetall.close": {
-      "period": "2026-10-27",
-      "value": 1025.199951,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 1015.799988,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.leonardo.close": {
-      "period": "2026-10-27",
-      "value": 49.955002,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 49.764999,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.thales.close": {
-      "period": "2026-10-27",
-      "value": 234.199997,
-      "collected_at": "2026-10-28T00:08:29.579370+05:30",
+      "period": "2026-10-28",
+      "value": 234.300003,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.us3m.close": {
@@ -317,68 +317,68 @@
     },
     "market.brent.close": {
       "period": "2026-10-28",
-      "value": 111.18,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 111.32,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.wti.close": {
       "period": "2026-10-28",
-      "value": 101.599998,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 101.660004,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.natgas.close": {
       "period": "2026-10-28",
-      "value": 3.064,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 3.081,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.copper.close": {
       "period": "2026-10-28",
-      "value": 6.648,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 6.6375,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.wheat.close": {
       "period": "2026-10-28",
-      "value": 611.0,
-      "collected_at": "2026-10-28T12:02:34.485407+05:30",
+      "value": 613.5,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.corn.close": {
       "period": "2026-10-28",
-      "value": 449.5,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "value": 451.25,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.vix.close": {
-      "period": "2026-10-27",
-      "value": 17.52,
-      "collected_at": "2026-10-28T06:51:15.033911+05:30",
+      "period": "2026-10-28",
+      "value": 17.49,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.usd_inr.close": {
       "period": "2026-10-27",
       "value": 95.12,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "frankfurter"
     },
     "market.usd_eur.close": {
       "period": "2026-10-27",
       "value": 0.89686,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "frankfurter"
     },
     "market.usd_gbp.close": {
       "period": "2026-10-27",
       "value": 0.7503,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "frankfurter"
     },
     "market.usd_jpy.close": {
       "period": "2026-10-27",
       "value": 157.82,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "frankfurter"
     },
     "market.usd_chf.close": {
@@ -1401,6 +1401,408 @@
       "collected_at": "2026-10-27T13:43:10.192392+05:30",
       "source_id": "world-bank-wdi"
     },
+    "macro.usa.current_account_usd": {
+      "period": "2025",
+      "value": -1177068000000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.ind.current_account_usd": {
+      "period": "2025",
+      "value": -20227690663.9122,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.chn.current_account_usd": {
+      "period": "2025",
+      "value": 735021965565.35,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.jpn.current_account_usd": {
+      "period": "2025",
+      "value": 215768947339.997,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.deu.current_account_usd": {
+      "period": "2025",
+      "value": 224632916868.02,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.gbr.current_account_usd": {
+      "period": "2025",
+      "value": -125420187646.32,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.fra.current_account_usd": {
+      "period": "2025",
+      "value": -11152257703.2589,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.bra.current_account_usd": {
+      "period": "2025",
+      "value": -66717333403.48,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.che.current_account_usd": {
+      "period": "2025",
+      "value": 65182983913.8817,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.rus.current_account_usd": {
+      "period": "2025",
+      "value": 38805330000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.sau.current_account_usd": {
+      "period": "2025",
+      "value": -32736467567.4766,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.kor.current_account_usd": {
+      "period": "2025",
+      "value": 123053800000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.tur.current_account_usd": {
+      "period": "2025",
+      "value": -30338000000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.pol.current_account_usd": {
+      "period": "2025",
+      "value": -9872000000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.usa.current_account_gdp": {
+      "period": "2025",
+      "value": -3.8254126624569,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.ind.current_account_gdp": {
+      "period": "2025",
+      "value": -0.511308076227287,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.chn.current_account_gdp": {
+      "period": "2025",
+      "value": 3.76972243689338,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.jpn.current_account_gdp": {
+      "period": "2025",
+      "value": 4.86496093471918,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.deu.current_account_gdp": {
+      "period": "2025",
+      "value": 4.44736378284623,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.gbr.current_account_gdp": {
+      "period": "2025",
+      "value": -3.13347768999639,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.fra.current_account_gdp": {
+      "period": "2025",
+      "value": -0.331289693053725,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.bra.current_account_gdp": {
+      "period": "2025",
+      "value": -2.92630139201733,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.che.current_account_gdp": {
+      "period": "2025",
+      "value": 6.24639351116552,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.rus.current_account_gdp": {
+      "period": "2025",
+      "value": 1.51505781940168,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.sau.current_account_gdp": {
+      "period": "2025",
+      "value": -2.56365940191401,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.kor.current_account_gdp": {
+      "period": "2025",
+      "value": 6.57207036660681,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.tur.current_account_gdp": {
+      "period": "2025",
+      "value": -1.89933817058389,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.pol.current_account_gdp": {
+      "period": "2025",
+      "value": -0.953363430850522,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.usa.gov_debt_gdp": {
+      "period": "2024",
+      "value": 115.788609964778,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.ind.gov_debt_gdp": {
+      "period": "2018",
+      "value": 46.5224986659322,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.gbr.gov_debt_gdp": {
+      "period": "2024",
+      "value": 130.735888365813,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.bra.gov_debt_gdp": {
+      "period": "2024",
+      "value": 81.8554431191023,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.che.gov_debt_gdp": {
+      "period": "2024",
+      "value": 22.2786942016816,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.rus.gov_debt_gdp": {
+      "period": "2024",
+      "value": 17.8500676833114,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.kor.gov_debt_gdp": {
+      "period": "2024",
+      "value": 47.8141426119509,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.tur.gov_debt_gdp": {
+      "period": "2024",
+      "value": 25.5128667788107,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.usa.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -7.18895885533261,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.ind.fiscal_balance_gdp": {
+      "period": "2022",
+      "value": -5.2600268875823,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.deu.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -1.68030732483709,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.gbr.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -6.86231516155942,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.fra.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -5.23749461411331,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.bra.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -5.69048407132059,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.che.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": 0.49125164665876,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.rus.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": 1.56344099066055,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.sau.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -2.45851850496765,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.kor.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -1.78522109808118,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.tur.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -3.16228908448439,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.pol.fiscal_balance_gdp": {
+      "period": "2024",
+      "value": -6.86113769190175,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.ind.external_debt_gni": {
+      "period": "2024",
+      "value": 18.5795533694083,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.chn.external_debt_gni": {
+      "period": "2024",
+      "value": 13.0007522555005,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.bra.external_debt_gni": {
+      "period": "2024",
+      "value": 28.6612661075538,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.rus.external_debt_gni": {
+      "period": "2022",
+      "value": 16.757438584072,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.tur.external_debt_gni": {
+      "period": "2024",
+      "value": 39.3880494718611,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.usa.fdi_usd": {
+      "period": "2025",
+      "value": 307018000000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.ind.fdi_usd": {
+      "period": "2025",
+      "value": 40791693366.9814,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.chn.fdi_usd": {
+      "period": "2025",
+      "value": 79979865650.02,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.jpn.fdi_usd": {
+      "period": "2025",
+      "value": 45805721094.5082,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.deu.fdi_usd": {
+      "period": "2025",
+      "value": 95190853681.3291,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.gbr.fdi_usd": {
+      "period": "2025",
+      "value": 37588831510.9724,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.fra.fdi_usd": {
+      "period": "2025",
+      "value": 61095170372.5774,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.bra.fdi_usd": {
+      "period": "2025",
+      "value": 77676162911.61,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.che.fdi_usd": {
+      "period": "2025",
+      "value": 15896179.02246,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.rus.fdi_usd": {
+      "period": "2025",
+      "value": 11136480000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.sau.fdi_usd": {
+      "period": "2025",
+      "value": 32628095187.0899,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.kor.fdi_usd": {
+      "period": "2025",
+      "value": 15804100000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.tur.fdi_usd": {
+      "period": "2025",
+      "value": 12971000000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
+    "macro.pol.fdi_usd": {
+      "period": "2025",
+      "value": 20940000000.0,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi"
+    },
     "macro.usa.energy_imports_pct": {
       "period": "2024",
       "value": -9.78127421443322,
@@ -2286,7 +2688,7 @@
     "india.labour.unemployment": {
       "period": "Sep 2026",
       "value": 55.5,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "plfs-mospi-pib"
     },
     "india.now.real_gdp_growth": {
@@ -2304,7 +2706,7 @@
     "india.now.unemployment": {
       "period": "Sep 2026",
       "value": 55.5,
-      "collected_at": "2026-10-28T10:53:10.476356+05:30",
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
       "source_id": "plfs-mospi"
     },
     "india.now.fx_reserves_usd_bn": {

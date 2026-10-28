@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.5",
+  "series_id": "macro.gbr.current_account_usd",
+  "metadata": {
+    "name": "United Kingdom · Current account",
+    "unit": "USD",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "GBR",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
+    "indicator_code": "BN.CAB.XOKA.CD"
+  },
+  "observations": [
+    {
+      "period": "2021",
+      "value": -24049803045.1644,
+      "released_at": null,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

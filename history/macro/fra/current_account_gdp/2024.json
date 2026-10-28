@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.5",
+  "series_id": "macro.fra.current_account_gdp",
+  "metadata": {
+    "name": "France · Current account / GDP",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "FRA",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
+    "indicator_code": "BN.CAB.XOKA.GD.ZS"
+  },
+  "observations": [
+    {
+      "period": "2024",
+      "value": -0.327070655568123,
+      "released_at": null,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

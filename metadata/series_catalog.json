@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-28T12:02:34.485407+05:30",
+  "generated_at": "2026-10-28T16:55:20.876824+05:30",
   "series_count": 485,
   "series": {
     "india.auto.commercial_vehicles": {
@@ -409,7 +409,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/bra/current_account_gdp/2018.json",
+        "history/macro/bra/current_account_gdp/2019.json",
+        "history/macro/bra/current_account_gdp/2020.json",
+        "history/macro/bra/current_account_gdp/2021.json",
+        "history/macro/bra/current_account_gdp/2022.json",
+        "history/macro/bra/current_account_gdp/2023.json",
+        "history/macro/bra/current_account_gdp/2024.json",
+        "history/macro/bra/current_account_gdp/2025.json"
+      ]
     },
     "macro.bra.current_account_usd": {
       "name": "Brazil · Current account",
@@ -420,7 +429,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/bra/current_account_usd/2018.json",
+        "history/macro/bra/current_account_usd/2019.json",
+        "history/macro/bra/current_account_usd/2020.json",
+        "history/macro/bra/current_account_usd/2021.json",
+        "history/macro/bra/current_account_usd/2022.json",
+        "history/macro/bra/current_account_usd/2023.json",
+        "history/macro/bra/current_account_usd/2024.json",
+        "history/macro/bra/current_account_usd/2025.json"
+      ]
     },
     "macro.bra.electricity_pc": {
       "name": "Brazil · Electricity consumption per capita",
@@ -529,7 +547,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/DT.DOD.DECT.GN.ZS",
       "indicator_code": "DT.DOD.DECT.GN.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/bra/external_debt_gni/2018.json",
+        "history/macro/bra/external_debt_gni/2019.json",
+        "history/macro/bra/external_debt_gni/2020.json",
+        "history/macro/bra/external_debt_gni/2021.json",
+        "history/macro/bra/external_debt_gni/2022.json",
+        "history/macro/bra/external_debt_gni/2023.json",
+        "history/macro/bra/external_debt_gni/2024.json"
+      ]
     },
     "macro.bra.fdi_usd": {
       "name": "Brazil · FDI net inflows",
@@ -540,18 +566,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/bra/fdi_usd/2018.json",
+        "history/macro/bra/fdi_usd/2019.json",
+        "history/macro/bra/fdi_usd/2020.json",
+        "history/macro/bra/fdi_usd/2021.json",
+        "history/macro/bra/fdi_usd/2022.json",
+        "history/macro/bra/fdi_usd/2023.json",
+        "history/macro/bra/fdi_usd/2024.json",
+        "history/macro/bra/fdi_usd/2025.json"
+      ]
     },
     "macro.bra.fiscal_balance_gdp": {
-      "name": "Brazil · Cash surplus/deficit / GDP",
+      "name": "Brazil · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "BRA",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/bra/fiscal_balance_gdp/2018.json",
+        "history/macro/bra/fiscal_balance_gdp/2019.json",
+        "history/macro/bra/fiscal_balance_gdp/2020.json",
+        "history/macro/bra/fiscal_balance_gdp/2021.json",
+        "history/macro/bra/fiscal_balance_gdp/2022.json",
+        "history/macro/bra/fiscal_balance_gdp/2023.json",
+        "history/macro/bra/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.bra.food_exports_pct": {
       "name": "Brazil · Food exports / merchandise exports",
@@ -702,7 +745,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/bra/gov_debt_gdp/2018.json",
+        "history/macro/bra/gov_debt_gdp/2019.json",
+        "history/macro/bra/gov_debt_gdp/2020.json",
+        "history/macro/bra/gov_debt_gdp/2021.json",
+        "history/macro/bra/gov_debt_gdp/2022.json",
+        "history/macro/bra/gov_debt_gdp/2023.json",
+        "history/macro/bra/gov_debt_gdp/2024.json"
+      ]
     },
     "macro.bra.import_cover": {
       "name": "Brazil · Reserves in months of imports",
@@ -908,7 +959,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/che/current_account_gdp/2018.json",
+        "history/macro/che/current_account_gdp/2019.json",
+        "history/macro/che/current_account_gdp/2020.json",
+        "history/macro/che/current_account_gdp/2021.json",
+        "history/macro/che/current_account_gdp/2022.json",
+        "history/macro/che/current_account_gdp/2023.json",
+        "history/macro/che/current_account_gdp/2024.json",
+        "history/macro/che/current_account_gdp/2025.json"
+      ]
     },
     "macro.che.current_account_usd": {
       "name": "Switzerland · Current account",
@@ -919,7 +979,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/che/current_account_usd/2018.json",
+        "history/macro/che/current_account_usd/2019.json",
+        "history/macro/che/current_account_usd/2020.json",
+        "history/macro/che/current_account_usd/2021.json",
+        "history/macro/che/current_account_usd/2022.json",
+        "history/macro/che/current_account_usd/2023.json",
+        "history/macro/che/current_account_usd/2024.json",
+        "history/macro/che/current_account_usd/2025.json"
+      ]
     },
     "macro.che.electricity_pc": {
       "name": "Switzerland · Electricity consumption per capita",
@@ -1039,18 +1108,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/che/fdi_usd/2018.json",
+        "history/macro/che/fdi_usd/2019.json",
+        "history/macro/che/fdi_usd/2020.json",
+        "history/macro/che/fdi_usd/2021.json",
+        "history/macro/che/fdi_usd/2022.json",
+        "history/macro/che/fdi_usd/2023.json",
+        "history/macro/che/fdi_usd/2024.json",
+        "history/macro/che/fdi_usd/2025.json"
+      ]
     },
     "macro.che.fiscal_balance_gdp": {
-      "name": "Switzerland · Cash surplus/deficit / GDP",
+      "name": "Switzerland · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "CHE",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/che/fiscal_balance_gdp/2018.json",
+        "history/macro/che/fiscal_balance_gdp/2019.json",
+        "history/macro/che/fiscal_balance_gdp/2020.json",
+        "history/macro/che/fiscal_balance_gdp/2021.json",
+        "history/macro/che/fiscal_balance_gdp/2022.json",
+        "history/macro/che/fiscal_balance_gdp/2023.json",
+        "history/macro/che/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.che.food_exports_pct": {
       "name": "Switzerland · Food exports / merchandise exports",
@@ -1201,7 +1287,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/che/gov_debt_gdp/2018.json",
+        "history/macro/che/gov_debt_gdp/2019.json",
+        "history/macro/che/gov_debt_gdp/2020.json",
+        "history/macro/che/gov_debt_gdp/2021.json",
+        "history/macro/che/gov_debt_gdp/2022.json",
+        "history/macro/che/gov_debt_gdp/2023.json",
+        "history/macro/che/gov_debt_gdp/2024.json"
+      ]
     },
     "macro.che.import_cover": {
       "name": "Switzerland · Reserves in months of imports",
@@ -1411,7 +1505,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/chn/current_account_gdp/2018.json",
+        "history/macro/chn/current_account_gdp/2019.json",
+        "history/macro/chn/current_account_gdp/2020.json",
+        "history/macro/chn/current_account_gdp/2021.json",
+        "history/macro/chn/current_account_gdp/2022.json",
+        "history/macro/chn/current_account_gdp/2023.json",
+        "history/macro/chn/current_account_gdp/2024.json",
+        "history/macro/chn/current_account_gdp/2025.json"
+      ]
     },
     "macro.chn.current_account_usd": {
       "name": "China · Current account",
@@ -1422,7 +1525,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/chn/current_account_usd/2018.json",
+        "history/macro/chn/current_account_usd/2019.json",
+        "history/macro/chn/current_account_usd/2020.json",
+        "history/macro/chn/current_account_usd/2021.json",
+        "history/macro/chn/current_account_usd/2022.json",
+        "history/macro/chn/current_account_usd/2023.json",
+        "history/macro/chn/current_account_usd/2024.json",
+        "history/macro/chn/current_account_usd/2025.json"
+      ]
     },
     "macro.chn.electricity_pc": {
       "name": "China · Electricity consumption per capita",
@@ -1530,7 +1642,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/DT.DOD.DECT.GN.ZS",
       "indicator_code": "DT.DOD.DECT.GN.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/chn/external_debt_gni/2018.json",
+        "history/macro/chn/external_debt_gni/2019.json",
+        "history/macro/chn/external_debt_gni/2020.json",
+        "history/macro/chn/external_debt_gni/2021.json",
+        "history/macro/chn/external_debt_gni/2022.json",
+        "history/macro/chn/external_debt_gni/2023.json",
+        "history/macro/chn/external_debt_gni/2024.json"
+      ]
     },
     "macro.chn.fdi_usd": {
       "name": "China · FDI net inflows",
@@ -1541,17 +1661,26 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/chn/fdi_usd/2018.json",
+        "history/macro/chn/fdi_usd/2019.json",
+        "history/macro/chn/fdi_usd/2020.json",
+        "history/macro/chn/fdi_usd/2021.json",
+        "history/macro/chn/fdi_usd/2022.json",
+        "history/macro/chn/fdi_usd/2023.json",
+        "history/macro/chn/fdi_usd/2024.json",
+        "history/macro/chn/fdi_usd/2025.json"
+      ]
     },
     "macro.chn.fiscal_balance_gdp": {
-      "name": "China · Cash surplus/deficit / GDP",
+      "name": "China · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "CHN",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
       "history_files": []
     },
     "macro.chn.food_exports_pct": {
@@ -1913,7 +2042,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/deu/current_account_gdp/2018.json",
+        "history/macro/deu/current_account_gdp/2019.json",
+        "history/macro/deu/current_account_gdp/2020.json",
+        "history/macro/deu/current_account_gdp/2021.json",
+        "history/macro/deu/current_account_gdp/2022.json",
+        "history/macro/deu/current_account_gdp/2023.json",
+        "history/macro/deu/current_account_gdp/2024.json",
+        "history/macro/deu/current_account_gdp/2025.json"
+      ]
     },
     "macro.deu.current_account_usd": {
       "name": "Germany · Current account",
@@ -1924,7 +2062,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/deu/current_account_usd/2018.json",
+        "history/macro/deu/current_account_usd/2019.json",
+        "history/macro/deu/current_account_usd/2020.json",
+        "history/macro/deu/current_account_usd/2021.json",
+        "history/macro/deu/current_account_usd/2022.json",
+        "history/macro/deu/current_account_usd/2023.json",
+        "history/macro/deu/current_account_usd/2024.json",
+        "history/macro/deu/current_account_usd/2025.json"
+      ]
     },
     "macro.deu.electricity_pc": {
       "name": "Germany · Electricity consumption per capita",
@@ -2044,18 +2191,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/deu/fdi_usd/2018.json",
+        "history/macro/deu/fdi_usd/2019.json",
+        "history/macro/deu/fdi_usd/2020.json",
+        "history/macro/deu/fdi_usd/2021.json",
+        "history/macro/deu/fdi_usd/2022.json",
+        "history/macro/deu/fdi_usd/2023.json",
+        "history/macro/deu/fdi_usd/2024.json",
+        "history/macro/deu/fdi_usd/2025.json"
+      ]
     },
     "macro.deu.fiscal_balance_gdp": {
-      "name": "Germany · Cash surplus/deficit / GDP",
+      "name": "Germany · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "DEU",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/deu/fiscal_balance_gdp/2018.json",
+        "history/macro/deu/fiscal_balance_gdp/2019.json",
+        "history/macro/deu/fiscal_balance_gdp/2020.json",
+        "history/macro/deu/fiscal_balance_gdp/2021.json",
+        "history/macro/deu/fiscal_balance_gdp/2022.json",
+        "history/macro/deu/fiscal_balance_gdp/2023.json",
+        "history/macro/deu/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.deu.food_exports_pct": {
       "name": "Germany · Food exports / merchandise exports",
@@ -2416,7 +2580,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/fra/current_account_gdp/2018.json",
+        "history/macro/fra/current_account_gdp/2019.json",
+        "history/macro/fra/current_account_gdp/2020.json",
+        "history/macro/fra/current_account_gdp/2021.json",
+        "history/macro/fra/current_account_gdp/2022.json",
+        "history/macro/fra/current_account_gdp/2023.json",
+        "history/macro/fra/current_account_gdp/2024.json",
+        "history/macro/fra/current_account_gdp/2025.json"
+      ]
     },
     "macro.fra.current_account_usd": {
       "name": "France · Current account",
@@ -2427,7 +2600,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/fra/current_account_usd/2018.json",
+        "history/macro/fra/current_account_usd/2019.json",
+        "history/macro/fra/current_account_usd/2020.json",
+        "history/macro/fra/current_account_usd/2021.json",
+        "history/macro/fra/current_account_usd/2022.json",
+        "history/macro/fra/current_account_usd/2023.json",
+        "history/macro/fra/current_account_usd/2024.json",
+        "history/macro/fra/current_account_usd/2025.json"
+      ]
     },
     "macro.fra.electricity_pc": {
       "name": "France · Electricity consumption per capita",
@@ -2547,18 +2729,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/fra/fdi_usd/2018.json",
+        "history/macro/fra/fdi_usd/2019.json",
+        "history/macro/fra/fdi_usd/2020.json",
+        "history/macro/fra/fdi_usd/2021.json",
+        "history/macro/fra/fdi_usd/2022.json",
+        "history/macro/fra/fdi_usd/2023.json",
+        "history/macro/fra/fdi_usd/2024.json",
+        "history/macro/fra/fdi_usd/2025.json"
+      ]
     },
     "macro.fra.fiscal_balance_gdp": {
-      "name": "France · Cash surplus/deficit / GDP",
+      "name": "France · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "FRA",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/fra/fiscal_balance_gdp/2018.json",
+        "history/macro/fra/fiscal_balance_gdp/2019.json",
+        "history/macro/fra/fiscal_balance_gdp/2020.json",
+        "history/macro/fra/fiscal_balance_gdp/2021.json",
+        "history/macro/fra/fiscal_balance_gdp/2022.json",
+        "history/macro/fra/fiscal_balance_gdp/2023.json",
+        "history/macro/fra/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.fra.food_exports_pct": {
       "name": "France · Food exports / merchandise exports",
@@ -2919,7 +3118,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/gbr/current_account_gdp/2018.json",
+        "history/macro/gbr/current_account_gdp/2019.json",
+        "history/macro/gbr/current_account_gdp/2020.json",
+        "history/macro/gbr/current_account_gdp/2021.json",
+        "history/macro/gbr/current_account_gdp/2022.json",
+        "history/macro/gbr/current_account_gdp/2023.json",
+        "history/macro/gbr/current_account_gdp/2024.json",
+        "history/macro/gbr/current_account_gdp/2025.json"
+      ]
     },
     "macro.gbr.current_account_usd": {
       "name": "United Kingdom · Current account",
@@ -2930,7 +3138,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/gbr/current_account_usd/2018.json",
+        "history/macro/gbr/current_account_usd/2019.json",
+        "history/macro/gbr/current_account_usd/2020.json",
+        "history/macro/gbr/current_account_usd/2021.json",
+        "history/macro/gbr/current_account_usd/2022.json",
+        "history/macro/gbr/current_account_usd/2023.json",
+        "history/macro/gbr/current_account_usd/2024.json",
+        "history/macro/gbr/current_account_usd/2025.json"
+      ]
     },
     "macro.gbr.electricity_pc": {
       "name": "United Kingdom · Electricity consumption per capita",
@@ -3050,18 +3267,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/gbr/fdi_usd/2018.json",
+        "history/macro/gbr/fdi_usd/2019.json",
+        "history/macro/gbr/fdi_usd/2020.json",
+        "history/macro/gbr/fdi_usd/2021.json",
+        "history/macro/gbr/fdi_usd/2022.json",
+        "history/macro/gbr/fdi_usd/2023.json",
+        "history/macro/gbr/fdi_usd/2024.json",
+        "history/macro/gbr/fdi_usd/2025.json"
+      ]
     },
     "macro.gbr.fiscal_balance_gdp": {
-      "name": "United Kingdom · Cash surplus/deficit / GDP",
+      "name": "United Kingdom · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "GBR",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/gbr/fiscal_balance_gdp/2018.json",
+        "history/macro/gbr/fiscal_balance_gdp/2019.json",
+        "history/macro/gbr/fiscal_balance_gdp/2020.json",
+        "history/macro/gbr/fiscal_balance_gdp/2021.json",
+        "history/macro/gbr/fiscal_balance_gdp/2022.json",
+        "history/macro/gbr/fiscal_balance_gdp/2023.json",
+        "history/macro/gbr/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.gbr.food_exports_pct": {
       "name": "United Kingdom · Food exports / merchandise exports",
@@ -3212,7 +3446,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/gbr/gov_debt_gdp/2018.json",
+        "history/macro/gbr/gov_debt_gdp/2019.json",
+        "history/macro/gbr/gov_debt_gdp/2020.json",
+        "history/macro/gbr/gov_debt_gdp/2021.json",
+        "history/macro/gbr/gov_debt_gdp/2022.json",
+        "history/macro/gbr/gov_debt_gdp/2023.json",
+        "history/macro/gbr/gov_debt_gdp/2024.json"
+      ]
     },
     "macro.gbr.import_cover": {
       "name": "United Kingdom · Reserves in months of imports",
@@ -3422,7 +3664,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/ind/current_account_gdp/2018.json",
+        "history/macro/ind/current_account_gdp/2019.json",
+        "history/macro/ind/current_account_gdp/2020.json",
+        "history/macro/ind/current_account_gdp/2021.json",
+        "history/macro/ind/current_account_gdp/2022.json",
+        "history/macro/ind/current_account_gdp/2023.json",
+        "history/macro/ind/current_account_gdp/2024.json",
+        "history/macro/ind/current_account_gdp/2025.json"
+      ]
     },
     "macro.ind.current_account_usd": {
       "name": "India · Current account",
@@ -3433,7 +3684,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/ind/current_account_usd/2018.json",
+        "history/macro/ind/current_account_usd/2019.json",
+        "history/macro/ind/current_account_usd/2020.json",
+        "history/macro/ind/current_account_usd/2021.json",
+        "history/macro/ind/current_account_usd/2022.json",
+        "history/macro/ind/current_account_usd/2023.json",
+        "history/macro/ind/current_account_usd/2024.json",
+        "history/macro/ind/current_account_usd/2025.json"
+      ]
     },
     "macro.ind.electricity_pc": {
       "name": "India · Electricity consumption per capita",
@@ -3541,7 +3801,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/DT.DOD.DECT.GN.ZS",
       "indicator_code": "DT.DOD.DECT.GN.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/ind/external_debt_gni/2018.json",
+        "history/macro/ind/external_debt_gni/2019.json",
+        "history/macro/ind/external_debt_gni/2020.json",
+        "history/macro/ind/external_debt_gni/2021.json",
+        "history/macro/ind/external_debt_gni/2022.json",
+        "history/macro/ind/external_debt_gni/2023.json",
+        "history/macro/ind/external_debt_gni/2024.json"
+      ]
     },
     "macro.ind.fdi_usd": {
       "name": "India · FDI net inflows",
@@ -3552,18 +3820,30 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/ind/fdi_usd/2018.json",
+        "history/macro/ind/fdi_usd/2019.json",
+        "history/macro/ind/fdi_usd/2020.json",
+        "history/macro/ind/fdi_usd/2021.json",
+        "history/macro/ind/fdi_usd/2022.json",
+        "history/macro/ind/fdi_usd/2023.json",
+        "history/macro/ind/fdi_usd/2024.json",
+        "history/macro/ind/fdi_usd/2025.json"
+      ]
     },
     "macro.ind.fiscal_balance_gdp": {
-      "name": "India · Cash surplus/deficit / GDP",
+      "name": "India · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "IND",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/ind/fiscal_balance_gdp/2018.json",
+        "history/macro/ind/fiscal_balance_gdp/2022.json"
+      ]
     },
     "macro.ind.food_exports_pct": {
       "name": "India · Food exports / merchandise exports",
@@ -3714,7 +3994,9 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/ind/gov_debt_gdp/2018.json"
+      ]
     },
     "macro.ind.import_cover": {
       "name": "India · Reserves in months of imports",
@@ -3923,7 +4205,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/jpn/current_account_gdp/2018.json",
+        "history/macro/jpn/current_account_gdp/2019.json",
+        "history/macro/jpn/current_account_gdp/2020.json",
+        "history/macro/jpn/current_account_gdp/2021.json",
+        "history/macro/jpn/current_account_gdp/2022.json",
+        "history/macro/jpn/current_account_gdp/2023.json",
+        "history/macro/jpn/current_account_gdp/2024.json",
+        "history/macro/jpn/current_account_gdp/2025.json"
+      ]
     },
     "macro.jpn.current_account_usd": {
       "name": "Japan · Current account",
@@ -3934,7 +4225,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/jpn/current_account_usd/2018.json",
+        "history/macro/jpn/current_account_usd/2019.json",
+        "history/macro/jpn/current_account_usd/2020.json",
+        "history/macro/jpn/current_account_usd/2021.json",
+        "history/macro/jpn/current_account_usd/2022.json",
+        "history/macro/jpn/current_account_usd/2023.json",
+        "history/macro/jpn/current_account_usd/2024.json",
+        "history/macro/jpn/current_account_usd/2025.json"
+      ]
     },
     "macro.jpn.electricity_pc": {
       "name": "Japan · Electricity consumption per capita",
@@ -4052,17 +4352,26 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/jpn/fdi_usd/2018.json",
+        "history/macro/jpn/fdi_usd/2019.json",
+        "history/macro/jpn/fdi_usd/2020.json",
+        "history/macro/jpn/fdi_usd/2021.json",
+        "history/macro/jpn/fdi_usd/2022.json",
+        "history/macro/jpn/fdi_usd/2023.json",
+        "history/macro/jpn/fdi_usd/2024.json",
+        "history/macro/jpn/fdi_usd/2025.json"
+      ]
     },
     "macro.jpn.fiscal_balance_gdp": {
-      "name": "Japan · Cash surplus/deficit / GDP",
+      "name": "Japan · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "JPN",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
       "history_files": []
     },
     "macro.jpn.food_exports_pct": {
@@ -4421,7 +4730,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/kor/current_account_gdp/2018.json",
+        "history/macro/kor/current_account_gdp/2019.json",
+        "history/macro/kor/current_account_gdp/2020.json",
+        "history/macro/kor/current_account_gdp/2021.json",
+        "history/macro/kor/current_account_gdp/2022.json",
+        "history/macro/kor/current_account_gdp/2023.json",
+        "history/macro/kor/current_account_gdp/2024.json",
+        "history/macro/kor/current_account_gdp/2025.json"
+      ]
     },
     "macro.kor.current_account_usd": {
       "name": "South Korea · Current account",
@@ -4432,7 +4750,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/kor/current_account_usd/2018.json",
+        "history/macro/kor/current_account_usd/2019.json",
+        "history/macro/kor/current_account_usd/2020.json",
+        "history/macro/kor/current_account_usd/2021.json",
+        "history/macro/kor/current_account_usd/2022.json",
+        "history/macro/kor/current_account_usd/2023.json",
+        "history/macro/kor/current_account_usd/2024.json",
+        "history/macro/kor/current_account_usd/2025.json"
+      ]
     },
     "macro.kor.electricity_pc": {
       "name": "South Korea · Electricity consumption per capita",
@@ -4552,18 +4879,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/kor/fdi_usd/2018.json",
+        "history/macro/kor/fdi_usd/2019.json",
+        "history/macro/kor/fdi_usd/2020.json",
+        "history/macro/kor/fdi_usd/2021.json",
+        "history/macro/kor/fdi_usd/2022.json",
+        "history/macro/kor/fdi_usd/2023.json",
+        "history/macro/kor/fdi_usd/2024.json",
+        "history/macro/kor/fdi_usd/2025.json"
+      ]
     },
     "macro.kor.fiscal_balance_gdp": {
-      "name": "South Korea · Cash surplus/deficit / GDP",
+      "name": "South Korea · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "KOR",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/kor/fiscal_balance_gdp/2018.json",
+        "history/macro/kor/fiscal_balance_gdp/2019.json",
+        "history/macro/kor/fiscal_balance_gdp/2020.json",
+        "history/macro/kor/fiscal_balance_gdp/2021.json",
+        "history/macro/kor/fiscal_balance_gdp/2022.json",
+        "history/macro/kor/fiscal_balance_gdp/2023.json",
+        "history/macro/kor/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.kor.food_exports_pct": {
       "name": "South Korea · Food exports / merchandise exports",
@@ -4714,7 +5058,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/kor/gov_debt_gdp/2018.json",
+        "history/macro/kor/gov_debt_gdp/2019.json",
+        "history/macro/kor/gov_debt_gdp/2020.json",
+        "history/macro/kor/gov_debt_gdp/2021.json",
+        "history/macro/kor/gov_debt_gdp/2022.json",
+        "history/macro/kor/gov_debt_gdp/2023.json",
+        "history/macro/kor/gov_debt_gdp/2024.json"
+      ]
     },
     "macro.kor.import_cover": {
       "name": "South Korea · Reserves in months of imports",
@@ -4924,7 +5276,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/pol/current_account_gdp/2018.json",
+        "history/macro/pol/current_account_gdp/2019.json",
+        "history/macro/pol/current_account_gdp/2020.json",
+        "history/macro/pol/current_account_gdp/2021.json",
+        "history/macro/pol/current_account_gdp/2022.json",
+        "history/macro/pol/current_account_gdp/2023.json",
+        "history/macro/pol/current_account_gdp/2024.json",
+        "history/macro/pol/current_account_gdp/2025.json"
+      ]
     },
     "macro.pol.current_account_usd": {
       "name": "Poland · Current account",
@@ -4935,7 +5296,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/pol/current_account_usd/2018.json",
+        "history/macro/pol/current_account_usd/2019.json",
+        "history/macro/pol/current_account_usd/2020.json",
+        "history/macro/pol/current_account_usd/2021.json",
+        "history/macro/pol/current_account_usd/2022.json",
+        "history/macro/pol/current_account_usd/2023.json",
+        "history/macro/pol/current_account_usd/2024.json",
+        "history/macro/pol/current_account_usd/2025.json"
+      ]
     },
     "macro.pol.electricity_pc": {
       "name": "Poland · Electricity consumption per capita",
@@ -5055,18 +5425,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/pol/fdi_usd/2018.json",
+        "history/macro/pol/fdi_usd/2019.json",
+        "history/macro/pol/fdi_usd/2020.json",
+        "history/macro/pol/fdi_usd/2021.json",
+        "history/macro/pol/fdi_usd/2022.json",
+        "history/macro/pol/fdi_usd/2023.json",
+        "history/macro/pol/fdi_usd/2024.json",
+        "history/macro/pol/fdi_usd/2025.json"
+      ]
     },
     "macro.pol.fiscal_balance_gdp": {
-      "name": "Poland · Cash surplus/deficit / GDP",
+      "name": "Poland · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "POL",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/pol/fiscal_balance_gdp/2018.json",
+        "history/macro/pol/fiscal_balance_gdp/2019.json",
+        "history/macro/pol/fiscal_balance_gdp/2020.json",
+        "history/macro/pol/fiscal_balance_gdp/2021.json",
+        "history/macro/pol/fiscal_balance_gdp/2022.json",
+        "history/macro/pol/fiscal_balance_gdp/2023.json",
+        "history/macro/pol/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.pol.food_exports_pct": {
       "name": "Poland · Food exports / merchandise exports",
@@ -5427,7 +5814,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/rus/current_account_gdp/2018.json",
+        "history/macro/rus/current_account_gdp/2019.json",
+        "history/macro/rus/current_account_gdp/2020.json",
+        "history/macro/rus/current_account_gdp/2021.json",
+        "history/macro/rus/current_account_gdp/2022.json",
+        "history/macro/rus/current_account_gdp/2023.json",
+        "history/macro/rus/current_account_gdp/2024.json",
+        "history/macro/rus/current_account_gdp/2025.json"
+      ]
     },
     "macro.rus.current_account_usd": {
       "name": "Russia · Current account",
@@ -5438,7 +5834,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/rus/current_account_usd/2018.json",
+        "history/macro/rus/current_account_usd/2019.json",
+        "history/macro/rus/current_account_usd/2020.json",
+        "history/macro/rus/current_account_usd/2021.json",
+        "history/macro/rus/current_account_usd/2022.json",
+        "history/macro/rus/current_account_usd/2023.json",
+        "history/macro/rus/current_account_usd/2024.json",
+        "history/macro/rus/current_account_usd/2025.json"
+      ]
     },
     "macro.rus.electricity_pc": {
       "name": "Russia · Electricity consumption per capita",
@@ -5546,7 +5951,13 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/DT.DOD.DECT.GN.ZS",
       "indicator_code": "DT.DOD.DECT.GN.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/rus/external_debt_gni/2018.json",
+        "history/macro/rus/external_debt_gni/2019.json",
+        "history/macro/rus/external_debt_gni/2020.json",
+        "history/macro/rus/external_debt_gni/2021.json",
+        "history/macro/rus/external_debt_gni/2022.json"
+      ]
     },
     "macro.rus.fdi_usd": {
       "name": "Russia · FDI net inflows",
@@ -5557,18 +5968,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/rus/fdi_usd/2018.json",
+        "history/macro/rus/fdi_usd/2019.json",
+        "history/macro/rus/fdi_usd/2020.json",
+        "history/macro/rus/fdi_usd/2021.json",
+        "history/macro/rus/fdi_usd/2022.json",
+        "history/macro/rus/fdi_usd/2023.json",
+        "history/macro/rus/fdi_usd/2024.json",
+        "history/macro/rus/fdi_usd/2025.json"
+      ]
     },
     "macro.rus.fiscal_balance_gdp": {
-      "name": "Russia · Cash surplus/deficit / GDP",
+      "name": "Russia · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "RUS",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/rus/fiscal_balance_gdp/2018.json",
+        "history/macro/rus/fiscal_balance_gdp/2019.json",
+        "history/macro/rus/fiscal_balance_gdp/2020.json",
+        "history/macro/rus/fiscal_balance_gdp/2021.json",
+        "history/macro/rus/fiscal_balance_gdp/2022.json",
+        "history/macro/rus/fiscal_balance_gdp/2023.json",
+        "history/macro/rus/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.rus.food_exports_pct": {
       "name": "Russia · Food exports / merchandise exports",
@@ -5703,7 +6131,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/rus/gov_debt_gdp/2018.json",
+        "history/macro/rus/gov_debt_gdp/2019.json",
+        "history/macro/rus/gov_debt_gdp/2020.json",
+        "history/macro/rus/gov_debt_gdp/2021.json",
+        "history/macro/rus/gov_debt_gdp/2022.json",
+        "history/macro/rus/gov_debt_gdp/2023.json",
+        "history/macro/rus/gov_debt_gdp/2024.json"
+      ]
     },
     "macro.rus.import_cover": {
       "name": "Russia · Reserves in months of imports",
@@ -5907,7 +6343,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/sau/current_account_gdp/2018.json",
+        "history/macro/sau/current_account_gdp/2019.json",
+        "history/macro/sau/current_account_gdp/2020.json",
+        "history/macro/sau/current_account_gdp/2021.json",
+        "history/macro/sau/current_account_gdp/2022.json",
+        "history/macro/sau/current_account_gdp/2023.json",
+        "history/macro/sau/current_account_gdp/2024.json",
+        "history/macro/sau/current_account_gdp/2025.json"
+      ]
     },
     "macro.sau.current_account_usd": {
       "name": "Saudi Arabia · Current account",
@@ -5918,7 +6363,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/sau/current_account_usd/2018.json",
+        "history/macro/sau/current_account_usd/2019.json",
+        "history/macro/sau/current_account_usd/2020.json",
+        "history/macro/sau/current_account_usd/2021.json",
+        "history/macro/sau/current_account_usd/2022.json",
+        "history/macro/sau/current_account_usd/2023.json",
+        "history/macro/sau/current_account_usd/2024.json",
+        "history/macro/sau/current_account_usd/2025.json"
+      ]
     },
     "macro.sau.electricity_pc": {
       "name": "Saudi Arabia · Electricity consumption per capita",
@@ -6037,18 +6491,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/sau/fdi_usd/2018.json",
+        "history/macro/sau/fdi_usd/2019.json",
+        "history/macro/sau/fdi_usd/2020.json",
+        "history/macro/sau/fdi_usd/2021.json",
+        "history/macro/sau/fdi_usd/2022.json",
+        "history/macro/sau/fdi_usd/2023.json",
+        "history/macro/sau/fdi_usd/2024.json",
+        "history/macro/sau/fdi_usd/2025.json"
+      ]
     },
     "macro.sau.fiscal_balance_gdp": {
-      "name": "Saudi Arabia · Cash surplus/deficit / GDP",
+      "name": "Saudi Arabia · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "SAU",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/sau/fiscal_balance_gdp/2018.json",
+        "history/macro/sau/fiscal_balance_gdp/2019.json",
+        "history/macro/sau/fiscal_balance_gdp/2020.json",
+        "history/macro/sau/fiscal_balance_gdp/2021.json",
+        "history/macro/sau/fiscal_balance_gdp/2022.json",
+        "history/macro/sau/fiscal_balance_gdp/2023.json",
+        "history/macro/sau/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.sau.food_exports_pct": {
       "name": "Saudi Arabia · Food exports / merchandise exports",
@@ -6409,7 +6880,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/tur/current_account_gdp/2018.json",
+        "history/macro/tur/current_account_gdp/2019.json",
+        "history/macro/tur/current_account_gdp/2020.json",
+        "history/macro/tur/current_account_gdp/2021.json",
+        "history/macro/tur/current_account_gdp/2022.json",
+        "history/macro/tur/current_account_gdp/2023.json",
+        "history/macro/tur/current_account_gdp/2024.json",
+        "history/macro/tur/current_account_gdp/2025.json"
+      ]
     },
     "macro.tur.current_account_usd": {
       "name": "Turkey · Current account",
@@ -6420,7 +6900,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/tur/current_account_usd/2018.json",
+        "history/macro/tur/current_account_usd/2019.json",
+        "history/macro/tur/current_account_usd/2020.json",
+        "history/macro/tur/current_account_usd/2021.json",
+        "history/macro/tur/current_account_usd/2022.json",
+        "history/macro/tur/current_account_usd/2023.json",
+        "history/macro/tur/current_account_usd/2024.json",
+        "history/macro/tur/current_account_usd/2025.json"
+      ]
     },
     "macro.tur.electricity_pc": {
       "name": "Turkey · Electricity consumption per capita",
@@ -6529,7 +7018,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/DT.DOD.DECT.GN.ZS",
       "indicator_code": "DT.DOD.DECT.GN.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/tur/external_debt_gni/2018.json",
+        "history/macro/tur/external_debt_gni/2019.json",
+        "history/macro/tur/external_debt_gni/2020.json",
+        "history/macro/tur/external_debt_gni/2021.json",
+        "history/macro/tur/external_debt_gni/2022.json",
+        "history/macro/tur/external_debt_gni/2023.json",
+        "history/macro/tur/external_debt_gni/2024.json"
+      ]
     },
     "macro.tur.fdi_usd": {
       "name": "Turkey · FDI net inflows",
@@ -6540,18 +7037,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/tur/fdi_usd/2018.json",
+        "history/macro/tur/fdi_usd/2019.json",
+        "history/macro/tur/fdi_usd/2020.json",
+        "history/macro/tur/fdi_usd/2021.json",
+        "history/macro/tur/fdi_usd/2022.json",
+        "history/macro/tur/fdi_usd/2023.json",
+        "history/macro/tur/fdi_usd/2024.json",
+        "history/macro/tur/fdi_usd/2025.json"
+      ]
     },
     "macro.tur.fiscal_balance_gdp": {
-      "name": "Turkey · Cash surplus/deficit / GDP",
+      "name": "Turkey · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "TUR",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/tur/fiscal_balance_gdp/2018.json",
+        "history/macro/tur/fiscal_balance_gdp/2019.json",
+        "history/macro/tur/fiscal_balance_gdp/2020.json",
+        "history/macro/tur/fiscal_balance_gdp/2021.json",
+        "history/macro/tur/fiscal_balance_gdp/2022.json",
+        "history/macro/tur/fiscal_balance_gdp/2023.json",
+        "history/macro/tur/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.tur.food_exports_pct": {
       "name": "Turkey · Food exports / merchandise exports",
@@ -6702,7 +7216,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/tur/gov_debt_gdp/2018.json",
+        "history/macro/tur/gov_debt_gdp/2019.json",
+        "history/macro/tur/gov_debt_gdp/2020.json",
+        "history/macro/tur/gov_debt_gdp/2021.json",
+        "history/macro/tur/gov_debt_gdp/2022.json",
+        "history/macro/tur/gov_debt_gdp/2023.json",
+        "history/macro/tur/gov_debt_gdp/2024.json"
+      ]
     },
     "macro.tur.import_cover": {
       "name": "Turkey · Reserves in months of imports",
@@ -6908,7 +7430,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.GD.ZS",
       "indicator_code": "BN.CAB.XOKA.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/usa/current_account_gdp/2018.json",
+        "history/macro/usa/current_account_gdp/2019.json",
+        "history/macro/usa/current_account_gdp/2020.json",
+        "history/macro/usa/current_account_gdp/2021.json",
+        "history/macro/usa/current_account_gdp/2022.json",
+        "history/macro/usa/current_account_gdp/2023.json",
+        "history/macro/usa/current_account_gdp/2024.json",
+        "history/macro/usa/current_account_gdp/2025.json"
+      ]
     },
     "macro.usa.current_account_usd": {
       "name": "United States · Current account",
@@ -6919,7 +7450,16 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BN.CAB.XOKA.CD",
       "indicator_code": "BN.CAB.XOKA.CD",
-      "history_files": []
+      "history_files": [
+        "history/macro/usa/current_account_usd/2018.json",
+        "history/macro/usa/current_account_usd/2019.json",
+        "history/macro/usa/current_account_usd/2020.json",
+        "history/macro/usa/current_account_usd/2021.json",
+        "history/macro/usa/current_account_usd/2022.json",
+        "history/macro/usa/current_account_usd/2023.json",
+        "history/macro/usa/current_account_usd/2024.json",
+        "history/macro/usa/current_account_usd/2025.json"
+      ]
     },
     "macro.usa.electricity_pc": {
       "name": "United States · Electricity consumption per capita",
@@ -7037,18 +7577,35 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
       "indicator_code": "BX.KLT.DINV.CD.WD",
-      "history_files": []
+      "history_files": [
+        "history/macro/usa/fdi_usd/2018.json",
+        "history/macro/usa/fdi_usd/2019.json",
+        "history/macro/usa/fdi_usd/2020.json",
+        "history/macro/usa/fdi_usd/2021.json",
+        "history/macro/usa/fdi_usd/2022.json",
+        "history/macro/usa/fdi_usd/2023.json",
+        "history/macro/usa/fdi_usd/2024.json",
+        "history/macro/usa/fdi_usd/2025.json"
+      ]
     },
     "macro.usa.fiscal_balance_gdp": {
-      "name": "United States · Cash surplus/deficit / GDP",
+      "name": "United States · Net lending (+) / net borrowing (-) / GDP",
       "unit": "%",
       "frequency": "annual",
       "domain": "macro",
       "country": "USA",
       "source": "World Bank WDI",
-      "source_url": "https://data.worldbank.org/indicator/GC.BAL.CASH.GD.ZS",
-      "indicator_code": "GC.BAL.CASH.GD.ZS",
-      "history_files": []
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "indicator_code": "GC.NLD.TOTL.GD.ZS",
+      "history_files": [
+        "history/macro/usa/fiscal_balance_gdp/2018.json",
+        "history/macro/usa/fiscal_balance_gdp/2019.json",
+        "history/macro/usa/fiscal_balance_gdp/2020.json",
+        "history/macro/usa/fiscal_balance_gdp/2021.json",
+        "history/macro/usa/fiscal_balance_gdp/2022.json",
+        "history/macro/usa/fiscal_balance_gdp/2023.json",
+        "history/macro/usa/fiscal_balance_gdp/2024.json"
+      ]
     },
     "macro.usa.food_exports_pct": {
       "name": "United States · Food exports / merchandise exports",
@@ -7199,7 +7756,15 @@
       "source": "World Bank WDI",
       "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
       "indicator_code": "GC.DOD.TOTL.GD.ZS",
-      "history_files": []
+      "history_files": [
+        "history/macro/usa/gov_debt_gdp/2018.json",
+        "history/macro/usa/gov_debt_gdp/2019.json",
+        "history/macro/usa/gov_debt_gdp/2020.json",
+        "history/macro/usa/gov_debt_gdp/2021.json",
+        "history/macro/usa/gov_debt_gdp/2022.json",
+        "history/macro/usa/gov_debt_gdp/2023.json",
+        "history/macro/usa/gov_debt_gdp/2024.json"
+      ]
     },
     "macro.usa.import_cover": {
       "name": "United States · Reserves in months of imports",

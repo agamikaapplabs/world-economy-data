@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.5",
+  "series_id": "macro.gbr.gov_debt_gdp",
+  "metadata": {
+    "name": "United Kingdom · Central government debt / GDP",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "GBR",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
+    "indicator_code": "GC.DOD.TOTL.GD.ZS"
+  },
+  "observations": [
+    {
+      "period": "2023",
+      "value": 136.142431919028,
+      "released_at": null,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/GC.DOD.TOTL.GD.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

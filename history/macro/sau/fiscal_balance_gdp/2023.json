@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.5",
+  "series_id": "macro.sau.fiscal_balance_gdp",
+  "metadata": {
+    "name": "Saudi Arabia · Net lending (+) / net borrowing (-) / GDP",
+    "unit": "%",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "SAU",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+    "indicator_code": "GC.NLD.TOTL.GD.ZS"
+  },
+  "observations": [
+    {
+      "period": "2023",
+      "value": -1.77137700860758,
+      "released_at": null,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/GC.NLD.TOTL.GD.ZS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schema_version": "5.5",
+  "series_id": "macro.rus.fdi_usd",
+  "metadata": {
+    "name": "Russia · FDI net inflows",
+    "unit": "USD",
+    "frequency": "annual",
+    "domain": "macro",
+    "country": "RUS",
+    "source": "World Bank WDI",
+    "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
+    "indicator_code": "BX.KLT.DINV.CD.WD"
+  },
+  "observations": [
+    {
+      "period": "2025",
+      "value": 11136480000.0,
+      "released_at": null,
+      "collected_at": "2026-10-28T16:55:20.876824+05:30",
+      "source_id": "world-bank-wdi",
+      "source": "World Bank WDI",
+      "source_url": "https://data.worldbank.org/indicator/BX.KLT.DINV.CD.WD",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}
