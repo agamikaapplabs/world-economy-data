@@ -24,6 +24,54 @@
       "status": "verified",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "Q1 FY2025-26",
+      "value": 6.7,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "mospi-national-accounts-statistics",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
+      "period": "Q2 FY2025-26",
+      "value": 8.4,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "mospi-national-accounts-statistics",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Q3 FY2025-26",
+      "value": 7.8,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "mospi-national-accounts-statistics",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Q4 FY2025-26",
+      "value": 7.8,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "mospi-national-accounts-statistics",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

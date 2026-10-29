@@ -1,0 +1,65 @@
+{
+  "schema_version": "5.5",
+  "series_id": "india.now.real_gdp_growth",
+  "metadata": {
+    "name": "Real GDP growth",
+    "unit": "%",
+    "frequency": "quarterly",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "MoSPI National Accounts Statistics",
+    "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+    "metric_type": "percent",
+    "stale_after_days": 125
+  },
+  "observations": [
+    {
+      "period": "Q1 FY2024-25",
+      "value": 7.5,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "mospi-national-accounts-statistics",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Q2 FY2024-25",
+      "value": 6.6,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "mospi-national-accounts-statistics",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Q3 FY2024-25",
+      "value": 7.4,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "mospi-national-accounts-statistics",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Q4 FY2024-25",
+      "value": 7.0,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "mospi-national-accounts-statistics",
+      "source": "MoSPI National Accounts Statistics",
+      "source_url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

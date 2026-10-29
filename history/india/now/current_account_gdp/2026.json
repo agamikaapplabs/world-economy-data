@@ -8,7 +8,7 @@
     "domain": "india_now",
     "country": "IND",
     "source": "Reserve Bank of India · Balance of Payments",
-    "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+    "source_url": "https://www.rbi.org.in/",
     "metric_type": "percent",
     "stale_after_days": 125
   },

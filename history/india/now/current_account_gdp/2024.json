@@ -1,0 +1,65 @@
+{
+  "schema_version": "5.5",
+  "series_id": "india.now.current_account_gdp",
+  "metadata": {
+    "name": "Current account / GDP",
+    "unit": "%",
+    "frequency": "quarterly",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "Reserve Bank of India · Balance of Payments",
+    "source_url": "https://www.rbi.org.in/",
+    "metric_type": "percent",
+    "stale_after_days": 125
+  },
+  "observations": [
+    {
+      "period": "Q1 FY2024-25",
+      "value": -0.9,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "reserve-bank-of-india-balance-of-payments",
+      "source": "Reserve Bank of India · Balance of Payments",
+      "source_url": "https://www.rbi.org.in/",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Q2 FY2024-25",
+      "value": -1.8,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "reserve-bank-of-india-balance-of-payments",
+      "source": "Reserve Bank of India · Balance of Payments",
+      "source_url": "https://www.rbi.org.in/",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Q3 FY2024-25",
+      "value": -1.1,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "reserve-bank-of-india-balance-of-payments",
+      "source": "Reserve Bank of India · Balance of Payments",
+      "source_url": "https://www.rbi.org.in/",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Q4 FY2024-25",
+      "value": 1.3,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "reserve-bank-of-india-balance-of-payments",
+      "source": "Reserve Bank of India · Balance of Payments",
+      "source_url": "https://www.rbi.org.in/",
+      "status": "verified",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}

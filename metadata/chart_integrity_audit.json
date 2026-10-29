@@ -3,14 +3,19 @@
   "principle": "Never draw a temporal trend unless periods are parseable, chronological and the series meets its minimum observation depth.",
   "series_count": 485,
   "chronology_error_count": 0,
-  "duplicate_period_series_count": 58,
-  "sparse_series_count": 38,
+  "duplicate_period_series_count": 59,
+  "sparse_series_count": 33,
   "chronology_errors": [],
   "duplicate_periods": [
     {
       "series_id": "india.labour.unemployment",
       "raw_rows": 7,
       "unique_periods": 6
+    },
+    {
+      "series_id": "india.now.real_gdp_growth",
+      "raw_rows": 14,
+      "unique_periods": 13
     },
     {
       "series_id": "india.now.unemployment",
@@ -54,12 +59,12 @@
     },
     {
       "series_id": "market.bharti.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1281,
+      "raw_rows": 1282,
       "unique_periods": 1260
     },
     {
@@ -79,7 +84,7 @@
     },
     {
       "series_id": "market.corn.close",
-      "raw_rows": 1270,
+      "raw_rows": 1271,
       "unique_periods": 1258
     },
     {
@@ -99,7 +104,7 @@
     },
     {
       "series_id": "market.hdfcbank.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
@@ -109,12 +114,12 @@
     },
     {
       "series_id": "market.icicibank.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
       "series_id": "market.infosys.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
@@ -129,12 +134,12 @@
     },
     {
       "series_id": "market.lt.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
       "series_id": "market.lt_heavy.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
@@ -149,7 +154,7 @@
     },
     {
       "series_id": "market.mhi.close",
-      "raw_rows": 1228,
+      "raw_rows": 1229,
       "unique_periods": 1223
     },
     {
@@ -159,7 +164,7 @@
     },
     {
       "series_id": "market.natgas.close",
-      "raw_rows": 1278,
+      "raw_rows": 1279,
       "unique_periods": 1260
     },
     {
@@ -179,7 +184,7 @@
     },
     {
       "series_id": "market.reliance.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
@@ -199,7 +204,7 @@
     },
     {
       "series_id": "market.sbi.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
@@ -229,7 +234,7 @@
     },
     {
       "series_id": "market.tcs.close",
-      "raw_rows": 1242,
+      "raw_rows": 1243,
       "unique_periods": 1238
     },
     {
@@ -294,7 +299,7 @@
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1280,
+      "raw_rows": 1281,
       "unique_periods": 1259
     }
   ],
@@ -333,41 +338,6 @@
       "minimum": 6,
       "frequency": "cumulative FY",
       "domain": "india"
-    },
-    {
-      "series_id": "india.now.crude_import_dependence",
-      "points": 2,
-      "minimum": 6,
-      "frequency": "monthly cumulative FY",
-      "domain": "india_now"
-    },
-    {
-      "series_id": "india.now.current_account_gdp",
-      "points": 2,
-      "minimum": 4,
-      "frequency": "quarterly",
-      "domain": "india_now"
-    },
-    {
-      "series_id": "india.now.real_gdp_growth",
-      "points": 2,
-      "minimum": 4,
-      "frequency": "quarterly",
-      "domain": "india_now"
-    },
-    {
-      "series_id": "india.now.total_exports_usd_bn",
-      "points": 2,
-      "minimum": 6,
-      "frequency": "monthly",
-      "domain": "india_now"
-    },
-    {
-      "series_id": "india.now.total_imports_usd_bn",
-      "points": 2,
-      "minimum": 6,
-      "frequency": "monthly",
-      "domain": "india_now"
     },
     {
       "series_id": "india.rail.freight_mt",

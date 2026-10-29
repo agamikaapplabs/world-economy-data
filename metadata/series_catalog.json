@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-29T10:46:16.692664+05:30",
+  "generated_at": "2026-10-29T11:34:02.269020+05:30",
   "series_count": 485,
   "series": {
     "india.auto.commercial_vehicles": {
@@ -113,6 +113,16 @@
       "metric_type": "percent",
       "stale_after_days": 45,
       "history_files": [
+        "history/india/now/crude_import_dependence/2015.json",
+        "history/india/now/crude_import_dependence/2016.json",
+        "history/india/now/crude_import_dependence/2017.json",
+        "history/india/now/crude_import_dependence/2018.json",
+        "history/india/now/crude_import_dependence/2019.json",
+        "history/india/now/crude_import_dependence/2020.json",
+        "history/india/now/crude_import_dependence/2021.json",
+        "history/india/now/crude_import_dependence/2022.json",
+        "history/india/now/crude_import_dependence/2023.json",
+        "history/india/now/crude_import_dependence/2024.json",
         "history/india/now/crude_import_dependence/2025.json",
         "history/india/now/crude_import_dependence/2026.json"
       ]
@@ -124,10 +134,12 @@
       "domain": "india_now",
       "country": "IND",
       "source": "Reserve Bank of India · Balance of Payments",
-      "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+      "source_url": "https://www.rbi.org.in/",
       "metric_type": "percent",
       "stale_after_days": 125,
       "history_files": [
+        "history/india/now/current_account_gdp/2023.json",
+        "history/india/now/current_account_gdp/2024.json",
         "history/india/now/current_account_gdp/2025.json",
         "history/india/now/current_account_gdp/2026.json"
       ]
@@ -171,6 +183,8 @@
       "metric_type": "percent",
       "stale_after_days": 125,
       "history_files": [
+        "history/india/now/real_gdp_growth/2023.json",
+        "history/india/now/real_gdp_growth/2024.json",
         "history/india/now/real_gdp_growth/2025.json",
         "history/india/now/real_gdp_growth/2026.json"
       ]
@@ -186,6 +200,7 @@
       "metric_type": "usd_billion",
       "stale_after_days": 45,
       "history_files": [
+        "history/india/now/total_exports_usd_bn/2025.json",
         "history/india/now/total_exports_usd_bn/2026.json"
       ]
     },
@@ -200,6 +215,7 @@
       "metric_type": "usd_billion",
       "stale_after_days": 45,
       "history_files": [
+        "history/india/now/total_imports_usd_bn/2025.json",
         "history/india/now/total_imports_usd_bn/2026.json"
       ]
     },

@@ -1,0 +1,53 @@
+{
+  "schema_version": "5.5",
+  "series_id": "india.now.total_imports_usd_bn",
+  "metadata": {
+    "name": "Total imports",
+    "unit": "US$ bn",
+    "frequency": "monthly",
+    "domain": "india_now",
+    "country": "IND",
+    "source": "Department of Commerce",
+    "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+    "metric_type": "usd_billion",
+    "stale_after_days": 45
+  },
+  "observations": [
+    {
+      "period": "Oct 2025",
+      "value": 94.7,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "department-of-commerce",
+      "source": "Department of Commerce",
+      "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "status": "live-refreshed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Nov 2025",
+      "value": 80.63,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "department-of-commerce",
+      "source": "Department of Commerce",
+      "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "status": "live-refreshed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "Dec 2025",
+      "value": 80.94,
+      "released_at": null,
+      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "source_id": "department-of-commerce",
+      "source": "Department of Commerce",
+      "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "status": "live-refreshed",
+      "revision_no": 0,
+      "is_revision": false
+    }
+  ]
+}
