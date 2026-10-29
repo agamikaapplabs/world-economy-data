@@ -2542,6 +2542,18 @@
       "status": "observed",
       "revision_no": 5,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-28",
+      "value": 640.669983,
+      "released_at": "2026-10-28",
+      "collected_at": "2026-10-29T10:46:16.692664+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/DE",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
