@@ -3,7 +3,7 @@
   "principle": "Never draw a temporal trend unless periods are parseable, chronological and the series meets its minimum observation depth.",
   "series_count": 485,
   "chronology_error_count": 0,
-  "duplicate_period_series_count": 59,
+  "duplicate_period_series_count": 63,
   "sparse_series_count": 33,
   "chronology_errors": [],
   "duplicate_periods": [
@@ -24,283 +24,303 @@
     },
     {
       "series_id": "market.abb.close",
-      "raw_rows": 1267,
-      "unique_periods": 1258
+      "raw_rows": 1270,
+      "unique_periods": 1260
     },
     {
       "series_id": "market.airbus.close",
-      "raw_rows": 1291,
-      "unique_periods": 1282
+      "raw_rows": 1294,
+      "unique_periods": 1284
     },
     {
       "series_id": "market.alphabet.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.amazon.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.apple.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.asml.close",
-      "raw_rows": 1293,
-      "unique_periods": 1282
+      "raw_rows": 1296,
+      "unique_periods": 1284
     },
     {
       "series_id": "market.bae.close",
-      "raw_rows": 1270,
-      "unique_periods": 1263
+      "raw_rows": 1273,
+      "unique_periods": 1265
     },
     {
       "series_id": "market.bharti.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1282,
-      "unique_periods": 1260
+      "raw_rows": 1285,
+      "unique_periods": 1261
     },
     {
       "series_id": "market.broadcom.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.caterpillar.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.copper.close",
-      "raw_rows": 1279,
-      "unique_periods": 1260
+      "raw_rows": 1282,
+      "unique_periods": 1261
     },
     {
       "series_id": "market.corn.close",
-      "raw_rows": 1271,
-      "unique_periods": 1258
+      "raw_rows": 1274,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.deere.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.generaldynamics.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.gevernova.close",
-      "raw_rows": 655,
-      "unique_periods": 650
+      "raw_rows": 657,
+      "unique_periods": 652
+    },
+    {
+      "series_id": "market.gold.close",
+      "raw_rows": 262,
+      "unique_periods": 260
+    },
+    {
+      "series_id": "market.hangseng.close",
+      "raw_rows": 258,
+      "unique_periods": 256
     },
     {
       "series_id": "market.hdfcbank.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.honeywell.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.icicibank.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.infosys.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.leonardo.close",
-      "raw_rows": 1283,
-      "unique_periods": 1272
+      "raw_rows": 1286,
+      "unique_periods": 1274
     },
     {
       "series_id": "market.lockheed.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.lt.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.lt_heavy.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.lvmh.close",
-      "raw_rows": 1292,
-      "unique_periods": 1282
+      "raw_rows": 1295,
+      "unique_periods": 1284
     },
     {
       "series_id": "market.meta.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.mhi.close",
-      "raw_rows": 1229,
-      "unique_periods": 1223
+      "raw_rows": 1232,
+      "unique_periods": 1224
     },
     {
       "series_id": "market.microsoft.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.natgas.close",
-      "raw_rows": 1279,
-      "unique_periods": 1260
+      "raw_rows": 1282,
+      "unique_periods": 1261
+    },
+    {
+      "series_id": "market.nifty50.close",
+      "raw_rows": 258,
+      "unique_periods": 256
+    },
+    {
+      "series_id": "market.nikkei.close",
+      "raw_rows": 255,
+      "unique_periods": 253
     },
     {
       "series_id": "market.northrop.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.novo.close",
-      "raw_rows": 1264,
-      "unique_periods": 1253
+      "raw_rows": 1267,
+      "unique_periods": 1255
     },
     {
       "series_id": "market.nvidia.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.reliance.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.rheinmetall.close",
-      "raw_rows": 1286,
-      "unique_periods": 1276
+      "raw_rows": 1289,
+      "unique_periods": 1278
     },
     {
       "series_id": "market.rtx.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.sap.close",
-      "raw_rows": 1286,
-      "unique_periods": 1276
+      "raw_rows": 1289,
+      "unique_periods": 1278
     },
     {
       "series_id": "market.sbi.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.schneider.close",
-      "raw_rows": 1291,
-      "unique_periods": 1282
+      "raw_rows": 1294,
+      "unique_periods": 1284
     },
     {
       "series_id": "market.shell.close",
-      "raw_rows": 1273,
-      "unique_periods": 1263
+      "raw_rows": 1276,
+      "unique_periods": 1265
     },
     {
       "series_id": "market.siemens_eu.close",
-      "raw_rows": 1284,
-      "unique_periods": 1276
+      "raw_rows": 1287,
+      "unique_periods": 1278
     },
     {
       "series_id": "market.siemens_heavy.close",
-      "raw_rows": 1285,
-      "unique_periods": 1276
+      "raw_rows": 1288,
+      "unique_periods": 1278
     },
     {
       "series_id": "market.silver.close",
-      "raw_rows": 260,
-      "unique_periods": 259
+      "raw_rows": 263,
+      "unique_periods": 260
     },
     {
       "series_id": "market.tcs.close",
-      "raw_rows": 1243,
-      "unique_periods": 1238
+      "raw_rows": 1246,
+      "unique_periods": 1239
     },
     {
       "series_id": "market.tesla.close",
-      "raw_rows": 1261,
-      "unique_periods": 1256
+      "raw_rows": 1263,
+      "unique_periods": 1258
     },
     {
       "series_id": "market.thales.close",
-      "raw_rows": 1291,
-      "unique_periods": 1282
+      "raw_rows": 1294,
+      "unique_periods": 1284
     },
     {
       "series_id": "market.us10y.close",
-      "raw_rows": 1263,
-      "unique_periods": 1257
+      "raw_rows": 1265,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.us30y.close",
-      "raw_rows": 1262,
-      "unique_periods": 1257
+      "raw_rows": 1264,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.us3m.close",
-      "raw_rows": 1258,
-      "unique_periods": 1257
+      "raw_rows": 1260,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.us5y.close",
-      "raw_rows": 1262,
-      "unique_periods": 1257
+      "raw_rows": 1264,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.usd_eur.close",
-      "raw_rows": 386,
-      "unique_periods": 379
+      "raw_rows": 388,
+      "unique_periods": 381
     },
     {
       "series_id": "market.usd_gbp.close",
-      "raw_rows": 386,
-      "unique_periods": 379
+      "raw_rows": 388,
+      "unique_periods": 381
     },
     {
       "series_id": "market.usd_inr.close",
-      "raw_rows": 386,
-      "unique_periods": 379
+      "raw_rows": 388,
+      "unique_periods": 381
     },
     {
       "series_id": "market.usd_jpy.close",
-      "raw_rows": 386,
-      "unique_periods": 379
+      "raw_rows": 388,
+      "unique_periods": 381
     },
     {
       "series_id": "market.vix.close",
-      "raw_rows": 1269,
-      "unique_periods": 1258
+      "raw_rows": 1271,
+      "unique_periods": 1260
     },
     {
       "series_id": "market.wheat.close",
-      "raw_rows": 1272,
-      "unique_periods": 1258
+      "raw_rows": 1275,
+      "unique_periods": 1259
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1281,
-      "unique_periods": 1259
+      "raw_rows": 1284,
+      "unique_periods": 1260
     }
   ],
   "sparse_series": [

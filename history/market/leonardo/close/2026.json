@@ -2674,6 +2674,42 @@
       "status": "observed",
       "revision_no": 3,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-28",
+      "value": 49.855,
+      "released_at": "2026-10-28",
+      "collected_at": "2026-10-30T10:33:08.995866+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/LDO.MI",
+      "status": "observed",
+      "revision_no": 4,
+      "is_revision": true
+    },
+    {
+      "period": "2026-10-29",
+      "value": 51.810001,
+      "released_at": "2026-10-29",
+      "collected_at": "2026-11-01T11:31:41.690296+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/LDO.MI",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-10-30",
+      "value": 51.759998,
+      "released_at": "2026-10-30",
+      "collected_at": "2026-11-01T11:31:41.690296+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/LDO.MI",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
