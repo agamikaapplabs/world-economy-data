@@ -2770,6 +2770,66 @@
       "status": "observed",
       "revision_no": 1,
       "is_revision": true
+    },
+    {
+      "period": "2026-10-30",
+      "value": 6.4585,
+      "released_at": "2026-10-30",
+      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "status": "observed",
+      "revision_no": 2,
+      "is_revision": true
+    },
+    {
+      "period": "2026-11-02",
+      "value": 6.5435,
+      "released_at": "2026-11-02",
+      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-03",
+      "value": 6.3785,
+      "released_at": "2026-11-03",
+      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-04",
+      "value": 6.3475,
+      "released_at": "2026-11-04",
+      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-04",
+      "value": 6.347,
+      "released_at": "2026-11-04",
+      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/HG=F",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     }
   ]
 }

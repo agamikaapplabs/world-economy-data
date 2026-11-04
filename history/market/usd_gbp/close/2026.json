@@ -3706,6 +3706,30 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-02",
+      "value": 0.74519,
+      "released_at": "2026-11-02",
+      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-03",
+      "value": 0.74567,
+      "released_at": "2026-11-03",
+      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

@@ -2482,6 +2482,42 @@
       "status": "observed",
       "revision_no": 1,
       "is_revision": true
+    },
+    {
+      "period": "2026-11-02",
+      "value": 23393.320312,
+      "released_at": "2026-11-02",
+      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^HSI",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-04",
+      "value": 23437.599609,
+      "released_at": "2026-11-04",
+      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^HSI",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-04",
+      "value": 23429.259766,
+      "released_at": "2026-11-04",
+      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^HSI",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     }
   ]
 }
