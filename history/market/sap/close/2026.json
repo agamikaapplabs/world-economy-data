@@ -2710,6 +2710,30 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-03",
+      "value": 206.649994,
+      "released_at": "2026-11-03",
+      "collected_at": "2026-11-04T14:57:13.537432+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SAP.DE",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-04",
+      "value": 208.949997,
+      "released_at": "2026-11-04",
+      "collected_at": "2026-11-04T14:57:13.537432+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SAP.DE",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
