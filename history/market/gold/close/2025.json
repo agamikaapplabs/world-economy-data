@@ -3,7 +3,7 @@
   "series_id": "market.gold.close",
   "metadata": {
     "name": "Gold",
-    "unit": "USD/troy oz",
+    "unit": "USD",
     "frequency": "daily",
     "domain": "market",
     "country": null,

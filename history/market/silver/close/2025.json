@@ -3,7 +3,7 @@
   "series_id": "market.silver.close",
   "metadata": {
     "name": "Silver",
-    "unit": "USD/troy oz",
+    "unit": "USD",
     "frequency": "daily",
     "domain": "market",
     "country": null,

@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-10-19T00:00:00+05:30",
+  "generated_at": "2026-11-04T03:03:20.072998+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -17,7 +17,7 @@
       "frequency": "cumulative FY",
       "source": "Press Information Bureau / GST Council",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48",
-      "status": "verified",
+      "status": "live-refreshed",
       "history": [
         {
           "period": "Apr–Sep 2026",
@@ -35,7 +35,7 @@
       "frequency": "monthly",
       "source": "Indian Railways / PIB",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2322673&lang=2&reg=48",
-      "status": "verified",
+      "status": "live-refreshed",
       "history": [
         {
           "period": "Sep 2026",
@@ -46,14 +46,18 @@
     },
     "passenger_vehicles": {
       "label": "Passenger vehicle sales",
-      "value": 454574,
+      "value": 439309,
       "unit": "units",
-      "period": "Sep 2026",
+      "period": "August 2026",
       "frequency": "monthly",
       "source": "SIAM",
       "url": "https://www.siam.in/press-release.aspx",
-      "status": "verified",
+      "status": "live-refreshed",
       "history": [
+        {
+          "period": "August 2026",
+          "value": 439309.0
+        },
         {
           "period": "Sep 2026",
           "value": 454574.0
@@ -166,14 +170,14 @@
     },
     "unemployment": {
       "label": "Looking for work, unemployed",
-      "value": 5.0,
+      "value": 55.5,
       "unit": "%",
       "period": "Sep 2026",
       "yoy_delta_pp": -0.2,
       "frequency": "monthly",
       "source": "PLFS / MoSPI / PIB",
       "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2323828&lang=2&reg=48",
-      "status": "verified",
+      "status": "live-refreshed",
       "history": [
         {
           "period": "Apr 2026",
@@ -215,11 +219,11 @@
     "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48"
   },
   "automobile": {
-    "latest_month": "Sep 2026",
+    "latest_month": "August 2026",
     "monthly": {
-      "passenger_vehicles": 454574,
-      "three_wheelers": 98162,
-      "two_wheelers": 2463103,
+      "passenger_vehicles": 439309,
+      "three_wheelers": 93764,
+      "two_wheelers": 2034698,
       "production_pv_3w_2w_quadricycle": 3452554
     },
     "q2_fy27": {
@@ -421,7 +425,7 @@
       "period": "Sep 2026",
       "lfpr_pct": 55.5,
       "wpr_pct": 52.7,
-      "unemployment_pct": 5.0,
+      "unemployment_pct": 55.5,
       "urban_lfpr_pct": 50.7,
       "female_lfpr_pct": 34.6,
       "rural_female_lfpr_pct": 38.9
@@ -564,20 +568,8 @@
       "source": "MoSPI National Accounts Statistics",
       "url": "https://www.mospi.gov.in/themes/product/6-gross-domestic-product",
       "status": "verified",
-      "note": "Real GDP growth for April-June 2026; official quarterly national-accounts release.",
+      "note": "Year-on-year real GDP growth. Historical quarters use the revised official 2022-23-base series where available.",
       "history": [
-        {
-          "period": "Q1 FY2025-26",
-          "value": 6.7
-        },
-        {
-          "period": "Q1 FY2026-27",
-          "value": 7.8
-        },
-        {
-          "period": "Q1 FY2023-24",
-          "value": 6.6
-        },
         {
           "period": "Q2 FY2023-24",
           "value": 7.6
@@ -607,6 +599,10 @@
           "value": 7.0
         },
         {
+          "period": "Q1 FY2025-26",
+          "value": 6.7
+        },
+        {
           "period": "Q2 FY2025-26",
           "value": 8.4
         },
@@ -616,6 +612,10 @@
         },
         {
           "period": "Q4 FY2025-26",
+          "value": 7.8
+        },
+        {
+          "period": "Q1 FY2026-27",
           "value": 7.8
         }
       ],
@@ -633,7 +633,7 @@
       "source": "MoSPI CPI",
       "url": "https://esankhyiki.mospi.gov.in/",
       "status": "verified",
-      "note": "All-India headline CPI inflation, September 2026.",
+      "note": "All-India headline CPI inflation, year-on-year, base 2024=100.",
       "history": [
         {
           "period": "Mar 2026",
@@ -668,7 +668,7 @@
     },
     "unemployment": {
       "label": "Looking for work, unemployed",
-      "value": 5.0,
+      "value": 55.5,
       "unit": "%",
       "metric_type": "percent",
       "period": "Sep 2026",
@@ -783,17 +783,9 @@
       "stale_after_days": 45,
       "source": "Department of Commerce",
       "url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
-      "status": "verified",
+      "status": "live-refreshed",
       "note": "Merchandise and services combined; services component is an official estimate where noted by the Department of Commerce.",
       "history": [
-        {
-          "period": "Aug 2026",
-          "value": 82.68
-        },
-        {
-          "period": "Sep 2026",
-          "value": 80.75
-        },
         {
           "period": "Oct 2025",
           "value": 72.89
@@ -833,6 +825,14 @@
         {
           "period": "Jul 2026",
           "value": 80.14
+        },
+        {
+          "period": "Aug 2026",
+          "value": 82.68
+        },
+        {
+          "period": "Sep 2026",
+          "value": 80.75
         }
       ],
       "series_id": "india.now.total_exports_usd_bn"
@@ -848,17 +848,9 @@
       "stale_after_days": 45,
       "source": "Department of Commerce",
       "url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
-      "status": "verified",
+      "status": "live-refreshed",
       "note": "Merchandise and services combined; services component is an official estimate where noted by the Department of Commerce.",
       "history": [
-        {
-          "period": "Aug 2026",
-          "value": 92.09
-        },
-        {
-          "period": "Sep 2026",
-          "value": 94.05
-        },
         {
           "period": "Oct 2025",
           "value": 94.7
@@ -898,6 +890,14 @@
         {
           "period": "Jul 2026",
           "value": 95.16
+        },
+        {
+          "period": "Aug 2026",
+          "value": 92.09
+        },
+        {
+          "period": "Sep 2026",
+          "value": 94.05
         }
       ],
       "series_id": "india.now.total_imports_usd_bn"
@@ -912,22 +912,10 @@
       "released_at": "2026-09-01",
       "stale_after_days": 125,
       "source": "Reserve Bank of India · Balance of Payments",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+      "url": "https://www.rbi.org.in/",
       "status": "verified",
-      "note": "Current-account balance as a share of GDP; negative indicates a deficit.",
+      "note": "Quarterly current-account balance as a share of GDP; negative indicates a deficit. Later RBI revisions are preferred.",
       "history": [
-        {
-          "period": "Q1 FY2025-26",
-          "value": -0.4
-        },
-        {
-          "period": "Q1 FY2026-27",
-          "value": -0.5
-        },
-        {
-          "period": "Q1 FY2023-24",
-          "value": -1.1
-        },
         {
           "period": "Q2 FY2023-24",
           "value": -1.0
@@ -957,6 +945,10 @@
           "value": 1.3
         },
         {
+          "period": "Q1 FY2025-26",
+          "value": -0.4
+        },
+        {
           "period": "Q2 FY2025-26",
           "value": -1.5
         },
@@ -967,6 +959,10 @@
         {
           "period": "Q4 FY2025-26",
           "value": 0.7
+        },
+        {
+          "period": "Q1 FY2026-27",
+          "value": -0.5
         }
       ],
       "series_id": "india.now.current_account_gdp"
@@ -983,16 +979,8 @@
       "source": "PPAC · Ministry of Petroleum & Natural Gas",
       "url": "https://ppac.gov.in/",
       "status": "verified",
-      "note": "Import dependence on a consumption basis; a direct measure of exposure to overseas crude supply and prices.",
+      "note": "Import dependency of crude oil on a POL-consumption basis. Historical FY observations are full-year; the latest headline may be current-FY YTD.",
       "history": [
-        {
-          "period": "Apr-Sep 2025",
-          "value": 88.3
-        },
-        {
-          "period": "Apr-Sep 2026",
-          "value": 88.1
-        },
         {
           "period": "FY2015-16",
           "value": 80.6
@@ -1032,6 +1020,14 @@
         {
           "period": "FY2024-25",
           "value": 88.2
+        },
+        {
+          "period": "Apr-Sep 2025",
+          "value": 88.3
+        },
+        {
+          "period": "Apr-Sep 2026",
+          "value": 88.1
         }
       ],
       "series_id": "india.now.crude_import_dependence"
@@ -1077,5 +1073,57 @@
         }
       ]
     }
-  }
+  },
+  "refresh_log": [
+    {
+      "source": "FASTag",
+      "status": "seed-kept",
+      "detail": "No table rows recognized"
+    },
+    {
+      "source": "UPI",
+      "status": "seed-kept",
+      "detail": "No table rows recognized"
+    },
+    {
+      "source": "SIAM",
+      "status": "ok",
+      "detail": "SIAM August 2026"
+    },
+    {
+      "source": "NHB",
+      "status": "seed-kept",
+      "detail": "Composite HPI series not safely recognized"
+    },
+    {
+      "source": "GST",
+      "status": "ok",
+      "detail": "GST Apr-Sep 2026"
+    },
+    {
+      "source": "Rail",
+      "status": "ok",
+      "detail": "Rail freight Sep 2026"
+    },
+    {
+      "source": "PLFS",
+      "status": "ok",
+      "detail": "PLFS Sep 2026"
+    },
+    {
+      "source": "GDP-now",
+      "status": "seed-kept",
+      "detail": "GDP growth not safely recognized"
+    },
+    {
+      "source": "CPI-now",
+      "status": "seed-kept",
+      "detail": "CPI inflation not safely recognized"
+    },
+    {
+      "source": "Trade-now",
+      "status": "ok",
+      "detail": "Trade Sep 2026 exports 80.75 imports 94.05"
+    }
+  ]
 }

@@ -11,7 +11,7 @@
       "source_id": "frankfurter",
       "name": "Frankfurter",
       "url": "https://frankfurter.dev/",
-      "series_count": 5
+      "series_count": 6
     },
     {
       "source_id": "indian-railways-pib",
@@ -82,7 +82,7 @@
     {
       "source_id": "reserve-bank-of-india-balance-of-payments",
       "name": "Reserve Bank of India · Balance of Payments",
-      "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63493",
+      "url": "https://www.rbi.org.in/",
       "series_count": 1
     },
     {
@@ -98,10 +98,16 @@
       "series_count": 2
     },
     {
+      "source_id": "world-bank-wdi",
+      "name": "World Bank WDI",
+      "url": "https://data.worldbank.org/indicator/FP.CPI.TOTL.ZG",
+      "series_count": 392
+    },
+    {
       "source_id": "yahoo-finance-chart",
       "name": "Yahoo Finance chart",
       "url": "https://finance.yahoo.com/quote/GC=F",
-      "series_count": 8
+      "series_count": 59
     }
   ]
 }
