@@ -1,7 +1,7 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-04T02:18:51.418461+00:00",
-  "collected_at": "2026-11-04T02:18:51.418461+00:00",
+  "generated_at": "2026-11-04T03:03:20.249611+00:00",
+  "collected_at": "2026-11-04T03:03:20.249611+00:00",
   "newest_article_at": "2026-11-03T23:27:09+00:00",
   "collection_status": "fresh",
   "collection_method": "RSS aggregation with Google News primary + Bing News fallback; deterministic dedupe/ranking; why-it-matters is rule-based interpretation",
@@ -163,26 +163,6 @@
       "id": "92bc464c00be82a7"
     },
     {
-      "headline": "Brent, WTI, Murban crude oil slide as Iran peace hopes outweigh fresh supply fears - Gulf News",
-      "summary": "Brent, WTI, Murban crude oil slide as Iran peace hopes outweigh fresh supply fears    Gulf News",
-      "published_at": "2026-11-03T23:27:09+00:00",
-      "source": "Gulf News",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTWgxa1BCM251aDlfeWljUVozcUk0TzBpSWQ5b2hrajhSem5ZaEJlaEJrZEIweDZJdHgtdFpfTklaYkxVTERmelZJamJUaDQ3UGNNS09lX1ZKcmdVdmIxWG9UU0E2bWVPNzJaUGJob0VPV1ZpWk9ZQmFfT05LOHZlZ09NLWdveWhod2tDZ3QzSTRJMEsxQkotZ2F3ZFVLbTRoVll3VVpMUlNLUFl3ZnBBcG44eWY1QmNfZEFjZS00eXFqb25sTmZwSdIB2wFBVV95cUxPdXFGUkNWcUNvZVJIX0NiSFRyT19NTjcySVREa0FrY0gzanJXWGdKeFo3S3NmRjVBU0dPYWloUGJFOGRMeXh3M1VqeC1OQUVRMjVud1J4OVcyemMzLUJab2pnaTc4b1daMjY3cDRaa2JLckNYT1ZCWWV6Ti12UG5jMnNkd05BU2ZrTTdWV3ctcnUzcTBSVFlNY2hzWGM5eVV2U05JbS15Z0pnaDM3N1FZal83dE12T3RJUEU0b3pUNGxmQnVWTElhbGxrWGcxNXRtV05vR216b0l2cms?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 82,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "418b5d61a9de7bef"
-    },
-    {
       "headline": "Will China Shock 2.0 trigger an EU-China trade war? - ABN AMRO",
       "summary": "Will China Shock 2.0 trigger an EU-China trade war?    ABN AMRO",
       "published_at": "2026-11-03T09:05:19+00:00",
@@ -222,42 +202,24 @@
       "id": "ffd0703e591032c8"
     },
     {
-      "headline": "Gulf Arab Oil Giants Are Exporting Crude at Pre-War Rates Again - Bloomberg.com",
-      "summary": "Gulf Arab Oil Giants Are Exporting Crude at Pre-War Rates Again    Bloomberg.com",
-      "published_at": "2026-11-02T17:25:09+00:00",
-      "source": "Bloomberg.com",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklkbWxGTUVjUDlHZDhmLTZiNHB4bXRHTVhIZXJCcGhXUXltdG1BRWo1OWZUX3JXOVFNeUQ3RUpzVVZNNnR4RDdKZnRjSmgyNnBmOXYxOTU3dFQ5Mm82WDExVlhFeTY0OTVsdmJ0bFExQk94c1JSQWVqeU9BbEdqN29tdkRqUkI4SHJoeEdTcUxwSm5hMExRb0s0Y21ReW9sSW1PR3NaY01OVFJ6NG8xQlVzMTM?oc=5",
-      "category": "monetary_policy",
-      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "headline": "Brent, WTI, Murban crude oil slide as Iran peace hopes outweigh fresh supply fears - Gulf News",
+      "summary": "Brent, WTI, Murban crude oil slide as Iran peace hopes outweigh fresh supply fears    Gulf News",
+      "published_at": "2026-11-03T23:27:09+00:00",
+      "source": "Gulf News",
+      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTWgxa1BCM251aDlfeWljUVozcUk0TzBpSWQ5b2hrajhSem5ZaEJlaEJrZEIweDZJdHgtdFpfTklaYkxVTERmelZJamJUaDQ3UGNNS09lX1ZKcmdVdmIxWG9UU0E2bWVPNzJaUGJob0VPV1ZpWk9ZQmFfT05LOHZlZ09NLWdveWhod2tDZ3QzSTRJMEsxQkotZ2F3ZFVLbTRoVll3VVpMUlNLUFl3ZnBBcG44eWY1QmNfZEFjZS00eXFqb25sTmZwSdIB2wFBVV95cUxPdXFGUkNWcUNvZVJIX0NiSFRyT19NTjcySVREa0FrY0gzanJXWGdKeFo3S3NmRjVBU0dPYWloUGJFOGRMeXh3M1VqeC1OQUVRMjVud1J4OVcyemMzLUJab2pnaTc4b1daMjY3cDRaa2JLckNYT1ZCWWV6Ti12UG5jMnNkd05BU2ZrTTdWV3ctcnUzcTBSVFlNY2hzWGM5eVV2U05JbS15Z0pnaDM3N1FZal83dE12T3RJUEU0b3pUNGxmQnVWTElhbGxrWGcxNXRtV05vR216b0l2cms?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
       "linked_series": [
-        "market.usd_inr.close",
         "india.now.cpi_inflation",
-        "india.now.fx_reserves_usd_bn"
-      ],
-      "importance": 82,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "8bd3c93b52062b50"
-    },
-    {
-      "headline": "India Will Build Its Own Tunnel-Boring Machines if China Blocks Supply: Piyush Goyal - India Business Trade",
-      "summary": "India Will Build Its Own Tunnel-Boring Machines if China Blocks Supply: Piyush Goyal    India Business Trade",
-      "published_at": "2026-11-03T11:31:13+00:00",
-      "source": "India Business Trade",
-      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzZCS3NtVmYxVXVZVTFOMDhKTzVMak11Um5wX2hfN0U4OVgzUi1wbXNsQnNUT0JqLUlTQnlVTl9FQTRsT0hkaGdQTXRub1otbm9xVktmemlZYW9pb29TYXJGdjV2TlhyNXY2QnFfNjVvemtHUUJvZUpfNzdlemFybjVqb1g3NTdncjY0T1VxX2FRZEM5U0loV3Y3Z0pQU1JjWDFxVkFTMGlYSzZTR2QtZUhHVzlvZ3dE?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
       ],
       "importance": 81,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "4427e98a28456352"
+      "id": "418b5d61a9de7bef"
     },
     {
       "headline": "Indian rupee markets show hedging demand despite spot stability - Traders Union",
@@ -277,6 +239,25 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "bd82b41d9c05f3b9"
+    },
+    {
+      "headline": "Gulf Arab Oil Giants Are Exporting Crude at Pre-War Rates Again - Bloomberg.com",
+      "summary": "Gulf Arab Oil Giants Are Exporting Crude at Pre-War Rates Again    Bloomberg.com",
+      "published_at": "2026-11-02T17:25:09+00:00",
+      "source": "Bloomberg.com",
+      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWklkbWxGTUVjUDlHZDhmLTZiNHB4bXRHTVhIZXJCcGhXUXltdG1BRWo1OWZUX3JXOVFNeUQ3RUpzVVZNNnR4RDdKZnRjSmgyNnBmOXYxOTU3dFQ5Mm82WDExVlhFeTY0OTVsdmJ0bFExQk94c1JSQWVqeU9BbEdqN29tdkRqUkI4SHJoeEdTcUxwSm5hMExRb0s0Y21ReW9sSW1PR3NaY01OVFJ6NG8xQlVzMTM?oc=5",
+      "category": "monetary_policy",
+      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "linked_series": [
+        "market.usd_inr.close",
+        "india.now.cpi_inflation",
+        "india.now.fx_reserves_usd_bn"
+      ],
+      "importance": 81,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "8bd3c93b52062b50"
     },
     {
       "headline": "Freed from OPEC quotas, UAE says oil exports have risen as it hosts industry event - Reuters",
@@ -317,6 +298,25 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "4d772cff0c60992f"
+    },
+    {
+      "headline": "India Will Build Its Own Tunnel-Boring Machines if China Blocks Supply: Piyush Goyal - India Business Trade",
+      "summary": "India Will Build Its Own Tunnel-Boring Machines if China Blocks Supply: Piyush Goyal    India Business Trade",
+      "published_at": "2026-11-03T11:31:13+00:00",
+      "source": "India Business Trade",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNzZCS3NtVmYxVXVZVTFOMDhKTzVMak11Um5wX2hfN0U4OVgzUi1wbXNsQnNUT0JqLUlTQnlVTl9FQTRsT0hkaGdQTXRub1otbm9xVktmemlZYW9pb29TYXJGdjV2TlhyNXY2QnFfNjVvemtHUUJvZUpfNzdlemFybjVqb1g3NTdncjY0T1VxX2FRZEM5U0loV3Y3Z0pQU1JjWDFxVkFTMGlYSzZTR2QtZUhHVzlvZ3dE?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 80,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "4427e98a28456352"
     },
     {
       "headline": "RBI’s $239 billion bet raises the cost of rupee stability | Policy Circle - Policy Circle",
@@ -434,25 +434,6 @@
       "id": "f1d3d3489fdbceec"
     },
     {
-      "headline": "Canada Opens High-Level China Trade Push with Agriculture and Market Access in Focus - NetNewsLedger",
-      "summary": "Canada Opens High-Level China Trade Push with Agriculture and Market Access in Focus    NetNewsLedger",
-      "published_at": "2026-11-03T11:47:39+00:00",
-      "source": "NetNewsLedger",
-      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVY4YmxDWWFlbWxGb21JTHZUTVk4XzJKYlRoYVcwcXdERE1nWjJkUC10aEVUdl9mSEVfVFl1OUhyeFpjaTZVNnJpd1lvMWg1OWxiWjN4dHF0b0hEN0tpMGVxa25CNWZENmg2TnVPQmZEUlNqN1RIa0tXTHZjLTNqTk0yZHBCeVFvdTlQdWFJdGEyOUlPVHJ0ZlZqdGhwRENPQ21GNjlleGpiT1pvdU93dGNKZ2dxSkFwMTk2TjlTdFp3LVZE?oc=5",
-      "category": "trade",
-      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
-      "linked_series": [
-        "india.now.total_exports_usd_bn",
-        "india.now.total_imports_usd_bn",
-        "india.now.current_account_gdp"
-      ],
-      "importance": 73,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "b7aefda40eb4fe60"
-    },
-    {
       "headline": "UK parliamentary committee seeks China trade curbs, tariff preparations while saying decoupling unrealistic; pragmatic co-op serves British interests: experts - Global Times",
       "summary": "UK parliamentary committee seeks China trade curbs, tariff preparations while saying decoupling unrealistic; pragmatic co-op serves British interests: experts    Global Times",
       "published_at": "2026-11-02T09:56:00+00:00",
@@ -491,6 +472,25 @@
       "id": "4c15f05143198221"
     },
     {
+      "headline": "Canada Opens High-Level China Trade Push with Agriculture and Market Access in Focus - NetNewsLedger",
+      "summary": "Canada Opens High-Level China Trade Push with Agriculture and Market Access in Focus    NetNewsLedger",
+      "published_at": "2026-11-03T11:47:39+00:00",
+      "source": "NetNewsLedger",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVVY4YmxDWWFlbWxGb21JTHZUTVk4XzJKYlRoYVcwcXdERE1nWjJkUC10aEVUdl9mSEVfVFl1OUhyeFpjaTZVNnJpd1lvMWg1OWxiWjN4dHF0b0hEN0tpMGVxa25CNWZENmg2TnVPQmZEUlNqN1RIa0tXTHZjLTNqTk0yZHBCeVFvdTlQdWFJdGEyOUlPVHJ0ZlZqdGhwRENPQ21GNjlleGpiT1pvdU93dGNKZ2dxSkFwMTk2TjlTdFp3LVZE?oc=5",
+      "category": "trade",
+      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
+      "linked_series": [
+        "india.now.total_exports_usd_bn",
+        "india.now.total_imports_usd_bn",
+        "india.now.current_account_gdp"
+      ],
+      "importance": 72,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "b7aefda40eb4fe60"
+    },
+    {
       "headline": "Top Trade Expert: China Will Respond Swiftly if EU Escalates Trade Tensions - Geopolitechs",
       "summary": "Top Trade Expert: China Will Respond Swiftly if EU Escalates Trade Tensions    Geopolitechs",
       "published_at": "2026-11-03T10:36:12+00:00",
@@ -508,24 +508,6 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "9a58763b66007ef0"
-    },
-    {
-      "headline": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again - The Economic Times",
-      "summary": "US Treasury yields climb as strong jobs data, midterm polls weigh; 10-year yield eyes 5% again    The Economic Times",
-      "published_at": "2026-11-03T20:31:00+00:00",
-      "source": "The Economic Times",
-      "source_url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQV3JxVjFfNWEwYkVCQ2FpdVZiQ1FRTUtxbVhTQ3JaRmVLSWlRbEsxb2M2WlRrVHl3eWhRbXljNmtIV1JOWS1wQklaSC1HaGhVUTF0QUV2VEpaRU5xdzN6V3d5NGNFZU53RW5YX2JRakVhUDNWQ2gzOG5KUXBxWXVPX0xLYUM0RkRBcHd5SXFiVXFveDN5YV9Qd1BPYlFsa0JGbGc5aHEzcFlKZTExZG40MnRKRVFPejFacjB5X2ZHb2hmWWppeDJ0dEN1SnFvdGJFNXhUYUFSUWpXUkNHNVdqY1B1Ul9jUzVGUUM1a3lBU1ZrZmNoTzhhWEkzN2xRQlV3R3JyNzU1Q0XSAYgCQVVfeXFMUFdycVYxXzVhMGJFQkNhaXVWYkNRUU1LcW1YU0NyWkZlS0lpUWxLMW9jNlpUa1R5d3loUW15YzZrSFdSTlktcEJJWkgtR2hoVVExdEFFdlRKWkVOcXczeld3eTRjRWVOd0VuWF9iUWpFYVAzVkNoMzhuSlFwcVl1T19MS2FDNEZEQXB3eUlxYlVxb3gzeWFfUHdQT2JRbGtCRmxnOWhxM3BZSmUxMWRuNDJ0SkVRT3oxWnIweV9mR29oZllqaXgydHRDdUpxb3RiRTV4VGFBUlFqV1JDRzVXamNQdVJfY1M1RlFDNWt5QVNWa2ZjaE84YVhJMzdsUUJVd0dycjc1NUNF?oc=5",
-      "category": "technology",
-      "why_it_matters": "Large technology investment cycles can move equity leadership, capital spending, electricity demand and semiconductor supply chains.",
-      "linked_series": [
-        "market.nasdaq.close",
-        "market.sp500.close"
-      ],
-      "importance": 70,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "c390020d3e838c7d"
     },
     {
       "headline": "China and its trading partners are moving towards an economic peace. But it is a fragile one - Chatham House",
@@ -581,25 +563,6 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "3c19393d1872ae05"
-    },
-    {
-      "headline": "Tariffs for Factories: Can India’s EFTA Model Travel? - India Narrative",
-      "summary": "Tariffs for Factories: Can India’s EFTA Model Travel?    India Narrative",
-      "published_at": "2026-11-03T00:30:00+00:00",
-      "source": "India Narrative",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDIwQ3BDcGhZZTJKbUdyM2NSQnQ2cjlOV2pod1FXaG93cHZQTzFPODZMQ3oyZGl0Y0FDSXdVT1ZnWVFTZE96YWFiQzg4YTVqNy12MFd1VXlSM0g0UlMxVUpNOFQ4anJGYTJFZjk5X3ZicFo2TExkSXBrYjUxOHh2NWg2V1FiLXJXTlFKbVBNUWFXcWhH?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 69,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "07cc782abb4370fa"
     },
     {
       "headline": "Asean’s biggest trade problem is no longer tariffs. It is friction - The Business Times",
@@ -769,15 +732,51 @@
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "71eb34ab7c26de3a"
+    },
+    {
+      "headline": "U.S. Withholds Chip Tool Permits for SK hynix China Plant - Seoul Economic Daily",
+      "summary": "U.S. Withholds Chip Tool Permits for SK hynix China Plant    Seoul Economic Daily",
+      "published_at": "2026-11-03T21:28:01+00:00",
+      "source": "Seoul Economic Daily",
+      "source_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTlNLbGFHRWxwbVdUckk5NzFqTHBlSDJMU0hrVkxvc1BYVFprSGRORE01aExaQkNQd0hJNkUweVRtVjZFdTlVYmdCLW13S2tZOVo2aTdoMGo4cW1jMGdxOUpzc1pKV2EyeldBazNxYzdXdzVmOGotckd5UXNiNEJTSVNEaU4yS2hoYXl1VVZhQnE3aUhOUmk5RDluSWkzand4VjZZZzVB?oc=5",
+      "category": "china",
+      "why_it_matters": "China is a major source of global demand, manufacturing supply and commodity consumption.",
+      "linked_series": [
+        "market.usd_cny.close",
+        "market.hangseng.close"
+      ],
+      "importance": 62,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "94897a15c328f9db"
+    },
+    {
+      "headline": "China’s Bid To Win the AI Race - The McGill International Review",
+      "summary": "China’s Bid To Win the AI Race    The McGill International Review",
+      "published_at": "2026-11-03T18:30:57+00:00",
+      "source": "The McGill International Review",
+      "source_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UUlhPbmRYeGw4TWE2OEw0aWVBNHJLandvRGtiV3E3WHhtOTB1ZEdRelNqNFpudFE0cVR1WF8xbThReDB6SE10c0VHMnlEVFlxZTNSTkY0bFQ5emVmLVlLSQ?oc=5",
+      "category": "china",
+      "why_it_matters": "China is a major source of global demand, manufacturing supply and commodity consumption.",
+      "linked_series": [
+        "market.usd_cny.close",
+        "market.hangseng.close"
+      ],
+      "importance": 61,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "d0ef45e94013e885"
     }
   ],
   "collection_errors": [],
   "provider_results": [
     {
       "provider": "google",
-      "candidates": 191,
+      "candidates": 226,
       "errors": 0
     }
   ],
-  "published_at": "2026-11-04T07:48:53.198628+05:30"
+  "published_at": "2026-11-04T08:33:25.676915+05:30"
 }

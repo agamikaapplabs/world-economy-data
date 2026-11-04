@@ -1,150 +1,150 @@
 {
   "schema_version": "5.5",
   "report_date": "2026-11-04",
-  "as_of": "2026-11-04T07:48:53.198628+05:30",
+  "as_of": "2026-11-04T08:33:25.676915+05:30",
   "series_latest": {
     "market.gold.close": {
       "period": "2026-11-04",
-      "value": 3949.399902,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 3946.600098,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.silver.close": {
       "period": "2026-11-04",
-      "value": 49.639999,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 49.290001,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.sp500.close": {
       "period": "2026-11-03",
       "value": 7568.919922,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.nasdaq.close": {
       "period": "2026-11-03",
       "value": 25372.009766,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.nifty50.close": {
-      "period": "2026-11-02",
-      "value": 23440.800781,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 23810.849609,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.ftse100.close": {
-      "period": "2026-11-02",
-      "value": 10761.299805,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 10638.400391,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.nikkei.close": {
       "period": "2026-11-04",
-      "value": 61222.351562,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 60835.359375,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.hangseng.close": {
       "period": "2026-11-04",
-      "value": 23429.259766,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 23468.380859,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.apple.close": {
-      "period": "2026-11-02",
-      "value": 338.320007,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 331.899994,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.microsoft.close": {
-      "period": "2026-11-02",
-      "value": 507.119995,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 520.98999,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.nvidia.close": {
-      "period": "2026-11-02",
-      "value": 202.059998,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 206.690002,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.alphabet.close": {
-      "period": "2026-11-02",
-      "value": 278.98999,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 280.029999,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.amazon.close": {
-      "period": "2026-11-02",
-      "value": 245.630005,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 250.690002,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.meta.close": {
-      "period": "2026-11-02",
-      "value": 606.72998,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 621.030029,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.broadcom.close": {
-      "period": "2026-11-02",
-      "value": 322.230011,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 332.130005,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.tesla.close": {
-      "period": "2026-11-02",
-      "value": 403.820007,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 398.5,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.reliance.close": {
-      "period": "2026-11-02",
-      "value": 1300.0,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 1307.900024,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.tcs.close": {
-      "period": "2026-11-02",
-      "value": 2501.699951,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 2499.100098,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.hdfcbank.close": {
-      "period": "2026-11-02",
-      "value": 700.0,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 725.5,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.bharti.close": {
-      "period": "2026-11-02",
-      "value": 1989.900024,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 2065.0,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.icicibank.close": {
-      "period": "2026-11-02",
-      "value": 1387.400024,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 1424.5,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.infosys.close": {
-      "period": "2026-11-02",
-      "value": 1161.0,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 1148.099976,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.lt.close": {
-      "period": "2026-11-02",
-      "value": 3939.899902,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 3948.199951,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.sbi.close": {
-      "period": "2026-11-02",
-      "value": 987.0,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 970.25,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.asml.close": {
@@ -196,21 +196,21 @@
       "source_id": "yahoo-finance-chart"
     },
     "market.caterpillar.close": {
-      "period": "2026-11-02",
-      "value": 613.619995,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 623.940002,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.deere.close": {
-      "period": "2026-11-02",
-      "value": 667.599976,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 665.830017,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.gevernova.close": {
-      "period": "2026-11-02",
-      "value": 862.25,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 918.200012,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.siemens_heavy.close": {
@@ -226,45 +226,45 @@
       "source_id": "yahoo-finance-chart"
     },
     "market.honeywell.close": {
-      "period": "2026-11-02",
-      "value": 223.770004,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 224.050003,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.lt_heavy.close": {
-      "period": "2026-11-02",
-      "value": 3939.899902,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 3948.199951,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.mhi.close": {
       "period": "2026-11-04",
-      "value": 3252.0,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 3215.0,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.lockheed.close": {
-      "period": "2026-11-02",
-      "value": 643.150024,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 639.0,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.rtx.close": {
-      "period": "2026-11-02",
-      "value": 202.789993,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 203.820007,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.northrop.close": {
-      "period": "2026-11-02",
-      "value": 555.320007,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 550.299988,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.generaldynamics.close": {
-      "period": "2026-11-02",
-      "value": 373.459991,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "period": "2026-11-03",
+      "value": 374.5,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.bae.close": {
@@ -317,38 +317,38 @@
     },
     "market.brent.close": {
       "period": "2026-11-04",
-      "value": 103.230003,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 102.739998,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.wti.close": {
       "period": "2026-11-04",
-      "value": 95.449997,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 95.07,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.natgas.close": {
       "period": "2026-11-04",
-      "value": 2.852,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 2.849,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.copper.close": {
       "period": "2026-11-04",
-      "value": 6.347,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 6.3235,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.wheat.close": {
       "period": "2026-11-04",
-      "value": 594.5,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 592.25,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.corn.close": {
       "period": "2026-11-04",
-      "value": 440.75,
-      "collected_at": "2026-11-04T07:48:53.198628+05:30",
+      "value": 439.75,
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "yahoo-finance-chart"
     },
     "market.vix.close": {
@@ -360,25 +360,25 @@
     "market.usd_inr.close": {
       "period": "2026-11-03",
       "value": 94.75,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "frankfurter"
     },
     "market.usd_eur.close": {
       "period": "2026-11-03",
       "value": 0.89453,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "frankfurter"
     },
     "market.usd_gbp.close": {
       "period": "2026-11-03",
       "value": 0.74567,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "frankfurter"
     },
     "market.usd_jpy.close": {
       "period": "2026-11-03",
       "value": 158.29,
-      "collected_at": "2026-11-04T07:47:04.001929+05:30",
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "frankfurter"
     },
     "market.usd_chf.close": {
@@ -2736,7 +2736,7 @@
     "india.labour.unemployment": {
       "period": "Sep 2026",
       "value": 55.5,
-      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "plfs-mospi-pib"
     },
     "india.now.real_gdp_growth": {
@@ -2754,7 +2754,7 @@
     "india.now.unemployment": {
       "period": "Sep 2026",
       "value": 55.5,
-      "collected_at": "2026-10-29T11:34:02.269020+05:30",
+      "collected_at": "2026-11-04T08:33:25.676915+05:30",
       "source_id": "plfs-mospi"
     },
     "india.now.fx_reserves_usd_bn": {
