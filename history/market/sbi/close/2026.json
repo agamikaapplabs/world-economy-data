@@ -2590,6 +2590,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-04",
+      "value": 979.0,
+      "released_at": "2026-11-04",
+      "collected_at": "2026-11-05T09:02:24.392457+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/SBIN.NS",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     }
   ]
 }

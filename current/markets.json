@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-04T09:27:00.293416+00:00",
+  "generated_at": "2026-11-05T03:32:04.851712+00:00",
   "history_mode": "incremental",
   "history_overlap_days": 10,
   "instruments": {
@@ -10,12 +10,12 @@
       "symbol": "GC=F",
       "group": "metals",
       "unit": "USD",
-      "latest": 4055.300049,
-      "previous_close": 3940.399902,
-      "change": 114.90014699999983,
-      "change_pct": 2.9159514226381136,
-      "day_change_pct": 2.9159514226381136,
-      "market_time": "2026-11-04T09:14:40+00:00",
+      "latest": 4145.399902,
+      "previous_close": 4073.0,
+      "change": 72.39990200000011,
+      "change_pct": 1.777557132334891,
+      "day_change_pct": 1.777557132334891,
+      "market_time": "2026-11-05T03:21:41+00:00",
       "currency": "USD",
       "exchange": "CMX",
       "source": "Yahoo Finance chart",
@@ -1070,19 +1070,23 @@
         },
         {
           "date": "2026-11-04",
-          "value": 4055.300049
+          "value": 4073.0
+        },
+        {
+          "date": "2026-11-05",
+          "value": 4145.399902
         }
       ],
       "history_fetch": "incremental",
-      "history_points_added": 13,
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 0.0913207352775558,
-        "1M": -2.441776384754224,
-        "3M": -5.804611508896407,
-        "6M": -13.61224852574152,
-        "1Y": 2.3936384042418934,
-        "3Y": -6.975727389920927,
-        "5Y": -6.975727389920927
+        "1W": 2.827801824955256,
+        "1M": -0.9959206855340796,
+        "3M": -3.5863846052038073,
+        "6M": -12.004075904052181,
+        "1Y": 3.8192793143553283,
+        "3Y": -4.908932532246501,
+        "5Y": -4.908932532246501
       },
       "series_id": "market.gold.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -1093,12 +1097,12 @@
       "symbol": "SI=F",
       "group": "metals",
       "unit": "USD",
-      "latest": 51.974998,
-      "previous_close": 49.587002,
-      "change": 2.387996000000001,
-      "change_pct": 4.81577006813197,
-      "day_change_pct": 4.81577006813197,
-      "market_time": "2026-11-04T09:14:40+00:00",
+      "latest": 53.150002,
+      "previous_close": 52.119999,
+      "change": 1.0300030000000007,
+      "change_pct": 1.9762145429051154,
+      "day_change_pct": 1.9762145429051154,
+      "market_time": "2026-11-05T03:21:37+00:00",
       "currency": "USD",
       "exchange": "CMX",
       "source": "Yahoo Finance chart",
@@ -2153,19 +2157,23 @@
         },
         {
           "date": "2026-11-04",
-          "value": 51.974998
+          "value": 52.119999
+        },
+        {
+          "date": "2026-11-05",
+          "value": 53.150002
         }
       ],
       "history_fetch": "incremental",
-      "history_points_added": 13,
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -2.7723272392328857,
-        "1M": -14.611708991632998,
-        "3M": -16.303001921174285,
-        "6M": -32.33391046857522,
-        "1Y": 10.280069800974534,
-        "3Y": 1.6745222260709625,
-        "5Y": 1.6745222260709625
+        "1W": 1.8374814877093248,
+        "1M": -13.108156439774987,
+        "3M": -13.491425861283968,
+        "6M": -33.31325244668209,
+        "1Y": 11.04611727317797,
+        "3Y": 3.9730883619219615,
+        "5Y": 3.9730883619219615
       },
       "series_id": "market.silver.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -2176,12 +2184,12 @@
       "symbol": "^GSPC",
       "group": "indices",
       "unit": "index",
-      "latest": 7568.919922,
-      "previous_close": 7541.399902,
-      "change": 27.52001999999993,
-      "change_pct": 0.36491925050548696,
-      "day_change_pct": 0.36491925050548696,
-      "market_time": "2026-11-03T21:30:13+00:00",
+      "latest": 7688.620117,
+      "previous_close": 7568.919922,
+      "change": 119.70019500000035,
+      "change_pct": 1.581469961811552,
+      "day_change_pct": 1.581469961811552,
+      "market_time": "2026-11-04T21:51:11+00:00",
       "currency": "USD",
       "exchange": "SNP",
       "source": "Yahoo Finance chart",
@@ -3237,18 +3245,22 @@
         {
           "date": "2026-11-03",
           "value": 7568.919922
+        },
+        {
+          "date": "2026-11-04",
+          "value": 7688.620117
         }
       ],
       "history_fetch": "incremental",
-      "history_points_added": 12,
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -1.9900056205137462,
-        "1M": -1.9915300401699199,
-        "3M": -2.166349955364033,
-        "6M": 4.26629442044002,
-        "1Y": 10.463409566937232,
-        "3Y": 13.579064073658497,
-        "5Y": 13.579064073658497
+        "1W": -0.7148761120635005,
+        "1M": -1.0976411716000167,
+        "3M": -0.4522491455598132,
+        "6M": 4.392324834639227,
+        "1Y": 13.54298998617498,
+        "3Y": 15.375282854890116,
+        "5Y": 15.375282854890116
       },
       "series_id": "market.sp500.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -3259,12 +3271,12 @@
       "symbol": "^IXIC",
       "group": "indices",
       "unit": "index",
-      "latest": 25372.009766,
-      "previous_close": 25164.310547,
-      "change": 207.69921899999827,
-      "change_pct": 0.8253721818131012,
-      "day_change_pct": 0.8253721818131012,
-      "market_time": "2026-11-03T22:15:59+00:00",
+      "latest": 25736.513672,
+      "previous_close": 25372.009766,
+      "change": 364.50390600000173,
+      "change_pct": 1.436637890974087,
+      "day_change_pct": 1.436637890974087,
+      "market_time": "2026-11-04T22:15:59+00:00",
       "currency": "USD",
       "exchange": "NIM",
       "source": "Yahoo Finance chart",
@@ -4320,18 +4332,22 @@
         {
           "date": "2026-11-03",
           "value": 25372.009766
+        },
+        {
+          "date": "2026-11-04",
+          "value": 25736.513672
         }
       ],
       "history_fetch": "incremental",
-      "history_points_added": 12,
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -4.17633013514137,
-        "1M": -6.689195011880722,
-        "3M": -4.562651546317664,
-        "6M": 0.1811524518112284,
-        "1Y": 6.449788450034188,
-        "3Y": 11.869676104316618,
-        "5Y": 11.869676104316618
+        "1W": -3.063429544716856,
+        "1M": -6.3353976075000595,
+        "3M": -2.378012103153926,
+        "6M": -0.3964008708109201,
+        "1Y": 10.22703242279228,
+        "3Y": 13.47683825974122,
+        "5Y": 13.47683825974122
       },
       "series_id": "market.nasdaq.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -4342,12 +4358,12 @@
       "symbol": "^NSEI",
       "group": "indices",
       "unit": "index",
-      "latest": 23915.050781,
+      "latest": 23960.599609,
       "previous_close": 23810.849609,
-      "change": 104.20117200000095,
-      "change_pct": 0.43762055412174417,
-      "day_change_pct": 0.43762055412174417,
-      "market_time": "2026-11-04T09:24:43+00:00",
+      "change": 149.75,
+      "change_pct": 0.628914979763669,
+      "day_change_pct": 0.628914979763669,
+      "market_time": "2026-11-04T10:01:11+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -5386,19 +5402,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 23915.050781
+          "value": 23960.599609
         }
       ],
       "history_fetch": "incremental",
-      "history_points_added": 12,
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 5.357985946203114,
-        "1M": 6.026404712767253,
-        "3M": -2.881663693626879,
-        "6M": -1.7093391394496948,
-        "1Y": -6.5732580307120365,
-        "3Y": -6.528162456625686,
-        "5Y": -6.528162456625686
+        "1W": 5.558651745503962,
+        "1M": 6.228343588663643,
+        "3M": -2.6966912076148764,
+        "6M": -1.522133833195427,
+        "1Y": -6.395316589586586,
+        "3Y": -6.350135126050683,
+        "5Y": -6.350135126050683
       },
       "series_id": "market.nifty50.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -5409,12 +5425,12 @@
       "symbol": "^FTSE",
       "group": "indices",
       "unit": "index",
-      "latest": 10685.469727,
+      "latest": 10829.200195,
       "previous_close": 10638.400391,
-      "change": 47.069336000000476,
-      "change_pct": 0.4424474946423407,
-      "day_change_pct": 0.4424474946423407,
-      "market_time": "2026-11-04T09:09:42+00:00",
+      "change": 190.79980400000022,
+      "change_pct": 1.79350087407328,
+      "day_change_pct": 1.79350087407328,
+      "market_time": "2026-11-04T16:35:29+00:00",
       "currency": "GBP",
       "exchange": "FGI",
       "source": "Yahoo Finance chart",
@@ -6485,19 +6501,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 10685.469727
+          "value": 10829.200195
         }
       ],
       "history_fetch": "incremental",
-      "history_points_added": 13,
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": -0.08443847772219293,
-        "1M": 1.7867319084186262,
-        "3M": -1.862825984152816,
-        "6M": 2.3639871573110094,
-        "1Y": 9.989395028306735,
-        "3Y": 13.24032354224376,
-        "5Y": 13.24032354224376
+        "1W": 1.259527747907807,
+        "1M": 3.15586728450985,
+        "3M": -0.5427808846047988,
+        "6M": 3.740887205353838,
+        "1Y": 11.468864590838912,
+        "3Y": 14.763521409537494,
+        "5Y": 14.763521409537494
       },
       "series_id": "market.ftse100.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -6508,12 +6524,12 @@
       "symbol": "^N225",
       "group": "indices",
       "unit": "index",
-      "latest": 62188.628906,
-      "previous_close": 63081.859375,
-      "change": -893.2304690000019,
-      "change_pct": -1.415986272202367,
-      "day_change_pct": -1.415986272202367,
-      "market_time": "2026-11-04T06:45:03+00:00",
+      "latest": 61913.511719,
+      "previous_close": 62188.628906,
+      "change": -275.1171869999962,
+      "change_pct": -0.4423914658350873,
+      "day_change_pct": -0.4423914658350873,
+      "market_time": "2026-11-05T02:35:03+00:00",
       "currency": "JPY",
       "exchange": "OSA",
       "source": "Yahoo Finance chart",
@@ -7537,18 +7553,22 @@
         {
           "date": "2026-11-04",
           "value": 62188.628906
+        },
+        {
+          "date": "2026-11-05",
+          "value": 61913.511719
         }
       ],
       "history_fetch": "incremental",
-      "history_points_added": 12,
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -2.760667379549353,
-        "1M": -11.091606597240455,
-        "3M": -6.201781992765887,
-        "6M": 4.495660390208878,
-        "1Y": 20.761186723054582,
-        "3Y": 28.814296444526512,
-        "5Y": 28.814296444526512
+        "1W": -4.246798008219022,
+        "1M": -12.407995799878401,
+        "3M": -5.739280021386639,
+        "6M": -1.464701389068268,
+        "1Y": 23.303551696216207,
+        "3Y": 28.244432990280433,
+        "5Y": 28.244432990280433
       },
       "series_id": "market.nikkei.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -7559,12 +7579,12 @@
       "symbol": "^HSI",
       "group": "indices",
       "unit": "index",
-      "latest": 23919.5,
-      "previous_close": 23525.970703,
-      "change": 393.52929700000095,
-      "change_pct": 1.672744142922097,
-      "day_change_pct": 1.672744142922097,
-      "market_time": "2026-11-04T08:08:34+00:00",
+      "latest": 24727.980469,
+      "previous_close": 23919.5,
+      "change": 808.4804689999983,
+      "change_pct": 3.3800057233637757,
+      "day_change_pct": 3.3800057233637757,
+      "market_time": "2026-11-05T03:16:44+00:00",
       "currency": "HKD",
       "exchange": "HKG",
       "source": "Yahoo Finance chart",
@@ -8604,18 +8624,22 @@
         {
           "date": "2026-11-04",
           "value": 23919.5
+        },
+        {
+          "date": "2026-11-05",
+          "value": 24727.980469
         }
       ],
       "history_fetch": "incremental",
-      "history_points_added": 12,
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 3.5707988290659687,
-        "1M": -0.502654474870734,
-        "3M": -7.703095205809973,
-        "6M": -8.752188194636123,
-        "1Y": -7.833188300011685,
-        "3Y": -7.605728501939291,
-        "5Y": -7.605728501939291
+        "1W": 7.706594455106086,
+        "1M": 1.8427083721313853,
+        "3M": -3.142538390068761,
+        "6M": -7.1294182969600435,
+        "1Y": -4.65552570689024,
+        "3Y": -4.482796837244574,
+        "5Y": -4.482796837244574
       },
       "series_id": "market.hangseng.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -8626,20 +8650,16 @@
       "symbol": "AAPL",
       "group": "us_tech",
       "unit": "USD",
-      "latest": 331.899994,
-      "previous_close": 338.320007,
-      "change": -6.420012999999983,
-      "change_pct": -1.897615531794424,
-      "day_change_pct": -1.897615531794424,
-      "market_time": "2026-11-03T21:00:01+00:00",
+      "latest": 349.51001,
+      "previous_close": 331.899994,
+      "change": 17.61001600000003,
+      "change_pct": 5.305819921165781,
+      "day_change_pct": 5.305819921165781,
+      "market_time": "2026-11-04T21:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 223.889999
-        },
         {
           "date": "2025-04-03",
           "value": 203.190002
@@ -10235,18 +10255,22 @@
         {
           "date": "2026-11-03",
           "value": 331.899994
+        },
+        {
+          "date": "2026-11-04",
+          "value": 349.51001
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -4.379144839311822,
-        "1M": -0.5364284183737689,
-        "3M": 7.2790706044497,
-        "6M": 16.792174739760778,
-        "1Y": 23.35997353770558,
-        "3Y": 87.88565257466128,
-        "5Y": 119.8595512783727
+        "1W": 1.6519859275683224,
+        "1M": 4.992638484515677,
+        "3M": 12.38263987138264,
+        "6M": 21.564466572833418,
+        "1Y": 29.428972874904623,
+        "3Y": 97.85452695797999,
+        "5Y": 131.5249031486863
       },
       "series_id": "market.apple.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -10257,20 +10281,16 @@
       "symbol": "MSFT",
       "group": "us_tech",
       "unit": "USD",
-      "latest": 520.98999,
-      "previous_close": 507.119995,
-      "change": 13.869995000000017,
-      "change_pct": 2.735051888458868,
-      "day_change_pct": 2.735051888458868,
-      "market_time": "2026-11-03T21:00:01+00:00",
+      "latest": 555.799988,
+      "previous_close": 520.98999,
+      "change": 34.80999799999995,
+      "change_pct": 6.681509946093196,
+      "day_change_pct": 6.681509946093196,
+      "market_time": "2026-11-04T21:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 382.140015
-        },
         {
           "date": "2025-04-03",
           "value": 373.109985
@@ -11866,18 +11886,22 @@
         {
           "date": "2026-11-03",
           "value": 520.98999
+        },
+        {
+          "date": "2026-11-04",
+          "value": 555.799988
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -1.9460649067752467,
-        "1M": 0.6685527034413052,
-        "3M": 5.718226520233882,
-        "6M": 26.644461001452925,
-        "1Y": 0.7659054170720214,
-        "3Y": 47.67290468275187,
-        "5Y": 54.85375903665584
+        "1W": 4.668457756568478,
+        "1M": 5.830381089936165,
+        "3M": 14.019611508998686,
+        "6M": 34.264180134258424,
+        "1Y": 8.062910899481878,
+        "3Y": 57.53968449681466,
+        "5Y": 65.20032834858918
       },
       "series_id": "market.microsoft.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -11888,20 +11912,16 @@
       "symbol": "NVDA",
       "group": "us_tech",
       "unit": "USD",
-      "latest": 206.690002,
-      "previous_close": 202.059998,
-      "change": 4.630003999999985,
-      "change_pct": 2.2914005967672955,
-      "day_change_pct": 2.2914005967672955,
-      "market_time": "2026-11-03T21:00:00+00:00",
+      "latest": 200.130005,
+      "previous_close": 206.690002,
+      "change": -6.559996999999981,
+      "change_pct": -3.173833729993375,
+      "day_change_pct": -3.173833729993375,
+      "market_time": "2026-11-04T21:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 110.419998
-        },
         {
           "date": "2025-04-03",
           "value": 101.800003
@@ -13497,18 +13517,22 @@
         {
           "date": "2026-11-03",
           "value": 206.690002
+        },
+        {
+          "date": "2026-11-04",
+          "value": 200.130005
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -5.161971137359167,
-        "1M": -11.652060418705624,
-        "3M": -2.4771161415767073,
-        "6M": 5.185751653944015,
-        "1Y": -0.09184212848409867,
-        "3Y": 359.2600764523925,
-        "5Y": 593.5673133932648
+        "1W": -7.080508703674693,
+        "1M": -16.228543312562827,
+        "3M": -8.708145202499107,
+        "6M": -3.7049496828662876,
+        "1Y": 0.7247485960566902,
+        "3Y": 344.68392523755307,
+        "5Y": 571.5546400605806
       },
       "series_id": "market.nvidia.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -13519,20 +13543,16 @@
       "symbol": "GOOGL",
       "group": "us_tech",
       "unit": "USD",
-      "latest": 280.029999,
-      "previous_close": 278.98999,
-      "change": 1.0400089999999977,
-      "change_pct": 0.37277645696177053,
-      "day_change_pct": 0.37277645696177053,
-      "market_time": "2026-11-03T21:00:01+00:00",
+      "latest": 288.929993,
+      "previous_close": 280.029999,
+      "change": 8.89999400000005,
+      "change_pct": 3.1782287725537754,
+      "day_change_pct": 3.1782287725537754,
+      "market_time": "2026-11-04T21:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 157.039993
-        },
         {
           "date": "2025-04-03",
           "value": 150.720001
@@ -15128,18 +15148,22 @@
         {
           "date": "2026-11-03",
           "value": 280.029999
+        },
+        {
+          "date": "2026-11-04",
+          "value": 288.929993
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -12.648945550053947,
-        "1M": -18.4774384279476,
-        "3M": -25.849330478209943,
-        "6M": -27.907215187679924,
-        "1Y": -1.3005787350184206,
-        "3Y": 116.90936172380964,
-        "5Y": 88.86808992033868
+        "1W": -11.06836785981249,
+        "1M": -16.607500745786062,
+        "3M": -20.27977855574442,
+        "6M": -27.41182130764146,
+        "1Y": 4.10390705146948,
+        "3Y": 123.8032374684785,
+        "5Y": 94.87074989635961
       },
       "series_id": "market.alphabet.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -15150,20 +15174,16 @@
       "symbol": "AMZN",
       "group": "us_tech",
       "unit": "USD",
-      "latest": 250.690002,
-      "previous_close": 245.630005,
-      "change": 5.059996999999981,
-      "change_pct": 2.0600076932783438,
-      "day_change_pct": 2.0600076932783438,
-      "market_time": "2026-11-03T21:00:02+00:00",
+      "latest": 266.029999,
+      "previous_close": 250.690002,
+      "change": 15.339996999999983,
+      "change_pct": 6.119110007426616,
+      "day_change_pct": 6.119110007426616,
+      "market_time": "2026-11-04T21:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 196.009995
-        },
         {
           "date": "2025-04-03",
           "value": 178.410004
@@ -16759,18 +16779,22 @@
         {
           "date": "2026-11-03",
           "value": 250.690002
+        },
+        {
+          "date": "2026-11-04",
+          "value": 266.029999
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -0.9521943669965838,
-        "1M": -0.329994428594238,
-        "3M": -9.63521366427158,
-        "6M": -8.356785597811832,
-        "1Y": -1.303148818897637,
-        "3Y": 80.8730094860169,
-        "5Y": 44.1990183192746
+        "1W": 4.4893922744055015,
+        "1M": 5.819413424488773,
+        "3M": -2.4280194922725817,
+        "6M": -3.2582971474707123,
+        "1Y": 6.702226668876987,
+        "3Y": 91.94082791020944,
+        "5Y": 53.02271487986025
       },
       "series_id": "market.amazon.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -16781,20 +16805,16 @@
       "symbol": "META",
       "group": "us_tech",
       "unit": "USD",
-      "latest": 621.030029,
-      "previous_close": 606.72998,
-      "change": 14.300049000000058,
-      "change_pct": 2.356904961248175,
-      "day_change_pct": 2.356904961248175,
-      "market_time": "2026-11-03T21:00:01+00:00",
+      "latest": 630.0,
+      "previous_close": 621.030029,
+      "change": 8.969970999999987,
+      "change_pct": 1.4443699307815576,
+      "day_change_pct": 1.4443699307815576,
+      "market_time": "2026-11-04T21:00:00+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 583.929993
-        },
         {
           "date": "2025-04-03",
           "value": 531.619995
@@ -18390,18 +18410,22 @@
         {
           "date": "2026-11-03",
           "value": 621.030029
+        },
+        {
+          "date": "2026-11-04",
+          "value": 630.0
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 0.13544671750447268,
-        "1M": -14.703052617910261,
-        "3M": 5.628129892070177,
-        "6M": 2.6563750356383142,
-        "1Y": -2.6156077879547546,
-        "3Y": 97.40305694717628,
-        "5Y": 84.91291287932863
+        "1W": 2.8588238642071495,
+        "1M": -15.082898015919199,
+        "3M": 7.002730879537644,
+        "6M": 2.793368173269095,
+        "1Y": 0.42721306033524087,
+        "3Y": 100.25428734416488,
+        "5Y": 87.58373939108996
       },
       "series_id": "market.meta.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -18412,20 +18436,16 @@
       "symbol": "AVGO",
       "group": "us_tech",
       "unit": "USD",
-      "latest": 332.130005,
-      "previous_close": 322.230011,
-      "change": 9.899993999999992,
-      "change_pct": 3.072337666276526,
-      "day_change_pct": 3.072337666276526,
-      "market_time": "2026-11-03T21:00:01+00:00",
+      "latest": 325.480011,
+      "previous_close": 332.130005,
+      "change": -6.649993999999992,
+      "change_pct": -2.0022262065723306,
+      "day_change_pct": -2.0022262065723306,
+      "market_time": "2026-11-04T21:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 172.089996
-        },
         {
           "date": "2025-04-03",
           "value": 154.009995
@@ -20021,18 +20041,22 @@
         {
           "date": "2026-11-03",
           "value": 332.130005
+        },
+        {
+          "date": "2026-11-04",
+          "value": 325.480011
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -2.979575961015657,
-        "1M": -6.479137531150925,
-        "3M": -20.57346426656339,
-        "6M": -22.28331695584461,
-        "1Y": -8.390562407079717,
-        "3Y": 276.2745417654085,
-        "5Y": 505.39171922277706
+        "1W": -7.484149725614109,
+        "1M": -10.214890066070181,
+        "3M": -22.186092622611863,
+        "6M": -23.495672839903758,
+        "1Y": -7.518324387575581,
+        "3Y": 268.7406742815216,
+        "5Y": 493.27040756807986
       },
       "series_id": "market.broadcom.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -20043,20 +20067,16 @@
       "symbol": "TSLA",
       "group": "us_tech",
       "unit": "USD",
-      "latest": 398.5,
-      "previous_close": 403.820007,
-      "change": -5.3200069999999755,
-      "change_pct": -1.3174203624834209,
-      "day_change_pct": -1.3174203624834209,
-      "market_time": "2026-11-03T21:00:00+00:00",
+      "latest": 385.190002,
+      "previous_close": 398.5,
+      "change": -13.309998000000007,
+      "change_pct": -3.34002459222083,
+      "day_change_pct": -3.34002459222083,
+      "market_time": "2026-11-04T21:00:01+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 282.76001
-        },
         {
           "date": "2025-04-03",
           "value": 267.279999
@@ -21652,18 +21672,22 @@
         {
           "date": "2026-11-03",
           "value": 398.5
+        },
+        {
+          "date": "2026-11-04",
+          "value": 385.190002
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -2.198986697567562,
-        "1M": 7.531235138899972,
-        "3M": 21.735143637052513,
-        "6M": 2.3448147307806755,
-        "1Y": -14.917692368402037,
-        "3Y": 81.16929774420312,
-        "5Y": -2.797765927268425
+        "1W": -4.707832109475463,
+        "1M": 1.7056982051522729,
+        "3M": 19.791639364017023,
+        "6M": -3.3957837700859694,
+        "1Y": -13.296269452656794,
+        "3Y": 75.11819864599296,
+        "5Y": -6.044344449485717
       },
       "series_id": "market.tesla.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -21674,12 +21698,12 @@
       "symbol": "RELIANCE.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 1314.0,
+      "latest": 1311.0,
       "previous_close": 1307.900024,
-      "change": 6.09997599999997,
-      "change_pct": 0.4663946699338824,
-      "day_change_pct": 0.4663946699338824,
-      "market_time": "2026-11-04T09:24:45+00:00",
+      "change": 3.0999759999999696,
+      "change_pct": 0.23701933963722974,
+      "day_change_pct": 0.23701933963722974,
+      "market_time": "2026-11-04T09:59:22+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -23282,19 +23306,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 1314.0
+          "value": 1311.0
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 13.471502590673579,
-        "1M": 10.755223652962442,
-        "3M": 2.6562500000000044,
-        "6M": -8.616734260517688,
-        "1Y": -10.800351543824881,
-        "3Y": 13.29051404834447,
-        "5Y": 13.941943884525676
+        "1W": 13.212435233160624,
+        "1M": 10.50235784553557,
+        "3M": 2.4218749999999956,
+        "6M": -8.825371853530207,
+        "1Y": -11.004003709249943,
+        "3Y": 13.031859906681586,
+        "5Y": 13.681802460131799
       },
       "series_id": "market.reliance.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -23305,12 +23329,12 @@
       "symbol": "TCS.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 2433.100098,
+      "latest": 2436.0,
       "previous_close": 2499.100098,
-      "change": -66.0,
-      "change_pct": -2.640950638704669,
-      "day_change_pct": -2.640950638704669,
-      "market_time": "2026-11-04T09:24:46+00:00",
+      "change": -63.10009799999989,
+      "change_pct": -2.52491278962768,
+      "day_change_pct": -2.52491278962768,
+      "market_time": "2026-11-04T09:59:21+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -24913,19 +24937,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 2433.100098
+          "value": 2436.0
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": -1.0934919512195163,
-        "1M": 15.072843869248342,
-        "3M": 0.8329920430998783,
-        "6M": -0.09443229418345522,
-        "1Y": -18.630856201227996,
-        "3Y": -27.389651462050747,
-        "5Y": -30.654235504856597
+        "1W": -0.9756097560975618,
+        "1M": 15.20999398911247,
+        "3M": 0.9531703273932823,
+        "6M": 0.02464063497362723,
+        "1Y": -18.533875997645623,
+        "3Y": -27.303110470531745,
+        "5Y": -30.571585423457847
       },
       "series_id": "market.tcs.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -24936,12 +24960,12 @@
       "symbol": "HDFCBANK.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 737.25,
+      "latest": 736.700012,
       "previous_close": 725.5,
-      "change": 11.75,
-      "change_pct": 1.6195727084769125,
-      "day_change_pct": 1.6195727084769125,
-      "market_time": "2026-11-04T09:24:46+00:00",
+      "change": 11.200012000000015,
+      "change_pct": 1.5437645761543783,
+      "day_change_pct": 1.5437645761543783,
+      "market_time": "2026-11-04T09:59:22+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -26544,19 +26568,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 737.25
+          "value": 736.700012
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 7.580623509364481,
-        "1M": 4.604144800297583,
-        "3M": 0.3061224489795844,
-        "6M": -7.444603464108013,
-        "1Y": -25.171276325805636,
-        "3Y": -0.6234203875315925,
-        "5Y": -7.49395875636627
+        "1W": 7.500368437187244,
+        "1M": 4.52611017921869,
+        "3M": 0.23129414965985529,
+        "6M": -7.513649727153093,
+        "1Y": -25.227098502918043,
+        "3Y": -0.6975552485256942,
+        "5Y": -7.562968200396791
       },
       "series_id": "market.hdfcbank.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -26567,12 +26591,12 @@
       "symbol": "BHARTIARTL.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 2060.5,
+      "latest": 2067.600098,
       "previous_close": 2065.0,
-      "change": -4.5,
-      "change_pct": -0.2179176755447942,
-      "day_change_pct": -0.2179176755447942,
-      "market_time": "2026-11-04T09:24:46+00:00",
+      "change": 2.600097999999889,
+      "change_pct": 0.12591273607747647,
+      "day_change_pct": 0.12591273607747647,
+      "market_time": "2026-11-04T09:59:21+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -28175,19 +28199,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 2060.5
+          "value": 2067.600098
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 5.769725649850321,
-        "1M": 15.764929053116305,
-        "3M": 4.170879676440853,
-        "6M": 12.36843840652968,
-        "1Y": -2.4984643815715857,
-        "3Y": 121.38060703733547,
-        "5Y": 193.89531743472776
+        "1W": 6.134188361593607,
+        "1M": 16.163833368204948,
+        "3M": 4.5298330637006945,
+        "6M": 12.755639049477185,
+        "1Y": -2.162492307783037,
+        "3Y": 122.1434432446951,
+        "5Y": 194.90802578489888
       },
       "series_id": "market.bharti.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -28198,12 +28222,12 @@
       "symbol": "ICICIBANK.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 1422.0,
+      "latest": 1424.099976,
       "previous_close": 1424.5,
-      "change": -2.5,
-      "change_pct": -0.17550017550017552,
-      "day_change_pct": -0.17550017550017552,
-      "market_time": "2026-11-04T09:24:46+00:00",
+      "change": -0.40002400000003036,
+      "change_pct": -0.028081712881715015,
+      "day_change_pct": -0.028081712881715015,
+      "market_time": "2026-11-04T09:59:24+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -29806,19 +29830,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 1422.0
+          "value": 1424.099976
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 3.2229983139895113,
-        "1M": 6.756756756756754,
-        "3M": -1.937795770296602,
-        "6M": 11.137162954279024,
-        "1Y": 6.3654704519625405,
-        "3Y": 52.281004312885045,
-        "5Y": 81.81818739756616
+        "1W": 3.375435598875187,
+        "1M": 6.914412612612608,
+        "3M": -1.792979824171792,
+        "6M": 11.301287690504092,
+        "1Y": 6.522548465449041,
+        "3Y": 52.50588930185336,
+        "5Y": 82.08669220058896
       },
       "series_id": "market.icicibank.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -29829,12 +29853,12 @@
       "symbol": "INFY.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 1121.199951,
+      "latest": 1128.199951,
       "previous_close": 1148.099976,
-      "change": -26.900024999999914,
-      "change_pct": -2.3430037071963072,
-      "day_change_pct": -2.3430037071963072,
-      "market_time": "2026-11-04T09:24:40+00:00",
+      "change": -19.900024999999914,
+      "change_pct": -1.7333007069063746,
+      "day_change_pct": -1.7333007069063746,
+      "market_time": "2026-11-04T09:59:21+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -31437,19 +31461,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 1121.199951
+          "value": 1128.199951
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": -0.17362533573698213,
-        "1M": 9.867707104360623,
-        "3M": -4.497448807495741,
-        "6M": -3.941055682926431,
-        "1Y": -23.61877970784746,
-        "3Y": -19.28296955122888,
-        "5Y": -34.38286515172961
+        "1W": 0.4496217684272663,
+        "1M": 10.553645369916719,
+        "3M": -3.901196678023844,
+        "6M": -3.3413298181332762,
+        "1Y": -23.141907994137345,
+        "3Y": -18.779028026224843,
+        "5Y": -33.97319697119837
       },
       "series_id": "market.infosys.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -31460,12 +31484,12 @@
       "symbol": "LT.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 3928.300049,
+      "latest": 3944.399902,
       "previous_close": 3948.199951,
-      "change": -19.89990200000011,
-      "change_pct": -0.504024675724943,
-      "day_change_pct": -0.504024675724943,
-      "market_time": "2026-11-04T09:24:47+00:00",
+      "change": -3.8000489999999445,
+      "change_pct": -0.09624763302672824,
+      "day_change_pct": -0.09624763302672824,
+      "market_time": "2026-11-04T09:59:21+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -33068,19 +33092,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 3928.300049
+          "value": 3944.399902
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 3.3409622593041366,
-        "1M": 4.754667973333326,
-        "3M": -3.1722935913236383,
-        "6M": -2.0007471872271476,
-        "1Y": 0.09938199718158014,
-        "3Y": 34.935166990124515,
-        "5Y": 105.78329185331272
+        "1W": 3.764497702243874,
+        "1M": 5.183997386666661,
+        "3M": -2.7754522553610994,
+        "6M": -1.5991043532493476,
+        "1Y": 0.509632058389542,
+        "3Y": 35.48818899098325,
+        "5Y": 106.62667975835265
       },
       "series_id": "market.lt.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -33091,12 +33115,12 @@
       "symbol": "SBIN.NS",
       "group": "india_stocks",
       "unit": "INR",
-      "latest": 979.450012,
+      "latest": 979.0,
       "previous_close": 970.25,
-      "change": 9.200012000000015,
-      "change_pct": 0.9482104612213363,
-      "day_change_pct": 0.9482104612213363,
-      "market_time": "2026-11-04T09:24:48+00:00",
+      "change": 8.75,
+      "change_pct": 0.9018294254058232,
+      "day_change_pct": 0.9018294254058232,
+      "market_time": "2026-11-04T09:59:21+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -34699,19 +34723,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 979.450012
+          "value": 979.0
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 2.3672684243386533,
-        "1M": 2.2390409185803817,
-        "3M": -7.161136303317539,
-        "6M": -10.634122992700723,
-        "1Y": 2.2817498483312493,
-        "3Y": 69.41104753806945,
-        "5Y": 84.64511072534388
+        "1W": 2.3202353969929312,
+        "1M": 2.192066805845516,
+        "3M": -7.203791469194309,
+        "6M": -10.675182481751822,
+        "1Y": 2.2347561128176263,
+        "3Y": 69.33321099369184,
+        "5Y": 84.56027483321084
       },
       "series_id": "market.sbi.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -34727,7 +34751,7 @@
       "change": -5.40002400000003,
       "change_pct": -0.3898934296028903,
       "day_change_pct": -0.3898934296028903,
-      "market_time": "2026-11-04T09:09:46+00:00",
+      "market_time": "2026-11-04T16:39:26+00:00",
       "currency": "EUR",
       "exchange": "AMS",
       "source": "Yahoo Finance chart",
@@ -36333,8 +36357,8 @@
           "value": 1379.599976
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1281,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": -7.384532879450045,
         "1M": -16.70088052067573,
@@ -36358,7 +36382,7 @@
       "change": 2.300003000000004,
       "change_pct": 1.112994467350434,
       "day_change_pct": 1.112994467350434,
-      "market_time": "2026-11-04T09:09:36+00:00",
+      "market_time": "2026-11-04T16:39:58+00:00",
       "currency": "EUR",
       "exchange": "GER",
       "source": "Yahoo Finance chart",
@@ -37964,8 +37988,8 @@
           "value": 208.949997
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1275,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": -1.06534092422359,
         "1M": 12.92153313040818,
@@ -37989,7 +38013,7 @@
       "change": 3.049987999999985,
       "change_pct": 1.1306721037998089,
       "day_change_pct": 1.1306721037998089,
-      "market_time": "2026-11-04T09:09:39+00:00",
+      "market_time": "2026-11-04T16:39:02+00:00",
       "currency": "EUR",
       "exchange": "GER",
       "source": "Yahoo Finance chart",
@@ -39595,8 +39619,8 @@
           "value": 272.799988
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1275,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": 1.0183299841509452,
         "1M": -0.8000043636363641,
@@ -39620,7 +39644,7 @@
       "change": -1.8500060000000076,
       "change_pct": -0.7716396246089708,
       "day_change_pct": -0.7716396246089708,
-      "market_time": "2026-11-04T09:09:50+00:00",
+      "market_time": "2026-11-04T16:39:39+00:00",
       "currency": "EUR",
       "exchange": "PAR",
       "source": "Yahoo Finance chart",
@@ -41226,8 +41250,8 @@
           "value": 237.899994
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1281,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": -3.3712441515586278,
         "1M": -12.793253495304402,
@@ -41251,7 +41275,7 @@
       "change": -0.5,
       "change_pct": -0.2586385174298075,
       "day_change_pct": -0.2586385174298075,
-      "market_time": "2026-11-04T09:09:39+00:00",
+      "market_time": "2026-11-04T16:37:54+00:00",
       "currency": "EUR",
       "exchange": "PAR",
       "source": "Yahoo Finance chart",
@@ -42857,8 +42881,8 @@
           "value": 192.820007
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1281,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": 0.4689500882550046,
         "1M": 1.9780013541569552,
@@ -42882,7 +42906,7 @@
       "change": 1.8500060000000076,
       "change_pct": 0.4607735990037378,
       "day_change_pct": 0.4607735990037378,
-      "market_time": "2026-11-04T09:09:47+00:00",
+      "market_time": "2026-11-04T16:38:33+00:00",
       "currency": "EUR",
       "exchange": "PAR",
       "source": "Yahoo Finance chart",
@@ -44488,8 +44512,8 @@
           "value": 403.350006
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1281,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": 4.7662353246753275,
         "1M": 5.893938659395204,
@@ -44513,7 +44537,7 @@
       "change": 11.300018000000023,
       "change_pct": 4.182868129177165,
       "day_change_pct": 4.182868129177165,
-      "market_time": "2026-11-04T09:24:47+00:00",
+      "market_time": "2026-11-04T15:59:44+00:00",
       "currency": "DKK",
       "exchange": "CPH",
       "source": "Yahoo Finance chart",
@@ -46119,8 +46143,8 @@
           "value": 281.450012
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1252,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": 10.372553725490196,
         "1M": 14.03971174181875,
@@ -46144,7 +46168,7 @@
       "change": 12.5,
       "change_pct": 0.3235408308528536,
       "day_change_pct": 0.3235408308528536,
-      "market_time": "2026-11-04T09:09:50+00:00",
+      "market_time": "2026-11-04T17:12:00+00:00",
       "currency": "GBp",
       "exchange": "LSE",
       "source": "Yahoo Finance chart",
@@ -47750,8 +47774,8 @@
           "value": 3876.0
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1262,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": -2.0346265638822136,
         "1M": 6.7327550598926145,
@@ -47770,20 +47794,16 @@
       "symbol": "CAT",
       "group": "heavy_industry",
       "unit": "USD",
-      "latest": 623.940002,
-      "previous_close": 613.619995,
-      "change": 10.320007000000032,
-      "change_pct": 1.6818237808564291,
-      "day_change_pct": 1.6818237808564291,
-      "market_time": "2026-11-03T21:00:02+00:00",
+      "latest": 591.299988,
+      "previous_close": 623.940002,
+      "change": -32.640014000000065,
+      "change_pct": -5.231274464752151,
+      "day_change_pct": -5.231274464752151,
+      "market_time": "2026-11-04T21:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 334.660004
-        },
         {
           "date": "2025-04-03",
           "value": 305.76001
@@ -49379,18 +49399,22 @@
         {
           "date": "2026-11-03",
           "value": 623.940002
+        },
+        {
+          "date": "2026-11-04",
+          "value": 591.299988
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -12.528913971566102,
-        "1M": -26.197627859950877,
-        "3M": -28.817849994287425,
-        "6M": -31.025107133974615,
-        "1Y": 9.34996625869875,
-        "3Y": 159.16510986500523,
-        "5Y": 206.46889054411105
+        "1W": -17.112901419209248,
+        "1M": -30.28273898856193,
+        "3M": -32.11875184137074,
+        "6M": -36.20877601702548,
+        "1Y": 7.984215939713524,
+        "3Y": 145.60747165109032,
+        "5Y": 190.43666173066774
       },
       "series_id": "market.caterpillar.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -49401,20 +49425,16 @@
       "symbol": "DE",
       "group": "heavy_industry",
       "unit": "USD",
-      "latest": 665.830017,
-      "previous_close": 667.599976,
-      "change": -1.7699589999999716,
-      "change_pct": -0.2651226877815184,
-      "day_change_pct": -0.2651226877815184,
-      "market_time": "2026-11-03T21:00:03+00:00",
+      "latest": 676.5,
+      "previous_close": 665.830017,
+      "change": 10.669983000000002,
+      "change_pct": 1.6025085573755384,
+      "day_change_pct": 1.6025085573755384,
+      "market_time": "2026-11-04T21:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 470.899994
-        },
         {
           "date": "2025-04-03",
           "value": 447.450012
@@ -51010,18 +51030,22 @@
         {
           "date": "2026-11-03",
           "value": 665.830017
+        },
+        {
+          "date": "2026-11-04",
+          "value": 676.5
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 4.104255808855273,
-        "1M": -3.0815113537117855,
-        "3M": 7.8494294171196355,
-        "6M": 15.637653040220156,
-        "1Y": 44.1377698656199,
-        "3Y": 74.20983675950276,
-        "5Y": 89.77625925991862
+        "1W": 5.592585566787833,
+        "1M": -0.8355338463406525,
+        "3M": 10.539215686274517,
+        "6M": 14.343178765553933,
+        "1Y": 44.45868403481575,
+        "3Y": 77.00156430136376,
+        "5Y": 92.81744005442599
       },
       "series_id": "market.deere.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -51032,20 +51056,16 @@
       "symbol": "GEV",
       "group": "heavy_industry",
       "unit": "USD",
-      "latest": 918.200012,
-      "previous_close": 862.25,
-      "change": 55.950012000000015,
-      "change_pct": 6.488838735865469,
-      "day_change_pct": 6.488838735865469,
-      "market_time": "2026-11-03T21:00:02+00:00",
+      "latest": 832.830017,
+      "previous_close": 918.200012,
+      "change": -85.36999500000002,
+      "change_pct": -9.297537996547097,
+      "day_change_pct": -9.297537996547097,
+      "market_time": "2026-11-04T21:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 330.799988
-        },
         {
           "date": "2025-04-03",
           "value": 297.660004
@@ -52641,18 +52661,22 @@
         {
           "date": "2026-11-03",
           "value": 918.200012
+        },
+        {
+          "date": "2026-11-04",
+          "value": 832.830017
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 654,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 2.5830087322796347,
-        "1M": -7.130575416641138,
-        "3M": -9.850472165116697,
-        "6M": -16.16219312307734,
-        "1Y": 57.967174105096284,
-        "3Y": 599.5809615238096,
-        "5Y": 599.5809615238096
+        "1W": -5.147889082048696,
+        "1M": -15.87575585858586,
+        "3M": -18.186372843628227,
+        "6M": -25.571061876449043,
+        "1Y": 51.98736834126194,
+        "3Y": 534.5371558095237,
+        "5Y": 534.5371558095237
       },
       "series_id": "market.gevernova.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -52668,7 +52692,7 @@
       "change": 3.1499939999999924,
       "change_pct": 1.1677456904541215,
       "day_change_pct": 1.1677456904541215,
-      "market_time": "2026-11-04T09:09:51+00:00",
+      "market_time": "2026-11-04T16:39:02+00:00",
       "currency": "EUR",
       "exchange": "GER",
       "source": "Yahoo Finance chart",
@@ -54274,8 +54298,8 @@
           "value": 272.899994
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1275,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": 1.0553623872036733,
         "1M": -0.763638545454548,
@@ -54294,12 +54318,12 @@
       "symbol": "ABBN.SW",
       "group": "heavy_industry",
       "unit": "CHF",
-      "latest": 71.760002,
+      "latest": 70.459999,
       "previous_close": 72.5,
-      "change": -0.7399979999999999,
-      "change_pct": -1.020686896551724,
-      "day_change_pct": -1.020686896551724,
-      "market_time": "2026-11-04T09:09:51+00:00",
+      "change": -2.0400010000000037,
+      "change_pct": -2.8137944827586256,
+      "day_change_pct": -2.8137944827586256,
+      "market_time": "2026-11-04T16:31:16+00:00",
       "currency": "CHF",
       "exchange": "EBS",
       "source": "Yahoo Finance chart",
@@ -55902,19 +55926,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 71.760002
+          "value": 70.459999
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1257,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": -1.536765979833954,
-        "1M": -12.16645699509633,
-        "3M": -12.84915534851374,
-        "6M": -12.91262104581017,
-        "1Y": 23.42621815318573,
-        "3Y": 130.59125865709325,
-        "5Y": 136.42336399138503
+        "1W": -3.3205242859710937,
+        "1M": -13.75764799599687,
+        "3M": -14.427978597424273,
+        "6M": -14.49029455120645,
+        "1Y": 21.190230842625212,
+        "3Y": 126.41387125919437,
+        "5Y": 132.14032227047076
       },
       "series_id": "market.abb.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -55925,20 +55949,16 @@
       "symbol": "HON",
       "group": "heavy_industry",
       "unit": "USD",
-      "latest": 224.050003,
-      "previous_close": 223.770004,
-      "change": 0.27999900000000366,
-      "change_pct": 0.12512803101170059,
-      "day_change_pct": 0.12512803101170059,
-      "market_time": "2026-11-03T21:00:01+00:00",
+      "latest": 228.470001,
+      "previous_close": 224.050003,
+      "change": 4.4199979999999925,
+      "change_pct": 1.972773015316582,
+      "day_change_pct": 1.972773015316582,
+      "market_time": "2026-11-04T21:00:00+00:00",
       "currency": "USD",
       "exchange": "NMS",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 213.499847
-        },
         {
           "date": "2025-04-03",
           "value": 204.29718
@@ -57534,18 +57554,22 @@
         {
           "date": "2026-11-03",
           "value": 224.050003
+        },
+        {
+          "date": "2026-11-04",
+          "value": 228.470001
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 2.3947740267334483,
-        "1M": 4.701153215076559,
-        "3M": -9.94412584753761,
-        "6M": 2.186779725455401,
-        "1Y": 8.02026104261271,
-        "3Y": 19.933971063725764,
-        "5Y": 1.8756820140306774
+        "1W": 4.200495398168735,
+        "1M": 6.691884779545565,
+        "3M": -7.919552795412555,
+        "6M": 0.4547398351077314,
+        "1Y": 10.88574696590956,
+        "3Y": 22.299996081068564,
+        "5Y": 3.885457977973217
       },
       "series_id": "market.honeywell.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -57556,12 +57580,12 @@
       "symbol": "LT.NS",
       "group": "heavy_industry",
       "unit": "INR",
-      "latest": 3929.100098,
+      "latest": 3944.399902,
       "previous_close": 3948.199951,
-      "change": -19.099853000000167,
-      "change_pct": -0.48376103634676754,
-      "day_change_pct": -0.48376103634676754,
-      "market_time": "2026-11-04T09:24:54+00:00",
+      "change": -3.8000489999999445,
+      "change_pct": -0.09624763302672824,
+      "day_change_pct": -0.09624763302672824,
+      "market_time": "2026-11-04T09:59:21+00:00",
       "currency": "INR",
       "exchange": "NSI",
       "source": "Yahoo Finance chart",
@@ -59164,19 +59188,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 3929.100098
+          "value": 3944.399902
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1236,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 3.3620089798914954,
-        "1M": 4.77600261333333,
-        "3M": -3.152573379344348,
-        "6M": -1.980788374703757,
-        "1Y": 0.1197685281157046,
-        "3Y": 34.962648278230986,
-        "5Y": 105.82520227634822
+        "1W": 3.764497702243874,
+        "1M": 5.183997386666661,
+        "3M": -2.7754522553610994,
+        "6M": -1.5991043532493476,
+        "1Y": 0.509632058389542,
+        "3Y": 35.48818899098325,
+        "5Y": 106.62667975835265
       },
       "series_id": "market.lt_heavy.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -59187,20 +59211,16 @@
       "symbol": "7011.T",
       "group": "heavy_industry",
       "unit": "JPY",
-      "latest": 3252.0,
-      "previous_close": 3363.0,
-      "change": -111.0,
-      "change_pct": -3.300624442462088,
-      "day_change_pct": -3.300624442462088,
-      "market_time": "2026-11-04T06:30:00+00:00",
+      "latest": 3109.0,
+      "previous_close": 3252.0,
+      "change": -143.0,
+      "change_pct": -4.397293972939729,
+      "day_change_pct": -4.397293972939729,
+      "market_time": "2026-11-05T02:30:00+00:00",
       "currency": "JPY",
       "exchange": "JPX",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-03-14",
-          "value": 2556.0
-        },
         {
           "date": "2025-03-17",
           "value": 2867.0
@@ -60796,18 +60816,22 @@
         {
           "date": "2026-11-04",
           "value": 3252.0
+        },
+        {
+          "date": "2026-11-05",
+          "value": 3109.0
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1221,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -8.3943661971831,
-        "1M": -15.990700077499353,
-        "3M": -18.700000000000006,
-        "6M": -29.088530309638028,
-        "1Y": -29.242819843342037,
-        "3Y": 308.7994971715902,
-        "5Y": 1012.9362992633963
+        "1W": -11.14604172620749,
+        "1M": -17.9033535780301,
+        "3M": -22.23611805902952,
+        "6M": -31.32317207863927,
+        "1Y": -30.213243546576884,
+        "3Y": 264.69208211143695,
+        "5Y": 985.5447154792888
       },
       "series_id": "market.mhi.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -60818,20 +60842,16 @@
       "symbol": "LMT",
       "group": "defence",
       "unit": "USD",
-      "latest": 639.0,
-      "previous_close": 643.150024,
-      "change": -4.15002400000003,
-      "change_pct": -0.6452653106019367,
-      "day_change_pct": -0.6452653106019367,
-      "market_time": "2026-11-03T21:00:02+00:00",
+      "latest": 595.039978,
+      "previous_close": 639.0,
+      "change": -43.96002199999998,
+      "change_pct": -6.879502660406883,
+      "day_change_pct": -6.879502660406883,
+      "market_time": "2026-11-04T21:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 452.869995
-        },
         {
           "date": "2025-04-03",
           "value": 454.779999
@@ -62427,18 +62447,22 @@
         {
           "date": "2026-11-03",
           "value": 639.0
+        },
+        {
+          "date": "2026-11-04",
+          "value": 595.039978
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 2.5698663312391234,
-        "1M": 26.432004697714696,
-        "3M": 8.428211963959754,
-        "6M": 25.557544021580192,
-        "1Y": 30.9587238965499,
-        "3Y": 40.95381074649325,
-        "5Y": 90.46199701937408
+        "1W": -5.511714489876929,
+        "1M": 17.45059947643646,
+        "3M": 3.0193910534373147,
+        "6M": 15.708001094621382,
+        "1Y": 22.69371200950383,
+        "3Y": 31.256889586243354,
+        "5Y": 77.35915886736215
       },
       "series_id": "market.lockheed.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -62449,20 +62473,16 @@
       "symbol": "RTX",
       "group": "defence",
       "unit": "USD",
-      "latest": 203.820007,
-      "previous_close": 202.789993,
-      "change": 1.0300139999999942,
-      "change_pct": 0.5079215126754277,
-      "day_change_pct": 0.5079215126754277,
-      "market_time": "2026-11-03T21:00:03+00:00",
+      "latest": 198.429993,
+      "previous_close": 203.820007,
+      "change": -5.390014000000008,
+      "change_pct": -2.644497014466302,
+      "day_change_pct": -2.644497014466302,
+      "market_time": "2026-11-04T21:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 133.149994
-        },
         {
           "date": "2025-04-03",
           "value": 130.229996
@@ -64058,18 +64078,22 @@
         {
           "date": "2026-11-03",
           "value": 203.820007
+        },
+        {
+          "date": "2026-11-04",
+          "value": 198.429993
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 4.737924314349717,
-        "1M": 10.363880618080824,
-        "3M": -6.474549833991872,
-        "6M": 17.90363446241785,
-        "1Y": 15.126533584984948,
-        "3Y": 146.39749097681954,
-        "5Y": 131.45583877937406
+        "1W": 1.3225066650838668,
+        "1M": 7.64931961537112,
+        "3M": -10.741759351731906,
+        "6M": 12.272257206284443,
+        "1Y": 12.994699544475253,
+        "3Y": 139.88151668421764,
+        "5Y": 125.33499603304557
       },
       "series_id": "market.rtx.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -64080,20 +64104,16 @@
       "symbol": "NOC",
       "group": "defence",
       "unit": "USD",
-      "latest": 550.299988,
-      "previous_close": 555.320007,
-      "change": -5.0200190000000475,
-      "change_pct": -0.9039866989701394,
-      "day_change_pct": -0.9039866989701394,
-      "market_time": "2026-11-03T21:00:03+00:00",
+      "latest": 525.349976,
+      "previous_close": 550.299988,
+      "change": -24.950012000000015,
+      "change_pct": -4.533892884620601,
+      "day_change_pct": -4.533892884620601,
+      "market_time": "2026-11-04T21:00:02+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 512.179993
-        },
         {
           "date": "2025-04-03",
           "value": 515.169983
@@ -65689,18 +65709,22 @@
         {
           "date": "2026-11-03",
           "value": 550.299988
+        },
+        {
+          "date": "2026-11-04",
+          "value": 525.349976
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -0.16871215894316283,
-        "1M": 15.125520502092037,
-        "3M": -0.22663403629700207,
-        "6M": -1.4858554165064985,
-        "1Y": -4.363842508513505,
-        "3Y": 16.940797144439546,
-        "5Y": 54.29259850510177
+        "1W": -4.96047958606729,
+        "1M": 10.342146258495276,
+        "3M": -5.7617444294591476,
+        "6M": -6.120443436187706,
+        "1Y": -8.973565799280092,
+        "3Y": 11.638826663489187,
+        "5Y": 47.297137359982734
       },
       "series_id": "market.northrop.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -65711,20 +65735,16 @@
       "symbol": "GD",
       "group": "defence",
       "unit": "USD",
-      "latest": 374.5,
-      "previous_close": 373.459991,
-      "change": 1.0400089999999977,
-      "change_pct": 0.27847936192982925,
-      "day_change_pct": 0.27847936192982925,
-      "market_time": "2026-11-03T21:00:03+00:00",
+      "latest": 364.869995,
+      "previous_close": 374.5,
+      "change": -9.630004999999983,
+      "change_pct": -2.5714299065420514,
+      "day_change_pct": -2.5714299065420514,
+      "market_time": "2026-11-04T21:00:03+00:00",
       "currency": "USD",
       "exchange": "NYQ",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 276.040009
-        },
         {
           "date": "2025-04-03",
           "value": 269.619995
@@ -67320,18 +67340,22 @@
         {
           "date": "2026-11-03",
           "value": 374.5
+        },
+        {
+          "date": "2026-11-04",
+          "value": 364.869995
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1254,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 5.525651376807539,
-        "1M": 13.453907885169603,
-        "3M": -2.918915830596336,
-        "6M": 7.257416573978492,
-        "1Y": 9.544565325190346,
-        "3Y": 53.98215090713765,
-        "5Y": 88.98869218835908
+        "1W": 2.9688129876876523,
+        "1M": 9.993366061758802,
+        "3M": -5.001560260935955,
+        "6M": 5.06810451737596,
+        "1Y": 6.230527829998178,
+        "3Y": 50.02260782797479,
+        "5Y": 84.1289804374449
       },
       "series_id": "market.generaldynamics.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -67347,7 +67371,7 @@
       "change": -111.0,
       "change_pct": -5.349397590361446,
       "day_change_pct": -5.349397590361446,
-      "market_time": "2026-11-04T09:09:55+00:00",
+      "market_time": "2026-11-04T16:44:44+00:00",
       "currency": "GBp",
       "exchange": "LSE",
       "source": "Yahoo Finance chart",
@@ -68953,8 +68977,8 @@
           "value": 1964.0
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1262,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": -3.0123456790123404,
         "1M": 1.5511892450879028,
@@ -68978,7 +69002,7 @@
       "change": -24.899963999999954,
       "change_pct": -2.4781015423340107,
       "day_change_pct": -2.4781015423340107,
-      "market_time": "2026-11-04T09:09:55+00:00",
+      "market_time": "2026-11-04T16:38:55+00:00",
       "currency": "EUR",
       "exchange": "GER",
       "source": "Yahoo Finance chart",
@@ -70584,8 +70608,8 @@
           "value": 979.900024
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1275,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": -3.1719343873517714,
         "1M": -0.03060477416113594,
@@ -70609,7 +70633,7 @@
       "change": -1.4000020000000006,
       "change_pct": -2.7105555581585468,
       "day_change_pct": -2.7105555581585468,
-      "market_time": "2026-11-04T09:09:57+00:00",
+      "market_time": "2026-11-04T16:35:07+00:00",
       "currency": "EUR",
       "exchange": "MIL",
       "source": "Yahoo Finance chart",
@@ -72215,8 +72239,8 @@
           "value": 50.25
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1271,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": 0.7922976632233514,
         "1M": 4.037269234726071,
@@ -72240,7 +72264,7 @@
       "change": -9.5,
       "change_pct": -4.07725321888412,
       "day_change_pct": -4.07725321888412,
-      "market_time": "2026-11-04T09:09:53+00:00",
+      "market_time": "2026-11-04T16:39:36+00:00",
       "currency": "EUR",
       "exchange": "PAR",
       "source": "Yahoo Finance chart",
@@ -73846,8 +73870,8 @@
           "value": 223.5
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1281,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
         "1W": -4.446342140564563,
         "1M": -1.4550277585313798,
@@ -73867,19 +73891,15 @@
       "group": "bond_yields",
       "unit": "%",
       "latest": 4.025,
-      "previous_close": 3.982,
-      "change": 0.04300000000000015,
-      "change_pct": 1.0798593671521886,
-      "day_change_pct": 1.0798593671521886,
-      "market_time": "2026-11-03T19:59:55+00:00",
+      "previous_close": 4.025,
+      "change": 0.0,
+      "change_pct": 0.0,
+      "day_change_pct": 0.0,
+      "market_time": "2026-11-04T19:59:53+00:00",
       "currency": "USD",
       "exchange": "CGI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 4.203
-        },
         {
           "date": "2025-04-03",
           "value": 4.185
@@ -75475,18 +75495,22 @@
         {
           "date": "2026-11-03",
           "value": 4.025
+        },
+        {
+          "date": "2026-11-04",
+          "value": 4.025
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1255,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -0.3712871287128605,
-        "1M": 0.8014024542950304,
-        "3M": 7.9088471849866115,
+        "1W": 0.7509386733416834,
+        "1M": 0.17421602787457413,
+        "3M": 8.053691275167797,
         "6M": 11.805555555555557,
-        "1Y": 6.39703938673013,
+        "1Y": 6.116530450830493,
         "3Y": -23.37711783742623,
-        "5Y": 8844.444444444445
+        "5Y": 11400.0
       },
       "series_id": "market.us3m.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -75497,20 +75521,16 @@
       "symbol": "^FVX",
       "group": "bond_yields",
       "unit": "%",
-      "latest": 4.743,
-      "previous_close": 4.693,
-      "change": 0.05000000000000071,
-      "change_pct": 1.065416577881967,
-      "day_change_pct": 1.065416577881967,
-      "market_time": "2026-11-03T19:59:55+00:00",
+      "latest": 4.689,
+      "previous_close": 4.743,
+      "change": -0.05400000000000027,
+      "change_pct": -1.1385199240986772,
+      "day_change_pct": -1.1385199240986772,
+      "market_time": "2026-11-04T19:59:53+00:00",
       "currency": "USD",
       "exchange": "CGI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 3.951
-        },
         {
           "date": "2025-04-03",
           "value": 3.761
@@ -77106,18 +77126,22 @@
         {
           "date": "2026-11-03",
           "value": 4.743
+        },
+        {
+          "date": "2026-11-04",
+          "value": 4.689
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1255,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -2.0041322314049537,
-        "1M": -6.172106824925805,
-        "3M": 9.462266328179103,
-        "6M": 16.478388998035378,
-        "1Y": 27.67160161507405,
-        "3Y": 5.681818181818188,
-        "5Y": 300.253164556962
+        "1W": -3.7363990966947314,
+        "1M": -7.441768653770231,
+        "3M": 8.441258094357075,
+        "6M": 17.1664167916042,
+        "1Y": 26.69548770602539,
+        "3Y": 4.478609625668439,
+        "5Y": 324.72826086956513
       },
       "series_id": "market.us5y.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -77128,20 +77152,16 @@
       "symbol": "^TNX",
       "group": "bond_yields",
       "unit": "%",
-      "latest": 4.952,
-      "previous_close": 4.894,
-      "change": 0.05799999999999983,
-      "change_pct": 1.1851246424192854,
-      "day_change_pct": 1.1851246424192854,
-      "market_time": "2026-11-03T19:59:55+00:00",
+      "latest": 4.894,
+      "previous_close": 4.952,
+      "change": -0.05799999999999983,
+      "change_pct": -1.1712439418416767,
+      "day_change_pct": -1.1712439418416767,
+      "market_time": "2026-11-04T19:59:53+00:00",
       "currency": "USD",
       "exchange": "CGI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 4.196
-        },
         {
           "date": "2025-04-03",
           "value": 4.055
@@ -78737,18 +78757,22 @@
         {
           "date": "2026-11-03",
           "value": 4.952
+        },
+        {
+          "date": "2026-11-04",
+          "value": 4.894
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1255,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -0.8211496094532422,
-        "1M": -6.158802349819981,
-        "3M": 7.023989626107641,
-        "6M": 12.13768115942029,
-        "1Y": 20.60399415489529,
-        "3Y": 8.644142167617375,
-        "5Y": 213.61621279290694
+        "1W": -2.993062438057481,
+        "1M": -7.851628695160984,
+        "3M": 5.999566818280266,
+        "6M": 12.350780532598726,
+        "1Y": 19.686965028124238,
+        "3Y": 7.371654234313296,
+        "5Y": 221.1286089238845
       },
       "series_id": "market.us10y.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -78759,20 +78783,16 @@
       "symbol": "^TYX",
       "group": "bond_yields",
       "unit": "%",
-      "latest": 5.324,
-      "previous_close": 5.269,
-      "change": 0.054999999999999716,
-      "change_pct": 1.0438413361169048,
-      "day_change_pct": 1.0438413361169048,
-      "market_time": "2026-11-03T19:59:55+00:00",
+      "latest": 5.282,
+      "previous_close": 5.324,
+      "change": -0.041999999999999815,
+      "change_pct": -0.7888805409466533,
+      "day_change_pct": -0.7888805409466533,
+      "market_time": "2026-11-04T19:59:53+00:00",
       "currency": "USD",
       "exchange": "CGI",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-02",
-          "value": 4.553
-        },
         {
           "date": "2025-04-03",
           "value": 4.485
@@ -80368,18 +80388,22 @@
         {
           "date": "2026-11-03",
           "value": 5.324
+        },
+        {
+          "date": "2026-11-04",
+          "value": 5.282
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1255,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 0.3581526861451412,
-        "1M": -5.435168738898755,
-        "3M": 2.581888246628128,
-        "6M": 6.82182985553772,
-        "1Y": 13.54233312006825,
-        "3Y": 12.037037037037045,
-        "5Y": 168.07653575025174
+        "1W": -1.473605670583844,
+        "1M": -6.7608120035304475,
+        "3M": 2.0873598763045953,
+        "6M": 6.858183289500319,
+        "1Y": 13.1049250535332,
+        "3Y": 11.15319865319866,
+        "5Y": 168.9409368635438
       },
       "series_id": "market.us30y.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -80390,20 +80414,16 @@
       "symbol": "BZ=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 103.269997,
-      "previous_close": 103.599998,
-      "change": -0.33000099999999577,
-      "change_pct": -0.3185337899330807,
-      "day_change_pct": -0.3185337899330807,
-      "market_time": "2026-11-04T09:14:53+00:00",
+      "latest": 93.849998,
+      "previous_close": 94.620003,
+      "change": -0.7700049999999976,
+      "change_pct": -0.8137867000490348,
+      "day_change_pct": -0.8137867000490348,
+      "market_time": "2026-11-05T03:21:38+00:00",
       "currency": "USD",
       "exchange": "NYM",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-04",
-          "value": 65.580002
-        },
         {
           "date": "2025-04-07",
           "value": 64.209999
@@ -81998,19 +82018,23 @@
         },
         {
           "date": "2026-11-04",
-          "value": 103.269997
+          "value": 94.620003
+        },
+        {
+          "date": "2026-11-05",
+          "value": 93.849998
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1258,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -10.449187478321187,
-        "1M": 2.9405871212121237,
-        "3M": 29.981121333459605,
-        "6M": 1.9749185931150048,
-        "1Y": 60.257594343339704,
-        "3Y": 21.651546962557976,
-        "5Y": 28.22199617305692
+        "1W": -18.30605810339637,
+        "1M": -6.6911949355499045,
+        "3M": 13.771366560101029,
+        "6M": -6.206276358310536,
+        "1Y": 47.748737405541554,
+        "3Y": 10.178443296548467,
+        "5Y": 13.427604868929288
       },
       "series_id": "market.brent.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -82021,20 +82045,16 @@
       "symbol": "CL=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 95.910004,
-      "previous_close": 96.089996,
-      "change": -0.1799919999999986,
-      "change_pct": -0.18731606565994507,
-      "day_change_pct": -0.18731606565994507,
-      "market_time": "2026-11-04T09:14:58+00:00",
+      "latest": 87.019997,
+      "previous_close": 88.120003,
+      "change": -1.1000059999999934,
+      "change_pct": -1.248304542159393,
+      "day_change_pct": -1.248304542159393,
+      "market_time": "2026-11-05T03:21:54+00:00",
       "currency": "USD",
       "exchange": "NYM",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-04",
-          "value": 61.990002
-        },
         {
           "date": "2025-04-07",
           "value": 60.700001
@@ -83629,19 +83649,23 @@
         },
         {
           "date": "2026-11-04",
-          "value": 95.910004
+          "value": 88.120003
+        },
+        {
+          "date": "2026-11-05",
+          "value": 87.019997
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1257,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -6.684175001791937,
-        "1M": 7.245895113496581,
-        "3M": 27.505986074102818,
-        "6M": 0.8729511806278678,
-        "1Y": 58.37186660548437,
-        "3Y": 19.128060635248765,
-        "5Y": 21.697762256002108
+        "1W": -14.68627745098039,
+        "1M": -2.705730037886178,
+        "3M": 12.588945366943394,
+        "6M": -8.216434093796721,
+        "1Y": 46.006711275392995,
+        "3Y": 7.671364761197741,
+        "5Y": 7.0751817549593365
       },
       "series_id": "market.wti.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -83652,20 +83676,16 @@
       "symbol": "NG=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 2.915,
-      "previous_close": 2.895,
-      "change": 0.020000000000000018,
-      "change_pct": 0.6908462867012095,
-      "day_change_pct": 0.6908462867012095,
-      "market_time": "2026-11-04T09:14:41+00:00",
+      "latest": 2.945,
+      "previous_close": 2.959,
+      "change": -0.014000000000000234,
+      "change_pct": -0.47313281514025796,
+      "day_change_pct": -0.47313281514025796,
+      "market_time": "2026-11-05T03:21:19+00:00",
       "currency": "USD",
       "exchange": "NYM",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-04",
-          "value": 3.837
-        },
         {
           "date": "2025-04-07",
           "value": 3.655
@@ -85260,19 +85280,23 @@
         },
         {
           "date": "2026-11-04",
-          "value": 2.915
+          "value": 2.959
+        },
+        {
+          "date": "2026-11-05",
+          "value": 2.945
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1258,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 3.478878239261629,
-        "1M": -4.924983692106977,
-        "3M": 8.444940476190466,
-        "6M": 6.776556776556775,
-        "1Y": -32.880497352060786,
-        "3Y": -17.0697012802276,
-        "5Y": -49.00279916025193
+        "1W": -0.23712737127371541,
+        "1M": -5.427103403982015,
+        "3M": 11.553030303030297,
+        "6M": 6.356085229324648,
+        "1Y": -30.41115311909264,
+        "3Y": -9.773284313725494,
+        "5Y": -46.609862218999275
       },
       "series_id": "market.natgas.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -85283,20 +85307,16 @@
       "symbol": "HG=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 6.427,
-      "previous_close": 6.3785,
-      "change": 0.048499999999999766,
-      "change_pct": 0.7603668574116135,
-      "day_change_pct": 0.7603668574116135,
-      "market_time": "2026-11-04T09:14:53+00:00",
+      "latest": 6.4435,
+      "previous_close": 6.403,
+      "change": 0.04050000000000065,
+      "change_pct": 0.6325160081212033,
+      "day_change_pct": 0.6325160081212033,
+      "market_time": "2026-11-05T03:21:55+00:00",
       "currency": "USD",
       "exchange": "CMX",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-04",
-          "value": 4.3845
-        },
         {
           "date": "2025-04-07",
           "value": 4.169
@@ -86891,19 +86911,23 @@
         },
         {
           "date": "2026-11-04",
-          "value": 6.427
+          "value": 6.403
+        },
+        {
+          "date": "2026-11-05",
+          "value": 6.4435
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1258,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -3.229692087630809,
-        "1M": -2.406802824386911,
-        "3M": -4.117559301805174,
-        "6M": 4.733968874765737,
-        "1Y": 30.470970361347938,
-        "3Y": 74.90815076881208,
-        "5Y": 48.56680536292186
+        "1W": -2.089348123385504,
+        "1M": -2.289786943665173,
+        "3M": -3.641393749065347,
+        "6M": 5.157078743370058,
+        "1Y": 29.830747531734847,
+        "3Y": 73.70265534438605,
+        "5Y": 48.16049666590021
       },
       "series_id": "market.copper.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -86915,19 +86939,15 @@
       "group": "commodities",
       "unit": "USD",
       "latest": 601.5,
-      "previous_close": 599.75,
-      "change": 1.75,
-      "change_pct": 0.29178824510212586,
-      "day_change_pct": 0.29178824510212586,
-      "market_time": "2026-11-04T09:14:38+00:00",
+      "previous_close": 598.5,
+      "change": 3.0,
+      "change_pct": 0.5012531328320802,
+      "day_change_pct": 0.5012531328320802,
+      "market_time": "2026-11-05T03:21:34+00:00",
       "currency": "USX",
       "exchange": "CBT",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-03",
-          "value": 536.0
-        },
         {
           "date": "2025-04-04",
           "value": 529.0
@@ -88522,19 +88542,23 @@
         },
         {
           "date": "2026-11-04",
+          "value": 598.5
+        },
+        {
+          "date": "2026-11-05",
           "value": 601.5
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1256,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": 0.4173622704507496,
-        "1M": -13.10942578548212,
-        "3M": -6.344881276761383,
-        "6M": -0.7425742574257432,
-        "1Y": 9.3139482053612,
-        "3Y": 5.065502183406112,
-        "5Y": -22.261712439418414
+        "1W": -0.3726708074534124,
+        "1M": -14.589989350372734,
+        "3M": -4.712871287128717,
+        "6M": -0.041545492314087884,
+        "1Y": 8.42721946822893,
+        "3Y": 4.472427268779855,
+        "5Y": -21.52641878669276
       },
       "series_id": "market.wheat.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -88545,20 +88569,16 @@
       "symbol": "ZC=F",
       "group": "commodities",
       "unit": "USD",
-      "latest": 442.25,
-      "previous_close": 442.5,
-      "change": -0.25,
-      "change_pct": -0.05649717514124294,
-      "day_change_pct": -0.05649717514124294,
-      "market_time": "2026-11-04T09:14:28+00:00",
+      "latest": 446.25,
+      "previous_close": 444.25,
+      "change": 2.0,
+      "change_pct": 0.4501969611705121,
+      "day_change_pct": 0.4501969611705121,
+      "market_time": "2026-11-05T03:21:52+00:00",
       "currency": "USX",
       "exchange": "CBT",
       "source": "Yahoo Finance chart",
       "history": [
-        {
-          "date": "2025-04-03",
-          "value": 457.5
-        },
         {
           "date": "2025-04-04",
           "value": 460.25
@@ -90153,19 +90173,23 @@
         },
         {
           "date": "2026-11-04",
-          "value": 442.25
+          "value": 444.25
+        },
+        {
+          "date": "2026-11-05",
+          "value": 446.25
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1256,
+      "history_fetch": "incremental",
+      "history_points_added": 1,
       "performance_pct": {
-        "1W": -2.10293303818484,
-        "1M": -11.06083459024636,
-        "3M": 1.2593016599885543,
-        "6M": -2.31916068470458,
-        "1Y": 2.4913093858632607,
-        "3Y": -7.333682556312205,
-        "5Y": -20.92087617344658
+        "1W": -1.1080332409972304,
+        "1M": -12.155511811023622,
+        "3M": 1.6514806378132185,
+        "6M": -1.4356709000552192,
+        "1Y": 2.52728317059161,
+        "3Y": -6.495547407019386,
+        "5Y": -19.303797468354432
       },
       "series_id": "market.corn.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -90176,14 +90200,14 @@
       "symbol": "^VIX",
       "group": "risk",
       "unit": "index",
-      "latest": 19.049999,
+      "latest": 16.610001,
       "previous_close": 20.83,
-      "change": -1.7800009999999986,
-      "change_pct": -8.545372059529518,
-      "day_change_pct": -8.545372059529518,
-      "market_time": "2026-11-04T09:09:46+00:00",
+      "change": -4.219998999999998,
+      "change_pct": -20.25923667786845,
+      "day_change_pct": -20.25923667786845,
+      "market_time": "2026-11-04T21:15:01+00:00",
       "currency": "USD",
-      "exchange": "CXI",
+      "exchange": "WCB",
       "source": "Yahoo Finance chart",
       "history": [
         {
@@ -91784,19 +91808,19 @@
         },
         {
           "date": "2026-11-04",
-          "value": 19.049999
+          "value": 16.610001
         }
       ],
-      "history_fetch": "full",
-      "history_points_added": 1257,
+      "history_fetch": "incremental",
+      "history_points_added": 0,
       "performance_pct": {
-        "1W": 12.65522767593139,
-        "1M": 22.74483891752577,
-        "3M": 20.4933523086654,
-        "6M": 9.54571647761453,
-        "1Y": 0.26315263157894453,
-        "3Y": 27.7665928906774,
-        "5Y": 23.380822538860112
+        "1W": -1.7740922531046754,
+        "1M": 7.02320231958764,
+        "3M": 5.060094876660348,
+        "6M": -4.485325157292985,
+        "1Y": -12.578942105263158,
+        "3Y": 11.401750503018103,
+        "5Y": 7.577726683937835
       },
       "series_id": "market.vix.close",
       "history_scope": "recent 400 points; full series in canonical history"
@@ -91807,11 +91831,15 @@
       "symbol": "USD/INR",
       "group": "currencies",
       "unit": "INR per USD",
-      "latest": 94.93,
-      "previous_close": 94.93,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "market_time": "2026-10-18",
+      "latest": 94.64,
+      "previous_close": 94.75,
+      "change": -0.10999999999999943,
+      "change_pct": -0.11609498680739128,
+      "day_change_pct": -0.11609498680739128,
+      "market_time": "2026-11-04",
+      "currency": "INR",
+      "exchange": "Frankfurter",
+      "source": "Frankfurter",
       "history": [
         {
           "date": "2025-10-13",
@@ -93255,11 +93283,11 @@
         },
         {
           "date": "2026-10-08",
-          "value": 96.65
+          "value": 96.78
         },
         {
           "date": "2026-10-09",
-          "value": 96.64
+          "value": 96.73
         },
         {
           "date": "2026-10-10",
@@ -93271,23 +93299,23 @@
         },
         {
           "date": "2026-10-12",
-          "value": 96.16
+          "value": 95.78
         },
         {
           "date": "2026-10-13",
-          "value": 95.54
+          "value": 95.28
         },
         {
           "date": "2026-10-14",
-          "value": 95.15
+          "value": 95.16
         },
         {
           "date": "2026-10-15",
-          "value": 95.02
+          "value": 95.06
         },
         {
           "date": "2026-10-16",
-          "value": 94.95
+          "value": 94.96
         },
         {
           "date": "2026-10-17",
@@ -93296,20 +93324,72 @@
         {
           "date": "2026-10-18",
           "value": 94.93
+        },
+        {
+          "date": "2026-10-19",
+          "value": 94.93
+        },
+        {
+          "date": "2026-10-20",
+          "value": 94.93
+        },
+        {
+          "date": "2026-10-21",
+          "value": 94.47
+        },
+        {
+          "date": "2026-10-22",
+          "value": 94.82
+        },
+        {
+          "date": "2026-10-23",
+          "value": 94.94
+        },
+        {
+          "date": "2026-10-26",
+          "value": 95.18
+        },
+        {
+          "date": "2026-10-27",
+          "value": 95.12
+        },
+        {
+          "date": "2026-10-28",
+          "value": 95.22
+        },
+        {
+          "date": "2026-10-29",
+          "value": 95.27
+        },
+        {
+          "date": "2026-10-30",
+          "value": 94.95
+        },
+        {
+          "date": "2026-11-02",
+          "value": 94.91
+        },
+        {
+          "date": "2026-11-03",
+          "value": 94.75
+        },
+        {
+          "date": "2026-11-04",
+          "value": 94.64
         }
       ],
-      "source": "Frankfurter",
-      "fetch_status": "stale-cache",
-      "last_fetch_error": "HTTP Error 522: <none>",
-      "history_points_added": 0,
-      "series_id": "market.usd_inr.close",
+      "history_fetch": "incremental",
+      "history_points_added": 13,
       "performance_pct": {
-        "1W": -1.7694536423841,
-        "1M": -0.8977972648501975,
-        "3M": -1.3099074747894734,
-        "6M": 2.2401723209477753,
-        "1Y": 7.985439654191806
+        "1W": -0.6091157319890739,
+        "1M": -1.6216216216216273,
+        "3M": -0.49416465145620814,
+        "6M": -0.3054882545033277,
+        "1Y": 6.793048973143745,
+        "3Y": 6.768953068592065,
+        "5Y": 6.768953068592065
       },
+      "series_id": "market.usd_inr.close",
       "history_scope": "recent 400 points; full series in canonical history"
     },
     "usd_eur": {
@@ -93318,11 +93398,15 @@
       "symbol": "USD/EUR",
       "group": "currencies",
       "unit": "EUR per USD",
-      "latest": 0.89041,
-      "previous_close": 0.89052,
-      "change": -0.00010999999999994348,
-      "change_pct": -0.012352333468079716,
-      "market_time": "2026-10-18",
+      "latest": 0.88755,
+      "previous_close": 0.89453,
+      "change": -0.006980000000000097,
+      "change_pct": -0.7802980336042542,
+      "day_change_pct": -0.7802980336042542,
+      "market_time": "2026-11-04",
+      "currency": "EUR",
+      "exchange": "Frankfurter",
+      "source": "Frankfurter",
       "history": [
         {
           "date": "2025-10-13",
@@ -94766,11 +94850,11 @@
         },
         {
           "date": "2026-10-08",
-          "value": 0.89255
+          "value": 0.89397
         },
         {
           "date": "2026-10-09",
-          "value": 0.89149
+          "value": 0.89238
         },
         {
           "date": "2026-10-10",
@@ -94782,23 +94866,23 @@
         },
         {
           "date": "2026-10-12",
-          "value": 0.89262
+          "value": 0.89437
         },
         {
           "date": "2026-10-13",
-          "value": 0.89303
+          "value": 0.89381
         },
         {
           "date": "2026-10-14",
-          "value": 0.89287
+          "value": 0.89326
         },
         {
           "date": "2026-10-15",
-          "value": 0.89283
+          "value": 0.89222
         },
         {
           "date": "2026-10-16",
-          "value": 0.89082
+          "value": 0.88865
         },
         {
           "date": "2026-10-17",
@@ -94807,20 +94891,72 @@
         {
           "date": "2026-10-18",
           "value": 0.89041
+        },
+        {
+          "date": "2026-10-19",
+          "value": 0.89087
+        },
+        {
+          "date": "2026-10-20",
+          "value": 0.89166
+        },
+        {
+          "date": "2026-10-21",
+          "value": 0.89015
+        },
+        {
+          "date": "2026-10-22",
+          "value": 0.89246
+        },
+        {
+          "date": "2026-10-23",
+          "value": 0.89342
+        },
+        {
+          "date": "2026-10-26",
+          "value": 0.89381
+        },
+        {
+          "date": "2026-10-27",
+          "value": 0.89686
+        },
+        {
+          "date": "2026-10-28",
+          "value": 0.89823
+        },
+        {
+          "date": "2026-10-29",
+          "value": 0.89847
+        },
+        {
+          "date": "2026-10-30",
+          "value": 0.89509
+        },
+        {
+          "date": "2026-11-02",
+          "value": 0.89158
+        },
+        {
+          "date": "2026-11-03",
+          "value": 0.89453
+        },
+        {
+          "date": "2026-11-04",
+          "value": 0.88755
         }
       ],
-      "source": "Frankfurter",
-      "fetch_status": "stale-cache",
-      "last_fetch_error": "HTTP Error 522: <none>",
-      "history_points_added": 0,
-      "series_id": "market.usd_eur.close",
+      "history_fetch": "incremental",
+      "history_points_added": 13,
       "performance_pct": {
-        "1W": -0.09873329668234065,
-        "1M": 2.3153999954036664,
-        "3M": 1.9417253420344727,
-        "6M": 4.896035813158983,
-        "1Y": 4.0113542116883005
+        "1W": -1.189005043251734,
+        "1M": -0.3088846456250738,
+        "3M": 2.464788732394374,
+        "6M": 4.1053310656266495,
+        "1Y": 2.202851154971097,
+        "3Y": 2.9055409338079263,
+        "5Y": 2.9055409338079263
       },
+      "series_id": "market.usd_eur.close",
       "history_scope": "recent 400 points; full series in canonical history"
     },
     "usd_gbp": {
@@ -94829,11 +94965,15 @@
       "symbol": "USD/GBP",
       "group": "currencies",
       "unit": "GBP per USD",
-      "latest": 0.75204,
-      "previous_close": 0.75219,
-      "change": -0.00014999999999998348,
-      "change_pct": -0.0199417700315058,
-      "market_time": "2026-10-18",
+      "latest": 0.74075,
+      "previous_close": 0.74567,
+      "change": -0.0049200000000000355,
+      "change_pct": -0.6598092990196758,
+      "day_change_pct": -0.6598092990196758,
+      "market_time": "2026-11-04",
+      "currency": "GBP",
+      "exchange": "Frankfurter",
+      "source": "Frankfurter",
       "history": [
         {
           "date": "2025-10-13",
@@ -96277,11 +96417,11 @@
         },
         {
           "date": "2026-10-08",
-          "value": 0.75604
+          "value": 0.75718
         },
         {
           "date": "2026-10-09",
-          "value": 0.75565
+          "value": 0.75641
         },
         {
           "date": "2026-10-10",
@@ -96293,23 +96433,23 @@
         },
         {
           "date": "2026-10-12",
-          "value": 0.75491
+          "value": 0.75555
         },
         {
           "date": "2026-10-13",
-          "value": 0.75493
+          "value": 0.75492
         },
         {
           "date": "2026-10-14",
-          "value": 0.75431
+          "value": 0.75377
         },
         {
           "date": "2026-10-15",
-          "value": 0.75443
+          "value": 0.75491
         },
         {
           "date": "2026-10-16",
-          "value": 0.75258
+          "value": 0.74989
         },
         {
           "date": "2026-10-17",
@@ -96318,20 +96458,72 @@
         {
           "date": "2026-10-18",
           "value": 0.75204
+        },
+        {
+          "date": "2026-10-19",
+          "value": 0.75016
+        },
+        {
+          "date": "2026-10-20",
+          "value": 0.74925
+        },
+        {
+          "date": "2026-10-21",
+          "value": 0.74617
+        },
+        {
+          "date": "2026-10-22",
+          "value": 0.74761
+        },
+        {
+          "date": "2026-10-23",
+          "value": 0.74804
+        },
+        {
+          "date": "2026-10-26",
+          "value": 0.7492
+        },
+        {
+          "date": "2026-10-27",
+          "value": 0.7503
+        },
+        {
+          "date": "2026-10-28",
+          "value": 0.75258
+        },
+        {
+          "date": "2026-10-29",
+          "value": 0.75093
+        },
+        {
+          "date": "2026-10-30",
+          "value": 0.74633
+        },
+        {
+          "date": "2026-11-02",
+          "value": 0.74519
+        },
+        {
+          "date": "2026-11-03",
+          "value": 0.74567
+        },
+        {
+          "date": "2026-11-04",
+          "value": 0.74075
         }
       ],
-      "source": "Frankfurter",
-      "fetch_status": "stale-cache",
-      "last_fetch_error": "HTTP Error 522: <none>",
-      "history_points_added": 0,
-      "series_id": "market.usd_gbp.close",
+      "history_fetch": "incremental",
+      "history_points_added": 13,
       "performance_pct": {
-        "1W": -0.4461153545756602,
-        "1M": 0.6639181881458622,
-        "3M": 1.2548470486859031,
-        "6M": 1.7549081954348011,
-        "1Y": 1.0561960815931748
+        "1W": -1.571925908209093,
+        "1M": -1.971812346986046,
+        "3M": -0.27598276790522513,
+        "6M": 0.6194053165623048,
+        "1Y": -2.821871802272191,
+        "3Y": -1.2491334719778147,
+        "5Y": -1.2491334719778147
       },
+      "series_id": "market.usd_gbp.close",
       "history_scope": "recent 400 points; full series in canonical history"
     },
     "usd_jpy": {
@@ -96340,11 +96532,15 @@
       "symbol": "USD/JPY",
       "group": "currencies",
       "unit": "JPY per USD",
-      "latest": 158.07,
-      "previous_close": 158.07,
-      "change": 0.0,
-      "change_pct": 0.0,
-      "market_time": "2026-10-18",
+      "latest": 158.25,
+      "previous_close": 158.29,
+      "change": -0.03999999999999204,
+      "change_pct": -0.0252700739149625,
+      "day_change_pct": -0.0252700739149625,
+      "market_time": "2026-11-04",
+      "currency": "JPY",
+      "exchange": "Frankfurter",
+      "source": "Frankfurter",
       "history": [
         {
           "date": "2025-10-13",
@@ -97788,11 +97984,11 @@
         },
         {
           "date": "2026-10-08",
-          "value": 158.25
+          "value": 158.28
         },
         {
           "date": "2026-10-09",
-          "value": 158.24
+          "value": 158.25
         },
         {
           "date": "2026-10-10",
@@ -97804,23 +98000,23 @@
         },
         {
           "date": "2026-10-12",
-          "value": 158.44
+          "value": 158.6
         },
         {
           "date": "2026-10-13",
-          "value": 158.41
+          "value": 158.12
         },
         {
           "date": "2026-10-14",
-          "value": 158.44
+          "value": 158.45
         },
         {
           "date": "2026-10-15",
-          "value": 158.19
+          "value": 157.98
         },
         {
           "date": "2026-10-16",
-          "value": 158.07
+          "value": 158.02
         },
         {
           "date": "2026-10-17",
@@ -97829,1530 +98025,73 @@
         {
           "date": "2026-10-18",
           "value": 158.07
+        },
+        {
+          "date": "2026-10-19",
+          "value": 158.24
+        },
+        {
+          "date": "2026-10-20",
+          "value": 158.13
+        },
+        {
+          "date": "2026-10-21",
+          "value": 157.88
+        },
+        {
+          "date": "2026-10-22",
+          "value": 157.05
+        },
+        {
+          "date": "2026-10-23",
+          "value": 156.8
+        },
+        {
+          "date": "2026-10-26",
+          "value": 157.45
+        },
+        {
+          "date": "2026-10-27",
+          "value": 157.82
+        },
+        {
+          "date": "2026-10-28",
+          "value": 157.96
+        },
+        {
+          "date": "2026-10-29",
+          "value": 158.06
+        },
+        {
+          "date": "2026-10-30",
+          "value": 157.25
+        },
+        {
+          "date": "2026-11-02",
+          "value": 157.9
+        },
+        {
+          "date": "2026-11-03",
+          "value": 158.29
+        },
+        {
+          "date": "2026-11-04",
+          "value": 158.25
         }
       ],
-      "source": "Frankfurter",
-      "fetch_status": "stale-cache",
-      "last_fetch_error": "HTTP Error 522: <none>",
-      "history_points_added": 0,
+      "history_fetch": "incremental",
+      "history_points_added": 13,
+      "performance_pct": {
+        "1W": 0.18359078247656146,
+        "1M": 0.18993352326686086,
+        "3M": 0.3487634749524515,
+        "6M": 0.9504975759122347,
+        "1Y": 2.8799895982317025,
+        "3Y": 3.927234517633149,
+        "5Y": 3.927234517633149
+      },
       "series_id": "market.usd_jpy.close",
-      "performance_pct": {
-        "1W": -0.11374407582939172,
-        "1M": 0.8292402883204542,
-        "3M": -2.6662561576354715,
-        "6M": -0.6161584407419207,
-        "1Y": 5.120702267739574
-      },
       "history_scope": "recent 400 points; full series in canonical history"
-    },
-    "usd_cny": {
-      "id": "usd_cny",
-      "name": "USD/CNY",
-      "symbol": "USD/CNY",
-      "group": "currencies",
-      "unit": "CNY per USD",
-      "latest": 6.6833,
-      "previous_close": 6.6839,
-      "change": -0.000600000000000378,
-      "change_pct": -0.008976794984969522,
-      "market_time": "2026-10-18",
-      "history": [
-        {
-          "date": "2025-10-13",
-          "value": 7.1232
-        },
-        {
-          "date": "2025-10-14",
-          "value": 7.131
-        },
-        {
-          "date": "2025-10-15",
-          "value": 7.1256
-        },
-        {
-          "date": "2025-10-16",
-          "value": 7.1201
-        },
-        {
-          "date": "2025-10-17",
-          "value": 7.1179
-        },
-        {
-          "date": "2025-10-18",
-          "value": 7.1171
-        },
-        {
-          "date": "2025-10-19",
-          "value": 7.1168
-        },
-        {
-          "date": "2025-10-20",
-          "value": 7.1163
-        },
-        {
-          "date": "2025-10-21",
-          "value": 7.1131
-        },
-        {
-          "date": "2025-10-22",
-          "value": 7.1159
-        },
-        {
-          "date": "2025-10-23",
-          "value": 7.1162
-        },
-        {
-          "date": "2025-10-24",
-          "value": 7.1156
-        },
-        {
-          "date": "2025-10-25",
-          "value": 7.1157
-        },
-        {
-          "date": "2025-10-26",
-          "value": 7.1156
-        },
-        {
-          "date": "2025-10-27",
-          "value": 7.1061
-        },
-        {
-          "date": "2025-10-28",
-          "value": 7.0968
-        },
-        {
-          "date": "2025-10-29",
-          "value": 7.0929
-        },
-        {
-          "date": "2025-10-30",
-          "value": 7.0975
-        },
-        {
-          "date": "2025-10-31",
-          "value": 7.1049
-        },
-        {
-          "date": "2025-11-01",
-          "value": 7.1046
-        },
-        {
-          "date": "2025-11-02",
-          "value": 7.1059
-        },
-        {
-          "date": "2025-11-03",
-          "value": 7.1115
-        },
-        {
-          "date": "2025-11-04",
-          "value": 7.1166
-        },
-        {
-          "date": "2025-11-05",
-          "value": 7.1192
-        },
-        {
-          "date": "2025-11-06",
-          "value": 7.1164
-        },
-        {
-          "date": "2025-11-07",
-          "value": 7.1146
-        },
-        {
-          "date": "2025-11-08",
-          "value": 7.115
-        },
-        {
-          "date": "2025-11-09",
-          "value": 7.1151
-        },
-        {
-          "date": "2025-11-10",
-          "value": 7.113
-        },
-        {
-          "date": "2025-11-11",
-          "value": 7.1128
-        },
-        {
-          "date": "2025-11-12",
-          "value": 7.1099
-        },
-        {
-          "date": "2025-11-13",
-          "value": 7.0976
-        },
-        {
-          "date": "2025-11-14",
-          "value": 7.0904
-        },
-        {
-          "date": "2025-11-15",
-          "value": 7.091
-        },
-        {
-          "date": "2025-11-16",
-          "value": 7.0909
-        },
-        {
-          "date": "2025-11-17",
-          "value": 7.0967
-        },
-        {
-          "date": "2025-11-18",
-          "value": 7.102
-        },
-        {
-          "date": "2025-11-19",
-          "value": 7.1031
-        },
-        {
-          "date": "2025-11-20",
-          "value": 7.1066
-        },
-        {
-          "date": "2025-11-21",
-          "value": 7.1057
-        },
-        {
-          "date": "2025-11-22",
-          "value": 7.105
-        },
-        {
-          "date": "2025-11-23",
-          "value": 7.105
-        },
-        {
-          "date": "2025-11-24",
-          "value": 7.0994
-        },
-        {
-          "date": "2025-11-25",
-          "value": 7.0893
-        },
-        {
-          "date": "2025-11-26",
-          "value": 7.076
-        },
-        {
-          "date": "2025-11-27",
-          "value": 7.0747
-        },
-        {
-          "date": "2025-11-28",
-          "value": 7.0728
-        },
-        {
-          "date": "2025-11-29",
-          "value": 7.0718
-        },
-        {
-          "date": "2025-11-30",
-          "value": 7.0716
-        },
-        {
-          "date": "2025-12-01",
-          "value": 7.0681
-        },
-        {
-          "date": "2025-12-02",
-          "value": 7.0654
-        },
-        {
-          "date": "2025-12-03",
-          "value": 7.0606
-        },
-        {
-          "date": "2025-12-04",
-          "value": 7.0622
-        },
-        {
-          "date": "2025-12-05",
-          "value": 7.0643
-        },
-        {
-          "date": "2025-12-06",
-          "value": 7.0644
-        },
-        {
-          "date": "2025-12-07",
-          "value": 7.0644
-        },
-        {
-          "date": "2025-12-08",
-          "value": 7.064
-        },
-        {
-          "date": "2025-12-09",
-          "value": 7.0616
-        },
-        {
-          "date": "2025-12-10",
-          "value": 7.0588
-        },
-        {
-          "date": "2025-12-11",
-          "value": 7.055
-        },
-        {
-          "date": "2025-12-12",
-          "value": 7.0497
-        },
-        {
-          "date": "2025-12-13",
-          "value": 7.0497
-        },
-        {
-          "date": "2025-12-14",
-          "value": 7.0496
-        },
-        {
-          "date": "2025-12-15",
-          "value": 7.0449
-        },
-        {
-          "date": "2025-12-16",
-          "value": 7.0382
-        },
-        {
-          "date": "2025-12-17",
-          "value": 7.0375
-        },
-        {
-          "date": "2025-12-18",
-          "value": 7.0366
-        },
-        {
-          "date": "2025-12-19",
-          "value": 7.035
-        },
-        {
-          "date": "2025-12-20",
-          "value": 7.0347
-        },
-        {
-          "date": "2025-12-21",
-          "value": 7.034
-        },
-        {
-          "date": "2025-12-22",
-          "value": 7.0337
-        },
-        {
-          "date": "2025-12-23",
-          "value": 7.0257
-        },
-        {
-          "date": "2025-12-24",
-          "value": 7.0167
-        },
-        {
-          "date": "2025-12-25",
-          "value": 7.0128
-        },
-        {
-          "date": "2025-12-26",
-          "value": 7.0083
-        },
-        {
-          "date": "2025-12-27",
-          "value": 7.0084
-        },
-        {
-          "date": "2025-12-28",
-          "value": 7.0053
-        },
-        {
-          "date": "2025-12-29",
-          "value": 7.0028
-        },
-        {
-          "date": "2025-12-30",
-          "value": 6.9932
-        },
-        {
-          "date": "2025-12-31",
-          "value": 6.9887
-        },
-        {
-          "date": "2026-01-01",
-          "value": 6.9886
-        },
-        {
-          "date": "2026-01-02",
-          "value": 6.9863
-        },
-        {
-          "date": "2026-01-03",
-          "value": 6.9863
-        },
-        {
-          "date": "2026-01-04",
-          "value": 6.9864
-        },
-        {
-          "date": "2026-01-05",
-          "value": 6.9808
-        },
-        {
-          "date": "2026-01-06",
-          "value": 6.9786
-        },
-        {
-          "date": "2026-01-07",
-          "value": 6.9826
-        },
-        {
-          "date": "2026-01-08",
-          "value": 6.9807
-        },
-        {
-          "date": "2026-01-09",
-          "value": 6.9762
-        },
-        {
-          "date": "2026-01-10",
-          "value": 6.9761
-        },
-        {
-          "date": "2026-01-11",
-          "value": 6.9756
-        },
-        {
-          "date": "2026-01-12",
-          "value": 6.9712
-        },
-        {
-          "date": "2026-01-13",
-          "value": 6.9705
-        },
-        {
-          "date": "2026-01-14",
-          "value": 6.9698
-        },
-        {
-          "date": "2026-01-15",
-          "value": 6.9651
-        },
-        {
-          "date": "2026-01-16",
-          "value": 6.9639
-        },
-        {
-          "date": "2026-01-17",
-          "value": 6.9634
-        },
-        {
-          "date": "2026-01-18",
-          "value": 6.9643
-        },
-        {
-          "date": "2026-01-19",
-          "value": 6.9615
-        },
-        {
-          "date": "2026-01-20",
-          "value": 6.9576
-        },
-        {
-          "date": "2026-01-21",
-          "value": 6.9574
-        },
-        {
-          "date": "2026-01-22",
-          "value": 6.9609
-        },
-        {
-          "date": "2026-01-23",
-          "value": 6.9605
-        },
-        {
-          "date": "2026-01-24",
-          "value": 6.9597
-        },
-        {
-          "date": "2026-01-25",
-          "value": 6.9597
-        },
-        {
-          "date": "2026-01-26",
-          "value": 6.9534
-        },
-        {
-          "date": "2026-01-27",
-          "value": 6.9503
-        },
-        {
-          "date": "2026-01-28",
-          "value": 6.9433
-        },
-        {
-          "date": "2026-01-29",
-          "value": 6.9407
-        },
-        {
-          "date": "2026-01-30",
-          "value": 6.9431
-        },
-        {
-          "date": "2026-01-31",
-          "value": 6.9433
-        },
-        {
-          "date": "2026-02-01",
-          "value": 6.9436
-        },
-        {
-          "date": "2026-02-02",
-          "value": 6.9435
-        },
-        {
-          "date": "2026-02-03",
-          "value": 6.9347
-        },
-        {
-          "date": "2026-02-04",
-          "value": 6.9331
-        },
-        {
-          "date": "2026-02-05",
-          "value": 6.9358
-        },
-        {
-          "date": "2026-02-06",
-          "value": 6.9346
-        },
-        {
-          "date": "2026-02-07",
-          "value": 6.9323
-        },
-        {
-          "date": "2026-02-08",
-          "value": 6.9338
-        },
-        {
-          "date": "2026-02-09",
-          "value": 6.9237
-        },
-        {
-          "date": "2026-02-10",
-          "value": 6.9111
-        },
-        {
-          "date": "2026-02-11",
-          "value": 6.9047
-        },
-        {
-          "date": "2026-02-12",
-          "value": 6.8998
-        },
-        {
-          "date": "2026-02-13",
-          "value": 6.8998
-        },
-        {
-          "date": "2026-02-14",
-          "value": 6.9004
-        },
-        {
-          "date": "2026-02-15",
-          "value": 6.9007
-        },
-        {
-          "date": "2026-02-16",
-          "value": 6.8992
-        },
-        {
-          "date": "2026-02-17",
-          "value": 6.8989
-        },
-        {
-          "date": "2026-02-18",
-          "value": 6.8983
-        },
-        {
-          "date": "2026-02-19",
-          "value": 6.8994
-        },
-        {
-          "date": "2026-02-20",
-          "value": 6.9006
-        },
-        {
-          "date": "2026-02-21",
-          "value": 6.9008
-        },
-        {
-          "date": "2026-02-22",
-          "value": 6.9002
-        },
-        {
-          "date": "2026-02-23",
-          "value": 6.8988
-        },
-        {
-          "date": "2026-02-24",
-          "value": 6.8877
-        },
-        {
-          "date": "2026-02-25",
-          "value": 6.8684
-        },
-        {
-          "date": "2026-02-26",
-          "value": 6.8458
-        },
-        {
-          "date": "2026-02-27",
-          "value": 6.845
-        },
-        {
-          "date": "2026-02-28",
-          "value": 6.8476
-        },
-        {
-          "date": "2026-03-01",
-          "value": 6.848
-        },
-        {
-          "date": "2026-03-02",
-          "value": 6.8692
-        },
-        {
-          "date": "2026-03-03",
-          "value": 6.8877
-        },
-        {
-          "date": "2026-03-04",
-          "value": 6.9005
-        },
-        {
-          "date": "2026-03-05",
-          "value": 6.8917
-        },
-        {
-          "date": "2026-03-06",
-          "value": 6.8934
-        },
-        {
-          "date": "2026-03-07",
-          "value": 6.8937
-        },
-        {
-          "date": "2026-03-08",
-          "value": 6.8936
-        },
-        {
-          "date": "2026-03-09",
-          "value": 6.9068
-        },
-        {
-          "date": "2026-03-10",
-          "value": 6.8827
-        },
-        {
-          "date": "2026-03-11",
-          "value": 6.8617
-        },
-        {
-          "date": "2026-03-12",
-          "value": 6.8655
-        },
-        {
-          "date": "2026-03-13",
-          "value": 6.8785
-        },
-        {
-          "date": "2026-03-14",
-          "value": 6.8813
-        },
-        {
-          "date": "2026-03-15",
-          "value": 6.8837
-        },
-        {
-          "date": "2026-03-16",
-          "value": 6.8893
-        },
-        {
-          "date": "2026-03-17",
-          "value": 6.8838
-        },
-        {
-          "date": "2026-03-18",
-          "value": 6.8756
-        },
-        {
-          "date": "2026-03-19",
-          "value": 6.883
-        },
-        {
-          "date": "2026-03-20",
-          "value": 6.8832
-        },
-        {
-          "date": "2026-03-21",
-          "value": 6.8825
-        },
-        {
-          "date": "2026-03-22",
-          "value": 6.8835
-        },
-        {
-          "date": "2026-03-23",
-          "value": 6.8886
-        },
-        {
-          "date": "2026-03-24",
-          "value": 6.8849
-        },
-        {
-          "date": "2026-03-25",
-          "value": 6.8889
-        },
-        {
-          "date": "2026-03-26",
-          "value": 6.8979
-        },
-        {
-          "date": "2026-03-27",
-          "value": 6.9032
-        },
-        {
-          "date": "2026-03-28",
-          "value": 6.904
-        },
-        {
-          "date": "2026-03-29",
-          "value": 6.9033
-        },
-        {
-          "date": "2026-03-30",
-          "value": 6.9055
-        },
-        {
-          "date": "2026-03-31",
-          "value": 6.9007
-        },
-        {
-          "date": "2026-04-01",
-          "value": 6.8797
-        },
-        {
-          "date": "2026-04-02",
-          "value": 6.8793
-        },
-        {
-          "date": "2026-04-03",
-          "value": 6.882
-        },
-        {
-          "date": "2026-04-04",
-          "value": 6.8801
-        },
-        {
-          "date": "2026-04-05",
-          "value": 6.8804
-        },
-        {
-          "date": "2026-04-06",
-          "value": 6.8782
-        },
-        {
-          "date": "2026-04-07",
-          "value": 6.8654
-        },
-        {
-          "date": "2026-04-08",
-          "value": 6.8351
-        },
-        {
-          "date": "2026-04-09",
-          "value": 6.8286
-        },
-        {
-          "date": "2026-04-10",
-          "value": 6.828
-        },
-        {
-          "date": "2026-04-11",
-          "value": 6.827
-        },
-        {
-          "date": "2026-04-12",
-          "value": 6.8271
-        },
-        {
-          "date": "2026-04-13",
-          "value": 6.8271
-        },
-        {
-          "date": "2026-04-14",
-          "value": 6.8166
-        },
-        {
-          "date": "2026-04-15",
-          "value": 6.8137
-        },
-        {
-          "date": "2026-04-16",
-          "value": 6.814
-        },
-        {
-          "date": "2026-04-17",
-          "value": 6.8161
-        },
-        {
-          "date": "2026-04-18",
-          "value": 6.8159
-        },
-        {
-          "date": "2026-04-19",
-          "value": 6.8162
-        },
-        {
-          "date": "2026-04-20",
-          "value": 6.8139
-        },
-        {
-          "date": "2026-04-21",
-          "value": 6.8114
-        },
-        {
-          "date": "2026-04-22",
-          "value": 6.8155
-        },
-        {
-          "date": "2026-04-23",
-          "value": 6.8237
-        },
-        {
-          "date": "2026-04-24",
-          "value": 6.8277
-        },
-        {
-          "date": "2026-04-25",
-          "value": 6.8278
-        },
-        {
-          "date": "2026-04-26",
-          "value": 6.8281
-        },
-        {
-          "date": "2026-04-27",
-          "value": 6.8222
-        },
-        {
-          "date": "2026-04-28",
-          "value": 6.8247
-        },
-        {
-          "date": "2026-04-29",
-          "value": 6.8288
-        },
-        {
-          "date": "2026-04-30",
-          "value": 6.8283
-        },
-        {
-          "date": "2026-05-01",
-          "value": 6.8268
-        },
-        {
-          "date": "2026-05-02",
-          "value": 6.8264
-        },
-        {
-          "date": "2026-05-03",
-          "value": 6.8252
-        },
-        {
-          "date": "2026-05-04",
-          "value": 6.8228
-        },
-        {
-          "date": "2026-05-05",
-          "value": 6.8236
-        },
-        {
-          "date": "2026-05-06",
-          "value": 6.8129
-        },
-        {
-          "date": "2026-05-07",
-          "value": 6.8005
-        },
-        {
-          "date": "2026-05-08",
-          "value": 6.7966
-        },
-        {
-          "date": "2026-05-09",
-          "value": 6.7969
-        },
-        {
-          "date": "2026-05-10",
-          "value": 6.7951
-        },
-        {
-          "date": "2026-05-11",
-          "value": 6.7914
-        },
-        {
-          "date": "2026-05-12",
-          "value": 6.7885
-        },
-        {
-          "date": "2026-05-13",
-          "value": 6.7855
-        },
-        {
-          "date": "2026-05-14",
-          "value": 6.7812
-        },
-        {
-          "date": "2026-05-15",
-          "value": 6.7896
-        },
-        {
-          "date": "2026-05-16",
-          "value": 6.7914
-        },
-        {
-          "date": "2026-05-17",
-          "value": 6.7941
-        },
-        {
-          "date": "2026-05-18",
-          "value": 6.7973
-        },
-        {
-          "date": "2026-05-19",
-          "value": 6.7961
-        },
-        {
-          "date": "2026-05-20",
-          "value": 6.7989
-        },
-        {
-          "date": "2026-05-21",
-          "value": 6.7949
-        },
-        {
-          "date": "2026-05-22",
-          "value": 6.7911
-        },
-        {
-          "date": "2026-05-23",
-          "value": 6.7908
-        },
-        {
-          "date": "2026-05-24",
-          "value": 6.7908
-        },
-        {
-          "date": "2026-05-25",
-          "value": 6.7839
-        },
-        {
-          "date": "2026-05-26",
-          "value": 6.7795
-        },
-        {
-          "date": "2026-05-27",
-          "value": 6.7782
-        },
-        {
-          "date": "2026-05-28",
-          "value": 6.7771
-        },
-        {
-          "date": "2026-05-29",
-          "value": 6.7696
-        },
-        {
-          "date": "2026-05-30",
-          "value": 6.7684
-        },
-        {
-          "date": "2026-05-31",
-          "value": 6.7661
-        },
-        {
-          "date": "2026-06-01",
-          "value": 6.7646
-        },
-        {
-          "date": "2026-06-02",
-          "value": 6.7593
-        },
-        {
-          "date": "2026-06-03",
-          "value": 6.7624
-        },
-        {
-          "date": "2026-06-04",
-          "value": 6.7681
-        },
-        {
-          "date": "2026-06-05",
-          "value": 6.7667
-        },
-        {
-          "date": "2026-06-06",
-          "value": 6.7663
-        },
-        {
-          "date": "2026-06-07",
-          "value": 6.7671
-        },
-        {
-          "date": "2026-06-08",
-          "value": 6.7754
-        },
-        {
-          "date": "2026-06-09",
-          "value": 6.7717
-        },
-        {
-          "date": "2026-06-10",
-          "value": 6.7711
-        },
-        {
-          "date": "2026-06-11",
-          "value": 6.7728
-        },
-        {
-          "date": "2026-06-12",
-          "value": 6.7641
-        },
-        {
-          "date": "2026-06-13",
-          "value": 6.763
-        },
-        {
-          "date": "2026-06-14",
-          "value": 6.7612
-        },
-        {
-          "date": "2026-06-15",
-          "value": 6.7552
-        },
-        {
-          "date": "2026-06-16",
-          "value": 6.7538
-        },
-        {
-          "date": "2026-06-17",
-          "value": 6.7535
-        },
-        {
-          "date": "2026-06-18",
-          "value": 6.759
-        },
-        {
-          "date": "2026-06-19",
-          "value": 6.7635
-        },
-        {
-          "date": "2026-06-20",
-          "value": 6.7646
-        },
-        {
-          "date": "2026-06-21",
-          "value": 6.7671
-        },
-        {
-          "date": "2026-06-22",
-          "value": 6.7698
-        },
-        {
-          "date": "2026-06-23",
-          "value": 6.7769
-        },
-        {
-          "date": "2026-06-24",
-          "value": 6.7939
-        },
-        {
-          "date": "2026-06-25",
-          "value": 6.7988
-        },
-        {
-          "date": "2026-06-26",
-          "value": 6.7959
-        },
-        {
-          "date": "2026-06-27",
-          "value": 6.7952
-        },
-        {
-          "date": "2026-06-28",
-          "value": 6.7948
-        },
-        {
-          "date": "2026-06-29",
-          "value": 6.7929
-        },
-        {
-          "date": "2026-06-30",
-          "value": 6.7854
-        },
-        {
-          "date": "2026-07-01",
-          "value": 6.7856
-        },
-        {
-          "date": "2026-07-02",
-          "value": 6.7843
-        },
-        {
-          "date": "2026-07-03",
-          "value": 6.7789
-        },
-        {
-          "date": "2026-07-04",
-          "value": 6.7781
-        },
-        {
-          "date": "2026-07-05",
-          "value": 6.777
-        },
-        {
-          "date": "2026-07-06",
-          "value": 6.7825
-        },
-        {
-          "date": "2026-07-07",
-          "value": 6.7888
-        },
-        {
-          "date": "2026-07-08",
-          "value": 6.7913
-        },
-        {
-          "date": "2026-07-09",
-          "value": 6.7911
-        },
-        {
-          "date": "2026-07-10",
-          "value": 6.7793
-        },
-        {
-          "date": "2026-07-11",
-          "value": 6.7784
-        },
-        {
-          "date": "2026-07-12",
-          "value": 6.7761
-        },
-        {
-          "date": "2026-07-13",
-          "value": 6.7738
-        },
-        {
-          "date": "2026-07-14",
-          "value": 6.7733
-        },
-        {
-          "date": "2026-07-15",
-          "value": 6.7682
-        },
-        {
-          "date": "2026-07-16",
-          "value": 6.7637
-        },
-        {
-          "date": "2026-07-17",
-          "value": 6.7677
-        },
-        {
-          "date": "2026-07-18",
-          "value": 6.7695
-        },
-        {
-          "date": "2026-07-19",
-          "value": 6.7696
-        },
-        {
-          "date": "2026-07-20",
-          "value": 6.7662
-        },
-        {
-          "date": "2026-07-21",
-          "value": 6.7609
-        },
-        {
-          "date": "2026-07-22",
-          "value": 6.765
-        },
-        {
-          "date": "2026-07-23",
-          "value": 6.7655
-        },
-        {
-          "date": "2026-07-24",
-          "value": 6.7664
-        },
-        {
-          "date": "2026-07-25",
-          "value": 6.7665
-        },
-        {
-          "date": "2026-07-26",
-          "value": 6.7669
-        },
-        {
-          "date": "2026-07-27",
-          "value": 6.7634
-        },
-        {
-          "date": "2026-07-28",
-          "value": 6.763
-        },
-        {
-          "date": "2026-07-29",
-          "value": 6.7631
-        },
-        {
-          "date": "2026-07-30",
-          "value": 6.7545
-        },
-        {
-          "date": "2026-07-31",
-          "value": 6.7468
-        },
-        {
-          "date": "2026-08-01",
-          "value": 6.7453
-        },
-        {
-          "date": "2026-08-02",
-          "value": 6.7456
-        },
-        {
-          "date": "2026-08-03",
-          "value": 6.7469
-        },
-        {
-          "date": "2026-08-04",
-          "value": 6.7474
-        },
-        {
-          "date": "2026-08-05",
-          "value": 6.7447
-        },
-        {
-          "date": "2026-08-06",
-          "value": 6.7441
-        },
-        {
-          "date": "2026-08-07",
-          "value": 6.742
-        },
-        {
-          "date": "2026-08-08",
-          "value": 6.742
-        },
-        {
-          "date": "2026-08-09",
-          "value": 6.7416
-        },
-        {
-          "date": "2026-08-10",
-          "value": 6.7402
-        },
-        {
-          "date": "2026-08-11",
-          "value": 6.7397
-        },
-        {
-          "date": "2026-08-12",
-          "value": 6.7401
-        },
-        {
-          "date": "2026-08-13",
-          "value": 6.7385
-        },
-        {
-          "date": "2026-08-14",
-          "value": 6.7376
-        },
-        {
-          "date": "2026-08-15",
-          "value": 6.7374
-        },
-        {
-          "date": "2026-08-16",
-          "value": 6.7378
-        },
-        {
-          "date": "2026-08-17",
-          "value": 6.735
-        },
-        {
-          "date": "2026-08-18",
-          "value": 6.7362
-        },
-        {
-          "date": "2026-08-19",
-          "value": 6.7344
-        },
-        {
-          "date": "2026-08-20",
-          "value": 6.7237
-        },
-        {
-          "date": "2026-08-21",
-          "value": 6.7177
-        },
-        {
-          "date": "2026-08-22",
-          "value": 6.717
-        },
-        {
-          "date": "2026-08-23",
-          "value": 6.7171
-        },
-        {
-          "date": "2026-08-24",
-          "value": 6.7151
-        },
-        {
-          "date": "2026-08-25",
-          "value": 6.7171
-        },
-        {
-          "date": "2026-08-26",
-          "value": 6.716
-        },
-        {
-          "date": "2026-08-27",
-          "value": 6.7156
-        },
-        {
-          "date": "2026-08-28",
-          "value": 6.7161
-        },
-        {
-          "date": "2026-08-29",
-          "value": 6.7161
-        },
-        {
-          "date": "2026-08-30",
-          "value": 6.7168
-        },
-        {
-          "date": "2026-08-31",
-          "value": 6.7167
-        },
-        {
-          "date": "2026-09-01",
-          "value": 6.7171
-        },
-        {
-          "date": "2026-09-02",
-          "value": 6.7165
-        },
-        {
-          "date": "2026-09-03",
-          "value": 6.7147
-        },
-        {
-          "date": "2026-09-04",
-          "value": 6.7097
-        },
-        {
-          "date": "2026-09-05",
-          "value": 6.7091
-        },
-        {
-          "date": "2026-09-06",
-          "value": 6.708
-        },
-        {
-          "date": "2026-09-07",
-          "value": 6.7061
-        },
-        {
-          "date": "2026-09-08",
-          "value": 6.7054
-        },
-        {
-          "date": "2026-09-09",
-          "value": 6.7036
-        },
-        {
-          "date": "2026-09-10",
-          "value": 6.7022
-        },
-        {
-          "date": "2026-09-11",
-          "value": 6.7032
-        },
-        {
-          "date": "2026-09-12",
-          "value": 6.7036
-        },
-        {
-          "date": "2026-09-13",
-          "value": 6.7006
-        },
-        {
-          "date": "2026-09-14",
-          "value": 6.7032
-        },
-        {
-          "date": "2026-09-15",
-          "value": 6.7059
-        },
-        {
-          "date": "2026-09-16",
-          "value": 6.7038
-        },
-        {
-          "date": "2026-09-17",
-          "value": 6.7031
-        },
-        {
-          "date": "2026-09-18",
-          "value": 6.6974
-        },
-        {
-          "date": "2026-09-19",
-          "value": 6.6958
-        },
-        {
-          "date": "2026-09-20",
-          "value": 6.6951
-        },
-        {
-          "date": "2026-09-21",
-          "value": 6.6917
-        },
-        {
-          "date": "2026-09-22",
-          "value": 6.6928
-        },
-        {
-          "date": "2026-09-23",
-          "value": 6.6996
-        },
-        {
-          "date": "2026-09-24",
-          "value": 6.7062
-        },
-        {
-          "date": "2026-09-25",
-          "value": 6.708
-        },
-        {
-          "date": "2026-09-26",
-          "value": 6.7082
-        },
-        {
-          "date": "2026-09-27",
-          "value": 6.7082
-        },
-        {
-          "date": "2026-09-28",
-          "value": 6.7079
-        },
-        {
-          "date": "2026-09-29",
-          "value": 6.7025
-        },
-        {
-          "date": "2026-09-30",
-          "value": 6.7001
-        },
-        {
-          "date": "2026-10-01",
-          "value": 6.7005
-        },
-        {
-          "date": "2026-10-02",
-          "value": 6.7005
-        },
-        {
-          "date": "2026-10-03",
-          "value": 6.7006
-        },
-        {
-          "date": "2026-10-04",
-          "value": 6.7005
-        },
-        {
-          "date": "2026-10-05",
-          "value": 6.7001
-        },
-        {
-          "date": "2026-10-06",
-          "value": 6.6999
-        },
-        {
-          "date": "2026-10-07",
-          "value": 6.7001
-        },
-        {
-          "date": "2026-10-08",
-          "value": 6.6979
-        },
-        {
-          "date": "2026-10-09",
-          "value": 6.692
-        },
-        {
-          "date": "2026-10-10",
-          "value": 6.6907
-        },
-        {
-          "date": "2026-10-11",
-          "value": 6.6901
-        },
-        {
-          "date": "2026-10-12",
-          "value": 6.6883
-        },
-        {
-          "date": "2026-10-13",
-          "value": 6.6879
-        },
-        {
-          "date": "2026-10-14",
-          "value": 6.6874
-        },
-        {
-          "date": "2026-10-15",
-          "value": 6.686
-        },
-        {
-          "date": "2026-10-16",
-          "value": 6.6836
-        },
-        {
-          "date": "2026-10-17",
-          "value": 6.6839
-        },
-        {
-          "date": "2026-10-18",
-          "value": 6.6833
-        }
-      ],
-      "source": "Frankfurter",
-      "series_id": "market.usd_cny.close",
-      "performance_pct": {
-        "1W": -0.10164272581875133,
-        "1M": -0.2105294591931206,
-        "3M": -1.2748168281729977,
-        "6M": -1.9497667321968337,
-        "1Y": -6.095179216253809
-      },
-      "history_scope": "recent 400 points; full series in canonical history",
-      "fetch_status": "retained-from-prior-published-current"
     },
     "usd_chf": {
       "id": "usd_chf",
@@ -99360,20 +98099,16 @@
       "symbol": "USD/CHF",
       "group": "currencies",
       "unit": "CHF per USD",
-      "latest": 0.81993,
-      "previous_close": 0.81963,
-      "change": 0.000300000000000078,
-      "change_pct": 0.03660188133671749,
-      "day_change_pct": 0.03660188133671749,
-      "market_time": "2026-11-03",
+      "latest": 0.81548,
+      "previous_close": 0.81993,
+      "change": -0.004450000000000065,
+      "change_pct": -0.5427292573756404,
+      "day_change_pct": -0.5427292573756404,
+      "market_time": "2026-11-04",
       "currency": "CHF",
       "exchange": "Frankfurter",
       "source": "Frankfurter",
       "history": [
-        {
-          "date": "2025-04-10",
-          "value": 0.83911
-        },
         {
           "date": "2025-04-11",
           "value": 0.81544
@@ -100969,58 +99704,1543 @@
         {
           "date": "2026-11-03",
           "value": 0.81993
+        },
+        {
+          "date": "2026-11-04",
+          "value": 0.81548
         }
       ],
       "history_fetch": "full",
       "history_points_added": 1280,
       "performance_pct": {
-        "1W": -1.0475374422225014,
-        "1M": -0.8117197328946113,
-        "3M": 1.3147326669055603,
-        "6M": 4.546903489869569,
-        "1Y": 1.5342893231295118,
-        "3Y": -8.831835972246926,
-        "5Y": -10.122003354270115
+        "1W": -1.81918876942897,
+        "1M": -1.8723527146707775,
+        "3M": 0.8246683399067756,
+        "6M": 4.656057494866528,
+        "1Y": 0.8146966831089397,
+        "3Y": -9.326632271837754,
+        "5Y": -11.03789845744333
       },
       "series_id": "market.usd_chf.close",
+      "history_scope": "recent 400 points; full series in canonical history"
+    },
+    "usd_cny": {
+      "id": "usd_cny",
+      "name": "USD/CNY",
+      "symbol": "USD/CNY",
+      "group": "currencies",
+      "unit": "CNY per USD",
+      "latest": 6.6833,
+      "previous_close": 6.6839,
+      "change": -0.000600000000000378,
+      "change_pct": -0.008976794984969522,
+      "market_time": "2026-10-18",
+      "history": [
+        {
+          "date": "2025-10-13",
+          "value": 7.1232
+        },
+        {
+          "date": "2025-10-14",
+          "value": 7.131
+        },
+        {
+          "date": "2025-10-15",
+          "value": 7.1256
+        },
+        {
+          "date": "2025-10-16",
+          "value": 7.1201
+        },
+        {
+          "date": "2025-10-17",
+          "value": 7.1179
+        },
+        {
+          "date": "2025-10-18",
+          "value": 7.1171
+        },
+        {
+          "date": "2025-10-19",
+          "value": 7.1168
+        },
+        {
+          "date": "2025-10-20",
+          "value": 7.1163
+        },
+        {
+          "date": "2025-10-21",
+          "value": 7.1131
+        },
+        {
+          "date": "2025-10-22",
+          "value": 7.1159
+        },
+        {
+          "date": "2025-10-23",
+          "value": 7.1162
+        },
+        {
+          "date": "2025-10-24",
+          "value": 7.1156
+        },
+        {
+          "date": "2025-10-25",
+          "value": 7.1157
+        },
+        {
+          "date": "2025-10-26",
+          "value": 7.1156
+        },
+        {
+          "date": "2025-10-27",
+          "value": 7.1061
+        },
+        {
+          "date": "2025-10-28",
+          "value": 7.0968
+        },
+        {
+          "date": "2025-10-29",
+          "value": 7.0929
+        },
+        {
+          "date": "2025-10-30",
+          "value": 7.0975
+        },
+        {
+          "date": "2025-10-31",
+          "value": 7.1049
+        },
+        {
+          "date": "2025-11-01",
+          "value": 7.1046
+        },
+        {
+          "date": "2025-11-02",
+          "value": 7.1059
+        },
+        {
+          "date": "2025-11-03",
+          "value": 7.1115
+        },
+        {
+          "date": "2025-11-04",
+          "value": 7.1166
+        },
+        {
+          "date": "2025-11-05",
+          "value": 7.1192
+        },
+        {
+          "date": "2025-11-06",
+          "value": 7.1164
+        },
+        {
+          "date": "2025-11-07",
+          "value": 7.1146
+        },
+        {
+          "date": "2025-11-08",
+          "value": 7.115
+        },
+        {
+          "date": "2025-11-09",
+          "value": 7.1151
+        },
+        {
+          "date": "2025-11-10",
+          "value": 7.113
+        },
+        {
+          "date": "2025-11-11",
+          "value": 7.1128
+        },
+        {
+          "date": "2025-11-12",
+          "value": 7.1099
+        },
+        {
+          "date": "2025-11-13",
+          "value": 7.0976
+        },
+        {
+          "date": "2025-11-14",
+          "value": 7.0904
+        },
+        {
+          "date": "2025-11-15",
+          "value": 7.091
+        },
+        {
+          "date": "2025-11-16",
+          "value": 7.0909
+        },
+        {
+          "date": "2025-11-17",
+          "value": 7.0967
+        },
+        {
+          "date": "2025-11-18",
+          "value": 7.102
+        },
+        {
+          "date": "2025-11-19",
+          "value": 7.1031
+        },
+        {
+          "date": "2025-11-20",
+          "value": 7.1066
+        },
+        {
+          "date": "2025-11-21",
+          "value": 7.1057
+        },
+        {
+          "date": "2025-11-22",
+          "value": 7.105
+        },
+        {
+          "date": "2025-11-23",
+          "value": 7.105
+        },
+        {
+          "date": "2025-11-24",
+          "value": 7.0994
+        },
+        {
+          "date": "2025-11-25",
+          "value": 7.0893
+        },
+        {
+          "date": "2025-11-26",
+          "value": 7.076
+        },
+        {
+          "date": "2025-11-27",
+          "value": 7.0747
+        },
+        {
+          "date": "2025-11-28",
+          "value": 7.0728
+        },
+        {
+          "date": "2025-11-29",
+          "value": 7.0718
+        },
+        {
+          "date": "2025-11-30",
+          "value": 7.0716
+        },
+        {
+          "date": "2025-12-01",
+          "value": 7.0681
+        },
+        {
+          "date": "2025-12-02",
+          "value": 7.0654
+        },
+        {
+          "date": "2025-12-03",
+          "value": 7.0606
+        },
+        {
+          "date": "2025-12-04",
+          "value": 7.0622
+        },
+        {
+          "date": "2025-12-05",
+          "value": 7.0643
+        },
+        {
+          "date": "2025-12-06",
+          "value": 7.0644
+        },
+        {
+          "date": "2025-12-07",
+          "value": 7.0644
+        },
+        {
+          "date": "2025-12-08",
+          "value": 7.064
+        },
+        {
+          "date": "2025-12-09",
+          "value": 7.0616
+        },
+        {
+          "date": "2025-12-10",
+          "value": 7.0588
+        },
+        {
+          "date": "2025-12-11",
+          "value": 7.055
+        },
+        {
+          "date": "2025-12-12",
+          "value": 7.0497
+        },
+        {
+          "date": "2025-12-13",
+          "value": 7.0497
+        },
+        {
+          "date": "2025-12-14",
+          "value": 7.0496
+        },
+        {
+          "date": "2025-12-15",
+          "value": 7.0449
+        },
+        {
+          "date": "2025-12-16",
+          "value": 7.0382
+        },
+        {
+          "date": "2025-12-17",
+          "value": 7.0375
+        },
+        {
+          "date": "2025-12-18",
+          "value": 7.0366
+        },
+        {
+          "date": "2025-12-19",
+          "value": 7.035
+        },
+        {
+          "date": "2025-12-20",
+          "value": 7.0347
+        },
+        {
+          "date": "2025-12-21",
+          "value": 7.034
+        },
+        {
+          "date": "2025-12-22",
+          "value": 7.0337
+        },
+        {
+          "date": "2025-12-23",
+          "value": 7.0257
+        },
+        {
+          "date": "2025-12-24",
+          "value": 7.0167
+        },
+        {
+          "date": "2025-12-25",
+          "value": 7.0128
+        },
+        {
+          "date": "2025-12-26",
+          "value": 7.0083
+        },
+        {
+          "date": "2025-12-27",
+          "value": 7.0084
+        },
+        {
+          "date": "2025-12-28",
+          "value": 7.0053
+        },
+        {
+          "date": "2025-12-29",
+          "value": 7.0028
+        },
+        {
+          "date": "2025-12-30",
+          "value": 6.9932
+        },
+        {
+          "date": "2025-12-31",
+          "value": 6.9887
+        },
+        {
+          "date": "2026-01-01",
+          "value": 6.9886
+        },
+        {
+          "date": "2026-01-02",
+          "value": 6.9863
+        },
+        {
+          "date": "2026-01-03",
+          "value": 6.9863
+        },
+        {
+          "date": "2026-01-04",
+          "value": 6.9864
+        },
+        {
+          "date": "2026-01-05",
+          "value": 6.9808
+        },
+        {
+          "date": "2026-01-06",
+          "value": 6.9786
+        },
+        {
+          "date": "2026-01-07",
+          "value": 6.9826
+        },
+        {
+          "date": "2026-01-08",
+          "value": 6.9807
+        },
+        {
+          "date": "2026-01-09",
+          "value": 6.9762
+        },
+        {
+          "date": "2026-01-10",
+          "value": 6.9761
+        },
+        {
+          "date": "2026-01-11",
+          "value": 6.9756
+        },
+        {
+          "date": "2026-01-12",
+          "value": 6.9712
+        },
+        {
+          "date": "2026-01-13",
+          "value": 6.9705
+        },
+        {
+          "date": "2026-01-14",
+          "value": 6.9698
+        },
+        {
+          "date": "2026-01-15",
+          "value": 6.9651
+        },
+        {
+          "date": "2026-01-16",
+          "value": 6.9639
+        },
+        {
+          "date": "2026-01-17",
+          "value": 6.9634
+        },
+        {
+          "date": "2026-01-18",
+          "value": 6.9643
+        },
+        {
+          "date": "2026-01-19",
+          "value": 6.9615
+        },
+        {
+          "date": "2026-01-20",
+          "value": 6.9576
+        },
+        {
+          "date": "2026-01-21",
+          "value": 6.9574
+        },
+        {
+          "date": "2026-01-22",
+          "value": 6.9609
+        },
+        {
+          "date": "2026-01-23",
+          "value": 6.9605
+        },
+        {
+          "date": "2026-01-24",
+          "value": 6.9597
+        },
+        {
+          "date": "2026-01-25",
+          "value": 6.9597
+        },
+        {
+          "date": "2026-01-26",
+          "value": 6.9534
+        },
+        {
+          "date": "2026-01-27",
+          "value": 6.9503
+        },
+        {
+          "date": "2026-01-28",
+          "value": 6.9433
+        },
+        {
+          "date": "2026-01-29",
+          "value": 6.9407
+        },
+        {
+          "date": "2026-01-30",
+          "value": 6.9431
+        },
+        {
+          "date": "2026-01-31",
+          "value": 6.9433
+        },
+        {
+          "date": "2026-02-01",
+          "value": 6.9436
+        },
+        {
+          "date": "2026-02-02",
+          "value": 6.9435
+        },
+        {
+          "date": "2026-02-03",
+          "value": 6.9347
+        },
+        {
+          "date": "2026-02-04",
+          "value": 6.9331
+        },
+        {
+          "date": "2026-02-05",
+          "value": 6.9358
+        },
+        {
+          "date": "2026-02-06",
+          "value": 6.9346
+        },
+        {
+          "date": "2026-02-07",
+          "value": 6.9323
+        },
+        {
+          "date": "2026-02-08",
+          "value": 6.9338
+        },
+        {
+          "date": "2026-02-09",
+          "value": 6.9237
+        },
+        {
+          "date": "2026-02-10",
+          "value": 6.9111
+        },
+        {
+          "date": "2026-02-11",
+          "value": 6.9047
+        },
+        {
+          "date": "2026-02-12",
+          "value": 6.8998
+        },
+        {
+          "date": "2026-02-13",
+          "value": 6.8998
+        },
+        {
+          "date": "2026-02-14",
+          "value": 6.9004
+        },
+        {
+          "date": "2026-02-15",
+          "value": 6.9007
+        },
+        {
+          "date": "2026-02-16",
+          "value": 6.8992
+        },
+        {
+          "date": "2026-02-17",
+          "value": 6.8989
+        },
+        {
+          "date": "2026-02-18",
+          "value": 6.8983
+        },
+        {
+          "date": "2026-02-19",
+          "value": 6.8994
+        },
+        {
+          "date": "2026-02-20",
+          "value": 6.9006
+        },
+        {
+          "date": "2026-02-21",
+          "value": 6.9008
+        },
+        {
+          "date": "2026-02-22",
+          "value": 6.9002
+        },
+        {
+          "date": "2026-02-23",
+          "value": 6.8988
+        },
+        {
+          "date": "2026-02-24",
+          "value": 6.8877
+        },
+        {
+          "date": "2026-02-25",
+          "value": 6.8684
+        },
+        {
+          "date": "2026-02-26",
+          "value": 6.8458
+        },
+        {
+          "date": "2026-02-27",
+          "value": 6.845
+        },
+        {
+          "date": "2026-02-28",
+          "value": 6.8476
+        },
+        {
+          "date": "2026-03-01",
+          "value": 6.848
+        },
+        {
+          "date": "2026-03-02",
+          "value": 6.8692
+        },
+        {
+          "date": "2026-03-03",
+          "value": 6.8877
+        },
+        {
+          "date": "2026-03-04",
+          "value": 6.9005
+        },
+        {
+          "date": "2026-03-05",
+          "value": 6.8917
+        },
+        {
+          "date": "2026-03-06",
+          "value": 6.8934
+        },
+        {
+          "date": "2026-03-07",
+          "value": 6.8937
+        },
+        {
+          "date": "2026-03-08",
+          "value": 6.8936
+        },
+        {
+          "date": "2026-03-09",
+          "value": 6.9068
+        },
+        {
+          "date": "2026-03-10",
+          "value": 6.8827
+        },
+        {
+          "date": "2026-03-11",
+          "value": 6.8617
+        },
+        {
+          "date": "2026-03-12",
+          "value": 6.8655
+        },
+        {
+          "date": "2026-03-13",
+          "value": 6.8785
+        },
+        {
+          "date": "2026-03-14",
+          "value": 6.8813
+        },
+        {
+          "date": "2026-03-15",
+          "value": 6.8837
+        },
+        {
+          "date": "2026-03-16",
+          "value": 6.8893
+        },
+        {
+          "date": "2026-03-17",
+          "value": 6.8838
+        },
+        {
+          "date": "2026-03-18",
+          "value": 6.8756
+        },
+        {
+          "date": "2026-03-19",
+          "value": 6.883
+        },
+        {
+          "date": "2026-03-20",
+          "value": 6.8832
+        },
+        {
+          "date": "2026-03-21",
+          "value": 6.8825
+        },
+        {
+          "date": "2026-03-22",
+          "value": 6.8835
+        },
+        {
+          "date": "2026-03-23",
+          "value": 6.8886
+        },
+        {
+          "date": "2026-03-24",
+          "value": 6.8849
+        },
+        {
+          "date": "2026-03-25",
+          "value": 6.8889
+        },
+        {
+          "date": "2026-03-26",
+          "value": 6.8979
+        },
+        {
+          "date": "2026-03-27",
+          "value": 6.9032
+        },
+        {
+          "date": "2026-03-28",
+          "value": 6.904
+        },
+        {
+          "date": "2026-03-29",
+          "value": 6.9033
+        },
+        {
+          "date": "2026-03-30",
+          "value": 6.9055
+        },
+        {
+          "date": "2026-03-31",
+          "value": 6.9007
+        },
+        {
+          "date": "2026-04-01",
+          "value": 6.8797
+        },
+        {
+          "date": "2026-04-02",
+          "value": 6.8793
+        },
+        {
+          "date": "2026-04-03",
+          "value": 6.882
+        },
+        {
+          "date": "2026-04-04",
+          "value": 6.8801
+        },
+        {
+          "date": "2026-04-05",
+          "value": 6.8804
+        },
+        {
+          "date": "2026-04-06",
+          "value": 6.8782
+        },
+        {
+          "date": "2026-04-07",
+          "value": 6.8654
+        },
+        {
+          "date": "2026-04-08",
+          "value": 6.8351
+        },
+        {
+          "date": "2026-04-09",
+          "value": 6.8286
+        },
+        {
+          "date": "2026-04-10",
+          "value": 6.828
+        },
+        {
+          "date": "2026-04-11",
+          "value": 6.827
+        },
+        {
+          "date": "2026-04-12",
+          "value": 6.8271
+        },
+        {
+          "date": "2026-04-13",
+          "value": 6.8271
+        },
+        {
+          "date": "2026-04-14",
+          "value": 6.8166
+        },
+        {
+          "date": "2026-04-15",
+          "value": 6.8137
+        },
+        {
+          "date": "2026-04-16",
+          "value": 6.814
+        },
+        {
+          "date": "2026-04-17",
+          "value": 6.8161
+        },
+        {
+          "date": "2026-04-18",
+          "value": 6.8159
+        },
+        {
+          "date": "2026-04-19",
+          "value": 6.8162
+        },
+        {
+          "date": "2026-04-20",
+          "value": 6.8139
+        },
+        {
+          "date": "2026-04-21",
+          "value": 6.8114
+        },
+        {
+          "date": "2026-04-22",
+          "value": 6.8155
+        },
+        {
+          "date": "2026-04-23",
+          "value": 6.8237
+        },
+        {
+          "date": "2026-04-24",
+          "value": 6.8277
+        },
+        {
+          "date": "2026-04-25",
+          "value": 6.8278
+        },
+        {
+          "date": "2026-04-26",
+          "value": 6.8281
+        },
+        {
+          "date": "2026-04-27",
+          "value": 6.8222
+        },
+        {
+          "date": "2026-04-28",
+          "value": 6.8247
+        },
+        {
+          "date": "2026-04-29",
+          "value": 6.8288
+        },
+        {
+          "date": "2026-04-30",
+          "value": 6.8283
+        },
+        {
+          "date": "2026-05-01",
+          "value": 6.8268
+        },
+        {
+          "date": "2026-05-02",
+          "value": 6.8264
+        },
+        {
+          "date": "2026-05-03",
+          "value": 6.8252
+        },
+        {
+          "date": "2026-05-04",
+          "value": 6.8228
+        },
+        {
+          "date": "2026-05-05",
+          "value": 6.8236
+        },
+        {
+          "date": "2026-05-06",
+          "value": 6.8129
+        },
+        {
+          "date": "2026-05-07",
+          "value": 6.8005
+        },
+        {
+          "date": "2026-05-08",
+          "value": 6.7966
+        },
+        {
+          "date": "2026-05-09",
+          "value": 6.7969
+        },
+        {
+          "date": "2026-05-10",
+          "value": 6.7951
+        },
+        {
+          "date": "2026-05-11",
+          "value": 6.7914
+        },
+        {
+          "date": "2026-05-12",
+          "value": 6.7885
+        },
+        {
+          "date": "2026-05-13",
+          "value": 6.7855
+        },
+        {
+          "date": "2026-05-14",
+          "value": 6.7812
+        },
+        {
+          "date": "2026-05-15",
+          "value": 6.7896
+        },
+        {
+          "date": "2026-05-16",
+          "value": 6.7914
+        },
+        {
+          "date": "2026-05-17",
+          "value": 6.7941
+        },
+        {
+          "date": "2026-05-18",
+          "value": 6.7973
+        },
+        {
+          "date": "2026-05-19",
+          "value": 6.7961
+        },
+        {
+          "date": "2026-05-20",
+          "value": 6.7989
+        },
+        {
+          "date": "2026-05-21",
+          "value": 6.7949
+        },
+        {
+          "date": "2026-05-22",
+          "value": 6.7911
+        },
+        {
+          "date": "2026-05-23",
+          "value": 6.7908
+        },
+        {
+          "date": "2026-05-24",
+          "value": 6.7908
+        },
+        {
+          "date": "2026-05-25",
+          "value": 6.7839
+        },
+        {
+          "date": "2026-05-26",
+          "value": 6.7795
+        },
+        {
+          "date": "2026-05-27",
+          "value": 6.7782
+        },
+        {
+          "date": "2026-05-28",
+          "value": 6.7771
+        },
+        {
+          "date": "2026-05-29",
+          "value": 6.7696
+        },
+        {
+          "date": "2026-05-30",
+          "value": 6.7684
+        },
+        {
+          "date": "2026-05-31",
+          "value": 6.7661
+        },
+        {
+          "date": "2026-06-01",
+          "value": 6.7646
+        },
+        {
+          "date": "2026-06-02",
+          "value": 6.7593
+        },
+        {
+          "date": "2026-06-03",
+          "value": 6.7624
+        },
+        {
+          "date": "2026-06-04",
+          "value": 6.7681
+        },
+        {
+          "date": "2026-06-05",
+          "value": 6.7667
+        },
+        {
+          "date": "2026-06-06",
+          "value": 6.7663
+        },
+        {
+          "date": "2026-06-07",
+          "value": 6.7671
+        },
+        {
+          "date": "2026-06-08",
+          "value": 6.7754
+        },
+        {
+          "date": "2026-06-09",
+          "value": 6.7717
+        },
+        {
+          "date": "2026-06-10",
+          "value": 6.7711
+        },
+        {
+          "date": "2026-06-11",
+          "value": 6.7728
+        },
+        {
+          "date": "2026-06-12",
+          "value": 6.7641
+        },
+        {
+          "date": "2026-06-13",
+          "value": 6.763
+        },
+        {
+          "date": "2026-06-14",
+          "value": 6.7612
+        },
+        {
+          "date": "2026-06-15",
+          "value": 6.7552
+        },
+        {
+          "date": "2026-06-16",
+          "value": 6.7538
+        },
+        {
+          "date": "2026-06-17",
+          "value": 6.7535
+        },
+        {
+          "date": "2026-06-18",
+          "value": 6.759
+        },
+        {
+          "date": "2026-06-19",
+          "value": 6.7635
+        },
+        {
+          "date": "2026-06-20",
+          "value": 6.7646
+        },
+        {
+          "date": "2026-06-21",
+          "value": 6.7671
+        },
+        {
+          "date": "2026-06-22",
+          "value": 6.7698
+        },
+        {
+          "date": "2026-06-23",
+          "value": 6.7769
+        },
+        {
+          "date": "2026-06-24",
+          "value": 6.7939
+        },
+        {
+          "date": "2026-06-25",
+          "value": 6.7988
+        },
+        {
+          "date": "2026-06-26",
+          "value": 6.7959
+        },
+        {
+          "date": "2026-06-27",
+          "value": 6.7952
+        },
+        {
+          "date": "2026-06-28",
+          "value": 6.7948
+        },
+        {
+          "date": "2026-06-29",
+          "value": 6.7929
+        },
+        {
+          "date": "2026-06-30",
+          "value": 6.7854
+        },
+        {
+          "date": "2026-07-01",
+          "value": 6.7856
+        },
+        {
+          "date": "2026-07-02",
+          "value": 6.7843
+        },
+        {
+          "date": "2026-07-03",
+          "value": 6.7789
+        },
+        {
+          "date": "2026-07-04",
+          "value": 6.7781
+        },
+        {
+          "date": "2026-07-05",
+          "value": 6.777
+        },
+        {
+          "date": "2026-07-06",
+          "value": 6.7825
+        },
+        {
+          "date": "2026-07-07",
+          "value": 6.7888
+        },
+        {
+          "date": "2026-07-08",
+          "value": 6.7913
+        },
+        {
+          "date": "2026-07-09",
+          "value": 6.7911
+        },
+        {
+          "date": "2026-07-10",
+          "value": 6.7793
+        },
+        {
+          "date": "2026-07-11",
+          "value": 6.7784
+        },
+        {
+          "date": "2026-07-12",
+          "value": 6.7761
+        },
+        {
+          "date": "2026-07-13",
+          "value": 6.7738
+        },
+        {
+          "date": "2026-07-14",
+          "value": 6.7733
+        },
+        {
+          "date": "2026-07-15",
+          "value": 6.7682
+        },
+        {
+          "date": "2026-07-16",
+          "value": 6.7637
+        },
+        {
+          "date": "2026-07-17",
+          "value": 6.7677
+        },
+        {
+          "date": "2026-07-18",
+          "value": 6.7695
+        },
+        {
+          "date": "2026-07-19",
+          "value": 6.7696
+        },
+        {
+          "date": "2026-07-20",
+          "value": 6.7662
+        },
+        {
+          "date": "2026-07-21",
+          "value": 6.7609
+        },
+        {
+          "date": "2026-07-22",
+          "value": 6.765
+        },
+        {
+          "date": "2026-07-23",
+          "value": 6.7655
+        },
+        {
+          "date": "2026-07-24",
+          "value": 6.7664
+        },
+        {
+          "date": "2026-07-25",
+          "value": 6.7665
+        },
+        {
+          "date": "2026-07-26",
+          "value": 6.7669
+        },
+        {
+          "date": "2026-07-27",
+          "value": 6.7634
+        },
+        {
+          "date": "2026-07-28",
+          "value": 6.763
+        },
+        {
+          "date": "2026-07-29",
+          "value": 6.7631
+        },
+        {
+          "date": "2026-07-30",
+          "value": 6.7545
+        },
+        {
+          "date": "2026-07-31",
+          "value": 6.7468
+        },
+        {
+          "date": "2026-08-01",
+          "value": 6.7453
+        },
+        {
+          "date": "2026-08-02",
+          "value": 6.7456
+        },
+        {
+          "date": "2026-08-03",
+          "value": 6.7469
+        },
+        {
+          "date": "2026-08-04",
+          "value": 6.7474
+        },
+        {
+          "date": "2026-08-05",
+          "value": 6.7447
+        },
+        {
+          "date": "2026-08-06",
+          "value": 6.7441
+        },
+        {
+          "date": "2026-08-07",
+          "value": 6.742
+        },
+        {
+          "date": "2026-08-08",
+          "value": 6.742
+        },
+        {
+          "date": "2026-08-09",
+          "value": 6.7416
+        },
+        {
+          "date": "2026-08-10",
+          "value": 6.7402
+        },
+        {
+          "date": "2026-08-11",
+          "value": 6.7397
+        },
+        {
+          "date": "2026-08-12",
+          "value": 6.7401
+        },
+        {
+          "date": "2026-08-13",
+          "value": 6.7385
+        },
+        {
+          "date": "2026-08-14",
+          "value": 6.7376
+        },
+        {
+          "date": "2026-08-15",
+          "value": 6.7374
+        },
+        {
+          "date": "2026-08-16",
+          "value": 6.7378
+        },
+        {
+          "date": "2026-08-17",
+          "value": 6.735
+        },
+        {
+          "date": "2026-08-18",
+          "value": 6.7362
+        },
+        {
+          "date": "2026-08-19",
+          "value": 6.7344
+        },
+        {
+          "date": "2026-08-20",
+          "value": 6.7237
+        },
+        {
+          "date": "2026-08-21",
+          "value": 6.7177
+        },
+        {
+          "date": "2026-08-22",
+          "value": 6.717
+        },
+        {
+          "date": "2026-08-23",
+          "value": 6.7171
+        },
+        {
+          "date": "2026-08-24",
+          "value": 6.7151
+        },
+        {
+          "date": "2026-08-25",
+          "value": 6.7171
+        },
+        {
+          "date": "2026-08-26",
+          "value": 6.716
+        },
+        {
+          "date": "2026-08-27",
+          "value": 6.7156
+        },
+        {
+          "date": "2026-08-28",
+          "value": 6.7161
+        },
+        {
+          "date": "2026-08-29",
+          "value": 6.7161
+        },
+        {
+          "date": "2026-08-30",
+          "value": 6.7168
+        },
+        {
+          "date": "2026-08-31",
+          "value": 6.7167
+        },
+        {
+          "date": "2026-09-01",
+          "value": 6.7171
+        },
+        {
+          "date": "2026-09-02",
+          "value": 6.7165
+        },
+        {
+          "date": "2026-09-03",
+          "value": 6.7147
+        },
+        {
+          "date": "2026-09-04",
+          "value": 6.7097
+        },
+        {
+          "date": "2026-09-05",
+          "value": 6.7091
+        },
+        {
+          "date": "2026-09-06",
+          "value": 6.708
+        },
+        {
+          "date": "2026-09-07",
+          "value": 6.7061
+        },
+        {
+          "date": "2026-09-08",
+          "value": 6.7054
+        },
+        {
+          "date": "2026-09-09",
+          "value": 6.7036
+        },
+        {
+          "date": "2026-09-10",
+          "value": 6.7022
+        },
+        {
+          "date": "2026-09-11",
+          "value": 6.7032
+        },
+        {
+          "date": "2026-09-12",
+          "value": 6.7036
+        },
+        {
+          "date": "2026-09-13",
+          "value": 6.7006
+        },
+        {
+          "date": "2026-09-14",
+          "value": 6.7032
+        },
+        {
+          "date": "2026-09-15",
+          "value": 6.7059
+        },
+        {
+          "date": "2026-09-16",
+          "value": 6.7038
+        },
+        {
+          "date": "2026-09-17",
+          "value": 6.7031
+        },
+        {
+          "date": "2026-09-18",
+          "value": 6.6974
+        },
+        {
+          "date": "2026-09-19",
+          "value": 6.6958
+        },
+        {
+          "date": "2026-09-20",
+          "value": 6.6951
+        },
+        {
+          "date": "2026-09-21",
+          "value": 6.6917
+        },
+        {
+          "date": "2026-09-22",
+          "value": 6.6928
+        },
+        {
+          "date": "2026-09-23",
+          "value": 6.6996
+        },
+        {
+          "date": "2026-09-24",
+          "value": 6.7062
+        },
+        {
+          "date": "2026-09-25",
+          "value": 6.708
+        },
+        {
+          "date": "2026-09-26",
+          "value": 6.7082
+        },
+        {
+          "date": "2026-09-27",
+          "value": 6.7082
+        },
+        {
+          "date": "2026-09-28",
+          "value": 6.7079
+        },
+        {
+          "date": "2026-09-29",
+          "value": 6.7025
+        },
+        {
+          "date": "2026-09-30",
+          "value": 6.7001
+        },
+        {
+          "date": "2026-10-01",
+          "value": 6.7005
+        },
+        {
+          "date": "2026-10-02",
+          "value": 6.7005
+        },
+        {
+          "date": "2026-10-03",
+          "value": 6.7006
+        },
+        {
+          "date": "2026-10-04",
+          "value": 6.7005
+        },
+        {
+          "date": "2026-10-05",
+          "value": 6.7001
+        },
+        {
+          "date": "2026-10-06",
+          "value": 6.6999
+        },
+        {
+          "date": "2026-10-07",
+          "value": 6.7001
+        },
+        {
+          "date": "2026-10-08",
+          "value": 6.6979
+        },
+        {
+          "date": "2026-10-09",
+          "value": 6.692
+        },
+        {
+          "date": "2026-10-10",
+          "value": 6.6907
+        },
+        {
+          "date": "2026-10-11",
+          "value": 6.6901
+        },
+        {
+          "date": "2026-10-12",
+          "value": 6.6883
+        },
+        {
+          "date": "2026-10-13",
+          "value": 6.6879
+        },
+        {
+          "date": "2026-10-14",
+          "value": 6.6874
+        },
+        {
+          "date": "2026-10-15",
+          "value": 6.686
+        },
+        {
+          "date": "2026-10-16",
+          "value": 6.6836
+        },
+        {
+          "date": "2026-10-17",
+          "value": 6.6839
+        },
+        {
+          "date": "2026-10-18",
+          "value": 6.6833
+        }
+      ],
+      "source": "Frankfurter",
+      "series_id": "market.usd_cny.close",
+      "performance_pct": {
+        "1W": -0.10164272581875133,
+        "1M": -0.2105294591931206,
+        "3M": -1.2748168281729977,
+        "6M": -1.9497667321968337,
+        "1Y": -6.095179216253809
+      },
       "history_scope": "recent 400 points; full series in canonical history",
       "fetch_status": "retained-from-prior-published-current"
     }
   },
   "status": {
-    "successful": 63,
-    "failed": 5,
-    "stale_kept": 4,
-    "failures": [
-      {
-        "id": "usd_inr",
-        "name": "USD/INR",
-        "error": "HTTP Error 522: <none>"
-      },
-      {
-        "id": "usd_eur",
-        "name": "USD/EUR",
-        "error": "HTTP Error 522: <none>"
-      },
-      {
-        "id": "usd_gbp",
-        "name": "USD/GBP",
-        "error": "HTTP Error 522: <none>"
-      },
-      {
-        "id": "usd_jpy",
-        "name": "USD/JPY",
-        "error": "HTTP Error 522: <none>"
-      },
-      {
-        "id": "usd_chf",
-        "name": "USD/CHF",
-        "error": "HTTP Error 522: <none>"
-      }
-    ],
+    "successful": 64,
+    "failed": 0,
+    "stale_kept": 0,
+    "failures": [],
     "retained_from_prior_published_current": [
-      "usd_cny",
-      "usd_chf"
+      "usd_cny"
     ]
   },
   "architecture": "V5 current materialized view"
