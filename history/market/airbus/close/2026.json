@@ -2722,6 +2722,90 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-04",
+      "value": 200.100006,
+      "released_at": "2026-11-04",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
+      "period": "2026-11-05",
+      "value": 198.880005,
+      "released_at": "2026-11-05",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-06",
+      "value": 196.399994,
+      "released_at": "2026-11-06",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-09",
+      "value": 206.0,
+      "released_at": "2026-11-09",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-10",
+      "value": 208.25,
+      "released_at": "2026-11-10",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-11",
+      "value": 210.699997,
+      "released_at": "2026-11-11",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-12",
+      "value": 212.199997,
+      "released_at": "2026-11-12",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AIR.PA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

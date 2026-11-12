@@ -2614,6 +2614,66 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-05",
+      "value": 181.600006,
+      "released_at": "2026-11-05",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-06",
+      "value": 186.639999,
+      "released_at": "2026-11-06",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-09",
+      "value": 178.669998,
+      "released_at": "2026-11-09",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-10",
+      "value": 168.889999,
+      "released_at": "2026-11-10",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-11",
+      "value": 173.729996,
+      "released_at": "2026-11-11",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NVDA",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

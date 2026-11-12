@@ -2686,6 +2686,90 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-04",
+      "value": 285.200012,
+      "released_at": "2026-11-04",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
+    },
+    {
+      "period": "2026-11-05",
+      "value": 271.25,
+      "released_at": "2026-11-05",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-06",
+      "value": 269.450012,
+      "released_at": "2026-11-06",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-09",
+      "value": 272.799988,
+      "released_at": "2026-11-09",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-10",
+      "value": 271.5,
+      "released_at": "2026-11-10",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-11",
+      "value": 272.700012,
+      "released_at": "2026-11-11",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-12",
+      "value": 278.149994,
+      "released_at": "2026-11-12",
+      "collected_at": "2026-11-12T15:28:32.685638+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/NOVO-B.CO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

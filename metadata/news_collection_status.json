@@ -1,15 +1,15 @@
 {
   "schema_version": "5.8.4",
-  "attempted_at": "2026-11-05T03:32:19.812548+00:00",
+  "attempted_at": "2026-11-12T09:58:27.670827+00:00",
   "success": true,
   "fresh_item_count": 40,
   "provider_results": [
     {
       "provider": "google",
-      "candidates": 171,
+      "candidates": 152,
       "errors": 0
     }
   ],
   "errors": [],
-  "last_good_generated_at": "2026-11-05T03:32:19.812548+00:00"
+  "last_good_generated_at": "2026-11-12T09:58:27.670827+00:00"
 }
