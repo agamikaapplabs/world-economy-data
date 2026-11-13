@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-12T09:57:31.978373+00:00",
+  "generated_at": "2026-11-13T05:44:10.950875+00:00",
   "refresh_mode": "resume-failed-only",
   "indicators": {
     "inflation": {
@@ -7757,8 +7757,8 @@
         "label": "Current account / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "stale-cache",
-        "last_successful_fetch_at": "2026-11-05T03:32:05.206674+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-11-13T05:44:10.950875+00:00"
       },
       "countries": {
         "USA": {
@@ -8357,8 +8357,8 @@
         "label": "Central government debt / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "stale-cache",
-        "last_successful_fetch_at": "2026-11-05T03:32:05.206674+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-11-13T05:44:10.950875+00:00"
       },
       "countries": {
         "USA": {
@@ -8901,8 +8901,8 @@
         "label": "Net lending (+) / net borrowing (-) / GDP",
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
-        "fetch_status": "stale-cache",
-        "last_successful_fetch_at": "2026-11-05T03:32:05.206674+00:00"
+        "fetch_status": "fresh",
+        "last_successful_fetch_at": "2026-11-13T05:44:10.950875+00:00"
       },
       "countries": {
         "USA": {
@@ -16076,24 +16076,12 @@
       "ytd_change_t": -85.0
     }
   ],
-  "failures": [
-    {
-      "key": "current_account_gdp",
-      "code": "BN.CAB.XOKA.GD.ZS",
-      "error": "The read operation timed out"
-    },
-    {
-      "key": "fiscal_balance_gdp",
-      "code": "GC.NLD.TOTL.GD.ZS",
-      "error": "The read operation timed out"
-    },
-    {
-      "key": "gov_debt_gdp",
-      "code": "GC.DOD.TOTL.GD.ZS",
-      "error": "The read operation timed out"
-    }
+  "failures": [],
+  "fresh_indicators": [
+    "current_account_gdp",
+    "gov_debt_gdp",
+    "fiscal_balance_gdp"
   ],
-  "fresh_indicators": [],
   "skipped_success_indicators": [
     "inflation",
     "gdp_growth",
@@ -16121,11 +16109,7 @@
     "fuel_imports_pct",
     "container_port_teu"
   ],
-  "stale_indicators": [
-    "current_account_gdp",
-    "gov_debt_gdp",
-    "fiscal_balance_gdp"
-  ],
+  "stale_indicators": [],
   "unavailable_indicators": [],
   "notes": [
     "Default mode fetches only indicators that did not succeed previously.",

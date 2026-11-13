@@ -2674,6 +2674,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-12",
+      "value": 605.280029,
+      "released_at": "2026-11-12",
+      "collected_at": "2026-11-13T11:14:35.938882+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/CAT",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
