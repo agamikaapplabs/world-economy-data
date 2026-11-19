@@ -2686,6 +2686,78 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-13",
+      "value": 641.690002,
+      "released_at": "2026-11-13",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/META",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-16",
+      "value": 626.409973,
+      "released_at": "2026-11-16",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/META",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-17",
+      "value": 618.869995,
+      "released_at": "2026-11-17",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/META",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-18",
+      "value": 616.380005,
+      "released_at": "2026-11-18",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/META",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-19",
+      "value": 617.090027,
+      "released_at": "2026-11-19",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/META",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-19",
+      "value": 618.340027,
+      "released_at": "2026-11-19",
+      "collected_at": "2026-11-19T22:01:50.935679+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/META",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     }
   ]
 }

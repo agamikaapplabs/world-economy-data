@@ -120,6 +120,18 @@
       "status": "verified",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "Oct 2026",
+      "value": 110.07,
+      "released_at": "2026-10-15",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "department-of-commerce",
+      "source": "Department of Commerce",
+      "source_url": "https://www.commerce.gov.in/ministryofcommerce/node?page=36",
+      "status": "live-refreshed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

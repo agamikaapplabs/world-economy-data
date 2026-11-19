@@ -2686,6 +2686,78 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-13",
+      "value": 347.01001,
+      "released_at": "2026-11-13",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-16",
+      "value": 333.399994,
+      "released_at": "2026-11-16",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-17",
+      "value": 341.600006,
+      "released_at": "2026-11-17",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-18",
+      "value": 354.049988,
+      "released_at": "2026-11-18",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-19",
+      "value": 358.519989,
+      "released_at": "2026-11-19",
+      "collected_at": "2026-11-19T21:40:42.375854+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
+      "period": "2026-11-19",
+      "value": 360.045013,
+      "released_at": "2026-11-19",
+      "collected_at": "2026-11-19T22:01:50.935679+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/AVGO",
+      "status": "observed",
+      "revision_no": 1,
+      "is_revision": true
     }
   ]
 }

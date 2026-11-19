@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-13T05:44:28.933859+00:00",
+  "generated_at": "2026-11-19T16:31:44.413010+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -46,9 +46,9 @@
     },
     "passenger_vehicles": {
       "label": "Passenger vehicle sales",
-      "value": 439309,
+      "value": 519060,
       "unit": "units",
-      "period": "August 2026",
+      "period": "October 2026",
       "frequency": "monthly",
       "source": "SIAM",
       "url": "https://www.siam.in/press-release.aspx",
@@ -61,6 +61,10 @@
         {
           "period": "Sep 2026",
           "value": 454574.0
+        },
+        {
+          "period": "October 2026",
+          "value": 519060.0
         }
       ],
       "series_id": "india.auto.passenger_vehicles"
@@ -219,11 +223,11 @@
     "url": "https://www.pib.gov.in/PressReleaseIframePage.aspx?PRID=2321603&lang=2&reg=48"
   },
   "automobile": {
-    "latest_month": "August 2026",
+    "latest_month": "October 2026",
     "monthly": {
-      "passenger_vehicles": 439309,
-      "three_wheelers": 93764,
-      "two_wheelers": 2034698,
+      "passenger_vehicles": 519060,
+      "three_wheelers": 103349,
+      "two_wheelers": 2577810,
       "production_pv_3w_2w_quadricycle": 3452554
     },
     "q2_fy27": {
@@ -774,10 +778,10 @@
     },
     "total_exports": {
       "label": "Total exports",
-      "value": 80.75,
+      "value": 89.99,
       "unit": "US$ bn",
       "metric_type": "usd_billion",
-      "period": "Sep 2026",
+      "period": "Oct 2026",
       "frequency": "monthly",
       "released_at": "2026-10-15",
       "stale_after_days": 45,
@@ -786,10 +790,6 @@
       "status": "live-refreshed",
       "note": "Merchandise and services combined; services component is an official estimate where noted by the Department of Commerce.",
       "history": [
-        {
-          "period": "Oct 2025",
-          "value": 72.89
-        },
         {
           "period": "Nov 2025",
           "value": 73.99
@@ -833,16 +833,20 @@
         {
           "period": "Sep 2026",
           "value": 80.75
+        },
+        {
+          "period": "Oct 2026",
+          "value": 89.99
         }
       ],
       "series_id": "india.now.total_exports_usd_bn"
     },
     "total_imports": {
       "label": "Total imports",
-      "value": 94.05,
+      "value": 110.07,
       "unit": "US$ bn",
       "metric_type": "usd_billion",
-      "period": "Sep 2026",
+      "period": "Oct 2026",
       "frequency": "monthly",
       "released_at": "2026-10-15",
       "stale_after_days": 45,
@@ -851,10 +855,6 @@
       "status": "live-refreshed",
       "note": "Merchandise and services combined; services component is an official estimate where noted by the Department of Commerce.",
       "history": [
-        {
-          "period": "Oct 2025",
-          "value": 94.7
-        },
         {
           "period": "Nov 2025",
           "value": 80.63
@@ -898,6 +898,10 @@
         {
           "period": "Sep 2026",
           "value": 94.05
+        },
+        {
+          "period": "Oct 2026",
+          "value": 110.07
         }
       ],
       "series_id": "india.now.total_imports_usd_bn"
@@ -1088,7 +1092,7 @@
     {
       "source": "SIAM",
       "status": "ok",
-      "detail": "SIAM August 2026"
+      "detail": "SIAM October 2026"
     },
     {
       "source": "NHB",
@@ -1123,7 +1127,7 @@
     {
       "source": "Trade-now",
       "status": "ok",
-      "detail": "Trade Sep 2026 exports 80.75 imports 94.05"
+      "detail": "Trade Oct 2026 exports 89.99 imports 110.07"
     }
   ]
 }
