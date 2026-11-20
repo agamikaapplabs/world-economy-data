@@ -2758,6 +2758,18 @@
       "status": "observed",
       "revision_no": 1,
       "is_revision": true
+    },
+    {
+      "period": "2026-11-19",
+      "value": 374.410004,
+      "released_at": "2026-11-19",
+      "collected_at": "2026-11-20T15:23:48.101650+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/TSLA",
+      "status": "observed",
+      "revision_no": 2,
+      "is_revision": true
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-19T16:31:44.413010+00:00",
+  "generated_at": "2026-11-20T09:53:42.637519+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -1091,8 +1091,8 @@
     },
     {
       "source": "SIAM",
-      "status": "ok",
-      "detail": "SIAM October 2026"
+      "status": "seed-kept",
+      "detail": "The read operation timed out"
     },
     {
       "source": "NHB",
