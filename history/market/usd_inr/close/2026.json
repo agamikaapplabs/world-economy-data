@@ -3874,6 +3874,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-20",
+      "value": 92.68,
+      "released_at": "2026-11-20",
+      "collected_at": "2026-11-21T16:57:16.878898+05:30",
+      "source_id": "frankfurter",
+      "source": "Frankfurter",
+      "source_url": "https://frankfurter.dev/",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

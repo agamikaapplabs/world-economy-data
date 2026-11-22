@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-20T09:53:42.637519+00:00",
+  "generated_at": "2026-11-22T06:12:12.847698+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -1092,7 +1092,7 @@
     {
       "source": "SIAM",
       "status": "seed-kept",
-      "detail": "The read operation timed out"
+      "detail": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1081)>"
     },
     {
       "source": "NHB",

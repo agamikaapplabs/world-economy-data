@@ -2770,6 +2770,18 @@
       "status": "observed",
       "revision_no": 2,
       "is_revision": true
+    },
+    {
+      "period": "2026-11-20",
+      "value": 565.5,
+      "released_at": "2026-11-20",
+      "collected_at": "2026-11-21T16:57:16.878898+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/LMT",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
