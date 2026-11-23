@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-22T06:09:02.057786+00:00",
+  "generated_at": "2026-11-23T06:11:00.616343+00:00",
   "refresh_mode": "resume-failed-only",
   "indicators": {
     "inflation": {
@@ -7758,7 +7758,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-11-22T06:09:02.057786+00:00"
+        "last_successful_fetch_at": "2026-11-23T06:11:00.616343+00:00"
       },
       "countries": {
         "USA": {
@@ -8358,7 +8358,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-11-22T06:09:02.057786+00:00"
+        "last_successful_fetch_at": "2026-11-23T06:11:00.616343+00:00"
       },
       "countries": {
         "USA": {
@@ -8415,20 +8415,128 @@
         },
         "CHN": {
           "country": "China",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 90.5
+            },
+            {
+              "date": "2025",
+              "value": 98.6
+            },
+            {
+              "date": "2026",
+              "value": 104.4
+            },
+            {
+              "date": "2027",
+              "value": 109.1
+            },
+            {
+              "date": "2028",
+              "value": 113.2
+            },
+            {
+              "date": "2029",
+              "value": 116.4
+            },
+            {
+              "date": "2030",
+              "value": 119.5
+            },
+            {
+              "date": "2031",
+              "value": 122.1
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 122.1
+          },
           "series_id": "macro.chn.gov_debt_gdp"
         },
         "JPN": {
           "country": "Japan",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 213.6
+            },
+            {
+              "date": "2025",
+              "value": 204.8
+            },
+            {
+              "date": "2026",
+              "value": 199.4
+            },
+            {
+              "date": "2027",
+              "value": 196.4
+            },
+            {
+              "date": "2028",
+              "value": 193.8
+            },
+            {
+              "date": "2029",
+              "value": 191.5
+            },
+            {
+              "date": "2030",
+              "value": 190.1
+            },
+            {
+              "date": "2031",
+              "value": 188.9
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 188.9
+          },
           "series_id": "macro.jpn.gov_debt_gdp"
         },
         "DEU": {
           "country": "Germany",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 61.4
+            },
+            {
+              "date": "2025",
+              "value": 62.7
+            },
+            {
+              "date": "2026",
+              "value": 64.6
+            },
+            {
+              "date": "2027",
+              "value": 66.9
+            },
+            {
+              "date": "2028",
+              "value": 69.3
+            },
+            {
+              "date": "2029",
+              "value": 71.5
+            },
+            {
+              "date": "2030",
+              "value": 73.6
+            },
+            {
+              "date": "2031",
+              "value": 75.6
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 75.6
+          },
           "series_id": "macro.deu.gov_debt_gdp"
         },
         "GBR": {
@@ -8471,8 +8579,44 @@
         },
         "FRA": {
           "country": "France",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 112.6
+            },
+            {
+              "date": "2025",
+              "value": 115.5
+            },
+            {
+              "date": "2026",
+              "value": 118.5
+            },
+            {
+              "date": "2027",
+              "value": 120.4
+            },
+            {
+              "date": "2028",
+              "value": 121.7
+            },
+            {
+              "date": "2029",
+              "value": 122.6
+            },
+            {
+              "date": "2030",
+              "value": 123.2
+            },
+            {
+              "date": "2031",
+              "value": 123.6
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 123.6
+          },
           "series_id": "macro.fra.gov_debt_gdp"
         },
         "BRA": {
@@ -8591,8 +8735,44 @@
         },
         "SAU": {
           "country": "Saudi Arabia",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 25.9
+            },
+            {
+              "date": "2025",
+              "value": 31.8
+            },
+            {
+              "date": "2026",
+              "value": 35.4
+            },
+            {
+              "date": "2027",
+              "value": 37.3
+            },
+            {
+              "date": "2028",
+              "value": 40.2
+            },
+            {
+              "date": "2029",
+              "value": 43.1
+            },
+            {
+              "date": "2030",
+              "value": 45.9
+            },
+            {
+              "date": "2031",
+              "value": 48.7
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 48.7
+          },
           "series_id": "macro.sau.gov_debt_gdp"
         },
         "KOR": {
@@ -8673,8 +8853,44 @@
         },
         "POL": {
           "country": "Poland",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": 54.8
+            },
+            {
+              "date": "2025",
+              "value": 59.7
+            },
+            {
+              "date": "2026",
+              "value": 66.6
+            },
+            {
+              "date": "2027",
+              "value": 70.7
+            },
+            {
+              "date": "2028",
+              "value": 73.7
+            },
+            {
+              "date": "2029",
+              "value": 77.0
+            },
+            {
+              "date": "2030",
+              "value": 79.8
+            },
+            {
+              "date": "2031",
+              "value": 82.0
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": 82.0
+          },
           "series_id": "macro.pol.gov_debt_gdp"
         }
       }
@@ -8686,7 +8902,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-11-22T06:09:02.057786+00:00"
+        "last_successful_fetch_at": "2026-11-23T06:11:00.616343+00:00"
       },
       "countries": {
         "USA": {
@@ -8747,14 +8963,86 @@
         },
         "CHN": {
           "country": "China",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": -7.2
+            },
+            {
+              "date": "2025",
+              "value": -7.9
+            },
+            {
+              "date": "2026",
+              "value": -8.0
+            },
+            {
+              "date": "2027",
+              "value": -8.4
+            },
+            {
+              "date": "2028",
+              "value": -8.2
+            },
+            {
+              "date": "2029",
+              "value": -8.0
+            },
+            {
+              "date": "2030",
+              "value": -8.0
+            },
+            {
+              "date": "2031",
+              "value": -8.0
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": -8.0
+          },
           "series_id": "macro.chn.fiscal_balance_gdp"
         },
         "JPN": {
           "country": "Japan",
-          "history": [],
-          "latest": null,
+          "history": [
+            {
+              "date": "2024",
+              "value": -1.7
+            },
+            {
+              "date": "2025",
+              "value": -0.7
+            },
+            {
+              "date": "2026",
+              "value": -1.4
+            },
+            {
+              "date": "2027",
+              "value": -2.1
+            },
+            {
+              "date": "2028",
+              "value": -2.7
+            },
+            {
+              "date": "2029",
+              "value": -3.2
+            },
+            {
+              "date": "2030",
+              "value": -3.6
+            },
+            {
+              "date": "2031",
+              "value": -4.0
+            }
+          ],
+          "latest": {
+            "date": "2031",
+            "value": -4.0
+          },
           "series_id": "macro.jpn.fiscal_balance_gdp"
         },
         "DEU": {

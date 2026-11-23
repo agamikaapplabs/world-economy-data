@@ -1,10 +1,10 @@
 {
   "schema_version": "5.5",
-  "published_at": "2026-11-22T11:42:19.064933+05:30",
+  "published_at": "2026-11-23T11:41:21.883847+05:30",
   "payload_role": "startup",
   "markets": {
     "schema_version": "5.5",
-    "generated_at": "2026-11-22T06:09:01.698883+00:00",
+    "generated_at": "2026-11-23T06:11:00.275836+00:00",
     "payload_role": "startup-summary",
     "instruments": {
       "gold": {
@@ -14,22 +14,22 @@
         "symbol": "GC=F",
         "group": "metals",
         "unit": "USD",
-        "latest": 3515.399902,
-        "previous_close": 3685.5,
-        "day_change_pct": -4.615387274453938,
-        "change_pct": -4.615387274453938,
-        "market_time": "2026-11-20T21:59:57+00:00",
+        "latest": 3619.5,
+        "previous_close": 3515.399902,
+        "day_change_pct": 2.961259057348631,
+        "change_pct": 2.961259057348631,
+        "market_time": "2026-11-23T06:00:40+00:00",
         "currency": "USD",
         "exchange": "CMX",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -9.543785665634275,
-          "1M": -15.291568626506024,
-          "3M": -24.894247993924644,
-          "6M": -22.280691757000604,
-          "1Y": -13.413795517241379,
-          "3Y": -19.360462884187125,
-          "5Y": -19.360462884187125
+          "1W": -6.060212821178301,
+          "1M": -9.690858342200181,
+          "3M": -22.95329408997665,
+          "6M": -19.979221702346084,
+          "1Y": -11.275891653388893,
+          "3Y": -16.972517287541113,
+          "5Y": -16.972517287541113
         },
         "history": []
       },
@@ -40,22 +40,22 @@
         "symbol": "SI=F",
         "group": "metals",
         "unit": "USD",
-        "latest": 41.07,
-        "previous_close": 44.318001,
-        "day_change_pct": -7.328852670949672,
-        "change_pct": -7.328852670949672,
-        "market_time": "2026-11-20T21:59:58+00:00",
+        "latest": 42.610001,
+        "previous_close": 41.035,
+        "day_change_pct": 3.838189350554406,
+        "change_pct": 3.838189350554406,
+        "market_time": "2026-11-23T06:00:36+00:00",
         "currency": "USD",
         "exchange": "CMX",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -16.236663181932375,
-          "1M": -28.476891636012482,
-          "3M": -40.877554161278,
-          "6M": -45.884335732790525,
-          "1Y": -18.263780195284095,
-          "3Y": -19.65805120714512,
-          "5Y": -19.65805120714512
+          "1W": -8.923798225927115,
+          "1M": -20.6680162474729,
+          "3M": -37.832828525991744,
+          "6M": -43.85516171070223,
+          "1Y": -14.562989702584783,
+          "3Y": -16.645470698673115,
+          "5Y": -16.645470698673115
         },
         "history": []
       },
@@ -118,22 +118,22 @@
         "symbol": "^NSEI",
         "group": "indices",
         "unit": "index",
-        "latest": 25800.599609,
-        "previous_close": 25514.300781,
-        "day_change_pct": 1.1221112052312254,
-        "change_pct": 1.1221112052312254,
-        "market_time": "2026-11-20T10:01:15+00:00",
+        "latest": 25563.0,
+        "previous_close": 25800.599609,
+        "day_change_pct": -0.9209073145614768,
+        "change_pct": -0.9209073145614768,
+        "market_time": "2026-11-23T06:10:41+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 2.610129562624075,
-          "1M": 13.10422246485854,
-          "3M": 6.3854511339271,
-          "6M": 8.774705659397819,
-          "1Y": -1.4949165156540212,
-          "3Y": 0.8414942229636901,
-          "5Y": 0.8414942229636901
+          "1W": 1.075083310743996,
+          "1M": 13.110619469026542,
+          "3M": 5.549140761760718,
+          "6M": 6.372003773205193,
+          "1Y": -1.937806800341313,
+          "3Y": -0.08716247344867645,
+          "5Y": -0.08716247344867645
         },
         "history": []
       },
@@ -196,22 +196,22 @@
         "symbol": "^HSI",
         "group": "indices",
         "unit": "index",
-        "latest": 22410.800781,
-        "previous_close": 22841.619141,
-        "day_change_pct": -1.8861113012198505,
-        "change_pct": -1.8861113012198505,
-        "market_time": "2026-11-20T08:08:54+00:00",
+        "latest": 22378.300781,
+        "previous_close": 22410.800781,
+        "day_change_pct": -0.1450193606091652,
+        "change_pct": -0.1450193606091652,
+        "market_time": "2026-11-23T05:55:40+00:00",
         "currency": "HKD",
         "exchange": "HKG",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -5.1900313411387895,
-          "1M": -5.247231635696103,
-          "3M": -13.83596594169444,
-          "6M": -12.478422479874107,
-          "1Y": -13.256024502812213,
-          "3Y": -13.433407393605002,
-          "5Y": -13.433407393605002
+          "1W": -5.790807179107271,
+          "1M": -3.096422854690628,
+          "3M": -12.301558538470847,
+          "6M": -12.605345711988857,
+          "1Y": -11.267710346167693,
+          "3Y": -13.55894571270394,
+          "5Y": -13.55894571270394
         },
         "history": []
       },
@@ -430,22 +430,22 @@
         "symbol": "RELIANCE.NS",
         "group": "india_stocks",
         "unit": "INR",
-        "latest": 1377.5,
-        "previous_close": 1375.599976,
-        "day_change_pct": 0.1381232940643807,
-        "change_pct": 0.1381232940643807,
-        "market_time": "2026-11-20T09:58:10+00:00",
+        "latest": 1358.0,
+        "previous_close": 1377.5,
+        "day_change_pct": -1.4156079854809438,
+        "change_pct": -1.4156079854809438,
+        "market_time": "2026-11-23T06:10:44+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 2.8215309683175427,
-          "1M": 13.93713813068651,
-          "3M": 4.673252279635265,
-          "6M": 1.6980435585086662,
-          "1Y": -11.07739840285169,
-          "3Y": 15.809832842643079,
-          "5Y": 20.68221696675625
+          "1W": 0.9815549166447113,
+          "1M": 14.117647058823524,
+          "3M": 3.679947258881189,
+          "6M": -0.6583760058522348,
+          "1Y": -12.19448977930153,
+          "3Y": 13.455036183045888,
+          "5Y": 23.334648927140766
         },
         "history": []
       },
@@ -456,22 +456,22 @@
         "symbol": "TCS.NS",
         "group": "india_stocks",
         "unit": "INR",
-        "latest": 2376.199951,
-        "previous_close": 2342.699951,
-        "day_change_pct": 1.4299739915775496,
-        "change_pct": 1.4299739915775496,
-        "market_time": "2026-11-20T09:58:11+00:00",
+        "latest": 2479.300049,
+        "previous_close": 2376.199951,
+        "day_change_pct": 4.338864578993499,
+        "change_pct": 4.338864578993499,
+        "market_time": "2026-11-23T06:10:44+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -1.300105877466251,
-          "1M": -6.041915737445624,
-          "3M": 3.2232819721981,
-          "6M": 2.5417468931318465,
-          "1Y": -24.440348703390647,
-          "3Y": -32.30585196939968,
-          "5Y": -31.63391591623612
+          "1W": 3.0893991268191145,
+          "1M": -2.0039506324110667,
+          "3M": 8.546033125733876,
+          "6M": 7.412706941869263,
+          "1Y": -21.30705351739629,
+          "3Y": -28.283822315867468,
+          "5Y": -28.431838089052462
         },
         "history": []
       },
@@ -482,22 +482,22 @@
         "symbol": "HDFCBANK.NS",
         "group": "india_stocks",
         "unit": "INR",
-        "latest": 846.0,
-        "previous_close": 821.799988,
-        "day_change_pct": 2.9447569181517212,
-        "change_pct": 2.9447569181517212,
-        "market_time": "2026-11-20T09:58:10+00:00",
+        "latest": 827.25,
+        "previous_close": 846.0,
+        "day_change_pct": -2.2163120567375887,
+        "change_pct": -2.2163120567375887,
+        "market_time": "2026-11-23T06:10:44+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 5.223880597014929,
-          "1M": 19.66899860523661,
-          "3M": 16.376640213880343,
-          "6M": 10.328640224235365,
-          "1Y": -16.142140047986675,
-          "3Y": 11.466125597268718,
-          "5Y": 9.912951385013091
+          "1W": 1.3165952235149936,
+          "1M": 19.40675726455123,
+          "3M": 13.477366255144041,
+          "6M": 5.1343998515925415,
+          "1Y": -17.113370077010615,
+          "3Y": 7.989036349935952,
+          "5Y": 9.168285282519406
         },
         "history": []
       },
@@ -508,22 +508,22 @@
         "symbol": "BHARTIARTL.NS",
         "group": "india_stocks",
         "unit": "INR",
-        "latest": 2161.699951,
-        "previous_close": 2144.0,
-        "day_change_pct": 0.8255574160447787,
-        "change_pct": 0.8255574160447787,
-        "market_time": "2026-11-20T09:58:05+00:00",
+        "latest": 2134.5,
+        "previous_close": 2161.699951,
+        "day_change_pct": -1.258266716776183,
+        "change_pct": -1.258266716776183,
+        "market_time": "2026-11-23T06:10:41+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 2.6448219848053123,
-          "1M": 14.272876618581677,
-          "3M": 11.084272918807825,
-          "6M": 15.512446472000253,
-          "1Y": 0.15752684625918167,
-          "3Y": 122.66055564078214,
-          "5Y": 202.61076833857135
+          "1W": -0.8822846528906414,
+          "1M": 12.811163631662147,
+          "3M": 10.310077519379846,
+          "6M": 13.852141253064376,
+          "1Y": -1.3039234123513488,
+          "3Y": 119.33925369763952,
+          "5Y": 181.262344511403
         },
         "history": []
       },
@@ -534,22 +534,22 @@
         "symbol": "ICICIBANK.NS",
         "group": "india_stocks",
         "unit": "INR",
-        "latest": 1640.0,
-        "previous_close": 1608.900024,
-        "day_change_pct": 1.9329961797551674,
-        "change_pct": 1.9329961797551674,
-        "market_time": "2026-11-20T09:58:10+00:00",
+        "latest": 1608.199951,
+        "previous_close": 1640.0,
+        "day_change_pct": -1.939027378048777,
+        "change_pct": -1.939027378048777,
+        "market_time": "2026-11-23T06:10:45+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 3.561507000174391,
-          "1M": 18.411552346570392,
-          "3M": 15.492957746478876,
-          "6M": 29.716043378876744,
-          "1Y": 18.5827910339841,
-          "3Y": 77.08671228817741,
-          "5Y": 114.969189724393
+          "1W": 1.4637193059936937,
+          "1M": 15.349304799968388,
+          "3M": 13.653706784452302,
+          "6M": 24.492947050507507,
+          "1Y": 17.429715297553862,
+          "3Y": 73.0363578084005,
+          "5Y": 113.89904932310593
         },
         "history": []
       },
@@ -560,22 +560,22 @@
         "symbol": "INFY.NS",
         "group": "india_stocks",
         "unit": "INR",
-        "latest": 1098.0,
-        "previous_close": 1091.900024,
-        "day_change_pct": 0.5586570075943116,
-        "change_pct": 0.5586570075943116,
-        "market_time": "2026-11-20T09:58:10+00:00",
+        "latest": 1116.699951,
+        "previous_close": 1098.0,
+        "day_change_pct": 1.7030920765027373,
+        "change_pct": 1.7030920765027373,
+        "market_time": "2026-11-23T06:10:44+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -3.8107752956636043,
-          "1M": -5.9931506849315035,
-          "3M": -2.0517395182872433,
-          "6M": -6.513409961685824,
-          "1Y": -28.538887081028307,
-          "3Y": -23.69701181375955,
-          "5Y": -38.293807733476804
+          "1W": -2.480134974694992,
+          "1M": -3.215470308928714,
+          "3M": -1.1769954867256627,
+          "6M": -4.433037997432598,
+          "1Y": -27.72168601941747,
+          "3Y": -22.311122001205696,
+          "5Y": -35.70729831482805
         },
         "history": []
       },
@@ -586,22 +586,22 @@
         "symbol": "LT.NS",
         "group": "india_stocks",
         "unit": "INR",
-        "latest": 4209.100098,
-        "previous_close": 4211.0,
-        "day_change_pct": -0.045117596770365975,
-        "change_pct": -0.045117596770365975,
-        "market_time": "2026-11-20T09:58:10+00:00",
+        "latest": 4152.600098,
+        "previous_close": 4209.100098,
+        "day_change_pct": -1.3423296829373716,
+        "change_pct": -1.3423296829373716,
+        "market_time": "2026-11-23T06:10:45+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 1.5758554001862546,
-          "1M": 15.761828877887796,
-          "3M": 2.836552602003417,
-          "6M": 7.1945192520086465,
-          "1Y": 4.252741867728904,
-          "3Y": 36.887977099688854,
-          "5Y": 121.88192398523982
+          "1W": 0.3043501932367132,
+          "1M": 13.86345209761448,
+          "3M": 1.5305647432762859,
+          "6M": 2.955327983741296,
+          "1Y": 3.1727545804690616,
+          "3Y": 35.961368519276405,
+          "5Y": 120.13943069067051
         },
         "history": []
       },
@@ -612,22 +612,22 @@
         "symbol": "SBIN.NS",
         "group": "india_stocks",
         "unit": "INR",
-        "latest": 1165.099976,
-        "previous_close": 1156.0,
-        "day_change_pct": 0.78719515570934,
-        "change_pct": 0.78719515570934,
-        "market_time": "2026-11-20T09:58:10+00:00",
+        "latest": 1142.800049,
+        "previous_close": 1165.099976,
+        "day_change_pct": -1.9139925722563078,
+        "change_pct": -1.9139925722563078,
+        "market_time": "2026-11-23T06:10:45+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 7.879627407407397,
-          "1M": 20.986498026998966,
-          "3M": 11.099459372435883,
-          "6M": 22.74546578914287,
-          "1Y": 18.70001428801402,
-          "3Y": 107.4977695458593,
-          "5Y": 131.26240646119268
+          "1W": 4.795969646950926,
+          "1M": 19.215530733541343,
+          "3M": 9.937474651274636,
+          "6M": 17.86304427466281,
+          "1Y": 17.499493851519475,
+          "3Y": 103.94398107371386,
+          "5Y": 131.78178213443138
         },
         "history": []
       },
@@ -1002,22 +1002,22 @@
         "symbol": "LT.NS",
         "group": "heavy_industry",
         "unit": "INR",
-        "latest": 4209.100098,
-        "previous_close": 4211.0,
-        "day_change_pct": -0.045117596770365975,
-        "change_pct": -0.045117596770365975,
-        "market_time": "2026-11-20T09:58:10+00:00",
+        "latest": 4153.700195,
+        "previous_close": 4209.100098,
+        "day_change_pct": -1.3161935261725757,
+        "change_pct": -1.3161935261725757,
+        "market_time": "2026-11-23T06:10:48+00:00",
         "currency": "INR",
         "exchange": "NSI",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 1.5758554001862546,
-          "1M": 15.761828877887796,
-          "3M": 2.836552602003417,
-          "6M": 7.1945192520086465,
-          "1Y": 4.252741867728904,
-          "3Y": 36.887977099688854,
-          "5Y": 121.88192398523982
+          "1W": 0.33092258454106016,
+          "1M": 13.893616534137653,
+          "3M": 1.5574619804401113,
+          "6M": 2.982602665814227,
+          "1Y": 3.200086862681939,
+          "3Y": 35.99738708357207,
+          "5Y": 120.19774950817505
         },
         "history": []
       },
@@ -1366,22 +1366,22 @@
         "symbol": "BZ=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 89.949997,
-        "previous_close": 91.980003,
-        "day_change_pct": -2.2070079732439236,
-        "change_pct": -2.2070079732439236,
-        "market_time": "2026-11-20T21:59:18+00:00",
+        "latest": 90.239998,
+        "previous_close": 92.57,
+        "day_change_pct": -2.517016311980116,
+        "change_pct": -2.517016311980116,
+        "market_time": "2026-11-23T06:00:41+00:00",
         "currency": "USD",
         "exchange": "NYM",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -6.145658645478247,
-          "1M": -17.34056515346444,
-          "3M": -4.703890292445079,
-          "6M": -13.1253659153432,
-          "1Y": 41.92173490183442,
-          "3Y": 9.096422404963821,
-          "5Y": 14.019518494353122
+          "1W": -2.3799263872798293,
+          "1M": -22.68677413736485,
+          "3M": -2.093956864358404,
+          "6M": -12.845279960930267,
+          "1Y": 44.24551879402942,
+          "3Y": 11.988081112234283,
+          "5Y": 9.634309552528485
         },
         "history": []
       },
@@ -1392,22 +1392,22 @@
         "symbol": "CL=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 83.410004,
-        "previous_close": 83.209999,
-        "day_change_pct": 0.2403617382569665,
-        "change_pct": 0.2403617382569665,
-        "market_time": "2026-11-20T21:59:59+00:00",
+        "latest": 83.699997,
+        "previous_close": 83.980003,
+        "day_change_pct": -0.33341984996118684,
+        "change_pct": -0.33341984996118684,
+        "market_time": "2026-11-23T06:00:43+00:00",
         "currency": "USD",
         "exchange": "NYM",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -5.815259842259701,
-          "1M": -14.14307536504219,
-          "3M": -4.192504116528917,
-          "6M": -13.654238377934536,
-          "1Y": 41.0382235549243,
-          "3Y": 7.252163067461592,
-          "5Y": 9.605790002780301
+          "1W": -2.3565142048936782,
+          "1M": -18.95032494287766,
+          "3M": -1.5410010224443993,
+          "6M": -13.354038578758566,
+          "1Y": 44.16120488871502,
+          "3Y": 10.802218549083676,
+          "5Y": 6.624199999999991
         },
         "history": []
       },
@@ -1418,22 +1418,22 @@
         "symbol": "NG=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 3.748,
-        "previous_close": 3.268,
-        "day_change_pct": 14.687882496940038,
-        "change_pct": 14.687882496940038,
-        "market_time": "2026-11-20T21:59:59+00:00",
+        "latest": 3.596,
+        "previous_close": 3.411,
+        "day_change_pct": 5.423629434183526,
+        "change_pct": 5.423629434183526,
+        "market_time": "2026-11-23T06:00:44+00:00",
         "currency": "USD",
         "exchange": "NYM",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 16.03715170278639,
-          "1M": 34.33691756272401,
-          "3M": 35.16047601875225,
-          "6M": 28.930168558651538,
-          "1Y": -16.227089852481,
-          "3Y": 31.693605059732953,
-          "5Y": -26.001974333662393
+          "1W": 15.182575272261367,
+          "1M": 36.212121212121204,
+          "3M": 29.259525521207763,
+          "6M": 23.701410388716894,
+          "1Y": -21.48471615720524,
+          "3Y": 25.954465849387056,
+          "5Y": -27.602174350714716
         },
         "history": []
       },
@@ -1444,22 +1444,22 @@
         "symbol": "HG=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 5.485,
-        "previous_close": 5.625,
-        "day_change_pct": -2.488888888888883,
-        "change_pct": -2.488888888888883,
-        "market_time": "2026-11-20T21:59:55+00:00",
+        "latest": 5.553,
+        "previous_close": 5.477,
+        "day_change_pct": 1.3876209603797631,
+        "change_pct": 1.3876209603797631,
+        "market_time": "2026-11-23T06:00:49+00:00",
         "currency": "USD",
         "exchange": "CMX",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -9.778764701044496,
-          "1M": -16.16995262112181,
-          "3M": -16.635002659776575,
-          "6M": -13.513087354146947,
-          "1Y": 10.595826192156466,
-          "3Y": 43.79341984532705,
-          "5Y": 24.418736531700127
+          "1W": -7.411421425593989,
+          "1M": -14.252625077208158,
+          "3M": -15.850886497954242,
+          "6M": -12.440870387890246,
+          "1Y": 10.87151841868823,
+          "3Y": 46.26629790596601,
+          "5Y": 25.534079348931837
         },
         "history": []
       },
@@ -1470,22 +1470,22 @@
         "symbol": "ZW=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 592.0,
-        "previous_close": 578.25,
-        "day_change_pct": 2.3778642455685257,
-        "change_pct": 2.3778642455685257,
-        "market_time": "2026-11-20T19:19:59+00:00",
+        "latest": 594.0,
+        "previous_close": 574.25,
+        "day_change_pct": 3.4392686112320416,
+        "change_pct": 3.4392686112320416,
+        "market_time": "2026-11-23T06:00:47+00:00",
         "currency": "USX",
         "exchange": "CBT",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": -0.21070375052676393,
-          "1M": -5.769996020692403,
-          "3M": -13.132795304475419,
-          "6M": -8.394584139264992,
-          "1Y": 12.333965844402272,
-          "3Y": 6.666666666666665,
-          "5Y": -28.068043742405834
+          "1W": 1.1925042589437718,
+          "1M": -4.959999999999997,
+          "3M": -12.871287128712872,
+          "6M": -8.085106382978724,
+          "1Y": 12.713472485768506,
+          "3Y": 8.246013667425967,
+          "5Y": -30.60747663551402
         },
         "history": []
       },
@@ -1496,22 +1496,22 @@
         "symbol": "ZC=F",
         "group": "commodities",
         "unit": "USD",
-        "latest": 448.75,
-        "previous_close": 439.0,
-        "day_change_pct": 2.2209567198177673,
-        "change_pct": 2.2209567198177673,
-        "market_time": "2026-11-20T19:19:59+00:00",
+        "latest": 451.5,
+        "previous_close": 434.5,
+        "day_change_pct": 3.9125431530494823,
+        "change_pct": 3.9125431530494823,
+        "market_time": "2026-11-23T06:00:04+00:00",
         "currency": "USX",
         "exchange": "CBT",
         "source": "Yahoo Finance chart",
         "performance_pct": {
-          "1W": 0.729517396184054,
-          "1M": -3.130059363194815,
-          "3M": -7.235142118863047,
-          "6M": -3.130059363194815,
-          "1Y": 5.216881594372791,
-          "3Y": -4.521276595744683,
-          "5Y": -21.375383267630312
+          "1W": 0.6128133704735417,
+          "1M": -0.9868421052631526,
+          "3M": -8.138351983723291,
+          "6M": -2.5364274150026955,
+          "1Y": 6.110458284371334,
+          "3Y": -2.5364274150026955,
+          "5Y": -22.22222222222222
         },
         "history": []
       },
@@ -1700,94 +1700,94 @@
   },
   "macro": {
     "schema_version": "5.5",
-    "generated_at": "2026-11-22T06:09:02.057786+00:00",
+    "generated_at": "2026-11-23T06:11:00.616343+00:00",
     "payload_role": "startup-summary",
     "indicators": {
-      "exports_usd": {
+      "unemployment": {
         "meta": {
-          "label": "Exports of goods & services",
-          "unit": "USD",
+          "label": "Unemployment",
+          "unit": "%",
           "frequency": "annual / latest World Bank observation"
         },
         "countries": {
           "USA": {
             "country": "United States",
-            "series_id": "macro.usa.exports_usd",
+            "series_id": "macro.usa.unemployment",
             "latest": {
-              "date": "2024",
-              "value": 3215368000000.0
+              "date": "2025",
+              "value": 4.198
             },
             "history": []
           },
           "IND": {
             "country": "India",
-            "series_id": "macro.ind.exports_usd",
+            "series_id": "macro.ind.unemployment",
             "latest": {
               "date": "2025",
-              "value": 880740846621.545
+              "value": 4.219
             },
             "history": []
           },
           "CHN": {
             "country": "China",
-            "series_id": "macro.chn.exports_usd",
+            "series_id": "macro.chn.unemployment",
             "latest": {
               "date": "2025",
-              "value": 4108470555117.51
+              "value": 4.615
             },
             "history": []
           },
           "JPN": {
             "country": "Japan",
-            "series_id": "macro.jpn.exports_usd",
+            "series_id": "macro.jpn.unemployment",
             "latest": {
-              "date": "2024",
-              "value": 920960002390.344
+              "date": "2025",
+              "value": 2.451
             },
             "history": []
           },
           "DEU": {
             "country": "Germany",
-            "series_id": "macro.deu.exports_usd",
+            "series_id": "macro.deu.unemployment",
             "latest": {
               "date": "2025",
-              "value": 2042329262308.23
+              "value": 3.711
             },
             "history": []
           },
           "GBR": {
             "country": "United Kingdom",
-            "series_id": "macro.gbr.exports_usd",
+            "series_id": "macro.gbr.unemployment",
             "latest": {
               "date": "2025",
-              "value": 1224670037744.72
+              "value": 4.746
             },
             "history": []
           },
           "FRA": {
             "country": "France",
-            "series_id": "macro.fra.exports_usd",
+            "series_id": "macro.fra.unemployment",
             "latest": {
               "date": "2025",
-              "value": 1124107902931.06
+              "value": 7.542
             },
             "history": []
           },
           "BRA": {
             "country": "Brazil",
-            "series_id": "macro.bra.exports_usd",
+            "series_id": "macro.bra.unemployment",
             "latest": {
               "date": "2025",
-              "value": 406298241937.141
+              "value": 5.97
             },
             "history": []
           },
           "RUS": {
             "country": "Russia",
-            "series_id": "macro.rus.exports_usd",
+            "series_id": "macro.rus.unemployment",
             "latest": {
               "date": "2025",
-              "value": 466237273304.333
+              "value": 2.133
             },
             "history": []
           }
@@ -1973,96 +1973,6 @@
           }
         }
       },
-      "energy_imports_pct": {
-        "meta": {
-          "label": "Net energy imports / energy use",
-          "unit": "%",
-          "frequency": "annual / latest World Bank observation"
-        },
-        "countries": {
-          "USA": {
-            "country": "United States",
-            "series_id": "macro.usa.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": -9.78127421443322
-            },
-            "history": []
-          },
-          "IND": {
-            "country": "India",
-            "series_id": "macro.ind.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 36.0305276064275
-            },
-            "history": []
-          },
-          "CHN": {
-            "country": "China",
-            "series_id": "macro.chn.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 24.0191966181448
-            },
-            "history": []
-          },
-          "JPN": {
-            "country": "Japan",
-            "series_id": "macro.jpn.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 87.2760175203616
-            },
-            "history": []
-          },
-          "DEU": {
-            "country": "Germany",
-            "series_id": "macro.deu.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 70.2584516342916
-            },
-            "history": []
-          },
-          "GBR": {
-            "country": "United Kingdom",
-            "series_id": "macro.gbr.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 47.5592581197649
-            },
-            "history": []
-          },
-          "FRA": {
-            "country": "France",
-            "series_id": "macro.fra.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": 41.7548883068387
-            },
-            "history": []
-          },
-          "BRA": {
-            "country": "Brazil",
-            "series_id": "macro.bra.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": -10.8440412585642
-            },
-            "history": []
-          },
-          "RUS": {
-            "country": "Russia",
-            "series_id": "macro.rus.energy_imports_pct",
-            "latest": {
-              "date": "2024",
-              "value": -70.7306703064017
-            },
-            "history": []
-          }
-        }
-      },
       "imports_usd": {
         "meta": {
           "label": "Imports of goods & services",
@@ -2148,186 +2058,6 @@
             "latest": {
               "date": "2025",
               "value": 397181687664.146
-            },
-            "history": []
-          }
-        }
-      },
-      "unemployment": {
-        "meta": {
-          "label": "Unemployment",
-          "unit": "%",
-          "frequency": "annual / latest World Bank observation"
-        },
-        "countries": {
-          "USA": {
-            "country": "United States",
-            "series_id": "macro.usa.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 4.198
-            },
-            "history": []
-          },
-          "IND": {
-            "country": "India",
-            "series_id": "macro.ind.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 4.219
-            },
-            "history": []
-          },
-          "CHN": {
-            "country": "China",
-            "series_id": "macro.chn.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 4.615
-            },
-            "history": []
-          },
-          "JPN": {
-            "country": "Japan",
-            "series_id": "macro.jpn.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 2.451
-            },
-            "history": []
-          },
-          "DEU": {
-            "country": "Germany",
-            "series_id": "macro.deu.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 3.711
-            },
-            "history": []
-          },
-          "GBR": {
-            "country": "United Kingdom",
-            "series_id": "macro.gbr.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 4.746
-            },
-            "history": []
-          },
-          "FRA": {
-            "country": "France",
-            "series_id": "macro.fra.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 7.542
-            },
-            "history": []
-          },
-          "BRA": {
-            "country": "Brazil",
-            "series_id": "macro.bra.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 5.97
-            },
-            "history": []
-          },
-          "RUS": {
-            "country": "Russia",
-            "series_id": "macro.rus.unemployment",
-            "latest": {
-              "date": "2025",
-              "value": 2.133
-            },
-            "history": []
-          }
-        }
-      },
-      "reserves_usd": {
-        "meta": {
-          "label": "Total reserves incl. gold",
-          "unit": "USD",
-          "frequency": "annual / latest World Bank observation"
-        },
-        "countries": {
-          "USA": {
-            "country": "United States",
-            "series_id": "macro.usa.reserves_usd",
-            "latest": {
-              "date": "2025",
-              "value": 1385447111476.7
-            },
-            "history": []
-          },
-          "IND": {
-            "country": "India",
-            "series_id": "macro.ind.reserves_usd",
-            "latest": {
-              "date": "2025",
-              "value": 700073798240.701
-            },
-            "history": []
-          },
-          "CHN": {
-            "country": "China",
-            "series_id": "macro.chn.reserves_usd",
-            "latest": {
-              "date": "2025",
-              "value": 3748744952817.94
-            },
-            "history": []
-          },
-          "JPN": {
-            "country": "Japan",
-            "series_id": "macro.jpn.reserves_usd",
-            "latest": {
-              "date": "2025",
-              "value": 1371402218767.57
-            },
-            "history": []
-          },
-          "DEU": {
-            "country": "Germany",
-            "series_id": "macro.deu.reserves_usd",
-            "latest": {
-              "date": "2025",
-              "value": 572201958133.157
-            },
-            "history": []
-          },
-          "GBR": {
-            "country": "United Kingdom",
-            "series_id": "macro.gbr.reserves_usd",
-            "latest": {
-              "date": "2025",
-              "value": 214355349052.166
-            },
-            "history": []
-          },
-          "FRA": {
-            "country": "France",
-            "series_id": "macro.fra.reserves_usd",
-            "latest": {
-              "date": "2025",
-              "value": 428208373515.726
-            },
-            "history": []
-          },
-          "BRA": {
-            "country": "Brazil",
-            "series_id": "macro.bra.reserves_usd",
-            "latest": {
-              "date": "2025",
-              "value": 358513128727.455
-            },
-            "history": []
-          },
-          "RUS": {
-            "country": "Russia",
-            "series_id": "macro.rus.reserves_usd",
-            "latest": {
-              "date": "2024",
-              "value": 608360767884.902
             },
             "history": []
           }
@@ -2422,6 +2152,276 @@
             "history": []
           }
         }
+      },
+      "energy_imports_pct": {
+        "meta": {
+          "label": "Net energy imports / energy use",
+          "unit": "%",
+          "frequency": "annual / latest World Bank observation"
+        },
+        "countries": {
+          "USA": {
+            "country": "United States",
+            "series_id": "macro.usa.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": -9.78127421443322
+            },
+            "history": []
+          },
+          "IND": {
+            "country": "India",
+            "series_id": "macro.ind.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 36.0305276064275
+            },
+            "history": []
+          },
+          "CHN": {
+            "country": "China",
+            "series_id": "macro.chn.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 24.0191966181448
+            },
+            "history": []
+          },
+          "JPN": {
+            "country": "Japan",
+            "series_id": "macro.jpn.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 87.2760175203616
+            },
+            "history": []
+          },
+          "DEU": {
+            "country": "Germany",
+            "series_id": "macro.deu.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 70.2584516342916
+            },
+            "history": []
+          },
+          "GBR": {
+            "country": "United Kingdom",
+            "series_id": "macro.gbr.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 47.5592581197649
+            },
+            "history": []
+          },
+          "FRA": {
+            "country": "France",
+            "series_id": "macro.fra.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": 41.7548883068387
+            },
+            "history": []
+          },
+          "BRA": {
+            "country": "Brazil",
+            "series_id": "macro.bra.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": -10.8440412585642
+            },
+            "history": []
+          },
+          "RUS": {
+            "country": "Russia",
+            "series_id": "macro.rus.energy_imports_pct",
+            "latest": {
+              "date": "2024",
+              "value": -70.7306703064017
+            },
+            "history": []
+          }
+        }
+      },
+      "exports_usd": {
+        "meta": {
+          "label": "Exports of goods & services",
+          "unit": "USD",
+          "frequency": "annual / latest World Bank observation"
+        },
+        "countries": {
+          "USA": {
+            "country": "United States",
+            "series_id": "macro.usa.exports_usd",
+            "latest": {
+              "date": "2024",
+              "value": 3215368000000.0
+            },
+            "history": []
+          },
+          "IND": {
+            "country": "India",
+            "series_id": "macro.ind.exports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 880740846621.545
+            },
+            "history": []
+          },
+          "CHN": {
+            "country": "China",
+            "series_id": "macro.chn.exports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 4108470555117.51
+            },
+            "history": []
+          },
+          "JPN": {
+            "country": "Japan",
+            "series_id": "macro.jpn.exports_usd",
+            "latest": {
+              "date": "2024",
+              "value": 920960002390.344
+            },
+            "history": []
+          },
+          "DEU": {
+            "country": "Germany",
+            "series_id": "macro.deu.exports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 2042329262308.23
+            },
+            "history": []
+          },
+          "GBR": {
+            "country": "United Kingdom",
+            "series_id": "macro.gbr.exports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 1224670037744.72
+            },
+            "history": []
+          },
+          "FRA": {
+            "country": "France",
+            "series_id": "macro.fra.exports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 1124107902931.06
+            },
+            "history": []
+          },
+          "BRA": {
+            "country": "Brazil",
+            "series_id": "macro.bra.exports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 406298241937.141
+            },
+            "history": []
+          },
+          "RUS": {
+            "country": "Russia",
+            "series_id": "macro.rus.exports_usd",
+            "latest": {
+              "date": "2025",
+              "value": 466237273304.333
+            },
+            "history": []
+          }
+        }
+      },
+      "reserves_usd": {
+        "meta": {
+          "label": "Total reserves incl. gold",
+          "unit": "USD",
+          "frequency": "annual / latest World Bank observation"
+        },
+        "countries": {
+          "USA": {
+            "country": "United States",
+            "series_id": "macro.usa.reserves_usd",
+            "latest": {
+              "date": "2025",
+              "value": 1385447111476.7
+            },
+            "history": []
+          },
+          "IND": {
+            "country": "India",
+            "series_id": "macro.ind.reserves_usd",
+            "latest": {
+              "date": "2025",
+              "value": 700073798240.701
+            },
+            "history": []
+          },
+          "CHN": {
+            "country": "China",
+            "series_id": "macro.chn.reserves_usd",
+            "latest": {
+              "date": "2025",
+              "value": 3748744952817.94
+            },
+            "history": []
+          },
+          "JPN": {
+            "country": "Japan",
+            "series_id": "macro.jpn.reserves_usd",
+            "latest": {
+              "date": "2025",
+              "value": 1371402218767.57
+            },
+            "history": []
+          },
+          "DEU": {
+            "country": "Germany",
+            "series_id": "macro.deu.reserves_usd",
+            "latest": {
+              "date": "2025",
+              "value": 572201958133.157
+            },
+            "history": []
+          },
+          "GBR": {
+            "country": "United Kingdom",
+            "series_id": "macro.gbr.reserves_usd",
+            "latest": {
+              "date": "2025",
+              "value": 214355349052.166
+            },
+            "history": []
+          },
+          "FRA": {
+            "country": "France",
+            "series_id": "macro.fra.reserves_usd",
+            "latest": {
+              "date": "2025",
+              "value": 428208373515.726
+            },
+            "history": []
+          },
+          "BRA": {
+            "country": "Brazil",
+            "series_id": "macro.bra.reserves_usd",
+            "latest": {
+              "date": "2025",
+              "value": 358513128727.455
+            },
+            "history": []
+          },
+          "RUS": {
+            "country": "Russia",
+            "series_id": "macro.rus.reserves_usd",
+            "latest": {
+              "date": "2024",
+              "value": 608360767884.902
+            },
+            "history": []
+          }
+        }
       }
     },
     "policy_rates": [
@@ -2478,38 +2478,37 @@
   },
   "news": {
     "schema_version": "5.5",
-    "generated_at": "2026-11-22T06:12:13.134167+00:00",
-    "published_at": "2026-11-22T11:42:19.064933+05:30",
-    "collected_at": "2026-11-22T06:12:13.134167+00:00",
-    "newest_article_at": "2026-11-22T06:08:12+00:00",
+    "generated_at": "2026-11-23T06:11:17.728332+00:00",
+    "published_at": "2026-11-23T11:41:21.883847+05:30",
+    "collected_at": "2026-11-23T06:11:17.728332+00:00",
+    "newest_article_at": "2026-11-23T05:59:33+00:00",
     "payload_role": "startup-summary",
     "items": [
       {
-        "id": "947445659cd993a6",
-        "headline": "Stock market outlook: FII flows, US inflation, crude oil among top factors to watch next week - www.thehawk.in",
-        "summary": "Stock market outlook: FII flows, US inflation, crude oil among top factors to watch next week    www.thehawk.in",
-        "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-        "published_at": "2026-11-22T06:08:12+00:00",
-        "source": "www.thehawk.in",
-        "source_url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUEJVYzNtdFR1ZEQyc2F4djZwMGJqeWNURUk4RHRmUmh2QnEyTWFvTm5CMHBCWDZCNEt3eWFMSlQ1VC1YN1A5Rl85cjBEbGNxTkRwMzUyaHdsVHZudXpiOTVPR1F0QVpGbERPT0ZJZzdONE52b0doNUI4WG9sRXprVExadEF3d3QtRUJ1bVktZkN4NkJXS3E1NXRzR0VPLURqdFR1bWZ2SFJkNUhERlI2UEZaNWR3LXlWMUd5Umt5RXhWanZCQ08zYnVBUGp3QWdVeFJUR1VNR09mLVREaEs4?oc=5",
-        "importance": 94,
-        "category": "energy",
-        "linked_series": [
-          "india.now.cpi_inflation",
-          "india.now.crude_import_dependence",
-          "india.now.current_account_gdp",
-          "market.usd_inr.close"
-        ]
-      },
-      {
-        "id": "ae7d9426577987f0",
-        "headline": "India's RBI expected to raise rates in December, deliver final hike in February - Reuters",
-        "summary": "India's RBI expected to raise rates in December, deliver final hike in February    Reuters",
-        "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
-        "published_at": "2026-11-20T10:55:22+00:00",
+        "id": "0be1f63d807f22cd",
+        "headline": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says - Reuters",
+        "summary": "Indian rupee could rise to 91.50/$ on equity inflows, HDFC Bank's treasury head says    Reuters",
+        "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+        "published_at": "2026-11-23T03:12:00+00:00",
         "source": "Reuters",
-        "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0htMDdyM3NhYkRZMHFIU3V0VUhoNWs4ekl2elpzNWFnamZFZ0dXdnBseDNReXV6eklUTVZtUURSUlA2cWlRcFE5WXJMR3NDYUVsSkN6U2hRcGVyOW5GRzhmOWZvZG9IcjRxekRaYVk0MC1hdmVITnFMeE1QckpwSlpmS3daODhXREk5VDNxcGZ2bms0RFg1b2JPNmVxM09nWFhLWWczakZjSDBDS0VWTUNpcDBWc1E?oc=5",
-        "importance": 92,
+        "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd3pBMG1XeGk3X0tmdVlkOWFnRlhTS3h3a1VyZkFhbElMZ2NXa3hPdjVEdkxUYWlxWTZZbmxLV1RSZlV6NDNSQmVXUUVkaV9RSzRodXB1TWw0bkw3Sm02OXVSNGNxS3VHWk95WTN1c19Pa0pEWVlGYmVrSnFnRVNqVzNXbDRiOWx4clplN0d4T2kxUDBxQmNrR2MtNk81T0RWbTBYNml3Q1RnMk45MDN6NGpoeTVJblA3c3BORnhR?oc=5",
+        "importance": 98,
+        "category": "india",
+        "linked_series": [
+          "market.nifty50.close",
+          "market.usd_inr.close",
+          "india.now.real_gdp_growth"
+        ]
+      },
+      {
+        "id": "7d82bd72a1895bce",
+        "headline": "Bond market signals softer RBI tightening as crude prices retreat - The Economic Times",
+        "summary": "Bond market signals softer RBI tightening as crude prices retreat    The Economic Times",
+        "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+        "published_at": "2026-11-23T00:18:57+00:00",
+        "source": "The Economic Times",
+        "source_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSnJlVWx4QzhKckZHVGNoRHRRa1BDb2EzX1lZWXNUN2dfX2hMU2ZPVDQxX200Q0NIaDJLQ3FZRElkV0NHVTQ2S1ZZT0pabEtmZHc4REIycUZaOTd5bXE2dEJtV3dCOTE5MjgxSmFtdndFeHlhMENJZF9tZm1pSTNOMlR4MkxfQUd5MFJqSGM4czdCSFlIS2hZQ1hpdWpaUkluLUh0ZDVUMEtGMkFqd1dzZUozYjFhdVctdWlTUjNELTM2b2FWYlhxYXVGMDVDRTDSAdQBQVVfeXFMT2NnRkZDZDlyYkxJMnhfdFFoa01aZlN5WlJFT2dGd3lyU2tFd3gxY0xRUG8xcUxvMUVjV1pJQUwwbG9wbC1rYnNXZUFRSzBObUtlN2Zzc1U2dHB5WVRqV0Y2NXdvQnkyTFgzejQ2ekdqVnVLNVNEdWVrQVlfa3FlTDh2UGlkTHdvQ1F6Z255TGR6eVJkaHdrRm1ZcldMOTVDRl94b3o5amRudzZ3T1R2OWlUcWtidjJZalZoRXQ0b29kenR0Uk5sdm1peXh5ODVfZGJmR1c?oc=5",
+        "importance": 95,
         "category": "monetary_policy",
         "linked_series": [
           "market.usd_inr.close",
@@ -2518,14 +2517,14 @@
         ]
       },
       {
-        "id": "8c5a8578446fc73b",
-        "headline": "Oil Loses Grip on Bond Markets as Inflation Pressure Persists - kalkine.com",
-        "summary": "Oil Loses Grip on Bond Markets as Inflation Pressure Persists    kalkine.com",
+        "id": "81e69b4dd2ed47b5",
+        "headline": "Stock market outlook: FII flows, US inflation, crude oil among top factors to watch next week - The Hans India",
+        "summary": "Stock market outlook: FII flows, US inflation, crude oil among top factors to watch next week    The Hans India",
         "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-        "published_at": "2026-11-21T16:00:00+00:00",
-        "source": "kalkine.com",
-        "source_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUV4dWxsQlhJcGduamxjc1VreDdHVEN2aW84RTM2dHY3VmpMRDJqZ0xIUDBIbkM5U2hHakNvTkY5ZEhXV2JyVnl3NGlkbS1WdUlnMGVwMEZqZC11ZjdPcG1tU0N1TnZhV19UNmR6NXV2S0RGQ1NQZFVFbmNMYVBoYXlHTHFTT3dMbDRFNWNfZER2QnpKNEk1aTVSRl9NVExX?oc=5",
-        "importance": 88,
+        "published_at": "2026-11-22T06:28:49+00:00",
+        "source": "The Hans India",
+        "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFpBdEZ3QzlHNlkzRVYyQU5IWTY3dG1PNW53aE5KbGl3WVhRMzhybDFCV0lwdEF1N21FS1VId2h5Yl9WZHNOYVlQSnItODZZLTlkR2ZfNFdjUnprbXNWbVFoeFZRc3Fad28waTVhQUtvN1dyYWdhd1FtTU9PUjdCR2dBQUMyNE94c0gtekk5c25QMzFtUjhtMU5sRDJMb1VLYkp3RzFqS3o4NlF5VjFLdzh3dkRCb2tZckJEMGx5d012Q2doZmdCd0d1UUN3Z2p5UTRaYkVqd9IB1wFBVV95cUxQUFpBdEZ3QzlHNlkzRVYyQU5IWTY3dG1PNW53aE5KbGl3WVhRMzhybDFCV0lwdEF1N21FS1VId2h5Yl9WZHNOYVlQSnItODZZLTlkR2ZfNFdjUnprbXNWbVFoeFZRc3Fad28waTVhQUtvN1dyYWdhd1FtTU9PUjdCR2dBQUMyNE94c0gtekk5c25QMzFtUjhtMU5sRDJMb1VLYkp3RzFqS3o4NlF5VjFLdzh3dkRCb2tZckJEMGx5d012Q2doZmdCd0d1UUN3Z2p5UTRaYkVqdw?oc=5",
+        "importance": 95,
         "category": "energy",
         "linked_series": [
           "india.now.cpi_inflation",
@@ -2535,46 +2534,47 @@
         ]
       },
       {
-        "id": "76b61363dc8d4da5",
-        "headline": "Taiwan Warns Canada on China Trade Risks - Wisevoter",
-        "summary": "Taiwan Warns Canada on China Trade Risks    Wisevoter",
-        "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
-        "published_at": "2026-11-21T23:10:23+00:00",
-        "source": "Wisevoter",
-        "source_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQWxVR0JCUjA2Mk1MMnJ4VDduNXFDQ3JidUdwYWJ6Wjd4SW1lcmszTG9aQWlKTFNkc292TWRrcGQzOUJRSGtpa2o1S0o0NjRCTmtWRVJ1dElOZ2w5QlEwZ2s3YkdrNnNFY2N3VmpnSUdfUTEwalZIbUItS1dTeEs0bjdXWUNhRkZqQUN2ZGlR?oc=5",
-        "importance": 85,
-        "category": "trade",
+        "id": "c5ab55f850c178e9",
+        "headline": "Crude oil outlook: OPEC+ meeting, supply glut concerns to drive prices next week - The Times of India",
+        "summary": "Crude oil outlook: OPEC+ meeting, supply glut concerns to drive prices next week    The Times of India",
+        "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+        "published_at": "2026-11-22T18:12:00+00:00",
+        "source": "The Times of India",
+        "source_url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVlRKam5kcWZRX1Nta1hJcU5OM1k4SFltc1BOaDBESURBcTJBa2VwYW1wR2V2UGxFYmFJRUZudngyMUlvbWxRRTNQSTBDYUZwaEU0bzJvUm80eTRhYk83SGl1UFJ3RDU4ZjdKT2w1UzhoMkJ4NjROWUZrUDJvVFBfLTk0U3lSXzZSRnZzMmNIaElRaGZ3WDNOQllkazN2NnhFM0M4RHF3SV9Wd3NhS0pjaW9qV1NKMzRJWTlyOU1fNnUzRWJhbFlIZDR3dHlKNmhibTMwbnh6YlpqN3pfTmVDVU1FZ1NwUWg2dk9SMTlBd3ZaX2FSeHfSAfsBQVVfeXFMTUpWa2VVdmZmR2d4dG1IU0VWRm5URTRlc3haNm1USFI5TC1JekZmekdiLTJTdW1USW5FS2tOSVZUaEhMOUlJWk5Lc2RWXzRXT3lVbm5VSm9rQ1BXeGY0WmpEWWtZN2VlUlNNMTRua1R5Q3YtdVNTbmliNU1fZDJKLU5xWGpQT05PS2Z6Rm5XcXJYeDZYWmQzLVVRT09DdmpSTHB2aEpZTnBqVVhUa0RyaFpNNDRaVUZkb21sR2dfcktsNE1iZ3htOGtndS0yY1N4ZTVodHZaQVRVaWxRc29mcXQtVUtpMWU1YlFPbWM0R0NtUGlBeUR3OEk2bTA?oc=5",
+        "importance": 87,
+        "category": "energy",
         "linked_series": [
-          "india.now.total_exports_usd_bn",
-          "india.now.total_imports_usd_bn",
-          "india.now.current_account_gdp"
-        ]
-      },
-      {
-        "id": "c58fbb1bf8306c2d",
-        "headline": "Energy inflation could spread across the economy, ECB's Santos Pereira warns - www.tmgm.com",
-        "summary": "Energy inflation could spread across the economy, ECB's Santos Pereira warns    www.tmgm.com",
-        "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
-        "published_at": "2026-11-20T12:44:17+00:00",
-        "source": "www.tmgm.com",
-        "source_url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQ3IyY1lCblBmX2FrejhMY05BWXVkSVlIVmZjcXgwWkRtc2hDYnNKTWotMURtSTJNeEJuMnY3WFJVZTRsMkVSelFzN2NvMlBuUlNGUDhiLWtHRU5CX044UXFWUHZCNXd0Qmc1d2I0R0pwYzNjLVdFVFlpc0UwMlFWN0NORmtPM2RpeDFDaW42amViZS1HZURDRmUzRGZhelJlQTVwbUlxZWM0MzlOeERQdm9HOEs0aTBtUWo0NW02LWYwYTIzc3pSa2s5bnV5QUFFZkt5cnZDR1pWWVB2SnNOMlFR?oc=5",
-        "importance": 85,
-        "category": "monetary_policy",
-        "linked_series": [
-          "market.usd_inr.close",
           "india.now.cpi_inflation",
-          "india.now.fx_reserves_usd_bn"
+          "india.now.crude_import_dependence",
+          "india.now.current_account_gdp",
+          "market.usd_inr.close"
         ]
       },
       {
-        "id": "8addb42ca04d9b4c",
-        "headline": "ECB's Santos Pereira warns energy inflation pressures stay elevated - FXStreet",
-        "summary": "ECB's Santos Pereira warns energy inflation pressures stay elevated    FXStreet",
+        "id": "aae4ddf90c4bf6fa",
+        "headline": "Nepal-India Trade: Agriculture, Commerce Treaty Review, and Non-Tariff Barriers Discussed - Ratopati",
+        "summary": "Nepal-India Trade: Agriculture, Commerce Treaty Review, and Non-Tariff Barriers Discussed    Ratopati",
+        "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+        "published_at": "2026-11-23T04:58:23+00:00",
+        "source": "Ratopati",
+        "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRTl2Tk5kY3lweXc5UmlXbGdzOC1Sb3lqeFh0UFRfZU12MWg2SHI1WnNFWlRMZExMeFQxNk9uNHRYc1Zmdi1RSl83QkdQZ0hBSXpwQ3Z0b0lQSDNhSjhuRXlWc3JCeUtpX3M4c05vVEo1d3VzWG4zUkpvM21ULW1RQjlVNTdNX3N0NlFtNjhISFVrSW9RTW1OYkJpWmxjeFg3ZU16VXVXclNuZ2ZlU1JFOUdNYU9oeHFDZ1RqWjZROUh6VC1GNXhjb2RwTHhENHo3dE9N?oc=5",
+        "importance": 86,
+        "category": "india",
+        "linked_series": [
+          "market.nifty50.close",
+          "market.usd_inr.close",
+          "india.now.real_gdp_growth"
+        ]
+      },
+      {
+        "id": "4a3f0c5f412cdd37",
+        "headline": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat - Bloomberg.com",
+        "summary": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat    Bloomberg.com",
         "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
-        "published_at": "2026-11-20T10:35:30+00:00",
-        "source": "FXStreet",
-        "source_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTkxTFRJdVhrZFZGbkRvMUFxc3RKN0lKZEpTT05YaENQRzNPMlBhY0pyQ1dlWnNaM3RSOFVkd1F1cHBrMkdCekdJUy04bjZ1Z1BFdUdKSjlfN3hDZmpRVHFwd2EwM3RzYWdhbTJMckxGZ19YdVFIdG1IWnVTcnFaTUNLckdUd2NNZWpudXdHLXhOS0ZZamJNNk5Vd1pCWkszd1RtTUJwZnpsWWRvWFBwOWxiZGlpOF9Gb1dBVElLZw?oc=5",
-        "importance": 84,
+        "published_at": "2026-11-22T20:00:00+00:00",
+        "source": "Bloomberg.com",
+        "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWmRPX29ITVVwcjVDVWpENEUyaFJ5alFtbVBxTzc0OWZoNkozOW9GZ3UwT3NBOGM5aUtxdm5SbjdYYmNxR3NIWVY1LWFaRUhINmRmdmxYaHlKRzY5dlBnQ3JaYkdlZU1XbVFRcnBDTkcyb1hPNG5pblZkUV9MdEd2S25aSE1TWWFzLXVrQzc0YkxQVTY1MnJYbV82TzgteDJKN2YyWmNneXY1aTg5NURYNFJzcDRxQQ?oc=5",
+        "importance": 86,
         "category": "monetary_policy",
         "linked_series": [
           "market.usd_inr.close",

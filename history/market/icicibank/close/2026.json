@@ -2770,6 +2770,18 @@
       "status": "observed",
       "revision_no": 1,
       "is_revision": true
+    },
+    {
+      "period": "2026-11-23",
+      "value": 1608.199951,
+      "released_at": "2026-11-23",
+      "collected_at": "2026-11-23T11:41:21.883847+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/ICICIBANK.NS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
