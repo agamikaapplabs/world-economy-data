@@ -1,17 +1,17 @@
 {
   "schema_version": "5.8.4",
-  "attempted_at": "2026-11-23T06:11:17.728332+00:00",
+  "attempted_at": "2026-11-24T12:22:03.010213+00:00",
   "success": true,
   "fresh_item_count": 40,
   "provider_results": [
     {
       "provider": "google",
-      "candidates": 138,
+      "candidates": 173,
       "errors": 1
     }
   ],
   "errors": [
-    "google/rates: HTTPError: HTTP Error 429: Too Many Requests"
+    "google/energy: HTTPError: HTTP Error 429: Too Many Requests"
   ],
-  "last_good_generated_at": "2026-11-23T06:11:17.728332+00:00"
+  "last_good_generated_at": "2026-11-24T12:22:03.010213+00:00"
 }
