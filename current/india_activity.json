@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-24T12:22:02.820433+00:00",
+  "generated_at": "2026-11-26T07:51:07.561051+00:00",
   "title": "India Activity Monitor",
   "principles": [
     "Observed official statistics are kept separate from inferred signals.",
@@ -1126,8 +1126,8 @@
     },
     {
       "source": "Trade-now",
-      "status": "ok",
-      "detail": "Trade Oct 2026 exports 89.99 imports 110.07"
+      "status": "seed-kept",
+      "detail": "Combined trade values not safely recognized"
     }
   ]
 }

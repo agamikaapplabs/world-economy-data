@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-24T12:21:43.086268+00:00",
+  "generated_at": "2026-11-26T07:50:45.669599+00:00",
   "refresh_mode": "resume-failed-only",
   "indicators": {
     "inflation": {
@@ -7758,7 +7758,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-11-24T12:21:43.086268+00:00"
+        "last_successful_fetch_at": "2026-11-26T07:50:45.669599+00:00"
       },
       "countries": {
         "USA": {
@@ -8358,7 +8358,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-11-24T12:21:43.086268+00:00"
+        "last_successful_fetch_at": "2026-11-26T07:50:45.669599+00:00"
       },
       "countries": {
         "USA": {
@@ -8902,7 +8902,7 @@
         "unit": "%",
         "frequency": "annual / latest World Bank observation",
         "fetch_status": "fresh",
-        "last_successful_fetch_at": "2026-11-24T12:21:43.086268+00:00"
+        "last_successful_fetch_at": "2026-11-26T07:50:45.669599+00:00"
       },
       "countries": {
         "USA": {
