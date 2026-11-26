@@ -1,18 +1,15 @@
 {
   "schema_version": "5.8.4",
-  "attempted_at": "2026-11-26T07:51:07.737576+00:00",
+  "attempted_at": "2026-11-26T07:56:47.456080+00:00",
   "success": true,
   "fresh_item_count": 40,
   "provider_results": [
     {
       "provider": "google",
-      "candidates": 135,
-      "errors": 2
+      "candidates": 206,
+      "errors": 0
     }
   ],
-  "errors": [
-    "google/india: HTTPError: HTTP Error 429: Too Many Requests",
-    "google/energy: HTTPError: HTTP Error 429: Too Many Requests"
-  ],
-  "last_good_generated_at": "2026-11-26T07:51:07.737576+00:00"
+  "errors": [],
+  "last_good_generated_at": "2026-11-26T07:56:47.456080+00:00"
 }

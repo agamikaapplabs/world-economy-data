@@ -1,6 +1,6 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-26T13:21:13.142294+05:30",
+  "generated_at": "2026-11-26T13:26:52.277576+05:30",
   "series_count": 485,
   "series": {
     "india.auto.commercial_vehicles": {
@@ -12088,7 +12088,7 @@
         "history/market/bharti/close/2023.json": "6c503525feb11008a3361475bece11ed50c6b6ffe630d57e2bb4ea1decdc113b",
         "history/market/bharti/close/2024.json": "6e3e702e83a70c331a3b5d09882c2658c43c0147bf05b5bbfe011b929ac7eca0",
         "history/market/bharti/close/2025.json": "df537a71602cbf5216d44a34e214db8c5dbcbb58b752e40e62c7270c7340ca54",
-        "history/market/bharti/close/2026.json": "e7618b01dc8d75f26c1a23088281c0d3230056977a4ff71cc2fcc38322c1ca35"
+        "history/market/bharti/close/2026.json": "91713c1155fb215732e9b2fd94dd823207571ab8dfaf824eb284ed1e481aba65"
       }
     },
     "market.brent.close": {
@@ -12113,7 +12113,7 @@
         "history/market/brent/close/2023.json": "c60113e8fb5aaea877dcbcd02f41821e710eb134e85411574ff94741f2adfe1e",
         "history/market/brent/close/2024.json": "4552f2f947c1f0efd715dc346eed1ec4087c4bd8b61985b80d307a9a8a9b89ca",
         "history/market/brent/close/2025.json": "318df6aa4a79fa90094bfa1fc95183367a8c82039dac6fe192e5c641e976f539",
-        "history/market/brent/close/2026.json": "621323f4e3237e49360bd41d7c5f0acbea76490e749a23f154b8daade843b8ee"
+        "history/market/brent/close/2026.json": "15203eca4ac57fc35b8d7219df9fdd620024d90d1f6a7c03a981ac5cabd1bbce"
       }
     },
     "market.broadcom.close": {
@@ -12188,7 +12188,7 @@
         "history/market/copper/close/2023.json": "3fdcd108779ae13990ded31880fa4648169db89be3293129c98a145c2420bd83",
         "history/market/copper/close/2024.json": "f3d80bc8ed702edb8f51735ae5807145fbd7d29c6a9d9eabeafd622b937b5974",
         "history/market/copper/close/2025.json": "69e8099156e5a9a7d3aeb46bdc57b27cce7be56faf87d1064935e1744507917e",
-        "history/market/copper/close/2026.json": "d7f01b60f080667c3032bf52d9a0cd92d43fb2ced474d3f55bdd8d02bbdcaca7"
+        "history/market/copper/close/2026.json": "60372fc608bf66cef531f322a5be85657ac911c9688f2fb54c32f3e05781029f"
       }
     },
     "market.corn.close": {
@@ -12316,7 +12316,7 @@
       ],
       "history_sha256": {
         "history/market/gold/close/2025.json": "85558497cf60c6d6925160f01c402f667c23969f54ab4874c8e1ed4c3d59a1fb",
-        "history/market/gold/close/2026.json": "73e7bdac3e95efcf552c078cea73b080e13b7e50748e00246415b41562c30587"
+        "history/market/gold/close/2026.json": "9797f5b507152a871daacaaf9234c0574080c9e5c7979bc180a26dfb116c1ba8"
       }
     },
     "market.hangseng.close": {
@@ -12333,7 +12333,7 @@
       ],
       "history_sha256": {
         "history/market/hangseng/close/2025.json": "887ac9917a4ea8fab51cc304aee5dd5a1b8a5e88c303b1d75efabe586af96992",
-        "history/market/hangseng/close/2026.json": "ca45669c593ece3858dabe8ea429ac7db0d076071c86635c79e177709e621f1d"
+        "history/market/hangseng/close/2026.json": "fc0a2c0ca90af3484f9f2ef80d71d32e682c07a3833f71a19ce828b53c079161"
       }
     },
     "market.hdfcbank.close": {
@@ -12358,7 +12358,7 @@
         "history/market/hdfcbank/close/2023.json": "f771909ad896c3e18880682e859567e5f05d671aa7563ffad8be048e4fb47ac6",
         "history/market/hdfcbank/close/2024.json": "a890de971a33e2739a2b3aadad0c04729e4b2d45d99bfb797a371dbbabae2aea",
         "history/market/hdfcbank/close/2025.json": "7fa189eaa3c797c820de44d008e83002e23849498d83d862dfcbaa08191f04e8",
-        "history/market/hdfcbank/close/2026.json": "9c39ea75ef40c33d7e54c62b8d4736aaf3b0492c0e88aa34fbcedf7d0d9e5372"
+        "history/market/hdfcbank/close/2026.json": "6940838fba50bfcca618d736f069946d37691a142f1ff67afac5d026be9d7e23"
       }
     },
     "market.honeywell.close": {
@@ -12408,7 +12408,7 @@
         "history/market/icicibank/close/2023.json": "fdb49f561b86625af123afd17d65f066a330117e6eb7bdf701314755a73731b6",
         "history/market/icicibank/close/2024.json": "3fe91bc9682f0cee2bbf66261f20cd614045f101adb79168e1b28675bd3a7301",
         "history/market/icicibank/close/2025.json": "3130571737a130ef793a9cd0e77cb16430d23f0c50ba42ae9eb5df5ee6ec031f",
-        "history/market/icicibank/close/2026.json": "081b303d9fc37cdc87c87d3eebfff8fd7226ddef932d90669b0a2f0a0e0dac4a"
+        "history/market/icicibank/close/2026.json": "fe5f81212213a282f835c3fb4b0f6febe5a460d194549e56071c91867f0391ad"
       }
     },
     "market.infosys.close": {
@@ -12433,7 +12433,7 @@
         "history/market/infosys/close/2023.json": "433103e05ef591c182e597202c791e60336ecea4d6bddb26b8e36fc5a2979e32",
         "history/market/infosys/close/2024.json": "a34eabd5dfb678dfa1b5c07a204ae463f56bb492384b8b11151cac3b7a772631",
         "history/market/infosys/close/2025.json": "3451ed1d619ccac4b9ddd8e3af5b2b92bdf7b3d8d99a615cacbc551f8210394e",
-        "history/market/infosys/close/2026.json": "477a0508c0e6926755fdd9f1f7cb6aa015785209bba72e44b9bddee239f633c5"
+        "history/market/infosys/close/2026.json": "e001f83894108eb6ae08b10ec85ce8b8cfcfe7e62ae410a80b715bae053ef083"
       }
     },
     "market.leonardo.close": {
@@ -12508,7 +12508,7 @@
         "history/market/lt/close/2023.json": "a46f671a9c005986045be22543a80a886281f7abf4ebba639f7afb34accef8a2",
         "history/market/lt/close/2024.json": "2c9844f428a982de222dfe164174441db0d190e029126101cb146c777d9b2b32",
         "history/market/lt/close/2025.json": "2497fd7141dfca54df0e01dc62c9369995e8c806a315b97f5e6675a51a9199a7",
-        "history/market/lt/close/2026.json": "43e1c369df3859b5027b56f698150b927c4ffcf0c5fe75f0a8c9fc2bfb8346ee"
+        "history/market/lt/close/2026.json": "67b3f7853710776a2150dcbdad1b76b10caecf4298699bcbf92211c276a24614"
       }
     },
     "market.lt_heavy.close": {
@@ -12533,7 +12533,7 @@
         "history/market/lt_heavy/close/2023.json": "d3b008dc1ef32526f67664866eeddd0f7c0df4fa1e32581c2d3d2dfc027a91a3",
         "history/market/lt_heavy/close/2024.json": "d8c37c5cba47db48525be2ef68b96993715bd6c84bb6bca75d9d271dff4f8ee4",
         "history/market/lt_heavy/close/2025.json": "cbc91aac77cbb1317cce88dbdb110784f046dda18b5f8aefe0b8ba5dad0ec6ad",
-        "history/market/lt_heavy/close/2026.json": "1ebe67cdb6bb937d6dd2a41ab0b1134145d56860eef5ec939550b42cdeb7157f"
+        "history/market/lt_heavy/close/2026.json": "0ed7ebc0438e79c3d885cf05a5caa9ead039b16080562447e9b6177bc7e8ed58"
       }
     },
     "market.lvmh.close": {
@@ -12675,7 +12675,7 @@
         "history/market/natgas/close/2023.json": "3d79747164f17eb75ba6b8d526c7b6638424a875c8895fefaab4052cc06cb141",
         "history/market/natgas/close/2024.json": "6b8699a79c058a363d2b7663f1049f8859c840ac9fc40b2145faa0673622f9e6",
         "history/market/natgas/close/2025.json": "05b5ccba3a9fc8a27757e8a2cb3ec6a7180093949d26ce0efb98aa6cdadebdd1",
-        "history/market/natgas/close/2026.json": "c08480d7477565dca4db181e516d0131e27c65557d700f0ccfe5dcdfdf224501"
+        "history/market/natgas/close/2026.json": "8727fd71535ed396a7b8d718ed416df5b5ef266961135b0c2f7800d39235e271"
       }
     },
     "market.nifty50.close": {
@@ -12692,7 +12692,7 @@
       ],
       "history_sha256": {
         "history/market/nifty50/close/2025.json": "6cc5139ee360b85d87d75a14700ad4ed6c791c1fd51abf0330723c7e0cb73ff9",
-        "history/market/nifty50/close/2026.json": "e8ad1df1fcca3b6d59a5de1f9752ce671f4a947a4d632778c0a65c96e599c9c8"
+        "history/market/nifty50/close/2026.json": "ffe7395bcda2df8990e6935ce205779740c1cad2ad6c5bdc5bb84f719a0aca35"
       }
     },
     "market.nikkei.close": {
@@ -12809,7 +12809,7 @@
         "history/market/reliance/close/2023.json": "4ecd118effcd0d1233e143a306411d7cd70c0f2df4cc9b6bfa55c6eccd230e0a",
         "history/market/reliance/close/2024.json": "57ebe8bccdd20b6a9d0de9e8eb0b9f20557759f0374c114d90ebf9e6863a692b",
         "history/market/reliance/close/2025.json": "8773dc704397e9f7c205189f22e20cf016b43aff7d7f8997c41fe0618709009d",
-        "history/market/reliance/close/2026.json": "fdd9a621eafbf6808f4226e439b4fcfc7ccd842b7a4fc697ef0b77fa80ebb54c"
+        "history/market/reliance/close/2026.json": "ee8f9eed97ef1d141291160f92e726829ed7f8962a7d32a5fc53642d0815f806"
       }
     },
     "market.rheinmetall.close": {
@@ -12909,7 +12909,7 @@
         "history/market/sbi/close/2023.json": "e2ae5f34f1d86052fa68fb8e46b1c5175b0b1026b5259429a7b012bc81a1a465",
         "history/market/sbi/close/2024.json": "51b900641e8968ccd80371a453e5b99fd8c54e74cdff1ae7c3141951315a8959",
         "history/market/sbi/close/2025.json": "ed885a760a1da85c51b770192d27262d00d576608b4b9cb33a5b0fd2755e5c75",
-        "history/market/sbi/close/2026.json": "d57afd3b9d06f7996973e0aef29eb0857087d11277a1925af44d6e2fdfc6a030"
+        "history/market/sbi/close/2026.json": "f2b93b339b87bff1314fda1c184fde5fb605d4c9a930bc57eea7a925906183a4"
       }
     },
     "market.schneider.close": {
@@ -13026,7 +13026,7 @@
       ],
       "history_sha256": {
         "history/market/silver/close/2025.json": "e75f0ea179290977730322228b529589b8e195e1f622b951303f9c5d68fe5982",
-        "history/market/silver/close/2026.json": "19a898cba2d013616457e46bacd85c01951b3ea0e95532bbfad4e5db3e3be048"
+        "history/market/silver/close/2026.json": "b1bae5019e44dffd389157a4412856aec45038ac176a0850b85dfa147bd50201"
       }
     },
     "market.sp500.close": {
@@ -13068,7 +13068,7 @@
         "history/market/tcs/close/2023.json": "ea6c6af74b13bb55cc04797c5dcb590fc3ac4d7d1cb6bb74e9f397ded4588348",
         "history/market/tcs/close/2024.json": "34fa024dc693621a8722129fa7464f63a7c976518bdf31ca370d45519ef0d852",
         "history/market/tcs/close/2025.json": "c6f8ceb8737eb6b35c04afac0816becd6804d80809edc3e7b726342afeeb2cd0",
-        "history/market/tcs/close/2026.json": "4e207340675b96e0f72af0d804655d65bd88078a9d3e1f7727fcb24bbddb59ee"
+        "history/market/tcs/close/2026.json": "7a7ba101f46ed4fc4979371794b89f16fe9de3ee60e37612574cabfb787d41cb"
       }
     },
     "market.tesla.close": {
@@ -13403,7 +13403,7 @@
         "history/market/wti/close/2023.json": "b1b517dc61eadb57049a0d9c7e89b85779fa38b7c24ede85657b9e89e2b4fee4",
         "history/market/wti/close/2024.json": "39ed67443f0cece21afbe65ea5154f3bd4751512d502640c7f82c7684d520a13",
         "history/market/wti/close/2025.json": "b2b39792eab4e77949b4e0aa7305183e60a2ccf20f3791f0ca6f7a95fd58dac3",
-        "history/market/wti/close/2026.json": "fe1c723ff3b48c2e11c03664370b851047c8df55868874e42e85e31e9ae1e3be"
+        "history/market/wti/close/2026.json": "775459c714b3f1cb8b39977b7ee3f6bd669a83e18d777cebd62010e7982e9290"
       }
     }
   }

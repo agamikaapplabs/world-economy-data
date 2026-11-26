@@ -59,12 +59,12 @@
     },
     {
       "series_id": "market.bharti.close",
-      "raw_rows": 1267,
+      "raw_rows": 1268,
       "unique_periods": 1255
     },
     {
       "series_id": "market.brent.close",
-      "raw_rows": 1318,
+      "raw_rows": 1319,
       "unique_periods": 1280
     },
     {
@@ -79,7 +79,7 @@
     },
     {
       "series_id": "market.copper.close",
-      "raw_rows": 1315,
+      "raw_rows": 1316,
       "unique_periods": 1280
     },
     {
@@ -109,17 +109,17 @@
     },
     {
       "series_id": "market.gold.close",
-      "raw_rows": 289,
+      "raw_rows": 290,
       "unique_periods": 279
     },
     {
       "series_id": "market.hangseng.close",
-      "raw_rows": 279,
+      "raw_rows": 280,
       "unique_periods": 275
     },
     {
       "series_id": "market.hdfcbank.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1256
     },
     {
@@ -129,12 +129,12 @@
     },
     {
       "series_id": "market.icicibank.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1256
     },
     {
       "series_id": "market.infosys.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1256
     },
     {
@@ -149,12 +149,12 @@
     },
     {
       "series_id": "market.lt.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1256
     },
     {
       "series_id": "market.lt_heavy.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1256
     },
     {
@@ -184,12 +184,12 @@
     },
     {
       "series_id": "market.natgas.close",
-      "raw_rows": 1314,
+      "raw_rows": 1315,
       "unique_periods": 1280
     },
     {
       "series_id": "market.nifty50.close",
-      "raw_rows": 278,
+      "raw_rows": 279,
       "unique_periods": 273
     },
     {
@@ -214,7 +214,7 @@
     },
     {
       "series_id": "market.reliance.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1256
     },
     {
@@ -234,7 +234,7 @@
     },
     {
       "series_id": "market.sbi.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1256
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "series_id": "market.silver.close",
-      "raw_rows": 291,
+      "raw_rows": 292,
       "unique_periods": 279
     },
     {
@@ -269,7 +269,7 @@
     },
     {
       "series_id": "market.tcs.close",
-      "raw_rows": 1268,
+      "raw_rows": 1269,
       "unique_periods": 1256
     },
     {
@@ -334,7 +334,7 @@
     },
     {
       "series_id": "market.wti.close",
-      "raw_rows": 1316,
+      "raw_rows": 1317,
       "unique_periods": 1279
     }
   ],
