@@ -2830,6 +2830,18 @@
       "status": "observed",
       "revision_no": 0,
       "is_revision": false
+    },
+    {
+      "period": "2026-11-26",
+      "value": 10609.299805,
+      "released_at": "2026-11-26",
+      "collected_at": "2026-11-27T10:26:36.771990+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/^FTSE",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

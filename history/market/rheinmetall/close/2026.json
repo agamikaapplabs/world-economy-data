@@ -2974,6 +2974,18 @@
       "status": "observed",
       "revision_no": 1,
       "is_revision": true
+    },
+    {
+      "period": "2026-11-25",
+      "value": 735.799988,
+      "released_at": "2026-11-25",
+      "collected_at": "2026-11-27T10:26:36.771990+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/RHM.DE",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }

@@ -2796,6 +2796,18 @@
       "is_revision": true
     },
     {
+      "period": "2026-11-25",
+      "value": 2117.5,
+      "released_at": "2026-11-25",
+      "collected_at": "2026-11-27T10:26:36.771990+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/BHARTIARTL.NS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
+    },
+    {
       "period": "2026-11-26",
       "value": 2118.600098,
       "released_at": "2026-11-26",
@@ -2818,6 +2830,30 @@
       "status": "observed",
       "revision_no": 1,
       "is_revision": true
+    },
+    {
+      "period": "2026-11-26",
+      "value": 2102.5,
+      "released_at": "2026-11-26",
+      "collected_at": "2026-11-27T10:26:36.771990+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/BHARTIARTL.NS",
+      "status": "observed",
+      "revision_no": 2,
+      "is_revision": true
+    },
+    {
+      "period": "2026-11-27",
+      "value": 2083.399902,
+      "released_at": "2026-11-27",
+      "collected_at": "2026-11-27T10:26:36.771990+05:30",
+      "source_id": "yahoo-finance-chart",
+      "source": "Yahoo Finance chart",
+      "source_url": "https://finance.yahoo.com/quote/BHARTIARTL.NS",
+      "status": "observed",
+      "revision_no": 0,
+      "is_revision": false
     }
   ]
 }
