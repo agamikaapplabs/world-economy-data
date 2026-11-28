@@ -1,11 +1,146 @@
 {
   "schema_version": "5.5",
-  "generated_at": "2026-11-27T04:56:31.228263+00:00",
-  "collected_at": "2026-11-27T04:56:31.228263+00:00",
-  "newest_article_at": "2026-11-27T04:30:00+00:00",
+  "generated_at": "2026-11-28T05:52:55.219119+00:00",
+  "collected_at": "2026-11-28T05:52:55.219119+00:00",
+  "newest_article_at": "2026-11-28T05:05:56+00:00",
   "collection_status": "fresh",
   "collection_method": "RSS aggregation with Google News primary + Bing News fallback; deterministic dedupe/ranking; why-it-matters is rule-based interpretation",
   "items": [
+    {
+      "headline": "India bonds slump as oil spike adds to RBI hike bets - The Economic Times",
+      "summary": "India bonds slump as oil spike adds to RBI hike bets    The Economic Times",
+      "published_at": "2026-11-27T11:54:01+00:00",
+      "source": "The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTmtodFliU0VMVFZKNGNnSTJrTHVvZkNzRjlqVGRhbzhnZ2ZLa3pFNkhVTC0yMDd4MTctRnNhOHdEZC1DMFl4QzFfbGVwX0FVWkp0TmhsOUpmVkE5SVRsWWlVVnoxbG1kOHM1TVZNdXNFUjhtWkhGazUtOUtQc1pJcHprTHJybmU4SWdYb2tuejRUX3picXc5RUNuck54azhKNjVjRndLellvNTVBYzFrRHNoZDJtc3cwQ2t1bdIBwgFBVV95cUxPU19tcXdOWHdGaDZxR2ZKbG9feEhTYi1QQnoyNnl5ZWpTYUNHV2l3ZHRlOU1jWVlxQkRSLWRNLTVxcjBCREZqZzNkNDVQQzdZTWpaMTdHREx2X2dPeXg0eVpNVnJlUExheG9kVk9SR2pSTnI0S1ZuTElXMHRHUElaS0NUOGp3T2J5ZkdpYU5vdzkwRGU3M1ZSV3NmZUR6UDVIU0dvSXBEMldQOXk1eEplN1hQYVpzbnhsTVRMOFJyUkVLZw?oc=5",
+      "category": "monetary_policy",
+      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "linked_series": [
+        "market.usd_inr.close",
+        "india.now.cpi_inflation",
+        "india.now.fx_reserves_usd_bn"
+      ],
+      "importance": 100,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "ab71b61ce278b72a"
+    },
+    {
+      "headline": "Indian Rupee: Are Inflation Pressures Reinforcing RBI Rate Hike Expectations? - ING - www.tmgm.com",
+      "summary": "Indian Rupee: Are Inflation Pressures Reinforcing RBI Rate Hike Expectations? - ING    www.tmgm.com",
+      "published_at": "2026-11-27T10:52:50+00:00",
+      "source": "www.tmgm.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPWERWbWNMTGZoZllYQ3RwR0o2NElzQWZ0TDR3VVpLZ3JBZnExWG5zNGRzdU9nd3BLa3BQVUluQXR1WlhIZjlvSW9wSzFib1JFNUlpWDVVTXVjd1hMQVIwV0NwTFlQZzRkdnY2S1dVbkNZSHQyY1d0T3ZMdWpPWmlOUHhGYjA1ZGpKZkNqVUFReGNrLThYQkpxLXdodVZPT0ZPa3pfOERJZEh0N05wZEh3YUhjZ2d1QVMtNmdEbnRla01BS2lsdXRBNVQ3a1Nza2hxRlpZ?oc=5",
+      "category": "monetary_policy",
+      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "linked_series": [
+        "market.usd_inr.close",
+        "india.now.cpi_inflation",
+        "india.now.fx_reserves_usd_bn"
+      ],
+      "importance": 100,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "4915c0809597a0e1"
+    },
+    {
+      "headline": "Indian Rupee: RBI leans towards tightening amid inflation risks – DBS - www.tmgm.com",
+      "summary": "Indian Rupee: RBI leans towards tightening amid inflation risks – DBS    www.tmgm.com",
+      "published_at": "2026-11-27T08:49:13+00:00",
+      "source": "www.tmgm.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbTdRTWY0akQzXzJubnZubml1TTdoY3c3R0J1RElXdnROZ0t1ZV92UlNhVUx6U0x6TUlXd3VLNmdzMDFoNlUxTnBBUXRJRmJlUUYyd05jSmZILVJ2M1RYSVlzaTBFWE00MlJVZ2hyUWxnMmQ2X0hrMVI0ZkNDemRBSTdtUUdRMmVnLVEwa042Ry1sWThiLXB1Q1loZlpDSzUxOE0tMU43RTVQT0taYWZfTTUxcVYxTmhsQlJ3LTd2U2Jhd3Nj?oc=5",
+      "category": "monetary_policy",
+      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "linked_series": [
+        "market.usd_inr.close",
+        "india.now.cpi_inflation",
+        "india.now.fx_reserves_usd_bn"
+      ],
+      "importance": 100,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "9d5f007f3a4149ad"
+    },
+    {
+      "headline": "Indian Rupee: How do inflation risks shape the RBI’s tightening bias? – DBS - www.tmgm.com",
+      "summary": "Indian Rupee: How do inflation risks shape the RBI’s tightening bias? – DBS    www.tmgm.com",
+      "published_at": "2026-11-27T07:52:15+00:00",
+      "source": "www.tmgm.com",
+      "source_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONEtlLTRMSF9uanB0ZlVTMXBTeHJOb3AwdW1DeVVsT0hycHRiVkZtZmFxV05aMkUzaHhFdU5EMUQ3bHBuamRJVUxBT2pxWEc5UWRLeFRFay1La0RyempHZmFTR3VUYVVYcFRJLWVaU3lZSk1rbUlid215LXB6QnBad0xDd3p2VnZYNzZoY0hNdWc3ckNHY1JSOXZuN0FxQnZNVGFmM3d4SzJYVXBCei1DeHdDOUt5QlNpc21faE1ybHRNVlU4?oc=5",
+      "category": "monetary_policy",
+      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "linked_series": [
+        "market.usd_inr.close",
+        "india.now.cpi_inflation",
+        "india.now.fx_reserves_usd_bn"
+      ],
+      "importance": 100,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "3cde83911bb6dd46"
+    },
+    {
+      "headline": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries - The Economic Times",
+      "summary": "India bonds decline ahead of fresh debt sale as elevated oil prices fan inflation worries    The Economic Times",
+      "published_at": "2026-11-27T06:10:03+00:00",
+      "source": "The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeW5oTWdXUXVOSFVNMWJsY3A4RklDQ0w3UWhVLVNMYm1zaTZZQzVSSl9HN0w2VFNReEhYSWZRbFRIU244ZUVmLTNlTnE1M2tHOXhTX21zUnhLNmo3OXh0SjNBNkxFOEdTQi1Db2ZPeTk1VDVYSHZlMmx4U1VUbjBhcFR2a1hobXEzazlNTzRCM2h2eDNxT1RnMUY4TGN2R3htMVEyaVhJVldPMklENGwxM3pMZ0RBRjFsQ0tQREtsajY0T2FIbVh3TGdjT242X0NGUkdqYzk5NF9OSXRta0dxaHE1bHF3RmE0TDAwS19B0gHzAUFVX3lxTFBjNXZYaW5VbVJIZEhQczlrN3JPQjc5XzlvUkUwQlRQSFBfaGlfVjF5TmF2UE5kUm95cjNXdmVFVmNUR2ZqaXhTODFMZjRYaUFaQzExMDh2S1QtQUZsM3B2UVlMOTIycmlSd1JUc3pwanRZLWRRaDBkcTFFS1VPMmQwZm9VaTAxamR1bllHaGpPTURzZ0JyNUh4Mk1idTBFaTc3Z05iRWRjak1MRmI0aUlmNG44anlZeEdhT0treTYwMWxhdkVvYjhFdnl3eFdzMjhiQ3hKRkV6b1hBZ1BpRzZTeUk2U29lOVFxRHRnQW8zYk12aw?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+      "linked_series": [
+        "india.now.cpi_inflation",
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
+      ],
+      "importance": 93,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "fd0f9dc5cc55ff56"
+    },
+    {
+      "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks - The Economic Times",
+      "summary": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks    The Economic Times",
+      "published_at": "2026-11-26T13:11:40+00:00",
+      "source": "The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPd1d0S1UzNm5Kei1JRUZSZ3FLeFBVNm5YQ3BJcEZYb1JfZkZXTHFfd0ZWVHhOQUZDUl9VeEJPcjhUVzY3ODJaUjMwbElBNjFNck5ZLTd2LUNhdmR1RUc2OE5vb2dQYWU3a3pFZUhTbDA0VjNNX25mdzZEOGtSWjF2VTRySzFpcEtkek9FU3c3clktZFpTbmdwUFVJSE9fZXFhRkNnWklsWTFFQ2JST3Q0YUV6ZnFsci0tclA3QlZXQ2tXV3RQWXFWaG04ZW11OENoR2s5T05QLXd2UjcwblHSAeMBQVVfeXFMTmtVR21jeGdSWjF6QUJrdEdBcGU0SzgxeW9pY29haFdyaFBLakNxdWlnX3lDdVMzLWNPQ2hpQ0MxMGQ2ZlUyTktBbDZyMEhkeVV6OVFZTEgyS2ZhanN4dmFJM195dV9FQlh5QzdWN19UQV9mOEY1NDRLMFBtRlFqa0NCUHBPUHltRzUxaFJwNWVseVI4bXppSVhQOC14TjQza3k4RVVWcGNyR2xKb2VtcVhYMXFRdzlWSzU1RkNLc1diRjNNbUJGX0RTRVJfWU1GVHp4UXNyRVVTZG53bWNZUFE3bW8?oc=5",
+      "category": "monetary_policy",
+      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "linked_series": [
+        "market.usd_inr.close",
+        "india.now.cpi_inflation",
+        "india.now.fx_reserves_usd_bn"
+      ],
+      "importance": 93,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "1738139e77966b94"
+    },
+    {
+      "headline": "From war premium to demand concerns: What is driving the sharp fall in crude oil prices? - The Economic Times",
+      "summary": "From war premium to demand concerns: What is driving the sharp fall in crude oil prices?    The Economic Times",
+      "published_at": "2026-11-28T05:05:56+00:00",
+      "source": "The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPT0dibUREWVV0WWJORGZ2QU5ZU18zNjZIRktURkstN0I2T0hEWHYxRElGQ0VEbkszOEdpdkVhelQ5OGdweVFaUF9oNzRTSXJ3TjdlMmVOMHJ3bkJVMk1qZTN1eWdWVFRzRkFWOWFHUjY2LWg4WkF1czI1MGQ1Zmw3bE4ydlZyR0NjbUtxSHo4czk3S3BjS0Fib2hMcl9XcXhENHFSTWl1WUVHQ2YzU3VET0szMHZoblNySW91LVFfOWZTRWdsQ0NzYnJpcjI1YVkxVS11U2llTXJXa3oxYk5XcElnTFotbjNSbWVXYXVlNWRzOGRkNXBicNIB_gFBVV95cUxOb1FKaWRka0U1eHpBLXRKLThtWk1mMldVSnkwUF9zWTZFQnowaTltQk03ZUFJRzdFWHFGcjgwb3R0TmlDalM5cUNJWkFDSUFPek5fTGQ3cndYN1EydFdYMThraEF0ZjByRW9QWk5mdHNVLUpwMjExMzUtU2s5OWJSemlSMXZZTGxMZ0ZrTUNGbjhHV2Q1ZkpiWXdBc0JFUmdkdEhYWVJVcTE4ZTBtREJTY2J0cnJ3YzY5WC1ucTRuQ1I3M0NLYVFiRFM3bjBQTWVnTzlXOElvZ1RVMzE0bVFaY05lbDQzQ2ExaTNhTmRMeG9PVVh1R1JyakVZQWNRdw?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+      "linked_series": [
+        "india.now.cpi_inflation",
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
+      ],
+      "importance": 92,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "43c205e8f6cfd228"
+    },
     {
       "headline": "Another Cold War? Trump Turns To Tariffs To Challenge China's Global Trade Dominance - Outlook India",
       "summary": "Another Cold War? Trump Turns To Tariffs To Challenge China's Global Trade Dominance    Outlook India",
@@ -19,75 +154,37 @@
         "market.usd_inr.close",
         "india.now.real_gdp_growth"
       ],
-      "importance": 99,
+      "importance": 91,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "4b3b407afa2b8d83"
     },
     {
-      "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation - Business Recorder",
-      "summary": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation    Business Recorder",
-      "published_at": "2026-11-26T06:43:01+00:00",
-      "source": "Business Recorder",
-      "source_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00dDFRdEZSUFJiZU9laVhqMHZmQ05YeUZPb3gzTjVndEVUMHhITmV5S2dJZDhfZlh6YWVjaEk5WVFKVGZ5LVdqRlZVUTVmLTQt0gFWQVVfeXFMT1VlM0VmZEFud3MxUXFBSl9Xeml6LW50aVZVUkdaRFpaZXZhM1BzX01RUW1xV1NZcEZrXzJVT0tac2g2ZElkc2RLX2tUMncxODRvZVl5dmc?oc=5",
-      "category": "monetary_policy",
-      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
-      "linked_series": [
-        "market.usd_inr.close",
-        "india.now.cpi_inflation",
-        "india.now.fx_reserves_usd_bn"
-      ],
-      "importance": 99,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "e247b783e08bedd2"
-    },
-    {
-      "headline": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks - The Economic Times",
-      "summary": "India bonds tumble as Brent tops $95 per barrel, RBI flags food inflation risks    The Economic Times",
-      "published_at": "2026-11-26T05:20:12+00:00",
-      "source": "The Economic Times",
-      "source_url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPRnVqWnFVS0lpZVBGQU9NcDAxeURXRzVJX3E3R1YwZFNKSUZqYTF3N1o0d2NuQjZKWC0wcUduYURiVUs3NEprRG1CbnVpTDBpaWxFbVVRQVo3eExZY09rdDltX0x3SHFqaWVnMmpLTEZHOVg4cjRUc3BuME5BV1UzMXczQUI1VUVHV1prVUtQdEJHRUc0UDNvbFhkYW9IQ0Y5N0Rkajh0M251aWRJU08xNmtMVUo5T0NCbTJOaEhQLUtUN3ZPS3A0SEwyV3kxWDUwQzhOUTJfQ1VMY0p3OTZLa0p2aEx6aUhJSlFaN0NaSWVCSnVfQmRlMmYxTzdjeElwcUZjR29PTHBobFJCSWh3SUwyN1U0NEpsd2JlVjhBcjJzdlVJb3FoRURGMXdrcWJVaUFxOWdoV05qcVVhNGMwcVg2RmZYbWPSAeMBQVVfeXFMTU9hdFJYa3JMY3dIZjFGOVVLc2NCUUN1NlFIeGlJU0RJSjJ0X1NvOG1jY3FCaTJJMEs4Rm9pNkJ3eFRTc1EzVGtkazlZcWVTaGZxYXJKV3ItdUM5VkFWeExxRGVnNWJ6clc1bTNBUjdzMTdLTzV1YTIxM1VZd003Nk9tV1VKSkZLdTgzR3RvN0kyYkpkVDhOb2Y5VkxWd2oyZjQ2QWtkR3gyWFREWi1qWVZNb0NGc1l1VllSX2Njd1NXN1FDYThBV3QyRUtUVDVWZ0lvSDZVR2kwdTNYMm8wa0l1TlE?oc=5",
-      "category": "monetary_policy",
-      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
-      "linked_series": [
-        "market.usd_inr.close",
-        "india.now.cpi_inflation",
-        "india.now.fx_reserves_usd_bn"
-      ],
-      "importance": 99,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "1738139e77966b94"
-    },
-    {
-      "headline": "Indian central bank lets rupee rise to break one-way bets on depreciation - Reuters",
-      "summary": "Indian central bank lets rupee rise to break one-way bets on depreciation    Reuters",
-      "published_at": "2026-11-27T04:30:00+00:00",
+      "headline": "Trump's new tariffs aim to prise global trade from China's grip - Reuters",
+      "summary": "Trump's new tariffs aim to prise global trade from China's grip    Reuters",
+      "published_at": "2026-11-26T07:03:00+00:00",
       "source": "Reuters",
-      "source_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaktQNmpwalZ6MUN4ZFF0OG14aGVqRVh3OWl5MHlLTHNFd3FJNi10U1I1UGI1bjJqRm15NGR3UXJtcFRKcjZtbmlZZF9tVFdub0N0Zl85RTBodGE0OHFyVWM5M1BESkE5Y1JwRV8xaWc2a1owN05TSUw5aGE2UFMta0l3dURQRllvZkM4NUZ5UGI3dWpZeDFxbDB5enJUWWpfMDJnWll6SGczVXpjanVkMFJ3NzVrdw?oc=5",
-      "category": "monetary_policy",
-      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaUdXQjZTRVJvNzVESnNzMlpfZmxhTEgweFZsUHRZRTVLa29xcENmUjJaUUNjWExsaVNTREJqNlNwSFZzNXFuRUFqSlpRam4tZkZHWXEwZXQ5VlhPVFJzcmNnZEw5a3N2ZVBndnpnNzhiN1Y1NkRtU1M5WE05UmRFcGMzUVk0NXYyRTVpM05MOUhISDhmb3BPTERXcmNHWE9zc2dR?oc=5",
+      "category": "trade",
+      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
       "linked_series": [
-        "market.usd_inr.close",
-        "india.now.cpi_inflation",
-        "india.now.fx_reserves_usd_bn"
+        "india.now.total_exports_usd_bn",
+        "india.now.total_imports_usd_bn",
+        "india.now.current_account_gdp"
       ],
-      "importance": 98,
+      "importance": 91,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "1ca7e0e30f29ce59"
+      "id": "d88e785df239158c"
     },
     {
-      "headline": "West Asia conflict triggered 64% crude oil price surge, compared with 29% during Ukraine war: RBI study - Moneycontrol.com",
-      "summary": "West Asia conflict triggered 64% crude oil price surge, compared with 29% during Ukraine war: RBI study    Moneycontrol.com",
-      "published_at": "2026-11-25T14:33:31+00:00",
-      "source": "Moneycontrol.com",
-      "source_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQXY5TktyMUdLelN4ZGZ5bVR0bDVxTXhWVVR0aGNZYVo0ODZncXBMa2NwdmtIOHVjLXRYc0ZsdnJIRnhOQTNiblRKTTNnSXJ4LVNmS1VpWXlJcF9KaFRYUFZEUDA1ZlhKMGYzMHpVMnJDYlZXU3djaDIwZEszcXpDdUFHOWkwaDBYaXc5cGEwdlcyYmRGeWZ3dFoyQ1FFaWcyWm8telZkenp5eE5hYlpiWGNPbVRZdVY4QXdGU0ZUMV93SUpVUjVLbGNveDRBT2lSU2ZjN19meEpWdnN0SDcyV1IwN2o0bmpJcTY5S0lNbllxcGZWb2hwNi1n0gH6AUFVX3lxTE9BdjlOS3IxR0t6U3hkZnltVHRsNXFNeFZVVHRoY1lhWjQ4NmdxcExrY3B2a0g4dWMtdFhzRmx2ckhGeE5BM2JuVEpNM2dJcngtU2ZLVWlZeUlwX0poVFhQVkRQMDVmWEowZjMwelUyckNiVldTd2NoMjBkSzNxekN1QUc5aTBoMFhpdzlwYTB2VzJiZEZ5Znd0WjJDUUVpZzJaby16VmR6enl4TmFiWmJYY09tVFl1VjhBd0ZTRlQxX3dJSlVSNUtsY294NEFPaVJTZmM3X2Z4SlZ2c3RINzJXUjA3ajRuaklxNjlLSU1uWXFwZlZvaHA2LWc?oc=5",
+      "headline": "RBI lets rupee rise to break one-way bets on further depreciation - Business Standard",
+      "summary": "RBI lets rupee rise to break one-way bets on further depreciation    Business Standard",
+      "published_at": "2026-11-27T06:16:43+00:00",
+      "source": "Business Standard",
+      "source_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUmZVRk92WkZveFo2NUVoNFUtM2p0UVVyczFxeUlHMmRVRVhyT3FRU1M4TXB2Y0VSMGxZMVF1RUpXNUJ1V0JXZ0dySzZzYXlseFJrRTFQRlJQblhCNXB5M2kwOUVadjBTZHZVWjZlcTYzcTBIV29RckpHVlY2Q1NBY0NUdkI5TTBzZmFFVFgyVU9kTE9CTmdrVGVDMFFlRDl0TDZBVXZGTWZXb2FNeVJaMDZZcXkxS194YWxBbG44LUc4VEtRaWVnSGUtdWLSAdIBQVVfeXFMT0NENlpnUkREUjVXNERGdy1Kb2ZiLTBUVTZhZzRMd1B0eGxUUjZnaldxc0dxQlBQckJfZG93Wm9KUHlCeW9MTkR0QzF6S3lpZDdqTFEzY1Rldk1ibmJIMk1GdWpZQXlMWl9iaXVSeHozeTdqeGU0alFwREp1RFRVakFJSW1VNW1kRjdkenRtSFVFQWRILURFYTk3SmxzUlJjZHpMaW9PS2N0bGJ4TXMtVFhSU0tsSXRTdF9QVV9BSGhoaU1TZVdqblloYVR4dk1pakh3?oc=5",
       "category": "monetary_policy",
       "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
       "linked_series": [
@@ -95,18 +192,57 @@
         "india.now.cpi_inflation",
         "india.now.fx_reserves_usd_bn"
       ],
-      "importance": 98,
+      "importance": 90,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "8166d252de28747a"
+      "id": "433806cf21eaf410"
     },
     {
-      "headline": "10-year bond yield range-bound ahead of RBI policy amid data uncertainty - The Economic Times",
-      "summary": "10-year bond yield range-bound ahead of RBI policy amid data uncertainty    The Economic Times",
-      "published_at": "2026-11-27T01:26:26+00:00",
-      "source": "The Economic Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQV3luVThOUXd0aFpqOGh5dFRNWElnb1ZMTnhfaW4xZWphTjhwZ0xmVnJpRGhDV2FHTXp5R0h4blRXUUxMRnRQeTdIZ2NqMWJWdTN2eEQyOHdOWHdMVFdFSjc4VTZKZkY0YTZQdWRwYVMzdHhWODl5WHNCSUVqRWZXOWRRVjNYazZ4U1JDa25ZNnFwcFpQQnR1TGQ4YXhicVJsTFZURGFRSTJPeVlVVTJETjFyLU9kQjlNQWJ4QThqVHlJUnl5bXVINHdLWDc5VFZhVW1SVHlmSdIB3AFBVV95cUxQa2VKMmFxeUdrNThGQVd0VnpGeDBYaXRieVdyZnZyRHBidE10VkF0M3EyZzVaT1I1cWV0SXdNT0RoQ01SaTk4UGwyeWpTc0JTXzRER0gycTlZVC13cTh0S1pXMV90d0Z4b19FWFR0YWFGZkMzV1FfbW1TR3hsaElQR0FJUG1lR3NkVVNTWUV2S3c0QzdTc0s4cm5zYlV1MmxpXzZlUUZSN0dpX0VxVlRIMGhVaVlLaHpyck9KN1dOQk5PY3phcjBDX2ltTm1WbEpMd0Z4Z0tfNm9fZnZP?oc=5",
+      "headline": "Iraq in talks with OPEC for higher oil quota, minister says before OPEC+ meeting - Reuters",
+      "summary": "Iraq in talks with OPEC for higher oil quota, minister says before OPEC+ meeting    Reuters",
+      "published_at": "2026-11-27T16:37:43+00:00",
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdndaSmMtcnZ2OU41SkZNYnNtNlU5ZnRWTFlOamJLb0x6eHRhRHJuQkNMY1oybHlpOUFkRWdncURJcUc0eGZvM2JNZUc4SGdvZG0yeTJFY0llZWJUeGtMRzQxaHFZNmZ0OS1YWFloelk4eDBVenhkQlotREpzR2F1cFgxbkZaT18zRWtGbHd2aTZENWFDMmhKaU13WnpSQkhIaUZGTDZtMFkwa2ZxUjdpTkRfTXRZMkNUcW1FM3hn?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+      "linked_series": [
+        "india.now.cpi_inflation",
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
+      ],
+      "importance": 88,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "0ef4b9e8ce355fd3"
+    },
+    {
+      "headline": "India-US trade deal close to completion: Goyal amid fresh tariff threat - Business Standard",
+      "summary": "India-US trade deal close to completion: Goyal amid fresh tariff threat    Business Standard",
+      "published_at": "2026-11-27T05:04:35+00:00",
+      "source": "Business Standard",
+      "source_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTmhFeGljQzNsOGNDd1pOdGpBQkp5NHNyd19MZkFpMXV4VTMwcHc4ZHFwODNOT20zVXlEN0R0aUpXODJJR3FsR0huY1k2ZEYtSzllSWF1dE5SbVVLSnkwZjM2Y0FrQ0Q4dXl1ZWQtcDFJV1lLdkZFTVJQakN4SF9jUnNMZU9pbmFZV3BzaWNNaFhlR1VJNWFGN2drZnZvYU1kZHRuSDRvMXZ0MTFjU2ZSREMzY2YyUXFJbzBWSWdnNjNFMGctYmgxbGNDaW5EbTUtSHZqNW1fZm7SAd4BQVVfeXFMUFNidmZVUmd3VnN0c0ZvY2dGTjRYeDAyTVplenJPX3FHSjRNNXdOSHBMNC1mY2N4dWFPQ3JJX2s0YTE3UF9mNTBiVXVMUW8yVXN2T3RKUFptdWdWM254WVctYVNZb3FBT0dkRzFFLVdVQlluMklyb3M2TFBmaWFpWjlVRFlBZWRpRl81VWpEaUxWcTVfYlI0Z01CNk9DTlNMdjdLbS1fRjVYM3dBXzNvNFRQeFBCVC0weWpJV1lXOUZqZmhidHZGZElIVGdYb0RPNmN3WVBfWmtNcDhmV1VB?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 87,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "215501d06f4a49ce"
+    },
+    {
+      "headline": "RBI should avoid jumbo rate hike in December to prevent capital outflows, rupee instability: SBI Research - India's News.Net",
+      "summary": "RBI should avoid jumbo rate hike in December to prevent capital outflows, rupee instability: SBI Research    India's News.Net",
+      "published_at": "2026-11-26T18:57:00+00:00",
+      "source": "India's News.Net",
+      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVlVoVzI1Zm5tcUJrX3c2dVRrN09GcnVwei0zYmdSSjhORmRHRTFNb2IwUWZmcVUyVFZEcVBQWDNLMW1iaVdLM19KQ0ppbVVvTEZTNjU1ZERNOW45WVNiUUZQMkZOM1o5dDRZZFNNY01TTGJiSFJ6Yjl5M2pOZGpDWHlka041anh1YVdzX0M5d0xwTEVwR2FkUkVLUEo1ekNwSElhUFV2UUpXWU1iUkNrY1UtSFl0M1dabmI1N3FSa0E4bl9wMkRCdkpDb0FyMWRmUXZWNVFwbHZvQUlQcnc?oc=5",
       "category": "monetary_policy",
       "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
       "linked_series": [
@@ -114,11 +250,11 @@
         "india.now.cpi_inflation",
         "india.now.fx_reserves_usd_bn"
       ],
-      "importance": 93,
+      "importance": 85,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "ebdc31bc16123548"
+      "id": "dcf46d8e8174fe49"
     },
     {
       "headline": "Will the RBI Raise Rates on Dec 4? Most Economists Expect a Quarter-Point Hike as Inflation Tops 6% - NiftyTrader",
@@ -133,11 +269,31 @@
         "india.now.cpi_inflation",
         "india.now.fx_reserves_usd_bn"
       ],
-      "importance": 93,
+      "importance": 85,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "1add9326519ffb07"
+    },
+    {
+      "headline": "Why is the Indian Rupee correcting further as renewed Hormuz risk pushes oil prices higher? - www.tmgm.com",
+      "summary": "Why is the Indian Rupee correcting further as renewed Hormuz risk pushes oil prices higher?    www.tmgm.com",
+      "published_at": "2026-11-27T05:56:02+00:00",
+      "source": "www.tmgm.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNXzlpeXp0MmFHTWh3SjdIaE9MTWNScGFIcFo3UnQ3Y0RVN2U1TTc0bGxDN1gxZ21rX3lRZERLeHoyR0pja2prbjlaVnBteEx4ejJlWEt3UXhuQlV6QWd1RHQwM3VOOC1lUkdUUXpreGN1VVNBVXRKbFE1djZxX3dxT3Y4ZlNKc0N2MFNNZE1ieHZud1ZhTVdFeDYxRUZKY3JvUmdLX3NaSVhpMHQ1Qkc2N2twcFJET1A1Ql9qNUdLVjBueldUdHhIa1F0MWdhUEs0VVdQYw?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+      "linked_series": [
+        "india.now.cpi_inflation",
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
+      ],
+      "importance": 83,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "e7f09dde294e1b2f"
     },
     {
       "headline": "China rejects US tariffs as Cambodia warns of trade costs - سانا",
@@ -152,56 +308,56 @@
         "india.now.total_imports_usd_bn",
         "india.now.current_account_gdp"
       ],
-      "importance": 91,
+      "importance": 83,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "378fe8daf2d26757"
     },
     {
-      "headline": "RBI flags rising inflation, says economist on firm footing - The Times of India",
-      "summary": "RBI flags rising inflation, says economist on firm footing    The Times of India",
-      "published_at": "2026-11-26T01:40:00+00:00",
-      "source": "The Times of India",
-      "source_url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObzlLc1ltbnNKNW9Ya3MxWkdDVUNDaGh5NVA0TFNmTWs4N0ZBYVlMNFdLMWZzV1IzODlaaTNwVDZILV9ERUM3OEVYY2VSaFpLQ3E5a2ljRHhKRmdzXy1RVEhKLTl2RGg1WlBoTVdMVlp5R0JBUUthb3dEaFdla3dVWHBfN3pTOVdvdFJzcnlaVzBZNVpwMlg5MXFEakQyRXZkLWhNN0tpZ3VMZjNRUjZJSmZWcm13enJaYTJONGdTVW05MVdqVWRHU2cwUFRRY1Q1ejdkcEFRWHRTaW_SAeABQVVfeXFMTl9tODlqRGhjd1FMRC1sMTZsOXQwenNnMVpsMEMyaS1Dcms1VkF1QUFxX0JEd0duV1J1YlhZYXcyRExFbmI1T25GR1dIdDB1QnMtX1lPM0dRSmdFdmFtV3BjRnhWdVRsWlRrQUg2ZnJUcFg0RXZ2WXpISWNORWpaWE1mMUJXMk8wQkJvajN5Qlp4d3ZPZWt0M1U3VVJ5b0ZuSFoyYWh6SW8yeEJ5eG5lZWZ6RnpzNzcxQUZ2LUNROTNrdHRyREtfS0tWWXcybFlDaFM3RkN0T2VCWmh4bUJMWEo?oc=5",
-      "category": "monetary_policy",
-      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "headline": "Trump proposes new tariffs on trading partners, including China and India - Bol News",
+      "summary": "Trump proposes new tariffs on trading partners, including China and India    Bol News",
+      "published_at": "2026-11-27T18:01:38+00:00",
+      "source": "Bol News",
+      "source_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZXB4Y2d3RG02QWpQZ250MWVlVlV3LWk0T0dkU2d0bW1LN0hPSkhYWEhyUmE0RG05ZXRPTWNTNkx2M1Q2OTNKYkF1RnJUVkRMSElETlNRRDhSZVhCNzZRamZTa3M2UEtBbkR4NHNNSkNyRXlNRmlKbmZPYW9JZTctY0g1WUtkSGp2Q2UwMXRNc2J0ZEFnQ1BSWVEtdUdjeU1tekJIcg?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
       "linked_series": [
+        "market.nifty50.close",
         "market.usd_inr.close",
-        "india.now.cpi_inflation",
-        "india.now.fx_reserves_usd_bn"
+        "india.now.real_gdp_growth"
       ],
-      "importance": 89,
+      "importance": 82,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "6c6a8e160f0af488"
+      "id": "d12176883dc23bf7"
     },
     {
-      "headline": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO - The Economic Times",
-      "summary": "RBI may opt for 25 bps rate hike as oil eases, inflation risks persist: Baroda BNP Paribas MF CIO    The Economic Times",
-      "published_at": "2026-11-25T13:06:00+00:00",
-      "source": "The Economic Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxOMzFYbnF3emNwdHRtcmdsOGl5eHA1RTFzaDZWV0dZRUcyOG1XVlpJWm52UE11dnVRQkxlR2xHWFN2enVqdUhqdEpzaTRnTjEzaWp2Y0M1WTYwdXNheUN0YjItdFZGT3FRMG9pODhsaTJ1Nkk1ZmJDaFZkelB0a3A1RkJiVk0tQUFrV0hLRVkwRFNLRVBEeFpFUkVwM1pzWkRxZDNqeEFHSmF3RUJQTUxqbjlvdDFlZjlvSHJGeGJyTmV3RkdTTUN6ZDJsdWVRNFZCek1RczZMWDhmY1l5WnBMTlVmb19IdjFhSXVmRHR4NXlzRFJ5S0NTVnpsbUwtam1UNHdQbDZuaW8yZjUzNUhzY0pSbWt4VHAxUjA3b24wLVRtZ1FvUkhScnlHUDE2eVNaWXMzem9FYml5cXBjQ05QTDlPbjdJV0RMdDNPakREZk5QT0ExMXdZTE5qNHRrOFoxalN1azZyWdIBgwJBVV95cUxQTmVYbThTMHp5ZHRlRjVDMTNYTFdKdmZOMm1zNVVjSUk5MlVpYklBWUp3cHF0eWR6REJWTEM1SC1HOWpxTTJiX1FxYVN3YmlEUTJsRzVWekM3QVRDaEwzd3JUN1VqczM3bHpxX0ZUWUJhOEZUMjdlNTltX3ZNWVFZbldBbkFSLUVFTXZOcFBBVG5xYks4aGZtZUZQU3NzV0VuTWJBMkk1Rld6NWRCTWREQmxOWE40bUpOWHBzb3k2bUlKd3owVVJ4bkNiN1NEbWg5SGc3Y2xfZUZPTllaaDZjZFZsWEFfYm5ueDNxX3RoT3FmYlZkcFNka0ZhVUVsVzYwbm9z?oc=5",
-      "category": "monetary_policy",
-      "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
+      "headline": "Trump’s New Tariffs Threaten to Reignite US-China Trade Tensions - SSBCrack",
+      "summary": "Trump’s New Tariffs Threaten to Reignite US-China Trade Tensions    SSBCrack",
+      "published_at": "2026-11-27T17:49:18+00:00",
+      "source": "SSBCrack",
+      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObWJJUk9FTzhzcDRuV0FyUXk2WE56WmFvcTk3NEdQLUFfY3ZHQTk3V3gxai1CaHo1WEtpb09oMFpLNTdfRjV1UmlhaTlNUE9BSkNVYklaOGNzanJhOHlYa0hybVVtSzloVHZ2QjB0SUIzZ0h3TXJyU2RkYzQxbEhhNVpVWGVYZ0U4VXUtcFhtc3ZfOVdG?oc=5",
+      "category": "trade",
+      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
       "linked_series": [
-        "market.usd_inr.close",
-        "india.now.cpi_inflation",
-        "india.now.fx_reserves_usd_bn"
+        "india.now.total_exports_usd_bn",
+        "india.now.total_imports_usd_bn",
+        "india.now.current_account_gdp"
       ],
-      "importance": 89,
+      "importance": 82,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "5ed411820d568f6b"
+      "id": "a87c6c7ac09d461c"
     },
     {
-      "headline": "Economy resilient; passthrough of oil price shock limited, says RBI - Business Standard",
-      "summary": "Economy resilient; passthrough of oil price shock limited, says RBI    Business Standard",
-      "published_at": "2026-11-25T15:23:04+00:00",
-      "source": "Business Standard",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMlFDVEY2eTBUREkxSkFyd01QT0NaWUNCeTNVNVo3aHdyRjcza3JGWFNVc01QR3h0cERpa0RMaFpBWVJwWWNDYzNVSFVwMWFLa3NYeHJIbzllanliZmNqbnI2Qm5zX3lYelFYY2k4V2IzSVhrWDNJTGZUODlVTm9IMWk2NkZ2MkVXRUs2VkJBWDFXYUpVc3AzZkZkM0thR1AtcHY1RU9kWEFCZXZTcUxEOEd4YmFZdkVLRmFCWWtLYXZxVVBEeFlGTi1aRXk2S2ltSEHSAdcBQVVfeXFMT1lOZjVVUUNaNzlLbVQ3SFRBa1NNcjR5MlY5dk5vRHJ1RmptQld1WEVKR0FUZjdmNEI1aU8xcEdyS0owZGFZM1FIZTR2RVlPZ0xnTHJHT1hnX3N3bG5KQm05NWhUMVlwbkJGNC1pTWNvb0w1SnV1STdtY0ZiVjdFdlE2YURoaVN0eEYtWnpoN2RhRjJmako5YVN6OElnWnI2OVB0ckliLWFIVUhEckhWTE5sQ25TbVpWdmNfQ0hYbThuTnVfWnZQQ0UyQ25tYklwOEtwV3RDeEk?oc=5",
+      "headline": "Rupee recovery eases pressure on RBI to use rate hikes as currency defence - Moneycontrol.com",
+      "summary": "Rupee recovery eases pressure on RBI to use rate hikes as currency defence    Moneycontrol.com",
+      "published_at": "2026-11-27T06:58:36+00:00",
+      "source": "Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYVJ6SFRtZnlhNUZuMDNFSnMzUWhQbVU1LXZlTGhwWVNELXFDQ2syR0tWcGZOUGY5T1pFbzc0RTJpWlBOVHdwUEVuWHdPcmZ2S1ZKaTlqbUljWXNxTndrV3JoWGw5YzhEeVVVeTBvZmhaUnc0SWxFTENROGlodnYzSExtczBoR3JDOWI0OFJ4YmM3VWhmamtXT29IbVJLTG96S3l6M3MtRWZaQmlvOHJEcjZpVUEtbDRmZVg5dWhqQ2M4VVdGZGhmdUgtQmU3ZmZRMmE00gHYAUFVX3lxTFA3MTY1aDg1OG1sSHhSRUFfZW1wZlgwQUg1aEktWldHTmJXUW1KWi1kZml2MHVrMl9vQnZ6MS1fU2VXcjJOeUNCX1lscWhMQmRvWmJTai0zVi1EWkhlMEhkRjUyOGMtZlJfZEY2X0NqSXZfZ2hESkpsNmVJd05LODRaNEE2eG5ITEw1T0ZCZFpMbmVrbm16S1Nzb2F1dGtQRnF6OVg5b1ZQVFlSUFdqWkxXRm92Szk5ZWozVWVWbFFmUFA1dUNvT2lZUldqbFEtdDdKRVhfY1ViMg?oc=5",
       "category": "monetary_policy",
       "why_it_matters": "Policy-rate expectations move bond yields, currencies, credit conditions and equity valuations.",
       "linked_series": [
@@ -209,11 +365,89 @@
         "india.now.cpi_inflation",
         "india.now.fx_reserves_usd_bn"
       ],
-      "importance": 87,
+      "importance": 81,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "f2fca72591f53e47"
+      "id": "0a1b9b51d7e2d870"
+    },
+    {
+      "headline": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
+      "summary": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank    EnergyNow.com",
+      "published_at": "2026-11-27T21:55:51+00:00",
+      "source": "EnergyNow.com",
+      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+      "linked_series": [
+        "india.now.cpi_inflation",
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
+      ],
+      "importance": 80,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "072f45c068ab7647"
+    },
+    {
+      "headline": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow.com",
+      "summary": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026    EnergyNow.com",
+      "published_at": "2026-11-27T21:29:40+00:00",
+      "source": "EnergyNow.com",
+      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5XcGxWUXBlNVhTbFd3RkFvM2dzMUdvcm84a3Nzc2hxLVJYMU1zOHBsYlY0eV90Z2NlY0xDajNSdUxweFJ6WVprRjNzOHVrT0cwbXM0LUZvRHRmdF9VMEN0NUZpZ1VjYjFNeEdiSHZ1SHpyZ2otTVhyLXVsb09yVm1NUUhQM2dMMUNkQjFCalh1a2Y3bjlqX1ZNOHFVRDM5Ylh2clBwd0JmTUFtcmZUeUUyRnhsRXNjeUE?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+      "linked_series": [
+        "india.now.cpi_inflation",
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
+      ],
+      "importance": 80,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "69562368b9125e32"
+    },
+    {
+      "headline": "Rupee rally, softer bond yields lift markets in November; domestic growth key to 2027: HSBC - Moneycontrol.com",
+      "summary": "Rupee rally, softer bond yields lift markets in November; domestic growth key to 2027: HSBC    Moneycontrol.com",
+      "published_at": "2026-11-27T11:05:54+00:00",
+      "source": "Moneycontrol.com",
+      "source_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalB4VFBYY01BV2NUaTJCZEFnemVyYkRvaWNYbHhpVE9MdjdON0d5WUwteVFVZ3ZtanRlb2kxRW5aQk01VHgtM2pRbFM0OWlsUXNzMDFkN2FpYWVadkVwT0lLZ09xc1I0YzVVcEpMbjVud2QwTk9UZ0FvdVNaVFljc0lxbE9sbmFzZHQ5Y3RKeU9nVElKOWRyeHdPOTlOclkySFJWUmM3U2NzZ29RaGtaVHV0TUZXTmlBTTV1RER0a0wzODBObW5CS1hOSUZCQS1fNXpwYUE2RjRLLXlsZmNGaHVUU1oydw?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 80,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "5ddbd2161590dd19"
+    },
+    {
+      "headline": "U.S. Unveils New Tariffs on China, EU and 12 Other Economies Over Overcapacity - Global Trade Magazine",
+      "summary": "U.S. Unveils New Tariffs on China, EU and 12 Other Economies Over Overcapacity    Global Trade Magazine",
+      "published_at": "2026-11-27T10:10:36+00:00",
+      "source": "Global Trade Magazine",
+      "source_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSGZfWXk1TUFLVzhRZEJDajFDYlFxNU1xZGttTVpTX0hjLWhiYkNZVkRhVTk2NlNoWE51MUNxQll6TEVmbzJxSmRmXy1QVWZ1TzMzUEVlUlVhcTBqSU9DQ3NEYm0wZVFldzlHU0VzdGRUV3dPS1RKRzAzQzBXbEhZRzliZmhKVmFINDRlRGdKdFc5VzdNQ1NfT1VGYngxU0NuTDZ3cG1aTmJsRmRJ?oc=5",
+      "category": "trade",
+      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
+      "linked_series": [
+        "india.now.total_exports_usd_bn",
+        "india.now.total_imports_usd_bn",
+        "india.now.current_account_gdp"
+      ],
+      "importance": 80,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "835e23609623bef6"
     },
     {
       "headline": "Spike in oil prices partly reverses rupee rally, forward premiums surge - The Economic Times",
@@ -229,37 +463,18 @@
         "india.now.current_account_gdp",
         "market.usd_inr.close"
       ],
-      "importance": 86,
+      "importance": 78,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "e07fe0021ba50749"
     },
     {
-      "headline": "Global markets trade mixed amid US tariff threats, hot inflation, tech volatility - Anadolu Ajansı",
-      "summary": "Global markets trade mixed amid US tariff threats, hot inflation, tech volatility    Anadolu Ajansı",
-      "published_at": "2026-11-26T09:31:09+00:00",
-      "source": "Anadolu Ajansı",
-      "source_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaElLQ2YzSmZHRlZnUWprOXg3Q19oT21ia3lISlMzYmtjV29xb01EY3lGaDFkcmdmSC1rcS10ZWxYZGFfZ28ycDBPUVBma29YdFo3NlVQLUxPX3R2dnNVeXpGTVE4bVM3VWR5UGxHcTRjd09DWFdmY3d6ODVGZHA3WDNnOEpkaUhEQ3dIOWFEZlVVQVRGVzdfOGxMQ3cxb25GYkVQRXlENEt2MjZWSHRPbXVLQnpjdGM?oc=5",
-      "category": "trade",
-      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
-      "linked_series": [
-        "india.now.total_exports_usd_bn",
-        "india.now.total_imports_usd_bn",
-        "india.now.current_account_gdp"
-      ],
-      "importance": 84,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "199cac5ecd46e777"
-    },
-    {
-      "headline": "US proposes up to 25% tariff on India, offers 17% upon trade deal - Business Standard",
-      "summary": "US proposes up to 25% tariff on India, offers 17% upon trade deal    Business Standard",
-      "published_at": "2026-11-25T18:12:32+00:00",
-      "source": "Business Standard",
-      "source_url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU0pJTnZMYzd2THhRb0RXX2xmUWR5MjZVUC1EM3o2eUszZ3c3VlE3ZzdIUU5QbU9KVWRzUjZUZzBIU1pxNXR3Q0p2S0VVbFpXRU5Tdk9wMjJoTVFyRUJWZFgtdkVTS0lBWnpEUmUxSGVteXJURk1Bb3dpaXpUYndjTEpXZktLZkExcFR4b0dtS1BWYjhlRkxsbEczcHpaU2dtSGY4bmUxWm5tc1NjM19OeWlKY20tLV9ycE8tSnpJWG40SFR1ckhVV9IBzgFBVV95cUxPS0MyaXVyQ3I1bGV2bzlibS1QNzIwbmItT2kweGEybm9qQmNGY19PS3JqRXRRY3lxdVNUYmktclVvQXA1a1N3aTZ4WW1VMnpGUlpPX25la1FIUTd3cHN0Q29paEE4aFNpbnBvYmE5Mnk4M3hnVndjRFYxTTAyMG5ZYXdva3E0LW5FNXZoNFpRN0ZGaUNfRk0wMjB4Z3RaRjkwYUxmQkFmbnpFTkgzNWxKaUxPMk5sN2M3SGFTMHBZbUI1aXAzVEJBUkVCOFlEUQ?oc=5",
+      "headline": "Asian Markets Today: China Chip Index Jumps 19.5%, KOSPI Gains 4.34% - NiftyTrader",
+      "summary": "Asian Markets Today: China Chip Index Jumps 19.5%, KOSPI Gains 4.34%    NiftyTrader",
+      "published_at": "2026-11-28T03:07:43+00:00",
+      "source": "NiftyTrader",
+      "source_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMFl4R2VVdV9Kd3lVa0thZXViMnRRSXZxMEFSNlpNMWxER29RX1R1R0RmcDdYTnkwX3hpd2lmRVh0WGJPMkNpYldyaGR1azFzZW05U2RFb252U1VZN1pBSktoUV9ORXE4b2RlYWt0dktuWU85bnIxY0UyS0pXWlhGeFJn?oc=5",
       "category": "india",
       "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
       "linked_series": [
@@ -267,36 +482,18 @@
         "market.usd_inr.close",
         "india.now.real_gdp_growth"
       ],
-      "importance": 84,
+      "importance": 77,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "1cde3e7bdb21f267"
+      "id": "e921a92b9d4bf36a"
     },
     {
-      "headline": "Japan short-term bond yields edge higher on inflation, rate hike bets - The Economic Times",
-      "summary": "Japan short-term bond yields edge higher on inflation, rate hike bets    The Economic Times",
-      "published_at": "2026-11-27T04:28:59+00:00",
-      "source": "The Economic Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUVhGSkhjMGs2VkRsc3RnSmJ2VTkzaWlrTEhKNEFyN0ZVdnlZLXVOdGFuZzYwcUZTOUk3Q3duV1E0ZmJJV05HaEk5TkdkZGxCNUkzLXBFa3VRTFJxbEt3c28xZ3ptanBzM2lMamtSd29jRU1BbWRVMGxCcVNlX2d1MlhpS1hQR1ZDb2xzaE5kOFlqeXVLNFU1YWtid09aR0t0Zkk5LURPQW13RXk4VUw1V3JfX25NY3NGTEpHaVhEQk9IeEkyTnJVTENkOUdxWkd0XzhXQU5vVzJYdjA0QWfSAeMBQVVfeXFMUEZtazRVOHRNYjI1WkoxQlhfd2FkSXhwM0QzX1hpelE3ZXNXc084R1JodjFTcHZlTVdJMHhPak9OckRaaFladkIwejhyclI5c1JzX29kWVhsWHFCdDBNNDhOaGZsZWs2VmJiYjhEc2hneWIwTFk3NU9ScHdaWTdlcktaQXdjS3J5dWg5V3FwODdYeUpDQnlfNmplMVY3Qkx3WmNMRzFWbVlqSDJQNVlzMi1QYmtYc25yUU8tZEdjUElIQ296QmZoS204TWRieS1OemdvQ2Y1aERyNzFaSlhKQ2xWaUE?oc=5",
-      "category": "markets",
-      "why_it_matters": "The development can change growth, inflation, risk appetite or financial conditions; watch the linked market reaction rather than assuming causation.",
-      "linked_series": [
-        "market.sp500.close",
-        "market.gold.close"
-      ],
-      "importance": 83,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "96c35c75bf10bb0d"
-    },
-    {
-      "headline": "Global Market Today: Asian stocks rise for second day, crude oil gains - The Economic Times",
-      "summary": "Global Market Today: Asian stocks rise for second day, crude oil gains    The Economic Times",
-      "published_at": "2026-11-27T00:50:49+00:00",
-      "source": "The Economic Times",
-      "source_url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTkhkWHYwTzJqLURBMVFIMUV2bU1lRThCVm50NnA4b3VzajBlRnhkM0Z6WUgybkdWVlpqVVNEX2NaOFNGTGNDaF9XWEhjVFR1WXdZZWZBblc0Vk40MFlwMlRCM0V4RnZiVkxsWl9oekY1ZFV2X2ZCNUpOWFBkWWJrRG55TVlhZ1NFY1VMUEJjdVI2ZHQybEFZNm9EQ2VmeUZDOS1lYkg5X3JLT2xtM2lyUWo5OWdPOFZrb0w0Q3hnSjZSTXlja1Y3RFNfel9tUHNsV3hwRThlelRwU2ZhalHSAeMBQVVfeXFMT1h2SnVObnlIQ29zYXRoZlU5QzZpV2ZnWVBoamtlendCZ3d0VnBwOXlucmkyMXcxN1dsekFwYm4wUzBjVmxpYkctclIwR1RZdVBPR05lTHhyRFBkM3VoYXl3RHBXNXZKb1NsODBMeW9vVUdybWtvSG1RV3NQWFo1c2NYRVlRSFA4MHRfWTJldXJWSFB6VEM1TTNTN25hZGFMSGZyN0JGVUtfUndsMmprSDFIdEhjVkRSWEhhTWZkUUpZRHVFWThpVnVLLXkzMktBQV9MSFhHYzVuTTdjU0QzM3YyT28?oc=5",
+      "headline": "Oil prices retreat as traders await key OPEC+ meeting - Latest news from Azerbaijan",
+      "summary": "Oil prices retreat as traders await key OPEC+ meeting    Latest news from Azerbaijan",
+      "published_at": "2026-11-27T17:38:43+00:00",
+      "source": "Latest news from Azerbaijan",
+      "source_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vZEFoVjRCZF9lU1R5WjdxRjcxa2Ewb2xoMF9TZUpFZDRXMHRpanU3NWZRNHgzUGhRNGsyM2NTZ2FpUVFLT0ItTlJnYTVkSUpQZU41cU9HRTd0QWFXSm1MV3NXaV9kSmEtcFVma0dMWi15SGxtM2VBYVM3MWJlQQ?oc=5",
       "category": "energy",
       "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
       "linked_series": [
@@ -305,18 +502,38 @@
         "india.now.current_account_gdp",
         "market.usd_inr.close"
       ],
-      "importance": 81,
+      "importance": 77,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "60e93f81f3303885"
+      "id": "81c9c9fb392bc8d8"
     },
     {
-      "headline": "Trump’s new tariffs aim to prise global trade from China’s grip - BNN Bloomberg",
-      "summary": "Trump’s new tariffs aim to prise global trade from China’s grip    BNN Bloomberg",
-      "published_at": "2026-11-26T13:29:53+00:00",
-      "source": "BNN Bloomberg",
-      "source_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRktJTXRobWNuWFN2MVBiRHBsY3A5dWNtOG1WSHVEQ25KaWtscHZjN1RwN3FSM0wxY2EwekdkRk12dEY2bi0xUWEybmpyc3BhdW1XWWJxQ2VxcnJ2N1FJV1VkVEZ1YU1JbnJLU2RuZmhZd1JaeTZGNjIwc0I2a0ZtZXV6M25iWmswbk1TX3pqRHpKOFFRMTNXam5oZE4zN3R2bXhSRkJqYlAwZmw4NXc?oc=5",
+      "headline": "Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA - EnergyNow.com",
+      "summary": "Oil Supply Shortfall Worsens Despite Hit to Demand From Iran War, Says IEA    EnergyNow.com",
+      "published_at": "2026-11-27T13:49:07+00:00",
+      "source": "EnergyNow.com",
+      "source_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYThiVERSbWtEOC05djduOWlQZlpRMVAxWXJHS1lORWhFN01MTXVpWF9MOHlvcG5Rblp1ZG9NRF9zdGJKT1JHVGlkQXBTOTBsYThrVkQxLWhRSG11a09FRkMyTVJnYmIyOWVZREluTDlVeVlMUTVCLVV0d0tHQktlZnJFQVZSOHEtZk5pQUozSS00SExWcnhOMTN3Y2RabDJoblRWM2lvMA?oc=5",
+      "category": "energy",
+      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
+      "linked_series": [
+        "india.now.cpi_inflation",
+        "india.now.crude_import_dependence",
+        "india.now.current_account_gdp",
+        "market.usd_inr.close"
+      ],
+      "importance": 77,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "b5ff45ea027bb98a"
+    },
+    {
+      "headline": "New US tariffs: Limited near-term impact on Singapore, but analysts warn of lasting trade barriers - CNA",
+      "summary": "New US tariffs: Limited near-term impact on Singapore, but analysts warn of lasting trade barriers    CNA",
+      "published_at": "2026-11-26T12:50:00+00:00",
+      "source": "CNA",
+      "source_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSThCTDRqRG1VaDcwejlMSTAxSFFjSmoxRWx3YjFYQWRNYUZEUEhiQ2pycU1hT1BaR3kyUzgwOFlldkF5QXFRQl9qb0p3MkdscEQ4ZXZPeGJDNkpfTnd2YXcwQUVnV2R6RWNmbzZEQjAxeEtKWUVpblFlbXhyaUhkc3RybjZMNHBGWTRqWQ?oc=5",
       "category": "trade",
       "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
       "linked_series": [
@@ -324,18 +541,18 @@
         "india.now.total_imports_usd_bn",
         "india.now.current_account_gdp"
       ],
-      "importance": 81,
+      "importance": 75,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "5b0423a86cb11427"
+      "id": "7a5adcb81a9d4502"
     },
     {
-      "headline": "25% vs 17%: The Economic Stakes of Trump's Tariff Proposal for India-US Trade Relations- Expert View by Spherical Insights - Spherical Insights",
-      "summary": "25% vs 17%: The Economic Stakes of Trump's Tariff Proposal for India-US Trade Relations- Expert View by Spherical Insights    Spherical Insights",
-      "published_at": "2026-11-26T11:46:06+00:00",
-      "source": "Spherical Insights",
-      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkVReGlxV0NHeWJKUHlTM0ZpcHJWMGp0dGhtQzJYcnkyTVE2Qk90SjN3clZlZ0k2Z24yT2V3Uk4yZlJxVEFUNFZ5OFdwSTZFV0ZYNk1RbDdGRlJWVWNJUzdFQVZWel9RWDUxRENkQy05QThSUEJtYWVDbVlaREE1eUJtTzhMVk9GSExJSHU0aW5Tb3QzTlQxS2dyVkNHZVR6US1zS29sMjhDcWVzbS1RX2dpeWpMeG9yNy1KS3V1dlpuZw?oc=5",
+      "headline": "India-US Trade Pact: Key Details Explained - India Business Trade",
+      "summary": "India-US Trade Pact: Key Details Explained    India Business Trade",
+      "published_at": "2026-11-27T17:53:56+00:00",
+      "source": "India Business Trade",
+      "source_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObm5vT1ZkNDcxb3FlcTFib2hrZTR6QWs0dTV2RUw2ZmZvRlZKdXNfNC1oRDhKWGZsMzZadGxwT1ozWWstcmlCNTgtemtDSEVGUU5OR2hheGZJeVFBUlVERWVaMHFDb3V0ZmZkR21BX1BOVTdDT0xlam1iV28tZ1R3RA?oc=5",
       "category": "india",
       "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
       "linked_series": [
@@ -343,11 +560,49 @@
         "market.usd_inr.close",
         "india.now.real_gdp_growth"
       ],
-      "importance": 81,
+      "importance": 74,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "9dfe4df8d37cd68a"
+      "id": "893304baa828b12e"
+    },
+    {
+      "headline": "India-US Trade Deal Nears Completion - India Business Trade",
+      "summary": "India-US Trade Deal Nears Completion    India Business Trade",
+      "published_at": "2026-11-27T17:25:33+00:00",
+      "source": "India Business Trade",
+      "source_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TYXNIakdoU203V1lDVkMyVE16LUVOSldnVndUN2tRNWkzUHgxSndsSkRLTzM0ekJlUW13QWFpN2ktY3BHYmlqSjk2ZHpRcEgweEVZT3B3X2RiM1FlaUpRSjA5Q1Y4alNTRDJLeHliR2VVdFNDZDhWcjN3?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 73,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "8b04a4dda1e00182"
+    },
+    {
+      "headline": "India, US push for trade deal as negotiations continue; no timeline set, says Commerce Secretary - The Economic Times",
+      "summary": "India, US push for trade deal as negotiations continue; no timeline set, says Commerce Secretary    The Economic Times",
+      "published_at": "2026-11-27T15:15:43+00:00",
+      "source": "The Economic Times",
+      "source_url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPaWsyT2prSkRFYmYyQkU1WE1laE9VSG45MC1Od1JmVGNvYUt2d1BiSHZCSm9iSUpLN29YcHNteWtnS1QxTDBtMmVHLW9JMUg3S3RKRkFjb1AzUXlWM3Y0LWEyc3JTejVNQ3BKaUwtNjR1b0puU3U5VENIc0tTS0FvaWJZNDJuQUItRnpCTl8xVDI2LVF6cE4wckpaX3p4TjRfM0locHFPSWh6SFhSTnBHSDZaOFhON19hNjNWMXd5cEJTUXBMLXBqcTRPenozS0NMTkZRdk8yb0dOTmJRWmkxQVpGYkpfWEJoV0hfTFFickpBX0VpUGcybF9kT0x1Q2swSXR4cNIBigJBVV95cUxPbVhacEV2TWduVzdETjJCX3VKTjVUSXhITDFmMFZJbGNXVS1ka2ZWMjlzc2xtdHMzTEZKd1BDcGg5Wmt5NElWM0hqdGNIWUxkQXhVZFk5SGtNVHZyakFtMkdlNjRfTE0tdkdCbEVOTlFCOTdSYlFmd3drS3ozUWhOVDRIaE1uRHV1bW50YUo2MDFyRmVPTkFJbXhuS0JYNnhGSnNGeE0yVktyemgtcHhhVkVWWFE2VDJRcTg2cGpTMC1IQngtYXl2YXhSMzZKMjM2aldzWGt0MzBUMWU5M1BlVVJGRlBaRC1kWGt5NGZBajRyRFhqX01veUlPRGFmeEI4T0dpSno2bEc2dw?oc=5",
+      "category": "india",
+      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
+      "linked_series": [
+        "market.nifty50.close",
+        "market.usd_inr.close",
+        "india.now.real_gdp_growth"
+      ],
+      "importance": 73,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "888bf53dea167313"
     },
     {
       "headline": "China Strongly Opposes New US Tariff Proposals, Warns Of Countermeasures - BusinessToday Malaysia",
@@ -362,18 +617,18 @@
         "india.now.total_imports_usd_bn",
         "india.now.current_account_gdp"
       ],
-      "importance": 81,
+      "importance": 73,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "85c3e2bd4162d16a"
     },
     {
-      "headline": "US announces new tariffs on host of countries including China - BBC",
-      "summary": "US announces new tariffs on host of countries including China    BBC",
-      "published_at": "2026-11-26T04:10:58+00:00",
-      "source": "BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IQkloM185eWdfMGhXTkZBYmdEWHM2cy1CQjNpODYzQTRRV0V1VzU4akFoUkdsLTJucFZKTlF2MlZtMTgxMV9xZTRoZjdnTjdkRmMtTnd3Y3pZV28?oc=5",
+      "headline": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan? - Al Jazeera",
+      "summary": "Trump embraced Xi, then slapped new tariffs on China: What’s his game plan?    Al Jazeera",
+      "published_at": "2026-11-27T12:56:54+00:00",
+      "source": "Al Jazeera",
+      "source_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMXRrMjFFcHlmR0hqa0dhQ3UzLTlXZi1BdEphd1VMYVQ2Um1rMlp1bzVtNmFGcWNqdEZlZ3o0bTRLMEJoa3E5MTZRRkdITmhxQlpOM19QbnNhZ2RUZ1F1ZGdNSWdBVDk3SDRJQTc0ZHV4Z2ljU1ZRTUFUdm4zRmZiYmZoamtuYWt0cFRCWElNLVY2T2V1clVlVWdMLXltWThmZGtQZWJ2OElxd3BvTS1sSzl2Xy1ma2Zm0gG-AUFVX3lxTE05bWo1cEplMVQtNjlEaERCcXJpRU1YN3NocHEzWF9nVXUyMG1CNXhZbVR6Y215N1BQaXZ1dzZVWkRsc0lEV3p3ajZTUVRCVDdtNGR0TFVlU3NCOGFQdmhrX1FwOFdNY3RHaHAtb3hoTlcyLUt1eHRyenNZcVJDY053MDV1REFOZ1k5dDM3X0FtNWpkZ0daR2Q3QWZ2V054b2xQVnBfYVFNSDJ5ZUlHREdMLXZsazBTZXJCZ0FNV2c?oc=5",
       "category": "trade",
       "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
       "linked_series": [
@@ -381,18 +636,18 @@
         "india.now.total_imports_usd_bn",
         "india.now.current_account_gdp"
       ],
-      "importance": 81,
+      "importance": 72,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "b553209a546dbf3b"
+      "id": "c5247660a3339294"
     },
     {
-      "headline": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal - The Hindu",
-      "summary": "Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal    The Hindu",
-      "published_at": "2026-11-26T10:36:03+00:00",
-      "source": "The Hindu",
-      "source_url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZFByTVdLdWx5cnJhWHlIS1k1cGt1VU5pd2JVMm1LRkYxblg5OVlwMmxKVm1yeWYwVXJsajJJdmhHOXlUNV9zbWJkSDhjOXBmZm1wbFZRUW1OSWdsbkprejN5VDhCVnZEdENEVzEyNThYUURQUGZ5ekp3aTZvM3k4OF8xNTNISTVPeF9FU0tkQjN6LTNfWHhJRmVtaFBKTTE1ZmhZbnVRX21TSmh2VjJYZDlET3VNcF9QRFhOc2t1Qkg0aThHYkU2bTFITW1iNlpfN1B0OXR3WEFJNnJjWVRxVmFlbnAycExUM3pvNm9n0gH0AUFVX3lxTE5hdUhBQXdPYzFYeEFaVEpPYWVGUFlJbmhHZE9NbTZOcUh3OW80bllYenlBcVFrLVZzREs3T0J6eVB0ZmcySm12dUFpZ3FCOUdGQmM1STNBbXBpbkEyZXk0ZnQ1Y2JibnhnUlI0ZUdveG5WenZXZ19NRno0eXhKeFJKZHUyLWJwX19Yay1NX1pSSGQzYUlreloyNFJRZW44S1h2NmV2eW5iOVptS1J1SE5YdlBjdWhSa0tPOFNCclA0S0EwTjhENTBpNkh3cXRvV0FULTZBS0pLTTBwYnNyb3BIdmVoeVFGck92QVBsN2tXTnVwNE0?oc=5",
+      "headline": "25% vs 17%: The Economic Stakes of Trump's Tariff Proposal for India-US Trade Relations- Expert View by Spherical Insights - Spherical Insights",
+      "summary": "25% vs 17%: The Economic Stakes of Trump's Tariff Proposal for India-US Trade Relations- Expert View by Spherical Insights    Spherical Insights",
+      "published_at": "2026-11-26T11:46:06+00:00",
+      "source": "Spherical Insights",
+      "source_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORkVReGlxV0NHeWJKUHlTM0ZpcHJWMGp0dGhtQzJYcnkyTVE2Qk90SjN3clZlZ0k2Z24yT2V3Uk4yZlJxVEFUNFZ5OFdwSTZFV0ZYNk1RbDdGRlJWVWNJUzdFQVZWel9RWDUxRENkQy05QThSUEJtYWVDbVlaREE1eUJtTzhMVk9GSExJSHU0aW5Tb3QzTlQxS2dyVkNHZVR6US1zS29sMjhDcWVzbS1RX2dpeWpMeG9yNy1KS3V1dlpuZw?oc=5",
       "category": "india",
       "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
       "linked_series": [
@@ -400,11 +655,11 @@
         "market.usd_inr.close",
         "india.now.real_gdp_growth"
       ],
-      "importance": 80,
+      "importance": 72,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "0b6bce0371ecead0"
+      "id": "9dfe4df8d37cd68a"
     },
     {
       "headline": "Trump's New Tariffs Target China's Global Trade Dominance - https://www.businesstimes-bd.com/",
@@ -419,77 +674,18 @@
         "india.now.total_imports_usd_bn",
         "india.now.current_account_gdp"
       ],
-      "importance": 80,
+      "importance": 72,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
       "id": "390b3d8b468cbc4d"
     },
     {
-      "headline": "Rupee depreciates 20 paise to 92.40 against US dollar in early trade - Business Standard",
-      "summary": "Rupee depreciates 20 paise to 92.40 against US dollar in early trade    Business Standard",
-      "published_at": "2026-11-26T04:56:17+00:00",
-      "source": "Business Standard",
-      "source_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObnF1a29ZcUNSNnp3d3YyaWxsTEZCT3QtNWl3RzNJb3VDWHZRWE1xR19PdTdValVKcERVUXJmWEI5ZmR3Yl9nUG9WcExLbTlWdFdsSV90OFVyTEtZeWJMRGNiNzlfdmtZOGFFTHpHZmRWNVNWQ056eTY4alFsdG5Kei1URFp1S1NRSXhfWG92bVFYc2xST1dobFNMMmNZY1BQaEF5VW1vM3EtMXZDVG1SNk5TRmVidnBrcjliRmtGOGdXaVNVLWhfVUg5NVRRVWNNLWlUR3Vn0gHWAUFVX3lxTE5ucXVrb1lxQ1I2end3djJpbGxMRkJPdC01aXdHM0lvdUNYdlFYTXFHX091N1VqVUpwRFVRcmZYQjlmZHdiX2dQb1ZwTEttOVZ0V2xJX3Q4VXJMS1l5YkxEY2I3OV92a1k4YUVMekdmZFY1U1ZDTnp5NjhqUWx0bkp6LVREWnVLU1FJeF9Yb3ZtUVhzbFJPV2hsU0wyY1ljUFBoQXlVbW8zcS0xdkNUbVI2TlNGZWJ2cGtyOWJGa0Y4Z1dpU1UtaF9VSDk1VFFVY00taVRHdWc?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 80,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "09c366ae61d87bc0"
-    },
-    {
-      "headline": "Middle East Oil Price War Heralds Post-Conflict Glut: Bousso - EnergyNow.com",
-      "summary": "Middle East Oil Price War Heralds Post-Conflict Glut: Bousso    EnergyNow.com",
-      "published_at": "2026-11-26T18:58:04+00:00",
-      "source": "EnergyNow.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdDAtNEN2TjAzSWowV2NvODJVTC1rZS1WYUVXU3NvVXpOb2F6T3oxTW14TDFJeG9sakNkSkNHR0FUdXVyM3FTZzQ3VU1SVXJhbHNOOF82V012Qk9XYUF3MS1CREdtWnZVNjU5MUszdTN1WXhpUGkyVk14QUtsZlAxc2RBSVlPQVVfUURWRzFFaWhYcHAy?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 79,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "86c690b76f771198"
-    },
-    {
-      "headline": "Global Oil Output to Return to Pre-Iran War Level by Year’s End, US EIA Says - EnergyNow.com",
-      "summary": "Global Oil Output to Return to Pre-Iran War Level by Year’s End, US EIA Says    EnergyNow.com",
-      "published_at": "2026-11-26T17:32:14+00:00",
-      "source": "EnergyNow.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFA1a0JOZkNidjVKMUdMeFhSZ2dCTFpYbzlER0pmZGRWZUtjMkEtLVVTOUZHSkFwbFQ3cUV5WDNsSldBVVdBdlVqYXpzWllJSTJqNmNVTlpsRVZsU3lOdlNFaE9ZcDVDUHdvdkpjSTl1OFZhTEpmT2hZUGg5cVZ3blpSUFRsODROR3p0TmlnM0habkI3dHZsRm82VVoxY2NOQ20xYjNLTDY?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 79,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "c2efd08b6d0e9168"
-    },
-    {
-      "headline": "Trump Turns Up Tariff Pressure On China, Puts Trade Partners On Notice - BusinessToday Malaysia",
-      "summary": "Trump Turns Up Tariff Pressure On China, Puts Trade Partners On Notice    BusinessToday Malaysia",
-      "published_at": "2026-11-26T07:30:50+00:00",
-      "source": "BusinessToday Malaysia",
-      "source_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSTNPUXNmRHRmZlRxcFFiWnRWVnNpelZ1UEVUU25TWkpRVlhoNmMybzBvOGljWDVQd3NZLTMwQjZBNVpJTTBBdm5CcERSUWJVdzZkT0Q0U3V6OVNUNWllbHZzMEllMy0yRUlIaEdMbi1ZdHZ5SGJnVUV2NzIzTkdnYnZTUFdaSFFTbzJ6S2E3R3ExM3dILWE1ZGppYmpYWmh2NkYtVzRJbXVsSURhZi1XV0Z2aG8?oc=5",
+      "headline": "After services trade tops 8 trillion yuan for first time, China's eight ministries issue 15th Five-Year Plan roadmap: no quantitative targets, focus on \"manufacturing + services\" - BigGo Finance",
+      "summary": "After services trade tops 8 trillion yuan for first time, China's eight ministries issue 15th Five-Year Plan roadmap: no quantitative targets, focus on \"manufacturing + services\"    BigGo Finance",
+      "published_at": "2026-11-27T11:25:00+00:00",
+      "source": "BigGo Finance",
+      "source_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TUk5YUmpoekxsSmJmSmpuRllOWHloRTB2eDdTZmlnSVRCQW9UYVpybUNfZkpIWEdqa3FuX2YtbnNKWnZiaURiSXlDZ1VHSDlNX2xjZVhacjBqVVEyTk4zb1ZvXzZMTmFaTk9GbFI1dkd2bWZ2TEE?oc=5",
       "category": "trade",
       "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
       "linked_series": [
@@ -497,288 +693,92 @@
         "india.now.total_imports_usd_bn",
         "india.now.current_account_gdp"
       ],
-      "importance": 79,
+      "importance": 71,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "b1f32efbb88186cc"
+      "id": "3fbb75f00b32cbb6"
     },
     {
-      "headline": "Can Trump’s New Tariffs Weaken China’s Grip on Global Trade? - Modern Diplomacy",
-      "summary": "Can Trump’s New Tariffs Weaken China’s Grip on Global Trade?    Modern Diplomacy",
-      "published_at": "2026-11-26T07:22:55+00:00",
-      "source": "Modern Diplomacy",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNXJNZDBjLWFnYmNhVTdfTElROVktT0ZZQTlPNTdHcGdURUxWYXRIc3dBWkptY0tMQmxVTkU0djE0R0dLRjdJSkVyT3lRcXp6cEpTRXRGWVh3aXFPTUZtQ2FUbjc5MGd1SmgwV2dvREIyUDNjWU5wYkZWdHdEd1ZqM0dSQmYxOVN4N2I0MDBWZm12dDhjcFRuMmZ4OFNtQ2FkSWZpZGdUWll1QmdXOFRTZWdXS01RdWR4WWhtN2ZNdjF2YlZrRFlWN1Z1dnNSNTJCSmc?oc=5",
-      "category": "trade",
-      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
-      "linked_series": [
-        "india.now.total_exports_usd_bn",
-        "india.now.total_imports_usd_bn",
-        "india.now.current_account_gdp"
-      ],
-      "importance": 79,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "a1498c4650dde39f"
-    },
-    {
-      "headline": "Trump's tariff policy: A timeline of changing duties, deals on Indian goods - Business Standard",
-      "summary": "Trump's tariff policy: A timeline of changing duties, deals on Indian goods    Business Standard",
-      "published_at": "2026-11-26T04:59:40+00:00",
-      "source": "Business Standard",
-      "source_url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcGdWTnpJN0syMGdsSGUzLUxOazc3eFJTUmZmTlhtRzlwbTh2YjFScFpway1Pb1dfYU9JRHpzOHhEaHFYTS1RbmNsOVJOREQ4eDV4UFpkR19HdUlfR2hZbl9yOHJqRExrOElVUnAzcjdYcXpXQVR6VVd1VTdaaTNFaE9BQ1FZc2h4dmdHYi1YV21UZ0k2ZVREQThwUW16RTRVNko0Q0NoTkxKNVdfejZ1alFKZ3JPcktHa2N5Vlg4RWpNZ3I5aFo2UUZaQ0R4QkJjcWFmVNIB2gFBVV95cUxPSlR5U1ZSN2twcU12VThFTG5xZS05dzVvSWVpT0FQN2p6UlN2cnVxYXdYS3NuOTJjRTlOOFFmVFFYbGJOQVVPMVVwNS1qLUlOdlRsaktxWkJUaURyb2QtTHNFMDQyaDhQVXlXNHQwMVlKSUhkUWNnYmdBdFcydl9jQlVEb1NUbHRSU0IwczQ3NXNEQmpWYXdGMHQtZXFSVFR0QUFyMWZ6bkxnU0pBdVk4S0lLcE5PYncyand3NTZIUGl6bDdtck5QOFBucl96YnB3Q3ZxaXVUSk50Zw?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 79,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "4f3d3364c574132b"
-    },
-    {
-      "headline": "What are tariffs, how do they work and why is Trump using them? - BBC",
-      "summary": "What are tariffs, how do they work and why is Trump using them?    BBC",
-      "published_at": "2026-11-26T18:54:51+00:00",
-      "source": "BBC",
-      "source_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBweHdveUp5S2F0aGJwSEs2U2lOMkF6NzRNZTd3bEJUdTQwVjhRX0pjZmFzZ25hRzk4MHE0WW9KVkEtUjIxRUNWbXRzX3pmd1A5UWhyaE5Ja1ZWdw?oc=5",
-      "category": "trade",
-      "why_it_matters": "Trade changes affect growth, currencies, supply chains and external balances.",
-      "linked_series": [
-        "india.now.total_exports_usd_bn",
-        "india.now.total_imports_usd_bn",
-        "india.now.current_account_gdp"
-      ],
-      "importance": 78,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "c603be6d5536de8c"
-    },
-    {
-      "headline": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026 - EnergyNow.com",
-      "summary": "Iran War Upends IEA’s Oil Market Outlook as Global Supply and Demand to Contract in 2026    EnergyNow.com",
-      "published_at": "2026-11-26T16:41:09+00:00",
-      "source": "EnergyNow.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak5XcGxWUXBlNVhTbFd3RkFvM2dzMUdvcm84a3Nzc2hxLVJYMU1zOHBsYlY0eV90Z2NlY0xDajNSdUxweFJ6WVprRjNzOHVrT0cwbXM0LUZvRHRmdF9VMEN0NUZpZ1VjYjFNeEdiSHZ1SHpyZ2otTVhyLXVsb09yVm1NUUhQM2dMMUNkQjFCalh1a2Y3bjlqX1ZNOHFVRDM5Ylh2clBwd0JmTUFtcmZUeUUyRnhsRXNjeUE?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 78,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "69562368b9125e32"
-    },
-    {
-      "headline": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank - EnergyNow.com",
-      "summary": "RANKED: The Top Crude Oil Producers in 2025 – Visual Capitalist – See How Countries Rank    EnergyNow.com",
-      "published_at": "2026-11-26T16:41:04+00:00",
-      "source": "EnergyNow.com",
-      "source_url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQc043cHk1ZjIxLWc2RVJUX2p1NnRHMmpRamNpNkVJNTBkNjliR1Z4amtCdkdVUzkzUnBRQ2ZpWFhHdGRUUWtybzFieTY2ek9qazdPaG5Ec0d3akx6a24wMlYzaDdnbjZrbmNVdTdZdXZSYlhGTVFUOHJoTGZhQ1RJR2tyaDNGckF0OWM0QW1ta2lVbnFoOFE?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 78,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "072f45c068ab7647"
-    },
-    {
-      "headline": "Oil Price Forecast: Can Brent Crude Reclaim $100 Ahead of OPEC+ Meeting? - Coinpaper",
-      "summary": "Oil Price Forecast: Can Brent Crude Reclaim $100 Ahead of OPEC+ Meeting?    Coinpaper",
-      "published_at": "2026-11-26T15:10:18+00:00",
-      "source": "Coinpaper",
-      "source_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNVh6M1RZMzdTWVBPWG9RUzdhUHhtUThYWVlOSFl4UVdIYVp1cXRwbERVQUVFUDczZWV3MVdrNWxfcXNneW84dUhSTHhlWUFrNHFSSzVoTkZMOVBTVnNtZThyd3BNc0pleTF0YzQyeEV2dW1tLVZ1cktCQ2hOMzByUEFfNFctZUxMQTdHSVhGbEZkV3dOMnE2X0ZER24?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 78,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "0ab25ac7719c1353"
-    },
-    {
-      "headline": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist - EnergyNow.com",
-      "summary": "CHARTED: Oil Trade Through the Strait of Hormuz by Country – Visual Capitalist    EnergyNow.com",
-      "published_at": "2026-11-26T16:50:55+00:00",
-      "source": "EnergyNow.com",
-      "source_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeU1tdWFDbEwyc2R5ZEFYN3Y4Q3czZEZKX2ZMWUZWUjVDaHljOVZXY1dTX1h1LXFMSlNJcGtad1VURWhBaHFPWm5nNmY5YzJDX1B1RU1ISDFKWEs1US1TNkptS3lIYXVyWUZsdUM4OTFzRk8zOU1abWE5M3IwV0dtX2VqWlhBUW5mbERvOVVoU2EyR25PQk5qbk9PNXBfbmZ3NTFlR1hXVVZNUQ?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 77,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "c3b6be2033bb7844"
-    },
-    {
-      "headline": "The Iran war disrupts OPEC+ calculations regarding oil production quotas for 2027 - المتداول العربي",
-      "summary": "The Iran war disrupts OPEC+ calculations regarding oil production quotas for 2027    المتداول العربي",
-      "published_at": "2026-11-26T13:47:36+00:00",
-      "source": "المتداول العربي",
-      "source_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVlhteTZ4dzFoc05pNkZvZmRfX2VESmdMRUl2QnBYZV9NZFhMVDBmdU4wVmk5S3JQY3Z5RTlpekw3N1Rpa3ZHOVBTWFVNMF9IVWtUWEFvWEJsMEpxZ1pVN29iWEtlT29GY3pEdHNDY05UNk9CTjNvcGVldUtDLTBHNzU0TTY0dGpwZDNtbkJmS3RHaVExS3Y0Rlk4cTZZWkVicnlmc2dZbEZ2VlY4VnRtaUNSWDFicmk0MUliNFhWdm85aDUzbUVIUDRieFV5V1FXQWc?oc=5",
-      "category": "energy",
-      "why_it_matters": "Energy prices feed inflation, trade balances and currencies; India is especially sensitive to imported crude.",
-      "linked_series": [
-        "india.now.cpi_inflation",
-        "india.now.crude_import_dependence",
-        "india.now.current_account_gdp",
-        "market.usd_inr.close"
-      ],
-      "importance": 77,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "cf5759302a8ca991"
-    },
-    {
-      "headline": "US links India export edge to cheap Chinese manufacturing inputs - Business Standard",
-      "summary": "US links India export edge to cheap Chinese manufacturing inputs    Business Standard",
-      "published_at": "2026-11-26T17:44:11+00:00",
-      "source": "Business Standard",
-      "source_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOd0pHbVhrbV9MNkduUkE3STYyX0MtV0RmZ18xX2dMZlhTY0lDMmFLOFNVY2RSS09sZm1RMHVDTUxPcFp3cHRoYlEzNzdiSmV5RlV1ZGVIRnhXRC1mdkdDdWJEdGhfZ3JBV1BUcldLS3UwbHRmaXI1Z01GRXh3b2dkekF0MXRGTUxUT1Q0UHRrR2gwc191cmFFZ2kyX2xMVVFFTEYtR0o5LU9LbnRvN2ktSVhGNGprb293eHNYVDU4VktSUnMtZGl0ZmFoc9IB0AFBVV95cUxQMEhCRGx3UDRYa3V3V1dGdGZqRW9nbE1aajk3MVdiYmFBSDZicUp4b1IzZTZidFMyT3pkRjZJcWlhanFXM1lpekViRzFFUFVFZ25mYVJBaDIxaUROMGZMbVhMZlBiVG01S1Y5bDR2N3hIbEM1S2RMejJkaDUtanF4THhLbEtnenVnRl9PYlpWOG15dDgwd2p4Wm9fQ3BJWUs0THRKT1N5V0VieDZ0TXRFQ3pIWUt6dDVXUnItclBOQWRsM2hZc0xLMnp3SWd2OUVY?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 74,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "e857c14b3632ac81"
-    },
-    {
-      "headline": "US Proposes 17% Tariffs on Indian Goods - India Business Trade",
-      "summary": "US Proposes 17% Tariffs on Indian Goods    India Business Trade",
-      "published_at": "2026-11-25T16:53:05+00:00",
-      "source": "India Business Trade",
-      "source_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wNnR2eUpkV3Jnbm1zTWo4QUNqdWNTcXhzTWZ3LWVCaUdVcC1zcDBLSXpCYWJpVVNYRTVDcDJIdzBLV2NodXEyUUtWWVNCc3VvUFRMNkRHMXF5X1h5dmJXMEZSZUdya0dVdncxOVVtbWRNbXdkUzAtN0ZiNTY?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 74,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "9cc74c950e029680"
-    },
-    {
-      "headline": "Indian Rupee Takes A Breather After Hitting A Fresh Eight-Month High - TalkMarkets - Howl.Link",
-      "summary": "Indian Rupee Takes A Breather After Hitting A Fresh Eight-Month High - TalkMarkets    Howl.Link",
-      "published_at": "2026-11-26T12:20:00+00:00",
-      "source": "Howl.Link",
-      "source_url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9hVGgzQmsyekdzb1hveVhRWWdXNTV4amFma2Nhb01pS3ZiYTB4eVhrTDZTSUtLX2ZjN2dz?oc=5",
-      "category": "india",
-      "why_it_matters": "This can affect Indian growth, inflation, the rupee, domestic financial conditions and listed companies.",
-      "linked_series": [
-        "market.nifty50.close",
-        "market.usd_inr.close",
-        "india.now.real_gdp_growth"
-      ],
-      "importance": 73,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "cb14ebaa88013a8a"
-    },
-    {
-      "headline": "Dollar steady in Asia as U.S. bond yields plunge - IDNFinancials",
-      "summary": "Dollar steady in Asia as U.S. bond yields plunge    IDNFinancials",
-      "published_at": "2026-11-26T09:00:00+00:00",
-      "source": "IDNFinancials",
-      "source_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaXNnVFAtTm1QVW5JN20zSzVQOVhfZ0JjTXFJX01SR3IzU2kyZjhxM2NKY3ZnMzk0dXpteXBmVHJ2R09ERUtxVi1meUU4VV8wSUJrZEdMb2VSeE1wcDlPTGh3N0VBRFBjZEJrd0F6czdJNHppYXoyWUpUUll6YUJxV3BTVExyYklLdFE0UEdHZ0V1UQ?oc=5",
+      "headline": "German home prices to rise at slower pace in next two years - Reuters",
+      "summary": "German home prices to rise at slower pace in next two years    Reuters",
+      "published_at": "2026-11-27T08:56:57+00:00",
+      "source": "Reuters",
+      "source_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc2xaUzYwMGZ1WjM5amJPckJ4ZXFJVFAwci1fVjh5d1Zndi1mRlRpXzBub1h4RGdDLXQzeUZLVTl4WmN2RktraWJiSTh6M3dndlM1TUthN0lJYklpbnhlTFVkUWU4Tm1iSzQ5ck93bW04Vnh5OTVVTURoVVAzeEVaZHV0dEpvR0hzeFJqV3Z5SlVZdFRRM0dnc2luR0psTmhIbUJF?oc=5",
       "category": "markets",
       "why_it_matters": "The development can change growth, inflation, risk appetite or financial conditions; watch the linked market reaction rather than assuming causation.",
       "linked_series": [
         "market.sp500.close",
         "market.gold.close"
       ],
-      "importance": 65,
+      "importance": 69,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "1a0374da909ffa64"
+      "id": "2213e2cd14b5e842"
     },
     {
-      "headline": "Euro zone government bond yields rise as stocks rebound - Zawya",
-      "summary": "Euro zone government bond yields rise as stocks rebound    Zawya",
-      "published_at": "2026-11-26T08:53:14+00:00",
-      "source": "Zawya",
-      "source_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSG5rQ2ZjT0didjNxUGtVc0JKTUp5TUtNZjhPazkzbjR0QjN4YlFzanc2OXpEbUtGelRJUE50UVhNSUZpcDdxQ3djb0hRMVBfdUE3YUV6THA0cmZVUjBGRHFwMjNIR2RTYktBV2MtOHZ6TzRLWmN0d1VaVkZnTnpWNWxNUlZxSjZHanNPOVdpTlpjOUctRnJjMlR1ZUFFOE9WdGtsMVVYeUZlT21QUU5RVGR5ZG55am5YT0E?oc=5",
-      "category": "markets",
-      "why_it_matters": "The development can change growth, inflation, risk appetite or financial conditions; watch the linked market reaction rather than assuming causation.",
-      "linked_series": [
-        "market.sp500.close",
-        "market.gold.close"
-      ],
-      "importance": 65,
-      "status": "reported",
-      "interpretation_status": "rule-based",
-      "feed_provider": "google",
-      "id": "ec810201ce3376e5"
-    },
-    {
-      "headline": "Korea warns of market volatility amid AI industry uncertainty - Chosunbiz",
-      "summary": "Korea warns of market volatility amid AI industry uncertainty    Chosunbiz",
-      "published_at": "2026-11-27T01:54:00+00:00",
-      "source": "Chosunbiz",
-      "source_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MQlc3LVVSRWxZRmNxNENQVDdCZzg5amVmSmdWUkVIRXl5ZTZwY190ZHF0T3NXeG5JT0pINTBPcWZaQWtzQ3pRbVVyTE04QWYzaENSMk5nXy0wYVVBVzhfSEtSM3ZGSlJneEM3ZGF0VTh0Qzh0bDU2dWJXbHRzc1nSAZMBQVVfeXFMT2lZSmV4VDhJZGN4enRfc1VBSGVTRUY2UERxQzl6QlMzbUFLc25iSDZtaEJsenFvanptaE9oZzNIZVBSWnhWQ1pzQlFYQTN0UGt5TXB6VTVBZmNwX19sVzZqWUExUlRIOW9IZGZfc09vbktDX04xNzFXUVFQWkVkYzA2Vi1wckZMampKVXVYSEVhZlNJ?oc=5",
+      "headline": "AI caramba - Financial Times",
+      "summary": "AI caramba    Financial Times",
+      "published_at": "2026-11-27T16:30:05+00:00",
+      "source": "Financial Times",
+      "source_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sV3VoTlhpOEpDUERVYTZiZm8yUzk5cW5kYlJwdmlHeVBOdFBXaU8xNGNqNTN0bi1QRmgwMkI4SW0zbTJ1ekVRenpldnFsREtNZUZkTUczTWx5aEtEVFpaZzhyR3hNVkd5dXFGdDh2Wm4?oc=5",
       "category": "technology",
       "why_it_matters": "Large technology investment cycles can move equity leadership, capital spending, electricity demand and semiconductor supply chains.",
       "linked_series": [
         "market.nasdaq.close",
         "market.sp500.close"
       ],
+      "importance": 66,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "a805042eab4e8a53"
+    },
+    {
+      "headline": "UK Stock Market Set to Shrink as Imperial Brands Attracts Suitors - Bloomberg",
+      "summary": "UK Stock Market Set to Shrink as Imperial Brands Attracts Suitors    Bloomberg",
+      "published_at": "2026-11-27T09:21:32+00:00",
+      "source": "Bloomberg",
+      "source_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWjc1TmVBOU56SU9kb3dmZnZLV3VLNDJ5eXVOdDR5RFk3UFdjTmlsNkJNSFFILWlxN09hNFZkQjUzUjZMbG11NGtiR2pQZEJlcHowWjlCbGQwUzkwd2tPaHNqS05uclI0NkFKMWVPc2RtNk1CN0MtTk9IN2h6V0hrOGdheFJiSWhxRWhKZ0U2UlJKMk5MOXQ5ZEhjems4M19fb0RiU3RVN0dpRXF3N0RIN2hCakVHTmk4NWZCMXhXOVlFOFJNSWc?oc=5",
+      "category": "markets",
+      "why_it_matters": "The development can change growth, inflation, risk appetite or financial conditions; watch the linked market reaction rather than assuming causation.",
+      "linked_series": [
+        "market.sp500.close",
+        "market.gold.close"
+      ],
       "importance": 64,
       "status": "reported",
       "interpretation_status": "rule-based",
       "feed_provider": "google",
-      "id": "a0c5ca3c0c562760"
+      "id": "adb0b1eefd4e59ad"
+    },
+    {
+      "headline": "Stock Market News - Bond Market - Currencies Markets - MarketWatch",
+      "summary": "Stock Market News - Bond Market - Currencies Markets    MarketWatch",
+      "published_at": "2026-11-27T22:17:46+00:00",
+      "source": "MarketWatch",
+      "source_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WSk1SMEVJUWVGN1RIVTEtSThObVFxbkFHTE9ySmdyRUx4NjJMNWsta3lOaFBOVFF5eUEtN0lVaXc5QlFiTEdiQVZYSQ?oc=5",
+      "category": "markets",
+      "why_it_matters": "The development can change growth, inflation, risk appetite or financial conditions; watch the linked market reaction rather than assuming causation.",
+      "linked_series": [
+        "market.sp500.close",
+        "market.gold.close"
+      ],
+      "importance": 61,
+      "status": "reported",
+      "interpretation_status": "rule-based",
+      "feed_provider": "google",
+      "id": "469cf8a6138ff8b9"
     }
   ],
   "collection_errors": [],
   "provider_results": [
     {
       "provider": "google",
-      "candidates": 263,
+      "candidates": 189,
       "errors": 0
     }
   ],
-  "published_at": "2026-11-27T10:26:36.771990+05:30"
+  "published_at": "2026-11-28T11:23:00.307607+05:30"
 }
